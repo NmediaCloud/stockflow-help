@@ -38,6 +38,8 @@ SCRIPT_DIR = Path(__file__).parent.resolve()
 DOCS_PATH = (SCRIPT_DIR / "../docs").resolve()
 MKDOCS_YML = (SCRIPT_DIR / "../mkdocs.yml").resolve()
 REDDIT_FEED_FILE = SCRIPT_DIR / "reddit_feed.md"
+MONTAGES_FILE = SCRIPT_DIR / "category_montages.json"
+YOUTUBE_TEMPLATE_FILE = (SCRIPT_DIR / "../templates/youtube_embed.md").resolve()
 
 def sanitize_slug(text):
     slug = text.lower()
@@ -176,6 +178,21 @@ def main():
     hierarchy = {}
     sub_groups = {}
     
+    montages = {}
+    if MONTAGES_FILE.exists():
+        try:
+            with open(MONTAGES_FILE, "r", encoding="utf-8") as f:
+                montages = json.load(f)
+        except Exception as e:
+            print(f"Warning: Could not load category_montages.json: {e}")
+
+    youtube_template = ""
+    if YOUTUBE_TEMPLATE_FILE.exists():
+        with open(YOUTUBE_TEMPLATE_FILE, "r", encoding="utf-8") as f:
+            youtube_template = f.read().strip()
+    else:
+        youtube_template = '<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/{youtube_id}?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>'
+
     for row in current_data:
         cat = row.get("Category") or "Uncategorized"
         cat_sub = row.get("Catagory_Sub") or row.get("Category_Sub") or "General"
@@ -241,7 +258,10 @@ def main():
 
     for cat_name, cat_subs in sorted(hierarchy.items()):
         cat_slug = sanitize_slug(cat_name)
-        cat_md = f"# Category: {cat_name}\n\nExplore the subcategories below:\n\n"
+        cat_md = f"# Category: {cat_name}\n\n"
+        if cat_name in montages and montages[cat_name]:
+            cat_md += youtube_template.format(youtube_id=montages[cat_name]) + "\n\n"
+        cat_md += "Explore the subcategories below:\n\n"
         
         cat_nav_block = [f"      - {cat_name}:"]
         cat_nav_block.append(f"          - {cat_name} Overview: categories/{cat_slug}.md")
@@ -260,6 +280,8 @@ def main():
             subcat_md += f"description: \"Browse {total_sub_assets} professional 4K/8K {cat_sub_name} assets from the {cat_name} library — royalty-free footage and images for creators, educators, and designers.\"\n"
             subcat_md += f"---\n\n"
             subcat_md += f"# {cat_sub_name}\n\n"
+            if cat_sub_name in montages and montages[cat_sub_name]:
+                subcat_md += youtube_template.format(youtube_id=montages[cat_sub_name]) + "\n\n"
             subcat_md += f"[Home](../index.md) / [{cat_name}](../categories/{cat_slug_for_link}.md) / **{cat_sub_name}**\n\n"
             subcat_md += f"---\n\nExplore the **{len(subs)} collections** in this subcategory:\n\n"
             for sub_name in sorted(list(subs)):
