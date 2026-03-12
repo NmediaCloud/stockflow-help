@@ -1,0 +1,37 @@
+# Collection: Alien organism
+
+**Category:** Microscopic > Biological Creatures
+
+[🌐 Browse this collection on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures){ .md-button .md-button--primary }
+
+This collection contains **3 assets** available in multiple resolutions and aspect ratios.
+
+---
+
+## 1 Micro 01 Biological Creatures
+**Resolution:** 11092x6050 | **Format:** 16:9
+
+![Preview - 1 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0059_01_Micro_01_Biological_Creatures_01_Alien_like_microscopic_organism__Previews.webp)
+
+Alien-like microscopic organism with a translucent oval body, glowing spiral tentacles, and clustered internal cells.
+
+---
+
+## 2 Micro 01 Biological Creatures
+**Resolution:** 11092x6050 | **Format:** 16:9
+
+![Preview - 2 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0060_01_Micro_01_Biological_Creatures_01_Alien_like_microscopic_organism__Previews.webp)
+
+Alien-like microscopic organism with a transparent body housing vivid green-edged, red-centered cells and long, curling filaments trailing behind.
+
+---
+
+## 3 Micro 01 Biological Creatures
+**Resolution:** 11092x6050 | **Format:** 16:9
+
+![Preview - 3 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0061_01_Micro_01_Biological_Creatures_01_Alien_like_microscopic_organism_v5__Previews.webp)
+
+A neon-colored, alien-like microscopic organism with glowing circular cells inside a transparent body and a spiraled, segmented tail.
+
+---
+

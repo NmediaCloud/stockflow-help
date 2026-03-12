@@ -1,0 +1,348 @@
+site_name: Stockflow Help
+site_description: Documentation and guides for Stockflow.media assets
+site_url: https://help.stockflow.media
+
+theme:
+  name: material
+  favicon: assets/favicon.svg
+
+nav:
+  - Home: index.md
+  - Mission: mission.md
+  - Categories:
+      - Food & Beverage:
+          - Food & Beverage Overview: categories/food-beverage.md
+          - Food Menu: subcategories/food-menu.md
+      - Microscopic:
+          - Microscopic Overview: categories/microscopic.md
+          - Algae: subcategories/algae.md
+          - Bacteria: subcategories/bacteria.md
+          - Biological Creatures: subcategories/biological-creatures.md
+          - Blood Hematology: subcategories/blood-hematology.md
+          - Cancer Cell: subcategories/cancer-cell.md
+          - Cellular: subcategories/cellular.md
+          - Dermatopathology: subcategories/dermatopathology.md
+          - Food Fungi: subcategories/food-fungi.md
+          - Fungi: subcategories/fungi.md
+          - Histopathology: subcategories/histopathology.md
+          - Infectious: subcategories/infectious.md
+          - Neuropathology: subcategories/neuropathology.md
+          - Parasite: subcategories/parasite.md
+          - Pollen: subcategories/pollen.md
+          - Protozoa: subcategories/protozoa.md
+          - Underwater: subcategories/underwater.md
+          - Virus: subcategories/virus.md
+          - Waterborne: subcategories/waterborne.md
+          - Worms: subcategories/worms.md
+  - Collections:
+      - Collection 1 (Placeholder): collections/collection-1.md
+      - Collection 2 (Placeholder): collections/collection-2.md
+      - Agar Plate: collections/agar-plate.md
+      - Aggressive: collections/aggressive.md
+      - Algae Bloom: collections/algae-bloom.md
+      - Algae cells: collections/algae-cells.md
+      - Algal Biofilm: collections/algal-biofilm.md
+      - Algal Cells: collections/algal-cells.md
+      - Alien organism: collections/alien-organism.md
+      - Alzheimer: collections/alzheimer.md
+      - Amoebas: collections/amoebas.md
+      - Anemia: collections/anemia.md
+      - Aspergillus fungi: collections/aspergillus-fungi.md
+      - Bacillus: collections/bacillus.md
+      - Bacterial cell: collections/bacterial-cell.md
+      - Basal: collections/basal.md
+      - Basidiospores: collections/basidiospores.md
+      - Biofilm: collections/biofilm.md
+      - Bioluminescent: collections/bioluminescent.md
+      - Biriyani: collections/biriyani.md
+      - Blue Green Algae: collections/blue-green-algae.md
+      - Breast: collections/breast.md
+      - Breast Cancer: collections/breast-cancer.md
+      - Brown Algae: collections/brown-algae.md
+      - Burgers: collections/burgers.md
+      - Buritos: collections/buritos.md
+      - Butter Chiken: collections/butter-chiken.md
+      - Caenorhabditis Elegans: collections/caenorhabditis-elegans.md
+      - Cellular: collections/cellular.md
+      - Cervical Cells: collections/cervical-cells.md
+      - Chemotherapy: collections/chemotherapy.md
+      - Chicken Dinner: collections/chicken-dinner.md
+      - Chicken Fry: collections/chicken-fry.md
+      - Cocci: collections/cocci.md
+      - Colon Polyp: collections/colon-polyp.md
+      - Colonial Algae: collections/colonial-algae.md
+      - Colonizing: collections/colonizing.md
+      - Compost: collections/compost.md
+      - Coral Reef Plankton: collections/coral-reef-plankton.md
+      - Crawling On Algae: collections/crawling-on-algae.md
+      - Cryptosporidium: collections/cryptosporidium.md
+      - Dandelion: collections/dandelion.md
+      - Decay: collections/decay.md
+      - Desmids: collections/desmids.md
+      - Diatom: collections/diatom.md
+      - Diatom shell: collections/diatom-shell.md
+      - Diatoms: collections/diatoms.md
+      - Dosa: collections/dosa.md
+      - E. Coli: collections/e-coli.md
+      - Eczema: collections/eczema.md
+      - Euglena And Green Algae: collections/euglena-and-green-algae.md
+      - Euglena cell: collections/euglena-cell.md
+      - Eukaryotic cell under: collections/eukaryotic-cell-under.md
+      - Fish Dinner: collections/fish-dinner.md
+      - Flatworm Larvae: collections/flatworm-larvae.md
+      - Flatworms: collections/flatworms.md
+      - Fluorescence: collections/fluorescence.md
+      - Fungal: collections/fungal.md
+      - Fungal Penetration: collections/fungal-penetration.md
+      - Fungal ecosystem: collections/fungal-ecosystem.md
+      - Giardia Lamblia: collections/giardia-lamblia.md
+      - Glioblastoma: collections/glioblastoma.md
+      - Green Algae: collections/green-algae.md
+      - Healthy Cells: collections/healthy-cells.md
+      - Hepatitis: collections/hepatitis.md
+      - Hyphae: collections/hyphae.md
+      - Idly Vada: collections/idly-vada.md
+      - IdlyVada: collections/idlyvada.md
+      - Immune: collections/immune.md
+      - In Compost: collections/in-compost.md
+      - Intracellular: collections/intracellular.md
+      - Kidney: collections/kidney.md
+      - Lavender: collections/lavender.md
+      - Leishmania: collections/leishmania.md
+      - Leukemia: collections/leukemia.md
+      - Lichen: collections/lichen.md
+      - Liver Cirrhosis: collections/liver-cirrhosis.md
+      - Lotus Starburst: collections/lotus-starburst.md
+      - Lung Tissue: collections/lung-tissue.md
+      - Marine Plankton: collections/marine-plankton.md
+      - Melanoma: collections/melanoma.md
+      - Membrane: collections/membrane.md
+      - Metastatic: collections/metastatic.md
+      - Mitochondria: collections/mitochondria.md
+      - Multiple Sclerosis: collections/multiple-sclerosis.md
+      - Mutations: collections/mutations.md
+      - Mycelium: collections/mycelium.md
+      - Nematode Lifecycle: collections/nematode-lifecycle.md
+      - Nematode worms: collections/nematode-worms.md
+      - Neuroblastoma: collections/neuroblastoma.md
+      - Nmeatode: collections/nmeatode.md
+      - Noodles: collections/noodles.md
+      - Orchid Pollinium: collections/orchid-pollinium.md
+      - Organisms: collections/organisms.md
+      - Paramecium: collections/paramecium.md
+      - Parasite: collections/parasite.md
+      - Parasitic Worms: collections/parasitic-worms.md
+      - Parasitic worm: collections/parasitic-worm.md
+      - Pathogenic: collections/pathogenic.md
+      - Peanut Hex Surface: collections/peanut-hex-surface.md
+      - Penicillium mold: collections/penicillium-mold.md
+      - Pine Winged: collections/pine-winged.md
+      - Pizza: collections/pizza.md
+      - Plankton: collections/plankton.md
+      - Planktonic: collections/planktonic.md
+      - Plant Cell: collections/plant-cell.md
+      - Plasmodium: collections/plasmodium.md
+      - Prostate: collections/prostate.md
+      - Protozoa: collections/protozoa.md
+      - Protozoa And Algae: collections/protozoa-and-algae.md
+      - Psoriatic: collections/psoriatic.md
+      - Ragweed: collections/ragweed.md
+      - Red Algae: collections/red-algae.md
+      - Remen: collections/remen.md
+      - Resistant Bacteria: collections/resistant-bacteria.md
+      - Rhizopus sporangia: collections/rhizopus-sporangia.md
+      - Rotifers: collections/rotifers.md
+      - Sandwich: collections/sandwich.md
+      - Schistosoma: collections/schistosoma.md
+      - Seawater Droplet: collections/seawater-droplet.md
+      - Sickle Cell: collections/sickle-cell.md
+      - Single Celled Organisms: collections/single-celled-organisms.md
+      - Spinal Cord: collections/spinal-cord.md
+      - Spirochete: collections/spirochete.md
+      - Spirogyra: collections/spirogyra.md
+      - Sporangia: collections/sporangia.md
+      - Squamous: collections/squamous.md
+      - Stake: collections/stake.md
+      - Sunflower: collections/sunflower.md
+      - Suzhi: collections/suzhi.md
+      - Tardigrade: collections/tardigrade.md
+      - Tetani: collections/tetani.md
+      - Thai Curry: collections/thai-curry.md
+      - Thai Noodle Soup: collections/thai-noodle-soup.md
+      - Thrombocytopenia: collections/thrombocytopenia.md
+      - Tikka Masala: collections/tikka-masala.md
+      - Toxoplasma: collections/toxoplasma.md
+      - Toxoplasma Gondii: collections/toxoplasma-gondii.md
+      - Trypanosoma: collections/trypanosoma.md
+      - Tuberculosis: collections/tuberculosis.md
+      - Tumor: collections/tumor.md
+      - Turbellarians: collections/turbellarians.md
+      - Viruses: collections/viruses.md
+      - Vitiligo: collections/vitiligo.md
+      - Worm: collections/worm.md
+      - Yeast Cells: collections/yeast-cells.md
+      - Yeast cells: collections/yeast-cells.md
+      - Zygomycete: collections/zygomycete.md
+      - protozoa: collections/protozoa.md
+      - red and white blood cells: collections/red-and-white-blood-cells.md
+      - tardigrade: collections/tardigrade.md
+      - yeast and mold: collections/yeast-and-mold.md
+  - Guides:
+      - Using Video (MP4) Footage: guides/video-mp4.md
+      - Using Audio (MP3) Assets: guides/audio-mp3.md
+      - Using Vector Files: guides/vector-files.md
+  - Blog:
+      - End Usage Scenarios: blog/general-usage.md
+      - Usage in Documentaries: blog/documentary-visuals.md
+      - 8K Images for Print: blog/8k-images-print.md
+      - Social Media Visuals: blog/social-media-posts.md
+      - Agar Plate Showcase: blog/agar-plate-showcase.md
+      - Aggressive Showcase: blog/aggressive-showcase.md
+      - Algae Bloom Showcase: blog/algae-bloom-showcase.md
+      - Algae cells Showcase: blog/algae-cells-showcase.md
+      - Algal Biofilm Showcase: blog/algal-biofilm-showcase.md
+      - Algal Cells Showcase: blog/algal-cells-showcase.md
+      - Alien organism Showcase: blog/alien-organism-showcase.md
+      - Alzheimer Showcase: blog/alzheimer-showcase.md
+      - Amoebas Showcase: blog/amoebas-showcase.md
+      - Anemia Showcase: blog/anemia-showcase.md
+      - Aspergillus fungi Showcase: blog/aspergillus-fungi-showcase.md
+      - Bacillus Showcase: blog/bacillus-showcase.md
+      - Bacterial cell Showcase: blog/bacterial-cell-showcase.md
+      - Basal Showcase: blog/basal-showcase.md
+      - Basidiospores Showcase: blog/basidiospores-showcase.md
+      - Biofilm Showcase: blog/biofilm-showcase.md
+      - Bioluminescent Showcase: blog/bioluminescent-showcase.md
+      - Biriyani Showcase: blog/biriyani-showcase.md
+      - Blue Green Algae Showcase: blog/blue-green-algae-showcase.md
+      - Breast Showcase: blog/breast-showcase.md
+      - Breast Cancer Showcase: blog/breast-cancer-showcase.md
+      - Brown Algae Showcase: blog/brown-algae-showcase.md
+      - Burgers Showcase: blog/burgers-showcase.md
+      - Buritos Showcase: blog/buritos-showcase.md
+      - Butter Chiken Showcase: blog/butter-chiken-showcase.md
+      - Caenorhabditis Elegans Showcase: blog/caenorhabditis-elegans-showcase.md
+      - Cellular Showcase: blog/cellular-showcase.md
+      - Cervical Cells Showcase: blog/cervical-cells-showcase.md
+      - Chemotherapy Showcase: blog/chemotherapy-showcase.md
+      - Chicken Dinner Showcase: blog/chicken-dinner-showcase.md
+      - Chicken Fry Showcase: blog/chicken-fry-showcase.md
+      - Cocci Showcase: blog/cocci-showcase.md
+      - Colon Polyp Showcase: blog/colon-polyp-showcase.md
+      - Colonial Algae Showcase: blog/colonial-algae-showcase.md
+      - Colonizing Showcase: blog/colonizing-showcase.md
+      - Compost Showcase: blog/compost-showcase.md
+      - Coral Reef Plankton Showcase: blog/coral-reef-plankton-showcase.md
+      - Crawling On Algae Showcase: blog/crawling-on-algae-showcase.md
+      - Cryptosporidium Showcase: blog/cryptosporidium-showcase.md
+      - Dandelion Showcase: blog/dandelion-showcase.md
+      - Decay Showcase: blog/decay-showcase.md
+      - Desmids Showcase: blog/desmids-showcase.md
+      - Diatom Showcase: blog/diatom-showcase.md
+      - Diatom shell Showcase: blog/diatom-shell-showcase.md
+      - Diatoms Showcase: blog/diatoms-showcase.md
+      - Dosa Showcase: blog/dosa-showcase.md
+      - E. Coli Showcase: blog/e-coli-showcase.md
+      - Eczema Showcase: blog/eczema-showcase.md
+      - Euglena And Green Algae Showcase: blog/euglena-and-green-algae-showcase.md
+      - Euglena cell Showcase: blog/euglena-cell-showcase.md
+      - Eukaryotic cell under Showcase: blog/eukaryotic-cell-under-showcase.md
+      - Fish Dinner Showcase: blog/fish-dinner-showcase.md
+      - Flatworm Larvae Showcase: blog/flatworm-larvae-showcase.md
+      - Flatworms Showcase: blog/flatworms-showcase.md
+      - Fluorescence Showcase: blog/fluorescence-showcase.md
+      - Fungal Showcase: blog/fungal-showcase.md
+      - Fungal Penetration Showcase: blog/fungal-penetration-showcase.md
+      - Fungal ecosystem Showcase: blog/fungal-ecosystem-showcase.md
+      - Giardia Lamblia Showcase: blog/giardia-lamblia-showcase.md
+      - Glioblastoma Showcase: blog/glioblastoma-showcase.md
+      - Green Algae Showcase: blog/green-algae-showcase.md
+      - Healthy Cells Showcase: blog/healthy-cells-showcase.md
+      - Hepatitis Showcase: blog/hepatitis-showcase.md
+      - Hyphae Showcase: blog/hyphae-showcase.md
+      - Idly Vada Showcase: blog/idly-vada-showcase.md
+      - IdlyVada Showcase: blog/idlyvada-showcase.md
+      - Immune Showcase: blog/immune-showcase.md
+      - In Compost Showcase: blog/in-compost-showcase.md
+      - Intracellular Showcase: blog/intracellular-showcase.md
+      - Kidney Showcase: blog/kidney-showcase.md
+      - Lavender Showcase: blog/lavender-showcase.md
+      - Leishmania Showcase: blog/leishmania-showcase.md
+      - Leukemia Showcase: blog/leukemia-showcase.md
+      - Lichen Showcase: blog/lichen-showcase.md
+      - Liver Cirrhosis Showcase: blog/liver-cirrhosis-showcase.md
+      - Lotus Starburst Showcase: blog/lotus-starburst-showcase.md
+      - Lung Tissue Showcase: blog/lung-tissue-showcase.md
+      - Marine Plankton Showcase: blog/marine-plankton-showcase.md
+      - Melanoma Showcase: blog/melanoma-showcase.md
+      - Membrane Showcase: blog/membrane-showcase.md
+      - Metastatic Showcase: blog/metastatic-showcase.md
+      - Mitochondria Showcase: blog/mitochondria-showcase.md
+      - Multiple Sclerosis Showcase: blog/multiple-sclerosis-showcase.md
+      - Mutations Showcase: blog/mutations-showcase.md
+      - Mycelium Showcase: blog/mycelium-showcase.md
+      - Nematode Lifecycle Showcase: blog/nematode-lifecycle-showcase.md
+      - Nematode worms Showcase: blog/nematode-worms-showcase.md
+      - Neuroblastoma Showcase: blog/neuroblastoma-showcase.md
+      - Nmeatode Showcase: blog/nmeatode-showcase.md
+      - Noodles Showcase: blog/noodles-showcase.md
+      - Orchid Pollinium Showcase: blog/orchid-pollinium-showcase.md
+      - Organisms Showcase: blog/organisms-showcase.md
+      - Paramecium Showcase: blog/paramecium-showcase.md
+      - Parasite Showcase: blog/parasite-showcase.md
+      - Parasitic Worms Showcase: blog/parasitic-worms-showcase.md
+      - Parasitic worm Showcase: blog/parasitic-worm-showcase.md
+      - Pathogenic Showcase: blog/pathogenic-showcase.md
+      - Peanut Hex Surface Showcase: blog/peanut-hex-surface-showcase.md
+      - Penicillium mold Showcase: blog/penicillium-mold-showcase.md
+      - Pine Winged Showcase: blog/pine-winged-showcase.md
+      - Pizza Showcase: blog/pizza-showcase.md
+      - Plankton Showcase: blog/plankton-showcase.md
+      - Planktonic Showcase: blog/planktonic-showcase.md
+      - Plant Cell Showcase: blog/plant-cell-showcase.md
+      - Plasmodium Showcase: blog/plasmodium-showcase.md
+      - Prostate Showcase: blog/prostate-showcase.md
+      - Protozoa Showcase: blog/protozoa-showcase.md
+      - Protozoa And Algae Showcase: blog/protozoa-and-algae-showcase.md
+      - Psoriatic Showcase: blog/psoriatic-showcase.md
+      - Ragweed Showcase: blog/ragweed-showcase.md
+      - Red Algae Showcase: blog/red-algae-showcase.md
+      - Remen Showcase: blog/remen-showcase.md
+      - Resistant Bacteria Showcase: blog/resistant-bacteria-showcase.md
+      - Rhizopus sporangia Showcase: blog/rhizopus-sporangia-showcase.md
+      - Rotifers Showcase: blog/rotifers-showcase.md
+      - Sandwich Showcase: blog/sandwich-showcase.md
+      - Schistosoma Showcase: blog/schistosoma-showcase.md
+      - Seawater Droplet Showcase: blog/seawater-droplet-showcase.md
+      - Sickle Cell Showcase: blog/sickle-cell-showcase.md
+      - Single Celled Organisms Showcase: blog/single-celled-organisms-showcase.md
+      - Spinal Cord Showcase: blog/spinal-cord-showcase.md
+      - Spirochete Showcase: blog/spirochete-showcase.md
+      - Spirogyra Showcase: blog/spirogyra-showcase.md
+      - Sporangia Showcase: blog/sporangia-showcase.md
+      - Squamous Showcase: blog/squamous-showcase.md
+      - Stake Showcase: blog/stake-showcase.md
+      - Sunflower Showcase: blog/sunflower-showcase.md
+      - Suzhi Showcase: blog/suzhi-showcase.md
+      - Tardigrade Showcase: blog/tardigrade-showcase.md
+      - Tetani Showcase: blog/tetani-showcase.md
+      - Thai Curry Showcase: blog/thai-curry-showcase.md
+      - Thai Noodle Soup Showcase: blog/thai-noodle-soup-showcase.md
+      - Thrombocytopenia Showcase: blog/thrombocytopenia-showcase.md
+      - Tikka Masala Showcase: blog/tikka-masala-showcase.md
+      - Toxoplasma Showcase: blog/toxoplasma-showcase.md
+      - Toxoplasma Gondii Showcase: blog/toxoplasma-gondii-showcase.md
+      - Trypanosoma Showcase: blog/trypanosoma-showcase.md
+      - Tuberculosis Showcase: blog/tuberculosis-showcase.md
+      - Tumor Showcase: blog/tumor-showcase.md
+      - Turbellarians Showcase: blog/turbellarians-showcase.md
+      - Viruses Showcase: blog/viruses-showcase.md
+      - Vitiligo Showcase: blog/vitiligo-showcase.md
+      - Worm Showcase: blog/worm-showcase.md
+      - Yeast Cells Showcase: blog/yeast-cells-showcase.md
+      - Yeast cells Showcase: blog/yeast-cells-showcase.md
+      - Zygomycete Showcase: blog/zygomycete-showcase.md
+      - protozoa Showcase: blog/protozoa-showcase.md
+      - red and white blood cells Showcase: blog/red-and-white-blood-cells-showcase.md
+      - tardigrade Showcase: blog/tardigrade-showcase.md
+      - yeast and mold Showcase: blog/yeast-and-mold-showcase.md
