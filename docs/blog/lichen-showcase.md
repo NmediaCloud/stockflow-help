@@ -1,0 +1,92 @@
+---
+title: "How to Use Lichen Footage in Creative Projects | Stockflow.media"
+description: "**Lichen** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+---
+
+# How to Use Lichen Visuals in Your Creative Projects
+
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Dermatopathology](../subcategories/dermatopathology.md) / **Lichen**
+
+[Browse the Lichen Collection](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+
+---
+
+## Introduction
+
+**Lichen** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Lichen** collection — 18 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
+
+### 1 Micro 08 Fungi 07 Lichen
+![1 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0796_01_Micro_08_Fungi_07_Lichen_W_01__Previews.webp)
+
+Macro view of orange, rounded-topped fungi with long slender stalks growing on a mossy, rocky surface.
+
+### 2 Micro 08 Fungi 07 Lichen
+![2 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0797_01_Micro_08_Fungi_07_Lichen_W_02__Previews.webp)
+
+Macro view of small fungi with slender stems and rounded caps growing from mossy ground, illuminated by soft, golden light.
+
+### 3 Micro 08 Fungi 07 Lichen
+![3 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0798_01_Micro_08_Fungi_07_Lichen_W_03__Previews.webp)
+
+Macro close-up of fungal fruiting bodies on a bark-like surface.
+
+## Why Lichen Visuals Are in Demand
+
+High-quality lichen footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
+
+All **18 assets** in this collection are:
+
+- Royalty-free — no attribution required
+- Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- Up to 8K resolution for print and up to 4K for video
+- Instant download after purchase
+
+## Common Use Cases
+
+- Science documentaries and biology explainer videos
+- Educational YouTube Shorts, Instagram Reels, and TikTok content
+- University lectures, online courses, and e-learning modules
+- Science posters, museum displays, and exhibition banners
+- Canva educational templates and presentation backgrounds
+- Video podcasts covering biology, health, and technology topics
+
+## How to Use in Your Editing Software
+
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
+
+**Recommended workflow:**
+
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
+
+## Supported File Formats
+
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
+
+## Platform-Specific Tips
+
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
+
+## Explore the Full Lichen Collection
+
+Ready to add **Lichen** visuals to your next project?
+
+[Browse Lichen on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[View Collection Details](../collections/lichen.md){ .md-button }
