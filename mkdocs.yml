@@ -1,6 +1,6 @@
 site_name: Stockflow Help
 site_description: Documentation and guides for Stockflow.media assets
-site_url: https://help.stockflow.media
+site_url: https://nmediacloud.github.io/stockflow-help/
 
 theme:
   name: material
