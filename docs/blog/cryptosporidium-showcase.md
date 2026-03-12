@@ -1,94 +1,87 @@
-# Showcase: Cryptosporidium
+# How to Use Cryptosporidium Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Parasite](../subcategories/parasite.md) → **Cryptosporidium Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Parasite](../subcategories/parasite.md) → **Cryptosporidium Blog**
 
-Discover our **Cryptosporidium** collection — 12 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
+[🌐 Browse the Cryptosporidium Collection](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Cryptosporidium** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Cryptosporidium** collection — 12 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 09 Parasite 05 Cryptosporidium
 ![1 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0887_01_Micro_09_Parasite_05_Cryptosporidium_W_01__Previews.webp)
 
 Scanning electron micrograph showing Cryptosporidium oocysts attached to a surface.
 
----
-
 ### 2 Micro 09 Parasite 05 Cryptosporidium
 ![2 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0888_01_Micro_09_Parasite_05_Cryptosporidium_W_01_Previews.webp)
 
 Scanning electron micrograph of spherical Cryptosporidium parasite oocysts on a textured surface.
-
----
 
 ### 3 Micro 09 Parasite 05 Cryptosporidium
 ![3 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0889_01_Micro_09_Parasite_05_Cryptosporidium_W_02__Previews.webp)
 
 Micrograph of Cryptosporidium parasite oocysts on a textured surface.
 
----
+## Why Cryptosporidium Visuals Are in Demand
 
-### 4 Micro 09 Parasite 05 Cryptosporidium
-![4 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0890_01_Micro_09_Parasite_05_Cryptosporidium_W_02_Previews.webp)
+High-quality cryptosporidium footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Scanning electron micrograph of Cryptosporidium parasites (spherical oocysts) on a mucosal surface with surrounding tissue.
+All **12 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 09 Parasite 05 Cryptosporidium
-![5 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0891_01_Micro_09_Parasite_05_Cryptosporidium_W_03__Previews.webp)
+## Common Use Cases
 
-Micrograph of Cryptosporidium parasite attached to intestinal epithelium.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 09 Parasite 05 Cryptosporidium
-![6 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0892_01_Micro_09_Parasite_05_Cryptosporidium_W_04__Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Electron micrograph showing Cryptosporidium parasites within a host intestinal tissue.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 09 Parasite 05 Cryptosporidium
-![7 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0893_01_Micro_09_Parasite_05_Cryptosporidium_W_05__Previews.webp)
+## Supported File Formats
 
-Colorized electron micrograph showing Cryptosporidium parasites as round oocysts attached to a host cell surface.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 09 Parasite 05 Cryptosporidium
-![8 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0894_01_Micro_09_Parasite_05_Cryptosporidium_W_06__Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Cryptosporidium parasite—scanning electron micrograph.
+## Explore the Full Cryptosporidium Collection
 
----
+Ready to add **Cryptosporidium** visuals to your next project?
 
-### 9 Micro 09 Parasite 05 Cryptosporidium
-![9 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0895_01_Micro_09_Parasite_05_Cryptosporidium_W_07__Previews.webp)
-
-Cryptosporidium parasite—scanning electron micrograph.
-
----
-
-### 10 Micro 09 Parasite 05 Cryptosporidium
-![10 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0896_01_Micro_09_Parasite_05_Cryptosporidium_W_07_Previews.webp)
-
-Close-up of round Cryptosporidium oocysts (parasite) on a textured tissue surface.
-
----
-
-### 11 Micro 09 Parasite 05 Cryptosporidium
-![11 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0897_01_Micro_09_Parasite_05_Cryptosporidium_W_08__Previews.webp)
-
-Micrograph of Cryptosporidium parasite oocysts clustered on a tissue surface.
-
----
-
-### 12 Micro 09 Parasite 05 Cryptosporidium
-![12 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0898_01_Micro_09_Parasite_05_Cryptosporidium_W_08_Previews.webp)
-
-Micrograph of Cryptosporidium parasite oocysts on a tissue surface.
-
----
-
+[🌐 Browse Cryptosporidium on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/cryptosporidium.md){ .md-button }

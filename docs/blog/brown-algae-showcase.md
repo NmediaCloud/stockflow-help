@@ -1,94 +1,87 @@
-# Showcase: Brown Algae
+# How to Use Brown Algae Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Algae](../subcategories/algae.md) → **Brown Algae Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Algae](../subcategories/algae.md) → **Brown Algae Blog**
 
-Discover our **Brown Algae** collection — 12 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[🌐 Browse the Brown Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Brown Algae** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Brown Algae** collection — 12 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 06 Algae 08 Brown Algae
 ![1 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0577_01_Micro_06_Algae_08_Brown_Algae_W_01__Previews.webp)
 
 Underwater scene of golden brown algae swaying over a rocky reef.
 
----
-
 ### 2 Micro 06 Algae 08 Brown Algae
 ![2 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0578_01_Micro_06_Algae_08_Brown_Algae_W_01_Previews.webp)
 
 Brown algae swaying underwater among rocky reef with small organisms and coral.
-
----
 
 ### 3 Micro 06 Algae 08 Brown Algae
 ![3 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0579_01_Micro_06_Algae_08_Brown_Algae_W_02__Previews.webp)
 
 Underwater view of dense golden-brown seaweed (brown algae) covering the rocky seabed.
 
----
+## Why Brown Algae Visuals Are in Demand
 
-### 4 Micro 06 Algae 08 Brown Algae
-![4 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0580_01_Micro_06_Algae_08_Brown_Algae_W_02_Previews.webp)
+High-quality brown algae footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Brown algae growing underwater on rocky seabed.
+All **12 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 06 Algae 08 Brown Algae
-![5 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0581_01_Micro_06_Algae_08_Brown_Algae_W_03__Previews.webp)
+## Common Use Cases
 
-Underwater scene of golden brown brown algae swaying between rocky crevices.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 06 Algae 08 Brown Algae
-![6 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0582_01_Micro_06_Algae_08_Brown_Algae_W_04__Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Underwater scene of golden brown brown algae swaying between rocky crevices.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 06 Algae 08 Brown Algae
-![7 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0583_01_Micro_06_Algae_08_Brown_Algae_W_05__Previews.webp)
+## Supported File Formats
 
-Underwater scene of golden brown algae swaying along rocky seabed with sunlight filtering through turquoise water.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 06 Algae 08 Brown Algae
-![8 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0584_01_Micro_06_Algae_08_Brown_Algae_W_06__Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Golden-brown underwater kelp/algae forest with sunlit, flowing fronds among rocky formations.
+## Explore the Full Brown Algae Collection
 
----
+Ready to add **Brown Algae** visuals to your next project?
 
-### 9 Micro 06 Algae 08 Brown Algae
-![9 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0585_01_Micro_06_Algae_08_Brown_Algae_W_07__Previews.webp)
-
-Underwater scene with brown algae clinging to rocky outcrops.
-
----
-
-### 10 Micro 06 Algae 08 Brown Algae
-![10 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0586_01_Micro_06_Algae_08_Brown_Algae_W_07_Previews.webp)
-
-Brown algae thriving underwater, a kelp-like seaweed colony on rocky seabed.
-
----
-
-### 11 Micro 06 Algae 08 Brown Algae
-![11 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0587_01_Micro_06_Algae_08_Brown_Algae_W_08__Previews.webp)
-
-Underwater scene of golden-brown algae swaying on a rocky seabed, with small fish darting among the fronds and sunlight filtering through the clear water.
-
----
-
-### 12 Micro 06 Algae 08 Brown Algae
-![12 Micro 06 Algae 08 Brown Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0588_01_Micro_06_Algae_08_Brown_Algae_W_08_Previews.webp)
-
-Underwater scene of brown algae forming a dense, kelp-like cluster on a rocky seabed.
-
----
-
+[🌐 Browse Brown Algae on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/brown-algae.md){ .md-button }

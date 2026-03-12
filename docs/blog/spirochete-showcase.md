@@ -1,80 +1,87 @@
-# Showcase: Spirochete
+# How to Use Spirochete Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Spirochete Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Spirochete Blog**
 
-Discover our **Spirochete** collection — 10 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[🌐 Browse the Spirochete Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Spirochete** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Spirochete** collection — 10 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 07 Bacteria 03 Spirochete
 ![1 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0654_01_Micro_07_Bacteria_03_Spirochete_01_W_01__Previews.webp)
 
 Spirochete bacterium photographed under magnification.
 
----
-
 ### 2 Micro 07 Bacteria 03 Spirochete
 ![2 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0655_01_Micro_07_Bacteria_03_Spirochete_01_W_01_Previews.webp)
 
 A curved, corkscrew-shaped spirochete bacterium with hairlike surface appendages.
-
----
 
 ### 3 Micro 07 Bacteria 03 Spirochete
 ![3 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0656_01_Micro_07_Bacteria_03_Spirochete_01_W_02_Previews.webp)
 
 Micro image of a spirochete bacterium with slender, threadlike appendages.
 
----
+## Why Spirochete Visuals Are in Demand
 
-### 4 Micro 07 Bacteria 03 Spirochete
-![4 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0657_01_Micro_07_Bacteria_03_Spirochete_01_W_03__Previews.webp)
+High-quality spirochete footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Electron micrograph of a spirochete bacterium with a helical body and many slender flagella-like extensions.
+All **10 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 07 Bacteria 03 Spirochete
-![5 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0658_01_Micro_07_Bacteria_03_Spirochete_01_W_04__Previews.webp)
+## Common Use Cases
 
-Electron microscope image of a spirochete bacterium with numerous long flagella radiating from one end.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 07 Bacteria 03 Spirochete
-![6 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0659_01_Micro_07_Bacteria_03_Spirochete_01_W_05__Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Close-up of a helical spirochete bacterium with long, threadlike projections.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 07 Bacteria 03 Spirochete
-![7 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0660_01_Micro_07_Bacteria_03_Spirochete_01_W_06__Previews.webp)
+## Supported File Formats
 
-Close-up of a helical spirochete bacterium with long, threadlike projections.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 07 Bacteria 03 Spirochete
-![8 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0661_01_Micro_07_Bacteria_03_Spirochete_01_W_06_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Micrograph of a spirochete bacterium, a long, curved, flexible cell with surface particles.
+## Explore the Full Spirochete Collection
 
----
+Ready to add **Spirochete** visuals to your next project?
 
-### 9 Micro 07 Bacteria 03 Spirochete
-![9 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0662_01_Micro_07_Bacteria_03_Spirochete_01_W_07__Previews.webp)
-
-A spiral-shaped bacterium with multiple tail-like flagella in a grayscale electron micrograph.
-
----
-
-### 10 Micro 07 Bacteria 03 Spirochete
-![10 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0663_01_Micro_07_Bacteria_03_Spirochete_01_W_08__Previews.webp)
-
-A curved spirochete bacterium with a segmented, helix-shaped body and multiple tail-like flagella at both ends.
-
----
-
+[🌐 Browse Spirochete on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/spirochete.md){ .md-button }

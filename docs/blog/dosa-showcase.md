@@ -1,394 +1,87 @@
-# Showcase: Dosa
+# How to Use Dosa Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Dosa Showcase**
+🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Dosa Blog**
 
-Discover our **Dosa** collection — 64 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[🌐 Browse the Dosa Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 ---
 
-### 07 Indian South Dosa 01
-Crispy Indian dosa rolls served with red and yellow chutney, garnished with fresh cilantro.
+## Introduction
 
----
+**Dosa** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-### 07 Indian South Dosa 02
-Crispy South Indian dosa served with colorful chutneys.
+This guide explores how to use the **Dosa** collection — 64 premium assets available in 4K/8K — across real creative workflows.
 
----
-
-### 07 Indian South Dosa 03
-South Indian dosa served with an assortment of chutneys.
-
----
-
-### 07 Indian South Dosa 04
-South Indian dosa served on a banana leaf with assorted chutneys and sambar, plus a glass of orange juice.
-
----
-
-### 07 Indian South Dosa 05
-South Indian dosa on a banana leaf with assorted chutneys and sambar.
-
----
-
-### 07 Indian South Dosa 06
-South Indian dosa served on a banana leaf with assorted chutneys and sambar, accompanied by a glass of iced coffee.
-
----
-
-### 07 Indian South Dosa 01
-Crispy dosa rolls filled with flavorful potato and spice, plated with chutneys and fresh greens.
-
----
-
-### 07 Indian South Dosa 02
-South Indian dosa served with coconut chutney, sambar, and accompaniments on a banana leaf in a cozy restaurant setting.
-
----
-
-### 07 Indian South Dosa 03
-A large crispy dosa served on a banana leaf with sambar, coconut chutney, and tomato chutney, accompanied by potato masala.
-
----
-
-### 07 Indian South Dosa 04
-Crispy South Indian dosa rolled with flavorful filling, served with vibrant chutneys.
-
----
-
-### 07 Indian South Dosa 05
-Crispy dosa roll with savory filling, served with vibrant chutneys and spices.
-
----
-
-### 07 Indian South Dosa 06
-High-quality image of a crispy, rolled South Indian dosa accompanied by red, green, and yellow chutneys on a metal plate.
-
----
-
-### 07 Indian South Dosa 07
-South Indian dosa served on a banana leaf with coconut chutney, sambar, and accompanying chutneys in a cozy restaurant.
-
----
-
-### 07 Indian South Dosa 08
-Crispy Indian dosa served with green, lentil, and tomato chutneys plus steaming sambar.
-
----
-
-### 07 Indian South Dosa 01
-South Indian dosa served on a banana leaf with assorted chutneys and sambar, plus a tall glass of iced tea.
-
----
-
-### 07 Indian South Dosa 02
-South Indian dosa served on a banana leaf, a rolled, golden-brown crepe atop a plain dosa, with coconut chutney, sambar, and assorted chutneys.
-
----
-
-### 07 Indian South Dosa 03
-Crispy dosa served on a banana leaf with an assortment of chutneys and sambar.
-
----
-
-### 07 Indian South Dosa 04
-Crispy South Indian dosas served on a platter with spicy chutneys and sambar.
-
----
-
-### 07 Indian South Dosa 05
-South Indian dosa crispy crepe with a variety of chutneys and sambar on a traditional metal platter.
-
----
-
-### 07 Indian South Dosa 06
-High-quality image of a South Indian dosa rolled and served with multiple chutneys and sambar on a metal platter.
-
----
-
-### 07 Indian South Dosa 07
-South Indian dosa served on a metal platter with a variety of chutneys and sambar.
-
----
-
-### 07 Indian South Dosa 08
-Crispy Indian dosas rolled into cylinders, served with chutneys and garnish.
-
----
-
-### 07 Indian South Dosa 09
-Crispy dosa rolled on a banana leaf with assorted chutneys and sambar on the side.
-
----
-
-### 07 Indian South Dosa 10
-Crispy South Indian dosa served with a variety of chutneys and sambar on a banana leaf, accompanied by a glass of juice.
-
----
-
-### 07 Indian South Dosa 11
-Premium South Indian dosa on banana leaf with coconut chutney, sambar, and assorted chutneys, plus a tall mango lassi on the side.
-
----
-
-### 07 Indian South Dosa 12
-Crispy dosa served on a stainless steel plate with coconut chutney, tomato chutney, and sambar.
-
----
-
-### 07 Indian South Dosa 13
-A dosa folded on a metal plate with three chutneys (green, yellow, and red) and potato masala filling.
-
----
-
-### 07 Indian South Dosa 14
-South Indian dosa on a metal platter with assorted chutneys and sambar.
-
----
-
-### 07 Indian South Dosa 15
-Crispy dosa on a stainless plate with an assortment of chutneys and sambar.
-
----
-
-### 07 Indian South Dosa 16
-South Indian dosa served on a metal platter with multiple chutneys and spicy accompaniments. Crispy golden-brown crepe paired with tangy and chutney flavors for a savory breakfast or snack.
-
----
-
-### 07 Indian South Dosa 17
-South Indian dosa with mixed chutneys and sambar on a round steel plate.
-
----
-
-### 07 Indian South Dosa 18
-A pristine dosa served on a stainless steel platter with four small bowls of chutneys and sambar.
-
----
+## Visual Highlights
 
 ### 07 Indian South Dosa b 04 
 ![07 Indian South Dosa b 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00216_07_Indian_South_Dosa_S_b_04_Previews.webp)
 
 Crispy dosa rolls on a metal platter, with red tomato chutney and green coconut chutney.
 
----
-
 ### 07 Indian South Dosa b 05 
 ![07 Indian South Dosa b 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00217_07_Indian_South_Dosa_S_b_05_Previews.webp)
 
 Dosa served on a banana leaf with colorful chutneys and sambar, plus a tall glass of mango juice in a restaurant.
-
----
 
 ### 07 Indian South Dosa b 06 
 ![07 Indian South Dosa b 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00218_07_Indian_South_Dosa_S_b_06_Previews.webp)
 
 Three crispy dosa rolls filled with vegetables, served with red and yellow chutneys.
 
----
+## Why Dosa Visuals Are in Demand
 
-### 07 Indian South Dosa b 07 
-![07 Indian South Dosa b 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00219_07_Indian_South_Dosa_S_b_07_Previews.webp)
+High-quality dosa footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-South Indian dosa on a banana leaf with assorted chutneys and sambar, plus a glass of iced tea.
+All **64 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 07 Indian South Dosa b 08 
-![07 Indian South Dosa b 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00220_07_Indian_South_Dosa_S_b_08_Previews.webp)
+## Common Use Cases
 
-South Indian dosa on a banana leaf with three chutneys and sambar, accompanied by a tall iced coffee.
+- 📱 Instagram Reels, TikTok food videos, and YouTube Shorts
+- 🎬 Restaurant ads, delivery app promotions, and brand storytelling
+- 🍴 Food blog visuals, cookbook pages, and menu photography
+- 📺 Food documentary B-roll and culinary travel content
+- 🖨️ Menu printing, poster design, and in-store display boards
+- 🎨 Canva social media templates for food and hospitality brands
 
----
+## How to Use in Your Editing Software
 
-### 07 Indian South Dosa b 09 
-![07 Indian South Dosa b 09 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00221_07_Indian_South_Dosa_S_b_09_Previews.webp)
+Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for food video production. Use JPEG assets in **Canva**, **Adobe InDesign**, or **Photoshop** for print and social media design.
 
-South Indian dosa with crispy, golden-brown crepes, filled with spiced potatoes, served with assorted chutneys and sambar on a steel plate.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 07 Indian South Dosa b 10 
-![07 Indian South Dosa b 10 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00222_07_Indian_South_Dosa_S_b_10_Previews.webp)
+## Supported File Formats
 
-South Indian dosa with red and yellow chutneys on a stainless steel plate.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 07 Indian South Dosa 01 
-![07 Indian South Dosa 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00223_07_Indian_South_Dosa_V_01_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Crispy South Indian dosa on a metal platter with three chutneys (red, green, and yellow) and cilantro garnish.
+## Explore the Full Dosa Collection
 
----
+Ready to add **Dosa** visuals to your next project?
 
-### 07 Indian South Dosa 02 
-![07 Indian South Dosa 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00224_07_Indian_South_Dosa_V_02_Previews.webp)
-
-Crispy South Indian dosa served on a metal plate with steaming green chutney, yellow lentil chutney, red chutney, and a bowl of sambar.
-
----
-
-### 07 Indian South Dosa 03 
-![07 Indian South Dosa 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00225_07_Indian_South_Dosa_V_03_Previews.webp)
-
-South Indian masala dosa rolls with spiced potato filling, served with chutneys and sambar.
-
----
-
-### 07 Indian South Dosa 04 
-![07 Indian South Dosa 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00226_07_Indian_South_Dosa_V_04_Previews.webp)
-
-South Indian dosa rolled and steaming, served with green chutney and red chutney on a metal plate.
-
----
-
-### 07 Indian South Dosa 05 
-![07 Indian South Dosa 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00227_07_Indian_South_Dosa_V_05_Previews.webp)
-
-South Indian dosa with sambar and coconut/fruit chutneys on a banana leaf, accompanied by a glass of beer.
-
----
-
-### 07 Indian South Dosa 06 
-![07 Indian South Dosa 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00228_07_Indian_South_Dosa_V_06_Previews.webp)
-
-South Indian dosa on a banana leaf with coconut chutney, sambar, a vegetable curry, and a glass of iced tea in a warm, wood-paneled restaurant.
-
----
-
-### 07 Indian South Dosa 07 
-![07 Indian South Dosa 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00229_07_Indian_South_Dosa_V_07_Previews.webp)
-
-Crispy masala dosa on a banana leaf with side chutneys and sambar, plus a rolled dosa, in a cozy Indian restaurant with drinks on the side.
-
----
-
-### 07 Indian South Dosa 08 
-![07 Indian South Dosa 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00230_07_Indian_South_Dosa_V_08_Previews.webp)
-
-South Indian dosa served on a banana leaf with a variety of chutneys in a restaurant.
-
----
-
-### 07 Indian South Dosa b 01 
-![07 Indian South Dosa b 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00231_07_Indian_South_Dosa_W_b_01_Previews.webp)
-
-A large dosa rolled on a round metal tray with coconut chutney and two other dipping sauces.
-
----
-
-### 07 Indian South Dosa b 02 
-![07 Indian South Dosa b 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00232_07_Indian_South_Dosa_W_b_02_Previews.webp)
-
-Crispy Indian dosa on a metal platter with four chutneys.
-
----
-
-### 07 Indian South Dosa b 03 
-![07 Indian South Dosa b 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00233_07_Indian_South_Dosa_W_b_03_Previews.webp)
-
-South Indian dosa served on a metal tray with small bowls of chutneys and sambar, crispy crepe folded over potato filling.
-
----
-
-### 07 Indian South Dosa b 04 
-![07 Indian South Dosa b 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00234_07_Indian_South_Dosa_W_b_04_Previews.webp)
-
-Crispy South Indian dosa served with an assortment of chutneys and sambar on a metal platter.
-
----
-
-### 07 Indian South Dosa b 05 
-![07 Indian South Dosa b 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00235_07_Indian_South_Dosa_W_b_05_Previews.webp)
-
-South Indian dosa on a metal plate with potato filling, accompanied by sambar and chutneys.
-
----
-
-### 07 Indian South Dosa b 06 
-![07 Indian South Dosa b 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00236_07_Indian_South_Dosa_W_b_06_Previews.webp)
-
-South Indian dosa with potato filling, served with multiple chutneys and sambar on a metal platter.
-
----
-
-### 07 Indian South Dosa b 07 
-![07 Indian South Dosa b 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00237_07_Indian_South_Dosa_W_b_07_Previews.webp)
-
-A crispy South Indian dosa served on a stainless steel thali with bowls of chutneys and sambar.
-
----
-
-### 07 Indian South Dosa b 08 
-![07 Indian South Dosa b 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00238_07_Indian_South_Dosa_W_b_08_Previews.webp)
-
-Masala dosa with potato filling, served with coconut and tomato chutneys, sambar, and assorted chutneys on a metal platter.
-
----
-
-### 07 Indian South Dosa b 09 
-![07 Indian South Dosa b 09 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00239_07_Indian_South_Dosa_W_b_09_Previews.webp)
-
-Crispy South Indian dosa on a metal platter with several bowls of sambar and chutneys.
-
----
-
-### 07 Indian South Dosa b 10 
-![07 Indian South Dosa b 10 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00240_07_Indian_South_Dosa_W_b_10_Previews.webp)
-
-Crispy South Indian dosa with potato masala, served with multiple chutneys on a stainless steel plate.
-
----
-
-### 07 Indian South Dosa b 11 
-![07 Indian South Dosa b 11 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00241_07_Indian_South_Dosa_W_b_11_Previews.webp)
-
-South Indian dosa served on a metal plate with coconut chutney, tomato chutney, sambar, and mint chutney.
-
----
-
-### 07 Indian South Dosa b 12 
-![07 Indian South Dosa b 12 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00242_07_Indian_South_Dosa_W_b_12_Previews.webp)
-
-South Indian dosa served rolled with side chutneys and sambar on a metal platter.
-
----
-
-### 07 Indian South Dosa b 13 
-![07 Indian South Dosa b 13 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00243_07_Indian_South_Dosa_W_b_13_Previews.webp)
-
-South Indian dosa served on a banana leaf with multiple chutneys and sambar, plus a glass of iced tea.
-
----
-
-### 07 Indian South Dosa b 14 
-![07 Indian South Dosa b 14 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00244_07_Indian_South_Dosa_W_b_14_Previews.webp)
-
-Large dosa rolled on a banana leaf with various chutneys and sambar in metal bowls.
-
----
-
-### 07 Indian South Dosa b 15 
-![07 Indian South Dosa b 15 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00245_07_Indian_South_Dosa_W_b_15_Previews.webp)
-
-Traditional South Indian thali: a rolled dosa on banana leaf with coconut chutney, sambar, and assorted curries in metal bowls. A tall orange drink jar sits at the side.
-
----
-
-### 07 Indian South Dosa b 16 
-![07 Indian South Dosa b 16 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00246_07_Indian_South_Dosa_W_b_16_Previews.webp)
-
-South Indian dosa with sambhar and flavorful chutneys on a banana leaf, accompanied by a tall glass of juice in a restaurant setting.
-
----
-
-### 07 Indian South Dosa b 17 
-![07 Indian South Dosa b 17 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00247_07_Indian_South_Dosa_W_b_17_Previews.webp)
-
-South Indian dosa rolls with tomato chutney and accompanying chutneys.
-
----
-
+[🌐 Browse Dosa on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/dosa.md){ .md-button }

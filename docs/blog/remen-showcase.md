@@ -1,345 +1,87 @@
-# Showcase: Remen
+# How to Use Remen Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Remen Showcase**
+🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Remen Blog**
 
-Discover our **Remen** collection — 57 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[🌐 Browse the Remen Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 ---
 
-### 11 Remen 01
-Delicious ramen bowl topped with sliced pork, soft-boiled egg, green onions, nori, and steam rising from the flavorful broth.
+## Introduction
 
----
+**Remen** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-### 11 Remen 02
-Creamy ramen topped with pork chashu, soft-boiled egg halves, seaweed, and fresh greens.
+This guide explores how to use the **Remen** collection — 57 premium assets available in 4K/8K — across real creative workflows.
 
----
-
-### 11 Remen 03
-A steaming bowl of ramen topped with sliced pork, halved soft-boiled eggs, chopped green onions, nori, and noodles, held with chopsticks.
-
----
-
-### 11 Remen 04
-A high quality ramen bowl with sliced pork, soft-boiled egg, green onions, nori, and noodles in a savory broth.
-
----
-
-### 11 Remen 05
-Delicious ramen bowl with slices of pork, a soft-boiled egg, green onions, and seaweed.
-
----
-
-### 11 Remen 06
-High-quality bowl of ramen featuring a soft-boiled egg, sliced pork, seaweed, green onions, and bamboo shoots in a rich broth.
-
----
-
-### 11 Remen 07
-A bowl of ramen topped with soft-boiled eggs, slices of chashu, green onions, nori, and bamboo shoots, served on a wooden table.
-
----
-
-### 11 Remen 08
-A steaming bowl of ramen featuring charred pork, a soft-boiled egg, green onions, and silky noodles lifted with chopsticks.
-
----
-
-### 11 Remen 09
-Premium ramen bowl with rich broth, tender chashu, soft-boiled eggs, seaweed, scallions, and springy noodles.
-
----
-
-### 11 Remen 10
-A high-quality bowl of ramen topped with pork belly, soft-boiled egg, greens, and seaweed.
-
----
-
-### 11 Remen 11
-A rich ramen bowl topped with pork, soft-boiled eggs, greens, and green onions, with steaming noodles being lifted by chopsticks.
-
----
-
-### 11 Remen 01
-A bowl of ramen topped with sliced pork, half-boiled egg, green onions, nori, and bamboo shoots.
-
----
-
-### 11 Remen 02
-A high-quality shot of a ramen bowl topped with sliced pork, soft-boiled eggs, seaweed, and green onions, placed on a wooden table with chopsticks nearby.
-
----
-
-### 11 Remen 03
-A high-quality photo of a bowl of ramen with slices of pork, a soft-boiled egg, green onions, seaweed, and noodles in a rich broth, served with chopsticks.
-
----
-
-### 11 Remen 04
-A bowl of ramen topped with sliced pork, soft-boiled eggs, nori, green onions, and bamboo shoots in a rich broth, served on a wooden table.
-
----
-
-### 11 Remen 05
-A steaming bowl of ramen featuring thin noodles lifted with chopsticks, topped with sliced pork, a halved soft-boiled egg, green onions, and nori.
-
----
-
-### 11 Remen 06
-High-quality image of a ramen bowl with chashu pork, soft-boiled eggs, green onions, nori, and steaming noodles lifted by chopsticks.
-
----
-
-### 11 Remen 07
-A steaming bowl of ramen with sliced pork, soft-boiled eggs, green onions, and chili threads, lifted noodles held by chopsticks.
-
----
-
-### 11 Remen 08
-A high-quality ramen bowl with rich broth, sliced pork, a soft-boiled egg, chopped green onions, and seaweed, noodles lifted by chopsticks.
-
----
-
-### 11 Remen 01
-A bowl of ramen with sliced pork, soft-boiled egg, green onions, bamboo shoots, nori, and noodles in a savory broth on a wooden table.
-
----
-
-### 11 Remen 02
-A bowl of ramen topped with egg, sliced pork, seaweed, bamboo shoots, scallions, and naruto, with chopsticks resting on the bowl.
-
----
-
-### 11 Remen 03
-High quality image of a bowl of ramen topped with chashu slices, a soft-boiled egg, green onions, nori, and rich broth.
-
----
-
-### 11 Remen 04
-A vibrant Vietnamese pho bowl with rice noodles, beef meatballs, fresh herbs, bean sprouts, lime, and a spicy, fragrant broth.
-
----
-
-### 11 Remen 05
-A steaming bowl of pho with meatballs, rice noodles, fresh herbs, bean sprouts, crushed peanuts, and a lime wedge.
-
----
-
-### 11 Remen 07
-A steaming bowl of Vietnamese pho with meatballs, rice noodles, fresh herbs (cilantro and basil), bean sprouts, crushed peanuts, and a lime wedge.
-
----
-
-### 11 Remen 08
-A steaming bowl of pho with rice noodles, meatballs, fresh herbs, and a lime wedge, lifted with chopsticks.
-
----
-
-### 11 Remen 09
-Steaming bowl of ramen with translucent noodles, meatballs, fresh herbs, crushed peanuts, and lime wedges in a savory broth.
-
----
-
-### 11 Remen 11
-A bowl of ramen topped with sliced pork, soft-boiled egg, green onions, nori, and mushrooms in a savory broth, set on a wooden table with chopsticks.
-
----
-
-### 11 Remen 12
-A steaming bowl of ramen topped with sliced pork, soft-boiled eggs, green onions, nori, and other toppings, with chopsticks resting nearby.
-
----
-
-### 11 Remen 13
-High-quality bowl of ramen with soft-boiled eggs, sliced pork, noodles, greens, and steam rising in a dark setting, with chopsticks resting on the rim and a spoon beside.
-
----
-
-### 11 Remen 14
-A steaming bowl of ramen topped with sliced pork, a soft-boiled egg, greens, and seaweed.
-
----
-
-### 11 Remen 15
-A steaming bowl of ramen topped with slices of pork, a soft-boiled egg, green onions, seaweed, bamboo shoots, and mushrooms in a rich, flavorful broth.
-
----
+## Visual Highlights
 
 ### 11 Remen 01 
 ![11 Remen 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00301_11_Remen_S_01_Previews.webp)
 
 Steaming bowl of ramen with char siu pork, soft-boiled egg, scallions, nori, and noodles.
 
----
-
 ### 11 Remen 02 
 ![11 Remen 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00302_11_Remen_S_02_Previews.webp)
 
 A steaming bowl of ramen topped with pork slices, soft-boiled eggs, green onions and nori, with noodles lifted by chopsticks.
-
----
 
 ### 11 Remen 03 
 ![11 Remen 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00303_11_Remen_S_03_Previews.webp)
 
 Steaming bowl of ramen with sliced char siu, soft-boiled egg, green onions, and seaweed, noodles lifted by chopsticks.
 
----
+## Why Remen Visuals Are in Demand
 
-### 11 Remen 04 
-![11 Remen 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00304_11_Remen_S_04_Previews.webp)
+High-quality remen footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Steaming bowl of ramen with lifting noodles, soft-boiled eggs, chashu pork, green onions, seaweed, and mushrooms.
+All **57 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 11 Remen 05 
-![11 Remen 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00305_11_Remen_S_05_Previews.webp)
+## Common Use Cases
 
-Creamy ramen with slices of char siu, a soft-boiled egg, nori, greens, and tender noodles lifted by chopsticks.
+- 📱 Instagram Reels, TikTok food videos, and YouTube Shorts
+- 🎬 Restaurant ads, delivery app promotions, and brand storytelling
+- 🍴 Food blog visuals, cookbook pages, and menu photography
+- 📺 Food documentary B-roll and culinary travel content
+- 🖨️ Menu printing, poster design, and in-store display boards
+- 🎨 Canva social media templates for food and hospitality brands
 
----
+## How to Use in Your Editing Software
 
-### 11 Remen 06 
-![11 Remen 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00306_11_Remen_S_06_Previews.webp)
+Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for food video production. Use JPEG assets in **Canva**, **Adobe InDesign**, or **Photoshop** for print and social media design.
 
-Steaming bowl of ramen with noodles lifted by chopsticks, topped with chashu pork, a soft-boiled egg, greens, and seaweed in a dark bowl.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 11 Remen 07 
-![11 Remen 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00307_11_Remen_S_07_Previews.webp)
+## Supported File Formats
 
-A steaming bowl of ramen topped with sliced pork, soft-boiled eggs, green onions, seaweed, and tender noodles lifted by chopsticks.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 11 Remen 08 
-![11 Remen 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00308_11_Remen_S_08_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Steaming bowl of ramen with noodles lifted by chopsticks, topped with pork belly, a soft-boiled egg, and fresh greens.
+## Explore the Full Remen Collection
 
----
+Ready to add **Remen** visuals to your next project?
 
-### 11 Remen 09 
-![11 Remen 09 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00309_11_Remen_S_09_Previews.webp)
-
-A bowl of ramen topped with sliced pork, soft-boiled egg, green onions, seaweed, and mushrooms in a rich broth, served on a wooden table with chopsticks.
-
----
-
-### 11 Remen 10 
-![11 Remen 10 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00310_11_Remen_S_10_Previews.webp)
-
-Steaming bowl of ramen with sliced pork, soft-boiled egg, green onions, nori, and noodles in rich broth.
-
----
-
-### 11 Remen 11 
-![11 Remen 11 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00311_11_Remen_S_11_Previews.webp)
-
-A bowl of ramen topped with sliced pork, soft-boiled egg, green onions, bamboo shoots, nori, and chili threads in a savory broth on a wooden table. A chopsticks wrapper sits beside the bowl.
-
----
-
-### 11 Remen 12 
-![11 Remen 12 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00312_11_Remen_S_12_Previews.webp)
-
-A bowl of ramen topped with soft-boiled eggs, sliced pork, green onions, seaweed, and bamboo shoots in a savory broth.
-
----
-
-### 11 Remen 01 
-![11 Remen 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00313_11_Remen_V_01_Previews.webp)
-
-Steaming bowl of ramen with lifted noodles, slices of roasted pork, halved soft-boiled eggs, chopped green onions, and seaweed.
-
----
-
-### 11 Remen 02 
-![11 Remen 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00314_11_Remen_V_02_Previews.webp)
-
-Steaming bowl of ramen with chopsticks lifting noodles, topped with pork, soft-boiled eggs, green onions, and nori.
-
----
-
-### 11 Remen 03 
-![11 Remen 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00315_11_Remen_V_03_Previews.webp)
-
-A vibrant ramen bowl with charred pork, a soft-boiled egg, green onions and seaweed, noodles lifted by chopsticks in a cozy neon-lit restaurant.
-
----
-
-### 11 Remen 04 
-![11 Remen 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00316_11_Remen_V_04_Previews.webp)
-
-A steaming bowl of ramen with sliced pork, a halved soft-boiled egg, and chopped green onions, with noodles lifted by chopsticks; a sheet of seaweed and warm lantern-like lights in the background.
-
----
-
-### 11 Remen 08 
-![11 Remen 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00317_11_Remen_V_08_Previews.webp)
-
-A bowl of ramen with chashu pork, soft-boiled egg, nori, sliced scallions, and bamboo shoots in a savory broth.
-
----
-
-### 11 Remen 01 
-![11 Remen 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00318_11_Remen_W_01_Previews.webp)
-
-Ramen bowl with sliced pork, soft-boiled eggs, greens and noodles, steaming, with chopsticks and a ceramic spoon on a dark wooden surface.
-
----
-
-### 11 Remen 02 
-![11 Remen 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00319_11_Remen_W_02_Previews.webp)
-
-Steaming bowl of ramen topped with sliced pork, soft-boiled eggs, green onions, and a sheet of seaweed, with chopsticks resting on the side.
-
----
-
-### 11 Remen 03 
-![11 Remen 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00320_11_Remen_W_03_Previews.webp)
-
-Steaming bowl of ramen with sliced pork, soft-boiled eggs, seaweed, and green onions in a rich broth, served on a wooden mat.
-
----
-
-### 11 Remen 04 
-![11 Remen 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00321_11_Remen_W_04_Previews.webp)
-
-A steaming bowl of ramen topped with sliced pork, a soft-boiled egg, seaweed, and greens, with chopsticks resting on the side.
-
----
-
-### 11 Remen 05 
-![11 Remen 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00322_11_Remen_W_05_Previews.webp)
-
-A steaming bowl of ramen topped with sliced pork, a soft-boiled egg, seaweed, and greens, with chopsticks resting on the side.
-
----
-
-### 11 Remen 06 
-![11 Remen 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00323_11_Remen_W_06_Previews.webp)
-
-Ramen bowl with sliced pork, soft-boiled egg, green onions, bamboo shoots, nori, all in a rich broth on a wooden table.
-
----
-
-### 11 Remen 07 
-![11 Remen 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00324_11_Remen_W_07_Previews.webp)
-
-A bowl of ramen with sliced pork, soft-boiled egg, green onion, nori, and savory broth.
-
----
-
-### 11 Remen 08 
-![11 Remen 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00325_11_Remen_W_08_Previews.webp)
-
-Steaming ramen bowl with pork slices, soft-boiled egg, fish cake, green onions, nori, and bamboo shoots on a wooden table.
-
----
-
+[🌐 Browse Remen on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/remen.md){ .md-button }

@@ -1,237 +1,87 @@
-# Showcase: Suzhi
+# How to Use Suzhi Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Suzhi Showcase**
+🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Suzhi Blog**
 
-Discover our **Suzhi** collection — 39 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[🌐 Browse the Suzhi Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 ---
 
-### 18 Suzhi Fish Japanese 01
-High-quality Japanese sushi assortment on a wooden board featuring salmon and tuna nigiri, colorful maki rolls with sesame, and accompaniments of wasabi and pickled ginger.
+## Introduction
 
----
+**Suzhi** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-### 18 Suzhi Fish Japanese 02
-A high-quality assortment of sushi on a wooden board, featuring salmon, tuna, and colorful rolls, with wasabi and pickled ginger.
+This guide explores how to use the **Suzhi** collection — 39 premium assets available in 4K/8K — across real creative workflows.
 
----
-
-### 18 Suzhi Fish Japanese 03
-A high‑quality sushi platter with assorted nigiri (salmon, tuna) and colorful rolls, served with pickled ginger and wasabi.
-
----
-
-### 18 Suzhi Fish Japanese 04
-A vibrant Japanese sushi platter with assorted nigiri and rolls, featuring tuna, salmon, and other fish, accented with wasabi and pickled ginger.
-
----
-
-### 18 Suzhi Fish Japanese 01
-High-quality Japanese sushi platter featuring colorful sashimi slices and a rolled sushi assortment on a dark serving plate.
-
----
-
-### 18 Suzhi Fish Japanese 02
-Assorted sushi platter on a dark board featuring tuna, salmon, and other nigiri plus spicy rolls, with wasabi, lime wedges, and greens.
-
----
-
-### 18 Suzhi Fish Japanese 03
-A vibrant sushi platter featuring bright salmon nigiri and assorted rolls on a wooden board with colorful garnishes.
-
----
-
-### 18 Suzhi Fish Japanese 04
-High-quality Japanese sushi assortment on a wooden board, featuring salmon and tuna nigiri, and alove variety of maki rolls with roe toppings.
-
----
-
-### 18 Suzhi Fish Japanese 05
-High-quality Japanese sushi platter with salmon and tuna nigiri and assorted rolls on a wooden board, accented by a rose garnish.
-
----
-
-### 18 Suzhi Fish Japanese 01
-Premium Japanese sushi platter with fresh nigiri and creative rolls on a wooden board.
-
----
-
-### 18 Suzhi Fish Japanese 02
-High-quality Japanese sushi assortment: salmon and tuna nigiri arranged with colorful maki rolls on a slate plate.
-
----
-
-### 18 Suzhi Fish Japanese 03
-Assorted Japanese sushi platter on a dark slate, featuring salmon and tuna nigiri, cucumber-filled rolls, pickled ginger, wasabi, and a small soy sauce dish.
-
----
-
-### 18 Suzhi Fish Japanese 04
-High-quality Japanese sushi platter featuring tuna nigiri, salmon, salmon roe rolls, and cucumber-roll maki on a dark slate with pickled ginger and wasabi.
-
----
-
-### 18 Suzhi Fish Japanese 05
-Premium Japanese sushi platter with tuna and salmon nigiri and a sesame-tprout roll.
-
----
-
-### 18 Suzhi Fish Japanese 06
-High‑quality Japanese sushi assortment on a slate plate, featuring colorful nigiri and roll pieces, with pickled ginger and wasabi on the side.
-
----
-
-### 18 Suzhi Fish Japanese 07
-Assorted Japanese sushi arranged on a dark slate, featuring salmon and tuna nigiri, a maki roll, with wasabi and pickled ginger.
-
----
-
-### 18 Suzhi Fish Japanese 08
-High-quality Japanese sushi platter with salmon and tuna nigiri, sesame-coated maki, wasabi, and pickled ginger.
-
----
-
-### 18 Suzhi Fish Japanese 10
-Assorted Japanese sushi platter with salmon and tuna nigiri and colorful maki rolls on a slate board.
-
----
-
-### 18 Suzhi Fish Japanese 12
-High-quality Japanese sushi platter with tuna, salmon, and cucumber rolls on a slate board, garnished with wasabi and pickled ginger.
-
----
-
-### 18 Suzhi Fish Japanese 13
-A high-quality Japanese sushi platter with nigiri tuna and salmon, assorted maki rolls, avocado, green garnish, pickled ginger, and a dipping sauce.
-
----
-
-### 18 Suzhi Fish Japanese 14
-Premium Japanese sushi platter on a dark slate, with tuna and salmon nigiri, mixed maki rolls, sesame seeds, wasabi, and pickled ginger.
-
----
-
-### 18 Suzhi Fish Japanese 15
-A high-quality Japanese sushi platter featuring assorted nigiri and a colorful roll on a dark slate board with chopsticks.
-
----
-
-### 18 Suzhi Fish Japanese 16
-High-quality Japanese sushi assortment with salmon and tuna nigiri and a variety of colorful rolls on a slate platter.
-
----
+## Visual Highlights
 
 ### 18 Suzhi Fish Japanese 01 
 ![18 Suzhi Fish Japanese 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00398_18_Suzhi_Fish_Japanese_S_01_Previews.webp)
 
 Assorted Japanese sushi platter with salmon and tuna nigiri, colorful maki rolls, plus wasabi and pickled ginger on a wooden board.
 
----
-
 ### 18 Suzhi Fish Japanese 02 
 ![18 Suzhi Fish Japanese 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00399_18_Suzhi_Fish_Japanese_S_02_Previews.webp)
 
 Assorted Japanese sushi platter with colorful nigiri and rolls on a wooden board.
-
----
 
 ### 18 Suzhi Fish Japanese 03 
 ![18 Suzhi Fish Japanese 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00400_18_Suzhi_Fish_Japanese_S_03_Previews.webp)
 
 A sushi platter featuring salmon and tuna nigiri with assorted maki rolls, accompanied by wasabi and pickled ginger on a wooden board.
 
----
+## Why Suzhi Visuals Are in Demand
 
-### 18 Suzhi Fish Japanese 04 
-![18 Suzhi Fish Japanese 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00401_18_Suzhi_Fish_Japanese_S_04_Previews.webp)
+High-quality suzhi footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Assorted sushi platter on a wooden board, featuring salmon and tuna nigiri, variety rolls with sesame and roe, plus wasabi and a purple orchid garnish.
+All **39 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 18 Suzhi Fish Japanese 01 
-![18 Suzhi Fish Japanese 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00402_18_Suzhi_Fish_Japanese_V_01_Previews.webp)
+## Common Use Cases
 
-Assorted sushi platter featuring tuna and salmon nigiri with a sesame-crusted roll, on a dark slate with wasabi, pickled ginger, soy sauce, and lime wedges.
+- 📱 Instagram Reels, TikTok food videos, and YouTube Shorts
+- 🎬 Restaurant ads, delivery app promotions, and brand storytelling
+- 🍴 Food blog visuals, cookbook pages, and menu photography
+- 📺 Food documentary B-roll and culinary travel content
+- 🖨️ Menu printing, poster design, and in-store display boards
+- 🎨 Canva social media templates for food and hospitality brands
 
----
+## How to Use in Your Editing Software
 
-### 18 Suzhi Fish Japanese 02 
-![18 Suzhi Fish Japanese 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00403_18_Suzhi_Fish_Japanese_V_02_Previews.webp)
+Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for food video production. Use JPEG assets in **Canva**, **Adobe InDesign**, or **Photoshop** for print and social media design.
 
-Assorted sushi on a wooden board, including bright salmon nigiri, tuna nigiri, a dragon-style roll with orange roe, cucumber rolls, wasabi, and a decorative orange salmon rose.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 18 Suzhi Fish Japanese 03 
-![18 Suzhi Fish Japanese 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00404_18_Suzhi_Fish_Japanese_V_03_Previews.webp)
+## Supported File Formats
 
-Assorted Japanese sushi platter featuring salmon nigiri, tuna, and a variety of maki rolls topped with roe, with wasabi and pickled ginger on the side.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 18 Suzhi Fish Japanese 04 
-![18 Suzhi Fish Japanese 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00405_18_Suzhi_Fish_Japanese_V_04_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Assorted Japanese sushi on a wooden board, featuring salmon and tuna nigiri, a rose garnish, wasabi, with blurred background sushi rolls.
+## Explore the Full Suzhi Collection
 
----
+Ready to add **Suzhi** visuals to your next project?
 
-### 18 Suzhi Fish Japanese 01 
-![18 Suzhi Fish Japanese 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00406_18_Suzhi_Fish_Japanese_W_01_Previews.webp)
-
-Assorted Japanese sushi on a dark slate: salmon and tuna nigiri with a sesame‑topped roll, accompanied by wasabi and pickled ginger.
-
----
-
-### 18 Suzhi Fish Japanese 02 
-![18 Suzhi Fish Japanese 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00407_18_Suzhi_Fish_Japanese_W_02_Previews.webp)
-
-Assorted Japanese sushi on a dark slate: salmon and tuna nigiri with a sesame‑topped roll, accompanied by wasabi and pickled ginger.
-
----
-
-### 18 Suzhi Fish Japanese 03 
-![18 Suzhi Fish Japanese 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00408_18_Suzhi_Fish_Japanese_W_03_Previews.webp)
-
-A sleek slate platter of assorted nigiri sushi (salmon, tuna, and other white fish), a row of colorful maki rolls with roe, plus pink pickled ginger and a dab of wasabi on the side.
-
----
-
-### 18 Suzhi Fish Japanese 04 
-![18 Suzhi Fish Japanese 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00409_18_Suzhi_Fish_Japanese_W_04_Previews.webp)
-
-A platter of assorted sushi on a dark slate: vibrant tuna and salmon nigiri accompanied by avocado-cucumber rolls, sure to be fresh and visually appealing, with garnish and pickled ginger in the background.
-
----
-
-### 18 Suzhi Fish Japanese 05 
-![18 Suzhi Fish Japanese 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00410_18_Suzhi_Fish_Japanese_W_05_Previews.webp)
-
-Assorted sushi on a dark slate: tuna and salmon nigiri, sesame-tried maki rolls with avocado, plus wasabi, pickled ginger, and a small soy sauce dish.
-
----
-
-### 18 Suzhi Fish Japanese 06 
-![18 Suzhi Fish Japanese 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00411_18_Suzhi_Fish_Japanese_W_06_Previews.webp)
-
-Assorted sushi platter with salmon and tuna nigiri, crunchy sesame-covered rolls, and cucumber-filled maki on a dark slate board.
-
----
-
-### 18 Suzhi Fish Japanese 07 
-![18 Suzhi Fish Japanese 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00412_18_Suzhi_Fish_Japanese_W_07_Previews.webp)
-
-Assorted sushi platter with nigiri tuna and salmon, cucumber-avocado rolls, wasabi, pickled ginger, and soy sauce on a slate plate with chopsticks.
-
----
-
-### 18 Suzhi Fish Japanese 08 
-![18 Suzhi Fish Japanese 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00413_18_Suzhi_Fish_Japanese_W_08_Previews.webp)
-
-Assorted Japanese sushi platter featuring salmon and tuna nigiri, avocado rolls, seared sushi rolls, with wasabi and pickled ginger on a wooden board.
-
----
-
+[🌐 Browse Suzhi on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/suzhi.md){ .md-button }

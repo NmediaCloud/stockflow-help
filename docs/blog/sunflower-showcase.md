@@ -1,150 +1,87 @@
-# Showcase: Sunflower
+# How to Use Sunflower Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Pollen](../subcategories/pollen.md) → **Sunflower Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Pollen](../subcategories/pollen.md) → **Sunflower Blog**
 
-Discover our **Sunflower** collection — 20 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[🌐 Browse the Sunflower Collection](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Sunflower** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Sunflower** collection — 20 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
 ![1 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1086_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_01__Previews.webp)
 
 Macro close-up of sunflower pollen on the anthers, with a yellow-orange, oily texture.
 
----
-
 ### 2 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
 ![2 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1087_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_02__Previews.webp)
 
 Macro close-up of sunflower pollen grains with an oily texture.
-
----
 
 ### 3 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
 ![3 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1088_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_03__Previews.webp)
 
 Macro close-up of sunflower pollen grains with an oily golden texture.
 
----
+## Why Sunflower Visuals Are in Demand
 
-### 4 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
-![4 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1089_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_04__Previews.webp)
+High-quality sunflower footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Macro photograph of sunflower pollen grains with a yellow, oily texture.
+All **20 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
-![5 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1090_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_04_Previews.webp)
+## Common Use Cases
 
-Macro shot of sunflower pollen grains with an oily texture.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
-![6 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1091_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_05__Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Macro close-up of a single sunflower pollen grain on a golden pollen surface.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
-![7 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1092_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_05_Previews.webp)
+## Supported File Formats
 
-Micro close-up of sunflower pollen grains with an oily texture.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
-![8 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1093_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_06__Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Close-up macro of sunflower pollen grains with an oily, yellow texture.
+## Explore the Full Sunflower Collection
 
----
+Ready to add **Sunflower** visuals to your next project?
 
-### 9 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
-![9 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1094_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_06_Previews.webp)
-
-Close-up of sunflower pollen grains: dense, yellow star-like floral structures with an oily texture.
-
----
-
-### 10 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
-![10 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1095_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_07__Previews.webp)
-
-Macro close-up of sunflower pollen grains on a warm yellow background, showing tiny golden capsules with an oily texture.
-
----
-
-### 11 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
-![11 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1096_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_07_Previews.webp)
-
-Macro shot of sunflower pollen grains with bright golden color and textured, oily appearance.
-
----
-
-### 12 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture
-![12 Micro 11 Pollen Grains 02 Sunflower Pollen Oily Texture](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1097_01_Micro_11_Pollen_Grains_02_Sunflower_Pollen_Oily_Texture_W_08__Previews.webp)
-
-Macro shot of sunflower pollen grains with textured, elongated structures in warm orange tones.
-
----
-
-### 1 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure
-![1 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1098_01_Micro_11_Pollen_Grains_03_Grass_Pollen_Mesh_Structure_W_01__Previews.webp)
-
-Macro shot of a single grass pollen grain with a spiky, spherical head and fine white filaments against a soft green background.
-
----
-
-### 2 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure
-![2 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1099_01_Micro_11_Pollen_Grains_03_Grass_Pollen_Mesh_Structure_W_01_Previews.webp)
-
-Close-up of a grass pollen grain with a green core and radiating white filaments.
-
----
-
-### 3 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure
-![3 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1100_01_Micro_11_Pollen_Grains_03_Grass_Pollen_Mesh_Structure_W_02__Previews.webp)
-
-A single grass pollen–like spherical burst of golden spikes illuminated against a dark background.
-
----
-
-### 4 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure
-![4 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1101_01_Micro_11_Pollen_Grains_03_Grass_Pollen_Mesh_Structure_W_02_Previews.webp)
-
-Close-up of a spherical grass pollen grain with radiating spikes against a dark background.
-
----
-
-### 5 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure
-![5 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1102_01_Micro_11_Pollen_Grains_03_Grass_Pollen_Mesh_Structure_W_03__Previews.webp)
-
-Close-up of a spiky, mesh-textured grass pollen grain with a soft, blurred background and other floating pollen spheres.
-
----
-
-### 6 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure
-![6 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1103_01_Micro_11_Pollen_Grains_03_Grass_Pollen_Mesh_Structure_W_03_Previews.webp)
-
-Grass pollen grain with a spiky spherical mesh structure, golden-brown.
-
----
-
-### 7 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure
-![7 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1104_01_Micro_11_Pollen_Grains_03_Grass_Pollen_Mesh_Structure_W_04__Previews.webp)
-
-Close-up of a single grass pollen grain with fluffy, spiky structure against a soft blue–orange gradient background.
-
----
-
-### 8 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure
-![8 Micro 11 Pollen Grains 03 Grass Pollen Mesh Structure](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1105_01_Micro_11_Pollen_Grains_03_Grass_Pollen_Mesh_Structure_W_04_Previews.webp)
-
-Macro photograph of a single grass pollen grain with fluffy filaments and a delicate mesh-like surface against a soft blue gradient.
-
----
-
+[🌐 Browse Sunflower on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/sunflower.md){ .md-button }

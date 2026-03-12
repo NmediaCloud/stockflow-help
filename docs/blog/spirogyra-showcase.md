@@ -1,101 +1,87 @@
-# Showcase: Spirogyra
+# How to Use Spirogyra Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Algae](../subcategories/algae.md) → **Spirogyra Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Algae](../subcategories/algae.md) → **Spirogyra Blog**
 
-Discover our **Spirogyra** collection — 13 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[🌐 Browse the Spirogyra Collection](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Spirogyra** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Spirogyra** collection — 13 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 06 Algae 02 Spirogyra Algae
 ![1 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0504_01_Micro_06_Algae_02_Spirogyra_Algae_W_01__Previews.webp)
 
 Close-up of Spirogyra algae filament showing a chain of green circular cells.
 
----
-
 ### 2 Micro 06 Algae 02 Spirogyra Algae
 ![2 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0505_01_Micro_06_Algae_02_Spirogyra_Algae_W_01_Previews.webp)
 
 Close-up of bright green Spirogyra algae filaments with round, packed cells.
-
----
 
 ### 3 Micro 06 Algae 02 Spirogyra Algae
 ![3 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0506_01_Micro_06_Algae_02_Spirogyra_Algae_W_02__Previews.webp)
 
 Close-up of Spirogyra algae, green filamentous cells with spiral chloroplasts and bead-like structures.
 
----
+## Why Spirogyra Visuals Are in Demand
 
-### 4 Micro 06 Algae 02 Spirogyra Algae
-![4 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0507_01_Micro_06_Algae_02_Spirogyra_Algae_W_02_Previews.webp)
+High-quality spirogyra footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Microscopic view of Spirogyra algae showing round cells with spiral, circular chloroplast arrangements.
+All **13 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 06 Algae 02 Spirogyra Algae
-![5 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0508_01_Micro_06_Algae_02_Spirogyra_Algae_W_03__Previews.webp)
+## Common Use Cases
 
-Microscopic view of Spirogyra algae filaments with spiral chloroplasts in bright green.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 06 Algae 02 Spirogyra Algae
-![6 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0509_01_Micro_06_Algae_02_Spirogyra_Algae_W_04__Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Microscopic view of Spirogyra algae, showing vividly green chloroplasts arranged in spiral patterns within cylindrical cells. Close-up of a filament with multiple cells and central cytoplasmic structures.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 06 Algae 02 Spirogyra Algae
-![7 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0510_01_Micro_06_Algae_02_Spirogyra_Algae_W_05__Previews.webp)
+## Supported File Formats
 
-Micrograph of Spirogyra algae—green, filamentous freshwater algae with distinctive spiral chloroplasts.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 06 Algae 02 Spirogyra Algae
-![8 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0511_01_Micro_06_Algae_02_Spirogyra_Algae_W_06__Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Macro photograph of Spirogyra algae filaments, showing green chloroplasts inside cylindrical cells.
+## Explore the Full Spirogyra Collection
 
----
+Ready to add **Spirogyra** visuals to your next project?
 
-### 9 Micro 06 Algae 02 Spirogyra Algae
-![9 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0512_01_Micro_06_Algae_02_Spirogyra_Algae_W_06_Previews.webp)
-
-Close-up of green algae filaments (Spirogyra) showing many oval cells with chloroplast-rich interiors.
-
----
-
-### 10 Micro 06 Algae 02 Spirogyra Algae
-![10 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0513_01_Micro_06_Algae_02_Spirogyra_Algae_W_07__Previews.webp)
-
-Close-up of green Spirogyra algae with spiral chloroplasts.
-
----
-
-### 11 Micro 06 Algae 02 Spirogyra Algae
-![11 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0514_01_Micro_06_Algae_02_Spirogyra_Algae_W_07_Previews.webp)
-
-Close-up of green Spirogyra algae cells with spiral chloroplasts under a microscope.
-
----
-
-### 12 Micro 06 Algae 02 Spirogyra Algae
-![12 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0515_01_Micro_06_Algae_02_Spirogyra_Algae_W_08__Previews.webp)
-
-Micrograph of Spirogyra algae showing helical chloroplasts in filamentous cells.
-
----
-
-### 13 Micro 06 Algae 02 Spirogyra Algae
-![13 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0516_01_Micro_06_Algae_02_Spirogyra_Algae_W_08_Previews.webp)
-
-Close-up of Spirogyra algae showing spiraling chloroplasts in vivid green.
-
----
-
+[🌐 Browse Spirogyra on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/spirogyra.md){ .md-button }

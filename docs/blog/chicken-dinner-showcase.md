@@ -1,386 +1,87 @@
-# Showcase: Chicken Dinner
+# How to Use Chicken Dinner Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Chicken Dinner Showcase**
+🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Chicken Dinner Blog**
 
-Discover our **Chicken Dinner** collection — 64 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[🌐 Browse the Chicken Dinner Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 ---
 
-### 01 Chicken Dinner 01
-A plated chicken dinner with a glossy sauce, mashed potatoes, sautéed vegetables, and a sprig of rosemary, accompanied by a glass of red wine in a cozy dining setting.
+## Introduction
 
----
+**Chicken Dinner** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-### 01 Chicken Dinner 02
-A plated chicken dish topped with glossy sauce and herbs, accompanied by mashed potatoes and vegetables in a fine-dining setting.
+This guide explores how to use the **Chicken Dinner** collection — 64 premium assets available in 4K/8K — across real creative workflows.
 
----
-
-### 01 Chicken Dinner 03
-Succulent roasted chicken with glossy gravy, creamy mashed potatoes, and tender green beans.
-
----
-
-### 01 Chicken Dinner 04
-A succulent glazed roast chicken served over creamy mashed potatoes with steamed green beans and fresh herbs.
-
----
-
-### 01 Chicken Dinner 05
-Juicy roasted chicken with creamy mashed potatoes and crisp green beans, finished with a glossy herb-infused sauce.
-
----
-
-### 01 Chicken Dinner 06
-Juicy roasted chicken with a rich glaze on a bed of creamy mashed potatoes, accented by rosemary and green beans.
-
----
-
-### 01 Chicken Dinner 07
-Juicy chicken breast smothered in a glossy sauce atop creamy mashed potatoes with colorful vegetables on the side, garnished with rosemary and a glass of red wine in the background.
-
----
-
-### 01 Chicken Dinner 08
-A perfectly roasted chicken leg with a savory glaze, accompanied by mashed potatoes and colorful vegetables, garnished with a sprig of rosemary on an elegant plate.
-
----
-
-### 01 Chicken Dinner 09
-A plated chicken dinner with glazed chicken breast, rich brown sauce, creamy mashed potatoes, and steamed vegetables in a fine-dining setting.
-
----
-
-### 01 Chicken Dinner 10
-Juicy roasted chicken in a glossy glaze, with creamy mashed potatoes and crisp green beans, garnished with rosemary.
-
----
-
-### 01 Chicken Dinner 11
-Succulent roasted chicken with a glossy glaze, plated over creamy mashed potatoes and crisp green beans.
-
----
-
-### 01 Chicken Dinner 12
-Herb-roasted chicken with rich cheese sauce over creamy mashed potatoes and crisp green beans.
-
----
-
-### 01 Chicken Dinner 01
-Herb-roasted chicken with rosemary on creamy mashed potatoes and steamed green beans, finished with a rich glaze.
-
----
-
-### 01 Chicken Dinner 02
-Herb-crusted chicken breast with vegetables, mashed potatoes, and a glossy sauce, paired with a glass of red wine.
-
----
-
-### 01 Chicken Dinner 04
-A plated herb-roasted chicken breast with rosemary, creamy mashed potatoes, and sautéed vegetables in a rich sauce, presented in a candlelit dining setting.
-
----
-
-### 01 Chicken Dinner 05
-Delicious roasted chicken smothered in glossy gravy, served with creamy mashed potatoes and fresh green beans.
-
----
-
-### 01 Chicken Dinner 06
-Succulent roasted chicken with creamy mashed potatoes, green beans, and gravy, garnished with a rosemary sprig.
-
----
-
-### 01 Chicken Dinner 07
-Succulent roasted chicken with crispy skin and fresh herbs, served beside creamy mashed potatoes and green beans.
-
----
-
-### 01 Chicken Dinner 08
-Sumptuous roasted chicken with glossy glaze, served with creamy mashed potatoes and green beans.
-
----
-
-### 01 Chicken Dinner 09
-Roasted chicken with crispy herb-glazed skin, served with creamy mashed potatoes and green beans.
-
----
-
-### 01 Chicken Dinner 10
-Juicy roasted chicken with crispy glaze, steamed greens, and creamy mashed potatoes, finished with a sprig of herbs. Steam rising adds warmth to a cozy, gourmet dinner scene.
-
----
-
-### 01 Chicken Dinner 11
-Herb-crusted chicken breast with rich sauce, plated over mashed potatoes and sautéed greens.
-
----
-
-### 01 Chicken Dinner 01
-A succulent roasted chicken breast atop creamy mashed potatoes, finished with a glossy pan sauce and served with vibrant steamed vegetables, garnished with rosemary.
-
----
-
-### 01 Chicken Dinner 02
-Succulent roasted chicken with crispy skin, served with creamy mashed potatoes and roasted root vegetables in a herb-infused sauce.
-
----
-
-### 01 Chicken Dinner 03
-Roasted chicken on a bed of creamy mashed potatoes with glazed carrots and herbs.
-
----
-
-### 01 Chicken Dinner 04
-Succulent roasted chicken with creamy mashed potatoes and colorful roasted vegetables, finished with fresh herbs.
-
----
-
-### 01 Chicken Dinner 05
-A plated roasted chicken breast with herb garnish, creamy mashed potatoes, and a side of carrots and broccoli with a drizzle of glaze.
-
----
-
-### 01 Chicken Dinner 06
-Juicy roasted chicken breast atop creamy mashed potatoes, with steamed broccoli and carrots, finished with a drizzle of jus and a sprig of rosemary.
-
----
-
-### 01 Chicken Dinner 07
-Succulent roasted chicken breast served over creamy mashed potatoes with steamed vegetables, finished with a drizzle of sauce and fresh herb garnish.
-
----
-
-### 01 Chicken Dinner 08
-A plated roasted chicken breast resting on creamy mashed potatoes, with broccoli and carrots on the side, finished with a glossy sauce and a rosemary garnish.
-
----
-
-### 01 Chicken Dinner 09
-Herb-roasted chicken served with creamy mashed potatoes and a colorful medley of steamed vegetables on a white plate.
-
----
-
-### 01 Chicken Dinner 10
-Roasted chicken dinner plated with creamy mashed potatoes and colorful roasted vegetables.
-
----
-
-### 01 Chicken Dinner 11
-Succulent roasted chicken perched on creamy mashed potatoes, finished with rich pan gravy and crisp root vegetables.
-
----
-
-### 01 Chicken Dinner 12
-Roasted chicken with crispy potatoes on a bed of creamy mash, finished with fresh thyme.
-
----
-
-### 01 Chicken Dinner 13
-Juicy roasted chicken served over creamy mashed potatoes with roasted vegetables, garnished with fresh rosemary.
-
----
-
-### 01 Chicken Dinner 14
-Succulent roasted chicken with crispy skin, served with creamy mashed potatoes and roasted carrots, garnished with fresh thyme.
-
----
+## Visual Highlights
 
 ### 01 Chicken Dinner 01 
 ![01 Chicken Dinner 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00001_01_Chicken_Dinner_S_01_Previews.webp)
 
 Herb-roasted chicken with mashed potatoes and green beans, finished with rosemary and steaming gravy.
 
----
-
 ### 01 Chicken Dinner 02 
 ![01 Chicken Dinner 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00002_01_Chicken_Dinner_S_02_Previews.webp)
 
 Herb-crusted chicken breast served over mashed potatoes with greens and carrots, accompanied by a glass of red wine.
-
----
 
 ### 01 Chicken Dinner 03 
 ![01 Chicken Dinner 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00003_01_Chicken_Dinner_S_03_Previews.webp)
 
 Herb-roasted chicken with thyme served over mashed potatoes and green beans.
 
----
+## Why Chicken Dinner Visuals Are in Demand
 
-### 01 Chicken Dinner 04 
-![01 Chicken Dinner 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00004_01_Chicken_Dinner_S_04_Previews.webp)
+High-quality chicken dinner footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Herb-roasted chicken leg with mashed potatoes and a side of broccoli and carrots, garnished with rosemary on a white plate.
+All **64 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 01 Chicken Dinner 05 
-![01 Chicken Dinner 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00005_01_Chicken_Dinner_S_05_Previews.webp)
+## Common Use Cases
 
-Juicy roasted chicken leg with crispy skin, served over creamy mashed potatoes and green beans.
+- 📱 Instagram Reels, TikTok food videos, and YouTube Shorts
+- 🎬 Restaurant ads, delivery app promotions, and brand storytelling
+- 🍴 Food blog visuals, cookbook pages, and menu photography
+- 📺 Food documentary B-roll and culinary travel content
+- 🖨️ Menu printing, poster design, and in-store display boards
+- 🎨 Canva social media templates for food and hospitality brands
 
----
+## How to Use in Your Editing Software
 
-### 01 Chicken Dinner 06 
-![01 Chicken Dinner 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00006_01_Chicken_Dinner_S_06_Previews.webp)
+Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for food video production. Use JPEG assets in **Canva**, **Adobe InDesign**, or **Photoshop** for print and social media design.
 
-Herb-roasted chicken leg with rosemary, creamy mashed potatoes, and colorful vegetables on a white plate.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 01 Chicken Dinner 07 
-![01 Chicken Dinner 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00007_01_Chicken_Dinner_S_07_Previews.webp)
+## Supported File Formats
 
-Herb-roasted chicken served over creamy mashed potatoes with green beans and a rosemary glaze.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 01 Chicken Dinner 08 
-![01 Chicken Dinner 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00008_01_Chicken_Dinner_S_08_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Herb-crusted roasted chicken breast served over mashed potatoes with a side of colorful vegetables.
+## Explore the Full Chicken Dinner Collection
 
----
+Ready to add **Chicken Dinner** visuals to your next project?
 
-### 01 Chicken Dinner 01 
-![01 Chicken Dinner 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00009_01_Chicken_Dinner_V_01_Previews.webp)
-
-Roasted chicken leg with rosemary atop creamy mashed potatoes and crisp green beans.
-
----
-
-### 01 Chicken Dinner 02 
-![01 Chicken Dinner 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00010_01_Chicken_Dinner_V_02_Previews.webp)
-
-Herb-crusted chicken breast on a bed of mashed potatoes with greens and a cherry tomato in a warm, inviting dining room.
-
----
-
-### 01 Chicken Dinner 03 
-![01 Chicken Dinner 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00011_01_Chicken_Dinner_V_03_Previews.webp)
-
-Golden roasted chicken on a plate with green beans and creamy mashed potatoes. Steam rises from the hot meal.
-
----
-
-### 01 Chicken Dinner 04 
-![01 Chicken Dinner 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00012_01_Chicken_Dinner_V_04_Previews.webp)
-
-Herb-crusted chicken breast with mashed potatoes and steamed vegetables beside a glass of red wine in a cozy restaurant.
-
----
-
-### 01 Chicken Dinner 05 
-![01 Chicken Dinner 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00013_01_Chicken_Dinner_V_05_Previews.webp)
-
-Golden roasted chicken served with mashed potatoes and green beans, steam rising in a cozy restaurant setting.
-
----
-
-### 01 Chicken Dinner 06 
-![01 Chicken Dinner 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00014_01_Chicken_Dinner_V_06_Previews.webp)
-
-Roasted chicken with mashed potatoes and vegetables, rosemary garnish, drizzled sauce, beside a wine glass and candlelit backdrop.
-
----
-
-### 01 Chicken Dinner 07 
-![01 Chicken Dinner 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00015_01_Chicken_Dinner_V_07_Previews.webp)
-
-Roasted chicken with mashed potatoes and green beans.
-
----
-
-### 01 Chicken Dinner 08 
-![01 Chicken Dinner 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00016_01_Chicken_Dinner_V_08_Previews.webp)
-
-Herb-roasted chicken over creamy mashed potatoes with carrots and broccoli, garnished with rosemary.
-
----
-
-### 01 Chicken Dinner 09 
-![01 Chicken Dinner 09 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00017_01_Chicken_Dinner_V_09_Previews.webp)
-
-Juicy roasted chicken with herbs, served over creamy mashed potatoes and green beans.
-
----
-
-### 01 Chicken Dinner 10 
-![01 Chicken Dinner 10 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00018_01_Chicken_Dinner_V_10_Previews.webp)
-
-Herb-glazed roasted chicken with crispy, caramelized skin, served with mashed potatoes and green beans. Steam rising from the dish.
-
----
-
-### 01 Chicken Dinner 11 
-![01 Chicken Dinner 11 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00019_01_Chicken_Dinner_V_11_Previews.webp)
-
-A roasted golden-brown chicken with herb glaze, garnished with rosemary, served with green beans and creamy mashed potatoes.
-
----
-
-### 01 Chicken Dinner 12 
-![01 Chicken Dinner 12 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00020_01_Chicken_Dinner_V_12_Previews.webp)
-
-A sizzling roasted chicken leg with crispy skin, steam rising, served with mashed potatoes and green beans, garnished with thyme.
-
----
-
-### 01 Chicken Dinner 01 
-![01 Chicken Dinner 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00021_01_Chicken_Dinner_W_01_Previews.webp)
-
-Herb-roasted chicken breast with mashed potatoes and vegetables (broccoli and carrot), topped with a rosemary garnish and a glossy sauce in a fine dining setting.
-
----
-
-### 01 Chicken Dinner 02 
-![01 Chicken Dinner 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00022_01_Chicken_Dinner_W_02_Previews.webp)
-
-Herb-roasted chicken leg served over creamy mashed potatoes with gravy and roasted vegetables, garnished with fresh thyme.
-
----
-
-### 01 Chicken Dinner 03 
-![01 Chicken Dinner 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00023_01_Chicken_Dinner_W_03_Previews.webp)
-
-Roasted chicken breast atop creamy mashed potatoes with carrots and broccoli, garnished with rosemary on a white plate.
-
----
-
-### 01 Chicken Dinner 04 
-![01 Chicken Dinner 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00024_01_Chicken_Dinner_W_04_Previews.webp)
-
-Herb-roasted chicken leg atop creamy mashed potatoes with a side of steamed broccoli, carrots, and green beans on a white plate.
-
----
-
-### 01 Chicken Dinner 05 
-![01 Chicken Dinner 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00025_01_Chicken_Dinner_W_05_Previews.webp)
-
-Herb-roasted chicken with crispy skin served over creamy mashed potatoes and roasted potatoes, garnished with rosemary and parsley.
-
----
-
-### 01 Chicken Dinner 07 
-![01 Chicken Dinner 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00026_01_Chicken_Dinner_W_07_Previews.webp)
-
-Succulent roasted chicken with crispy skin, served over creamy mashed potatoes and roasted potatoes, garnished with fresh thyme.
-
----
-
-### 01 Chicken Dinner 09 
-![01 Chicken Dinner 09 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00027_01_Chicken_Dinner_W_09_Previews.webp)
-
-Juicy roasted chicken with crispy skin, served with roasted potatoes, carrots and a side of mashed potatoes, garnished with thyme.
-
----
-
-### 01 Chicken Dinner 10 
-![01 Chicken Dinner 10 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00028_01_Chicken_Dinner_W_10_Previews.webp)
-
-Roasted chicken garnished with rosemary and thyme, served with roasted vegetables and creamy mashed potatoes.
-
----
-
+[🌐 Browse Chicken Dinner on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/chicken-dinner.md){ .md-button }

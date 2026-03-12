@@ -1,94 +1,87 @@
-# Showcase: Flatworms
+# How to Use Flatworms Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Worms](../subcategories/worms.md) → **Flatworms Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Worms](../subcategories/worms.md) → **Flatworms Blog**
 
-Discover our **Flatworms** collection — 12 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+[🌐 Browse the Flatworms Collection](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Flatworms** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Flatworms** collection — 12 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 05 Worms 07 Flatworms
 ![1 Micro 05 Worms 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0469_01_Micro_05_Worms_07_Flatworms_W_01__Previews.webp)
 
 Microscopic view of three flatworms (planaria) with orange digestive tracts, translucent purple outlines, in a greenish field.
 
----
-
 ### 2 Micro 05 Worms 07 Flatworms
 ![2 Micro 05 Worms 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0470_01_Micro_05_Worms_07_Flatworms_W_01_Previews.webp)
 
 Microscopic view of flatworms (planarians) with orange digestive tract visible.
-
----
 
 ### 3 Micro 05 Worms 07 Flatworms
 ![3 Micro 05 Worms 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0471_01_Micro_05_Worms_07_Flatworms_W_02__Previews.webp)
 
 Micro view of translucent flatworms gliding through clear blue water.
 
----
+## Why Flatworms Visuals Are in Demand
 
-### 4 Micro 05 Worms 07 Flatworms
-![4 Micro 05 Worms 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0472_01_Micro_05_Worms_07_Flatworms_W_02_Previews.webp)
+High-quality flatworms footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Tiny translucent flatworms with a dark green midline gliding through clear blue water.
+All **12 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 05 Worms 07 Flatworms
-![5 Micro 05 Worms 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0473_01_Micro_05_Worms_07_Flatworms_W_07__Previews.webp)
+## Common Use Cases
 
-Translucent flatworms with black spots gliding through green aquatic plants, with several other worm-like creatures in the background.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 05 Worms 07 Flatworms
-![6 Micro 05 Worms 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0474_01_Micro_05_Worms_07_Flatworms_W_07_Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Transparent, spotted flatworm swimming in a green aquatic environment.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 05 Worms 07 Flatworms
-![7 Micro 05 Worms 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0475_01_Micro_05_Worms_07_Flatworms_W_08__Previews.webp)
+## Supported File Formats
 
-Three translucent flatworms with purple stripes swim through a green, algae-filled aquatic scene.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 05 Worms 07 Flatworms
-![8 Micro 05 Worms 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0476_01_Micro_05_Worms_07_Flatworms_W_08_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Purple-striped flatworms gliding through a green aquatic environment.
+## Explore the Full Flatworms Collection
 
----
+Ready to add **Flatworms** visuals to your next project?
 
-### 1 Micro 07 Flatworms
-![1 Micro 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0722_01_Micro_07_Flatworms_W_03__Previews.webp)
-
-Two pinkish translucent flatworms gliding in a green aquatic environment with algae.
-
----
-
-### 2 Micro 07 Flatworms
-![2 Micro 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0723_01_Micro_07_Flatworms_W_04__Previews.webp)
-
-Close-up of several translucent flatworms with dark circular spots along their bodies, featuring wavy edges.
-
----
-
-### 3 Micro 07 Flatworms
-![3 Micro 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0724_01_Micro_07_Flatworms_W_05__Previews.webp)
-
-Two translucent flatworms (planarians) swimming in a blue-green microscopic field.
-
----
-
-### 4 Micro 07 Flatworms
-![4 Micro 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0725_01_Micro_07_Flatworms_W_06__Previews.webp)
-
-Glowing microscopic flatworms swimming in a dark blue aquatic world.
-
----
-
+[🌐 Browse Flatworms on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/flatworms.md){ .md-button }

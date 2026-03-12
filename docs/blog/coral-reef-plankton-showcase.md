@@ -1,206 +1,87 @@
-# Showcase: Coral Reef Plankton
+# How to Use Coral Reef Plankton Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Underwater](../subcategories/underwater.md) → **Coral Reef Plankton Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Underwater](../subcategories/underwater.md) → **Coral Reef Plankton Blog**
 
-Discover our **Coral Reef Plankton** collection — 28 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
+[🌐 Browse the Coral Reef Plankton Collection](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Coral Reef Plankton** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Coral Reef Plankton** collection — 28 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
 ![1 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0252_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_0_W_01__Previews.webp)
 
 Colorful underwater scene of a coral reef with tiny, bright planktonic organisms and microscopic life.
 
----
-
 ### 2 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
 ![2 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0253_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_0_W_01_Previews.webp)
 
 Colorful microscopic marine life on a coral reef, featuring tiny transparent plankton and juvenile organisms.
-
----
 
 ### 3 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
 ![3 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0254_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_2_W_01__Previews.webp)
 
 Colorful coral reef close-up with vibrant neon-green and purple segmented plankton-like organisms swimming among fleshy coral polyps.
 
----
+## Why Coral Reef Plankton Visuals Are in Demand
 
-### 4 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![4 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0255_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_2_W_01_Previews.webp)
+High-quality coral reef plankton footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Colorful microscopic plankton swimming around coral polyps in an underwater reef scene.
+All **28 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![5 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0256_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_3_W_01__Previews.webp)
+## Common Use Cases
 
-Underwater close-up of neon green juvenile plankton shrimp on a textured coral reef.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![6 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0257_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_3_W_01_Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Underwater coral reef macro showing translucent juvenile planktonic crustaceans with bright green internal organs.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![7 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0258_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_4_W_01__Previews.webp)
+## Supported File Formats
 
-Underwater scene of pink coral polyps with tiny plankton and small creatures swimming among the reef.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![8 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0259_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_4_W_01_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Underwater coral reef scene with pink tubed coral structures and numerous tiny planktonic organisms.
+## Explore the Full Coral Reef Plankton Collection
 
----
+Ready to add **Coral Reef Plankton** visuals to your next project?
 
-### 9 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![9 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0260_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V2_W_01__Previews.webp)
-
-Underwater coral reef with tiny, colorful plankton and translucent micro crustaceans among pink-brown coral.
-
----
-
-### 10 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![10 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0261_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V2_W_01_Previews.webp)
-
-Underwater coral reef close-up featuring translucent green juvenile plankton among brown coral bubbles.
-
----
-
-### 11 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![11 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0262_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V4_W_01__Previews.webp)
-
-Underwater coral reef scene with pink ribbed coral structures and tiny yellow plankton among green, bulbous algae.
-
----
-
-### 12 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![12 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0263_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V4_W_01_Previews.webp)
-
-Macro underwater coral reef scene with wavy pink coral, green polyps, and tiny yellow plankton organisms.
-
----
-
-### 13 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![13 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0264_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V5_W_01__Previews.webp)
-
-Underwater coral reef scene with a juvenile plankton creature among textured coral polyps.
-
----
-
-### 14 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![14 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0265_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V5_W_01_Previews.webp)
-
-Tiny transparent shrimp amid colorful coral bubbles on the ocean floor.
-
----
-
-### 15 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![15 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0266_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V6_W_02__Previews.webp)
-
-Macro underwater scene of coral reef with tiny planktonic crustaceans among pink-purple corals.
-
----
-
-### 16 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![16 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0267_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V6_W_02_Previews.webp)
-
-Underwater coral reef with pink–purple corals and translucent planktonic crustaceans.
-
----
-
-### 17 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![17 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0268_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V7_W_01__Previews.webp)
-
-Underwater coral reef close-up with pink coral polyps and bright green and purple plankton-shaped organisms.
-
----
-
-### 18 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![18 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0269_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V7_W_01_Previews.webp)
-
-Close-up of a coral reef with pink coral polyps and neon-green planktonic organisms.
-
----
-
-### 19 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![19 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0270_01_Micro_03_Underwater_08_coral_reef_juvenile_plankton_v8_W_02__Previews.webp)
-
-Underwater coral reef close-up showing pink branching coral with small blue and orange plankton-like organisms on and around the surfaces.
-
----
-
-### 20 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![20 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0271_01_Micro_03_Underwater_08_coral_reef_juvenile_plankton_v8_W_02_Previews.webp)
-
-Underwater micro-scene of pink coral reef with juvenile plankton and colorful blue and orange microorganisms.
-
----
-
-### 21 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![21 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0272_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V9_W_01__Previews.webp)
-
-Vivid underwater coral reef scene with bright, segmented plankton and small reef invertebrates among pink coral.
-
----
-
-### 22 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![22 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0273_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_V9_W_01_Previews.webp)
-
-Underwater macro scene of a coral reef with juvenile plankton and colorful polyps.
-
----
-
-### 23 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![23 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0274_01_Micro_03_Underwater_08_coral_reef_juvenile_plankton_W_01__Previews.webp)
-
-Underwater macro scene of pink branching coral with tiny plankton drifting around.
-
----
-
-### 24 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![24 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0275_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_W_01__Previews.webp)
-
-Underwater macro shot of a coral reef featuring a juvenile planktonic shrimp among brown coral and colorful tiny organisms.
-
----
-
-### 25 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![25 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0276_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_W_01__Previews.webp)
-
-Underwater coral reef close-up showing colorful plankton and tiny organisms among orange-brown coral textures.
-
----
-
-### 26 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![26 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0277_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_W_01_Previews.webp)
-
-Underwater coral reef macro of a juvenile planktonic crustacean among coral polyps.
-
----
-
-### 27 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![27 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0278_01_Micro_03_Underwater_08_coral_reef_juvenile_plankton_W_01_Previews.webp)
-
-Underwater coral reef with pink branching coral and tiny planktonic organisms.
-
----
-
-### 28 Micro 03 Underwater 08 Coral Reef Juvenile Plankton
-![28 Micro 03 Underwater 08 Coral Reef Juvenile Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0279_01_Micro_03_Underwater_08_Coral_Reef_Juvenile_Plankton_W_01_Previews.webp)
-
-Underwater macro of a coral reef scene with colorful bubbles and tiny plankton organisms.
-
----
-
+[🌐 Browse Coral Reef Plankton on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/coral-reef-plankton.md){ .md-button }

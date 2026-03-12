@@ -1,94 +1,87 @@
-# Showcase: Metastatic
+# How to Use Metastatic Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cancer Cell](../subcategories/cancer-cell.md) → **Metastatic Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cancer Cell](../subcategories/cancer-cell.md) → **Metastatic Blog**
 
-Discover our **Metastatic** collection — 12 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+[🌐 Browse the Metastatic Collection](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Metastatic** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Metastatic** collection — 12 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 10 Cancer Cell 04 Metastatic
 ![1 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0984_01_Micro_10_Cancer_cell_04_Metastatic_W_01__Previews.webp)
 
 Metastatic cancer cell with numerous extending processes in a tissue-like matrix.
 
----
-
 ### 2 Micro 10 Cancer Cell 04 Metastatic
 ![2 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0985_01_Micro_10_Cancer_cell_04_Metastatic_W_01_Previews.webp)
 
 Metastatic cancer cell with long, branching processes invading surrounding tissue.
-
----
 
 ### 3 Micro 10 Cancer Cell 04 Metastatic
 ![3 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0986_01_Micro_10_Cancer_cell_04_Metastatic_W_02__Previews.webp)
 
 Colorized scene of metastatic cancer cells spreading on a tissue surface, with irregular tumor cells and long protrusions.
 
----
+## Why Metastatic Visuals Are in Demand
 
-### 4 Micro 10 Cancer Cell 04 Metastatic
-![4 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0987_01_Micro_10_Cancer_cell_04_Metastatic_W_02_Previews.webp)
+High-quality metastatic footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Metastatic cancer cells invading tissue, with long protrusions and clustered cell bodies.
+All **12 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 10 Cancer Cell 04 Metastatic
-![5 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0988_01_Micro_10_Cancer_cell_04_Metastatic_W_03__Previews.webp)
+## Common Use Cases
 
-Metastatic cancer cell micrograph with interconnected, branching tumor cells.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 10 Cancer Cell 04 Metastatic
-![6 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0989_01_Micro_10_Cancer_cell_04_Metastatic_W_04__Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Metastatic cancer cell micrograph with interconnected, branching tumor cells.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 10 Cancer Cell 04 Metastatic
-![7 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0990_01_Micro_10_Cancer_cell_04_Metastatic_W_05__Previews.webp)
+## Supported File Formats
 
-Color-enhanced micrograph of metastatic cancer cells with long surface projections among surrounding tissue, with blue circular cells nearby.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 10 Cancer Cell 04 Metastatic
-![8 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0991_01_Micro_10_Cancer_cell_04_Metastatic_W_06__Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Metastatic cancer cell with numerous branching extensions invading surrounding tissue.
+## Explore the Full Metastatic Collection
 
----
+Ready to add **Metastatic** visuals to your next project?
 
-### 9 Micro 10 Cancer Cell 04 Metastatic
-![9 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0992_01_Micro_10_Cancer_cell_04_Metastatic_W_07__Previews.webp)
-
-Colored electron micrograph of metastatic cancer cells interacting with a blue, web-like extracellular matrix.
-
----
-
-### 10 Micro 10 Cancer Cell 04 Metastatic
-![10 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0993_01_Micro_10_Cancer_cell_04_Metastatic_W_07_Previews.webp)
-
-Colorized micrograph of cancer cells with a blue fibrous extracellular matrix, illustrating metastasis.
-
----
-
-### 11 Micro 10 Cancer Cell 04 Metastatic
-![11 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0994_01_Micro_10_Cancer_cell_04_Metastatic_W_08__Previews.webp)
-
-Metastatic cancer cell with radiating extensions, surrounded by smaller blue/purple cells on a textured surface.
-
----
-
-### 12 Micro 10 Cancer Cell 04 Metastatic
-![12 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0995_01_Micro_10_Cancer_cell_04_Metastatic_W_08_Previews.webp)
-
-Metastatic cancer cell with numerous extensions spreading across a surface.
-
----
-
+[🌐 Browse Metastatic on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/metastatic.md){ .md-button }

@@ -1,197 +1,87 @@
-# Showcase: Sandwich
+# How to Use Sandwich Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Sandwich Showcase**
+🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Sandwich Blog**
 
-Discover our **Sandwich** collection — 31 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[🌐 Browse the Sandwich Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 ---
 
-### 09 Italian Sandwich 01
-A fresh Italian sandwich on a rustic loaf with mozzarella, basil, and cured meat, served with olive oil and balsamic on the side.
+## Introduction
 
----
+**Sandwich** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-### 09 Italian Sandwich 02
-A fresh Italian sandwich on a baguette with ham, mozzarella, basil, and sun-dried tomatoes, accompanied by olive oil on a wooden board.
+This guide explores how to use the **Sandwich** collection — 31 premium assets available in 4K/8K — across real creative workflows.
 
----
-
-### 09 Italian Sandwich 03
-Italian sandwich with mozzarella, prosciutto, sun-dried tomatoes, and fresh basil on a crusty baguette, served with olive oil on the side.
-
----
-
-### 09 Italian Sandwich 01
-Italian sandwich on a rustic wooden board, layered with mozzarella, tomato, basil, and cured meat, beside olive oil and a small dipping sauce.
-
----
-
-### 09 Italian Sandwich 02
-A hearty Italian sandwich with ham, fresh mozzarella, sun-dried tomatoes, and basil on a crusty baguette, accompanied by a small bowl of balsamic glaze on a rustic wooden table.
-
----
-
-### 09 Italian Sandwich 03
-Premium Italian sandwich on a crusty roll with fresh mozzarella, tomato, basil, and sliced ham, drizzled with olive oil.
-
----
-
-### 09 Italian Sandwich 04
-Italian sandwich with fresh mozzarella, basil, prosciutto, and sun-dried tomatoes on a crusty baguette, with a balsamic dip on the side.
-
----
-
-### 09 Italian Sandwich 01
-Italian sandwich with prosciutto, mozzarella, basil, and sun-dried tomatoes on a crusty baguette, finished with olive oil.
-
----
-
-### 09 Italian Sandwich 02
-Crusty Italian sandwich layered with arugula, prosciutto, mozzarella and pesto.
-
----
-
-### 09 Italian Sandwich 03
-A rustic Italian sandwich with thinly sliced prosciutto, fresh mozzarella, arugula, and vibrant pesto on a crusty loaf.
-
----
-
-### 09 Italian Sandwich 04
-A hearty Italian sandwich on crusty bread with prosciutto, mozzarella, onions, greens, and a touch of pesto.
-
----
-
-### 09 Italian Sandwich 05
-A rustic Italian sandwich on crusty bread with prosciutto, melted mozzarella, fresh greens, and vibrant pesto.
-
----
-
-### 09 Italian Sandwich 06
-Premium Italian sandwich layered with mozzarella, ham, sun-dried tomatoes, and fresh basil on a crusty baguette, finished with olive oil.
-
----
-
-### 09 Italian Sandwich 07
-A hearty Italian sandwich on a crusty baguette filled with sliced ham, mozzarella, sun-dried tomatoes, and fresh basil, drizzled with olive oil.
-
----
-
-### 09 Italian Sandwich 08
-High-quality shot of an Italian sandwich on a crusty baguette, filled with prosciutto, mozzarella, fresh basil, sun-dried tomatoes, and a drizzle of olive oil.
-
----
+## Visual Highlights
 
 ### 09 Italian Sandwich 01 
 ![09 Italian Sandwich 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00285_09_Italian_Sandwich_S_01_Previews.webp)
 
 Italian sandwich with prosciutto, mozzarella, sun-dried tomatoes and fresh basil on a crusty baguette, drizzled with olive oil.
 
----
-
 ### 09 Italian Sandwich 02 
 ![09 Italian Sandwich 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00286_09_Italian_Sandwich_S_02_Previews.webp)
 
 An Italian-style baguette sandwich filled with mozzarella, basil, prosciutto, and sun-dried tomatoes on a wooden board with a bottle of olive oil in the background.
-
----
 
 ### 09 Italian Sandwich 03 
 ![09 Italian Sandwich 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00287_09_Italian_Sandwich_S_03_Previews.webp)
 
 Italian sandwich with mozzarella, prosciutto, fresh basil, and sun-dried tomatoes on a crusty baguette, served with olive oil.
 
----
+## Why Sandwich Visuals Are in Demand
 
-### 09 Italian Sandwich 04 
-![09 Italian Sandwich 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00288_09_Italian_Sandwich_S_04_Previews.webp)
+High-quality sandwich footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Italian sandwich with mozzarella, prosciutto, fresh basil, and sun-dried tomatoes on a crusty baguette, served with olive oil.
+All **31 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 10 Italian Sandwich 05
-![10 Italian Sandwich 05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00289_09_Italian_Sandwich_V_01_Previews.webp)
+## Common Use Cases
 
-An Italian sandwich with basil, mozzarella, ham, and sun-dried tomatoes on a crusty baguette, served on parchment with a small bowl of balsamic glaze.
+- 📱 Instagram Reels, TikTok food videos, and YouTube Shorts
+- 🎬 Restaurant ads, delivery app promotions, and brand storytelling
+- 🍴 Food blog visuals, cookbook pages, and menu photography
+- 📺 Food documentary B-roll and culinary travel content
+- 🖨️ Menu printing, poster design, and in-store display boards
+- 🎨 Canva social media templates for food and hospitality brands
 
----
+## How to Use in Your Editing Software
 
-### 10 Italian Sandwich 06
-![10 Italian Sandwich 06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00290_09_Italian_Sandwich_V_02_Previews.webp)
+Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for food video production. Use JPEG assets in **Canva**, **Adobe InDesign**, or **Photoshop** for print and social media design.
 
-An Italian sandwich on a crusty baguette with mozzarella, fresh basil, sun-dried tomatoes and ham, served with a small bowl of balsamic glaze on a metal tray.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 10 Italian Sandwich 07
-![10 Italian Sandwich 07](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00291_09_Italian_Sandwich_V_03_Previews.webp)
+## Supported File Formats
 
-A fresh Italian-style sandwich on a crusty baguette, filled with ham, mozzarella, sun-dried tomatoes, and basil, served on a wooden board with a small cup of balsamic glaze and a bottle of olive oil in the background.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 10 Italian Sandwich 08
-![10 Italian Sandwich 08](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00292_09_Italian_Sandwich_V_04_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-An Italian sandwich with prosciutto, mozzarella, fresh basil, and sun-dried tomatoes on a crusty baguette, served with olive oil.
+## Explore the Full Sandwich Collection
 
----
+Ready to add **Sandwich** visuals to your next project?
 
-### 10 Italian Sandwich 01
-![10 Italian Sandwich 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00293_09_Italian_Sandwich_W_01_Previews.webp)
-
-Crusty Italian sandwich with prosciutto, fresh mozzarella, arugula, and pesto.
-
----
-
-### 10 Italian Sandwich 02
-![10 Italian Sandwich 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00294_09_Italian_Sandwich_W_02_Previews.webp)
-
-Rustic Italian sandwich with prosciutto, mozzarella, arugula, tomato, and pesto on crusty bread, halved on a wooden board.
-
----
-
-### 10 Italian Sandwich 03
-![10 Italian Sandwich 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00295_09_Italian_Sandwich_W_03_Previews.webp)
-
-Italian sandwich with cured meats, mozzarella, arugula and pesto on crusty bread, served on a wooden board.
-
----
-
-### 10 Italian Sandwich 04
-![10 Italian Sandwich 04](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00296_09_Italian_Sandwich_W_04_Previews.webp)
-
-Crusty sandwich layered with prosciutto, arugula, burrata, and vibrant basil pesto.
-
----
-
-### 11 Italian Sandwich 05
-![11 Italian Sandwich 05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00297_09_Italian_Sandwich_W_05_Previews.webp)
-
-Italian sandwich with mozzarella, prosciutto, sun-dried tomatoes, and fresh basil on a crusty baguette, served with olive oil.
-
----
-
-### 11 Italian Sandwich 06
-![11 Italian Sandwich 06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00298_09_Italian_Sandwich_W_06_Previews.webp)
-
-Italian sandwich with mozzarella, basil, ham, and sun-dried tomatoes on a crusty baguette.
-
----
-
-### 11 Italian Sandwich 07
-![11 Italian Sandwich 07](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00299_09_Italian_Sandwich_W_07_Previews.webp)
-
-Italian sandwich with ham, mozzarella, sun-dried tomatoes, and fresh basil on a crusty baguette.
-
----
-
-### 11 Italian Sandwich 08
-![11 Italian Sandwich 08](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00300_09_Italian_Sandwich_W_08_Previews.webp)
-
-Italian sandwich with basil, mozzarella, ham and sun-dried tomatoes on a crusty baguette.
-
----
-
+[🌐 Browse Sandwich on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/sandwich.md){ .md-button }

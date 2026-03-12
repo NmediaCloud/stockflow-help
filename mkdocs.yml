@@ -6,6 +6,10 @@ theme:
   name: material
   favicon: assets/favicon.svg
 
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 nav:
   - Home: index.md
   - Mission: mission.md
@@ -196,153 +200,153 @@ nav:
       - Usage in Documentaries: blog/documentary-visuals.md
       - 8K Images for Print: blog/8k-images-print.md
       - Social Media Visuals: blog/social-media-posts.md
-      - Agar Plate Showcase: blog/agar-plate-showcase.md
-      - Aggressive Showcase: blog/aggressive-showcase.md
-      - Algae Bloom Showcase: blog/algae-bloom-showcase.md
-      - Algae cells Showcase: blog/algae-cells-showcase.md
-      - Algal Biofilm Showcase: blog/algal-biofilm-showcase.md
-      - Algal Cells Showcase: blog/algal-cells-showcase.md
-      - Alien organism Showcase: blog/alien-organism-showcase.md
-      - Alzheimer Showcase: blog/alzheimer-showcase.md
-      - Amoebas Showcase: blog/amoebas-showcase.md
-      - Anemia Showcase: blog/anemia-showcase.md
-      - Aspergillus fungi Showcase: blog/aspergillus-fungi-showcase.md
-      - Bacillus Showcase: blog/bacillus-showcase.md
-      - Bacterial cell Showcase: blog/bacterial-cell-showcase.md
-      - Basal Showcase: blog/basal-showcase.md
-      - Basidiospores Showcase: blog/basidiospores-showcase.md
-      - Biofilm Showcase: blog/biofilm-showcase.md
-      - Bioluminescent Showcase: blog/bioluminescent-showcase.md
-      - Biriyani Showcase: blog/biriyani-showcase.md
-      - Blue Green Algae Showcase: blog/blue-green-algae-showcase.md
-      - Breast Showcase: blog/breast-showcase.md
-      - Breast Cancer Showcase: blog/breast-cancer-showcase.md
-      - Brown Algae Showcase: blog/brown-algae-showcase.md
-      - Burgers Showcase: blog/burgers-showcase.md
-      - Buritos Showcase: blog/buritos-showcase.md
-      - Butter Chiken Showcase: blog/butter-chiken-showcase.md
-      - Caenorhabditis Elegans Showcase: blog/caenorhabditis-elegans-showcase.md
-      - Cellular Showcase: blog/cellular-showcase.md
-      - Cervical Cells Showcase: blog/cervical-cells-showcase.md
-      - Chemotherapy Showcase: blog/chemotherapy-showcase.md
-      - Chicken Dinner Showcase: blog/chicken-dinner-showcase.md
-      - Chicken Fry Showcase: blog/chicken-fry-showcase.md
-      - Cocci Showcase: blog/cocci-showcase.md
-      - Colon Polyp Showcase: blog/colon-polyp-showcase.md
-      - Colonial Algae Showcase: blog/colonial-algae-showcase.md
-      - Colonizing Showcase: blog/colonizing-showcase.md
-      - Compost Showcase: blog/compost-showcase.md
-      - Coral Reef Plankton Showcase: blog/coral-reef-plankton-showcase.md
-      - Crawling On Algae Showcase: blog/crawling-on-algae-showcase.md
-      - Cryptosporidium Showcase: blog/cryptosporidium-showcase.md
-      - Dandelion Showcase: blog/dandelion-showcase.md
-      - Decay Showcase: blog/decay-showcase.md
-      - Desmids Showcase: blog/desmids-showcase.md
-      - Diatom Showcase: blog/diatom-showcase.md
-      - Diatom shell Showcase: blog/diatom-shell-showcase.md
-      - Diatoms Showcase: blog/diatoms-showcase.md
-      - Dosa Showcase: blog/dosa-showcase.md
-      - E. Coli Showcase: blog/e-coli-showcase.md
-      - Eczema Showcase: blog/eczema-showcase.md
-      - Euglena And Green Algae Showcase: blog/euglena-and-green-algae-showcase.md
-      - Euglena cell Showcase: blog/euglena-cell-showcase.md
-      - Eukaryotic cell under Showcase: blog/eukaryotic-cell-under-showcase.md
-      - Fish Dinner Showcase: blog/fish-dinner-showcase.md
-      - Flatworm Larvae Showcase: blog/flatworm-larvae-showcase.md
-      - Flatworms Showcase: blog/flatworms-showcase.md
-      - Fluorescence Showcase: blog/fluorescence-showcase.md
-      - Fungal Showcase: blog/fungal-showcase.md
-      - Fungal Penetration Showcase: blog/fungal-penetration-showcase.md
-      - Fungal ecosystem Showcase: blog/fungal-ecosystem-showcase.md
-      - Giardia Lamblia Showcase: blog/giardia-lamblia-showcase.md
-      - Glioblastoma Showcase: blog/glioblastoma-showcase.md
-      - Green Algae Showcase: blog/green-algae-showcase.md
-      - Healthy Cells Showcase: blog/healthy-cells-showcase.md
-      - Hepatitis Showcase: blog/hepatitis-showcase.md
-      - Hyphae Showcase: blog/hyphae-showcase.md
-      - Idly Vada Showcase: blog/idly-vada-showcase.md
-      - IdlyVada Showcase: blog/idlyvada-showcase.md
-      - Immune Showcase: blog/immune-showcase.md
-      - In Compost Showcase: blog/in-compost-showcase.md
-      - Intracellular Showcase: blog/intracellular-showcase.md
-      - Kidney Showcase: blog/kidney-showcase.md
-      - Lavender Showcase: blog/lavender-showcase.md
-      - Leishmania Showcase: blog/leishmania-showcase.md
-      - Leukemia Showcase: blog/leukemia-showcase.md
-      - Lichen Showcase: blog/lichen-showcase.md
-      - Liver Cirrhosis Showcase: blog/liver-cirrhosis-showcase.md
-      - Lotus Starburst Showcase: blog/lotus-starburst-showcase.md
-      - Lung Tissue Showcase: blog/lung-tissue-showcase.md
-      - Marine Plankton Showcase: blog/marine-plankton-showcase.md
-      - Melanoma Showcase: blog/melanoma-showcase.md
-      - Membrane Showcase: blog/membrane-showcase.md
-      - Metastatic Showcase: blog/metastatic-showcase.md
-      - Mitochondria Showcase: blog/mitochondria-showcase.md
-      - Multiple Sclerosis Showcase: blog/multiple-sclerosis-showcase.md
-      - Mutations Showcase: blog/mutations-showcase.md
-      - Mycelium Showcase: blog/mycelium-showcase.md
-      - Nematode Lifecycle Showcase: blog/nematode-lifecycle-showcase.md
-      - Nematode worms Showcase: blog/nematode-worms-showcase.md
-      - Neuroblastoma Showcase: blog/neuroblastoma-showcase.md
-      - Nmeatode Showcase: blog/nmeatode-showcase.md
-      - Noodles Showcase: blog/noodles-showcase.md
-      - Orchid Pollinium Showcase: blog/orchid-pollinium-showcase.md
-      - Organisms Showcase: blog/organisms-showcase.md
-      - Paramecium Showcase: blog/paramecium-showcase.md
-      - Parasite Showcase: blog/parasite-showcase.md
-      - Parasitic Worms Showcase: blog/parasitic-worms-showcase.md
-      - Parasitic worm Showcase: blog/parasitic-worm-showcase.md
-      - Pathogenic Showcase: blog/pathogenic-showcase.md
-      - Peanut Hex Surface Showcase: blog/peanut-hex-surface-showcase.md
-      - Penicillium mold Showcase: blog/penicillium-mold-showcase.md
-      - Pine Winged Showcase: blog/pine-winged-showcase.md
-      - Pizza Showcase: blog/pizza-showcase.md
-      - Plankton Showcase: blog/plankton-showcase.md
-      - Planktonic Showcase: blog/planktonic-showcase.md
-      - Plant Cell Showcase: blog/plant-cell-showcase.md
-      - Plasmodium Showcase: blog/plasmodium-showcase.md
-      - Prostate Showcase: blog/prostate-showcase.md
-      - Protozoa Showcase: blog/protozoa-showcase.md
-      - Protozoa And Algae Showcase: blog/protozoa-and-algae-showcase.md
-      - Psoriatic Showcase: blog/psoriatic-showcase.md
-      - Ragweed Showcase: blog/ragweed-showcase.md
-      - Red Algae Showcase: blog/red-algae-showcase.md
-      - Remen Showcase: blog/remen-showcase.md
-      - Resistant Bacteria Showcase: blog/resistant-bacteria-showcase.md
-      - Rhizopus sporangia Showcase: blog/rhizopus-sporangia-showcase.md
-      - Rotifers Showcase: blog/rotifers-showcase.md
-      - Sandwich Showcase: blog/sandwich-showcase.md
-      - Schistosoma Showcase: blog/schistosoma-showcase.md
-      - Seawater Droplet Showcase: blog/seawater-droplet-showcase.md
-      - Sickle Cell Showcase: blog/sickle-cell-showcase.md
-      - Single Celled Organisms Showcase: blog/single-celled-organisms-showcase.md
-      - Spinal Cord Showcase: blog/spinal-cord-showcase.md
-      - Spirochete Showcase: blog/spirochete-showcase.md
-      - Spirogyra Showcase: blog/spirogyra-showcase.md
-      - Sporangia Showcase: blog/sporangia-showcase.md
-      - Squamous Showcase: blog/squamous-showcase.md
-      - Stake Showcase: blog/stake-showcase.md
-      - Sunflower Showcase: blog/sunflower-showcase.md
-      - Suzhi Showcase: blog/suzhi-showcase.md
-      - Tardigrade Showcase: blog/tardigrade-showcase.md
-      - Tetani Showcase: blog/tetani-showcase.md
-      - Thai Curry Showcase: blog/thai-curry-showcase.md
-      - Thai Noodle Soup Showcase: blog/thai-noodle-soup-showcase.md
-      - Thrombocytopenia Showcase: blog/thrombocytopenia-showcase.md
-      - Tikka Masala Showcase: blog/tikka-masala-showcase.md
-      - Toxoplasma Showcase: blog/toxoplasma-showcase.md
-      - Toxoplasma Gondii Showcase: blog/toxoplasma-gondii-showcase.md
-      - Trypanosoma Showcase: blog/trypanosoma-showcase.md
-      - Tuberculosis Showcase: blog/tuberculosis-showcase.md
-      - Tumor Showcase: blog/tumor-showcase.md
-      - Turbellarians Showcase: blog/turbellarians-showcase.md
-      - Viruses Showcase: blog/viruses-showcase.md
-      - Vitiligo Showcase: blog/vitiligo-showcase.md
-      - Worm Showcase: blog/worm-showcase.md
-      - Yeast Cells Showcase: blog/yeast-cells-showcase.md
-      - Yeast cells Showcase: blog/yeast-cells-showcase.md
-      - Zygomycete Showcase: blog/zygomycete-showcase.md
-      - protozoa Showcase: blog/protozoa-showcase.md
-      - red and white blood cells Showcase: blog/red-and-white-blood-cells-showcase.md
-      - tardigrade Showcase: blog/tardigrade-showcase.md
-      - yeast and mold Showcase: blog/yeast-and-mold-showcase.md
+      - Agar Plate Guide: blog/agar-plate-showcase.md
+      - Aggressive Guide: blog/aggressive-showcase.md
+      - Algae Bloom Guide: blog/algae-bloom-showcase.md
+      - Algae cells Guide: blog/algae-cells-showcase.md
+      - Algal Biofilm Guide: blog/algal-biofilm-showcase.md
+      - Algal Cells Guide: blog/algal-cells-showcase.md
+      - Alien organism Guide: blog/alien-organism-showcase.md
+      - Alzheimer Guide: blog/alzheimer-showcase.md
+      - Amoebas Guide: blog/amoebas-showcase.md
+      - Anemia Guide: blog/anemia-showcase.md
+      - Aspergillus fungi Guide: blog/aspergillus-fungi-showcase.md
+      - Bacillus Guide: blog/bacillus-showcase.md
+      - Bacterial cell Guide: blog/bacterial-cell-showcase.md
+      - Basal Guide: blog/basal-showcase.md
+      - Basidiospores Guide: blog/basidiospores-showcase.md
+      - Biofilm Guide: blog/biofilm-showcase.md
+      - Bioluminescent Guide: blog/bioluminescent-showcase.md
+      - Biriyani Guide: blog/biriyani-showcase.md
+      - Blue Green Algae Guide: blog/blue-green-algae-showcase.md
+      - Breast Guide: blog/breast-showcase.md
+      - Breast Cancer Guide: blog/breast-cancer-showcase.md
+      - Brown Algae Guide: blog/brown-algae-showcase.md
+      - Burgers Guide: blog/burgers-showcase.md
+      - Buritos Guide: blog/buritos-showcase.md
+      - Butter Chiken Guide: blog/butter-chiken-showcase.md
+      - Caenorhabditis Elegans Guide: blog/caenorhabditis-elegans-showcase.md
+      - Cellular Guide: blog/cellular-showcase.md
+      - Cervical Cells Guide: blog/cervical-cells-showcase.md
+      - Chemotherapy Guide: blog/chemotherapy-showcase.md
+      - Chicken Dinner Guide: blog/chicken-dinner-showcase.md
+      - Chicken Fry Guide: blog/chicken-fry-showcase.md
+      - Cocci Guide: blog/cocci-showcase.md
+      - Colon Polyp Guide: blog/colon-polyp-showcase.md
+      - Colonial Algae Guide: blog/colonial-algae-showcase.md
+      - Colonizing Guide: blog/colonizing-showcase.md
+      - Compost Guide: blog/compost-showcase.md
+      - Coral Reef Plankton Guide: blog/coral-reef-plankton-showcase.md
+      - Crawling On Algae Guide: blog/crawling-on-algae-showcase.md
+      - Cryptosporidium Guide: blog/cryptosporidium-showcase.md
+      - Dandelion Guide: blog/dandelion-showcase.md
+      - Decay Guide: blog/decay-showcase.md
+      - Desmids Guide: blog/desmids-showcase.md
+      - Diatom Guide: blog/diatom-showcase.md
+      - Diatom shell Guide: blog/diatom-shell-showcase.md
+      - Diatoms Guide: blog/diatoms-showcase.md
+      - Dosa Guide: blog/dosa-showcase.md
+      - E. Coli Guide: blog/e-coli-showcase.md
+      - Eczema Guide: blog/eczema-showcase.md
+      - Euglena And Green Algae Guide: blog/euglena-and-green-algae-showcase.md
+      - Euglena cell Guide: blog/euglena-cell-showcase.md
+      - Eukaryotic cell under Guide: blog/eukaryotic-cell-under-showcase.md
+      - Fish Dinner Guide: blog/fish-dinner-showcase.md
+      - Flatworm Larvae Guide: blog/flatworm-larvae-showcase.md
+      - Flatworms Guide: blog/flatworms-showcase.md
+      - Fluorescence Guide: blog/fluorescence-showcase.md
+      - Fungal Guide: blog/fungal-showcase.md
+      - Fungal Penetration Guide: blog/fungal-penetration-showcase.md
+      - Fungal ecosystem Guide: blog/fungal-ecosystem-showcase.md
+      - Giardia Lamblia Guide: blog/giardia-lamblia-showcase.md
+      - Glioblastoma Guide: blog/glioblastoma-showcase.md
+      - Green Algae Guide: blog/green-algae-showcase.md
+      - Healthy Cells Guide: blog/healthy-cells-showcase.md
+      - Hepatitis Guide: blog/hepatitis-showcase.md
+      - Hyphae Guide: blog/hyphae-showcase.md
+      - Idly Vada Guide: blog/idly-vada-showcase.md
+      - IdlyVada Guide: blog/idlyvada-showcase.md
+      - Immune Guide: blog/immune-showcase.md
+      - In Compost Guide: blog/in-compost-showcase.md
+      - Intracellular Guide: blog/intracellular-showcase.md
+      - Kidney Guide: blog/kidney-showcase.md
+      - Lavender Guide: blog/lavender-showcase.md
+      - Leishmania Guide: blog/leishmania-showcase.md
+      - Leukemia Guide: blog/leukemia-showcase.md
+      - Lichen Guide: blog/lichen-showcase.md
+      - Liver Cirrhosis Guide: blog/liver-cirrhosis-showcase.md
+      - Lotus Starburst Guide: blog/lotus-starburst-showcase.md
+      - Lung Tissue Guide: blog/lung-tissue-showcase.md
+      - Marine Plankton Guide: blog/marine-plankton-showcase.md
+      - Melanoma Guide: blog/melanoma-showcase.md
+      - Membrane Guide: blog/membrane-showcase.md
+      - Metastatic Guide: blog/metastatic-showcase.md
+      - Mitochondria Guide: blog/mitochondria-showcase.md
+      - Multiple Sclerosis Guide: blog/multiple-sclerosis-showcase.md
+      - Mutations Guide: blog/mutations-showcase.md
+      - Mycelium Guide: blog/mycelium-showcase.md
+      - Nematode Lifecycle Guide: blog/nematode-lifecycle-showcase.md
+      - Nematode worms Guide: blog/nematode-worms-showcase.md
+      - Neuroblastoma Guide: blog/neuroblastoma-showcase.md
+      - Nmeatode Guide: blog/nmeatode-showcase.md
+      - Noodles Guide: blog/noodles-showcase.md
+      - Orchid Pollinium Guide: blog/orchid-pollinium-showcase.md
+      - Organisms Guide: blog/organisms-showcase.md
+      - Paramecium Guide: blog/paramecium-showcase.md
+      - Parasite Guide: blog/parasite-showcase.md
+      - Parasitic Worms Guide: blog/parasitic-worms-showcase.md
+      - Parasitic worm Guide: blog/parasitic-worm-showcase.md
+      - Pathogenic Guide: blog/pathogenic-showcase.md
+      - Peanut Hex Surface Guide: blog/peanut-hex-surface-showcase.md
+      - Penicillium mold Guide: blog/penicillium-mold-showcase.md
+      - Pine Winged Guide: blog/pine-winged-showcase.md
+      - Pizza Guide: blog/pizza-showcase.md
+      - Plankton Guide: blog/plankton-showcase.md
+      - Planktonic Guide: blog/planktonic-showcase.md
+      - Plant Cell Guide: blog/plant-cell-showcase.md
+      - Plasmodium Guide: blog/plasmodium-showcase.md
+      - Prostate Guide: blog/prostate-showcase.md
+      - Protozoa Guide: blog/protozoa-showcase.md
+      - Protozoa And Algae Guide: blog/protozoa-and-algae-showcase.md
+      - Psoriatic Guide: blog/psoriatic-showcase.md
+      - Ragweed Guide: blog/ragweed-showcase.md
+      - Red Algae Guide: blog/red-algae-showcase.md
+      - Remen Guide: blog/remen-showcase.md
+      - Resistant Bacteria Guide: blog/resistant-bacteria-showcase.md
+      - Rhizopus sporangia Guide: blog/rhizopus-sporangia-showcase.md
+      - Rotifers Guide: blog/rotifers-showcase.md
+      - Sandwich Guide: blog/sandwich-showcase.md
+      - Schistosoma Guide: blog/schistosoma-showcase.md
+      - Seawater Droplet Guide: blog/seawater-droplet-showcase.md
+      - Sickle Cell Guide: blog/sickle-cell-showcase.md
+      - Single Celled Organisms Guide: blog/single-celled-organisms-showcase.md
+      - Spinal Cord Guide: blog/spinal-cord-showcase.md
+      - Spirochete Guide: blog/spirochete-showcase.md
+      - Spirogyra Guide: blog/spirogyra-showcase.md
+      - Sporangia Guide: blog/sporangia-showcase.md
+      - Squamous Guide: blog/squamous-showcase.md
+      - Stake Guide: blog/stake-showcase.md
+      - Sunflower Guide: blog/sunflower-showcase.md
+      - Suzhi Guide: blog/suzhi-showcase.md
+      - Tardigrade Guide: blog/tardigrade-showcase.md
+      - Tetani Guide: blog/tetani-showcase.md
+      - Thai Curry Guide: blog/thai-curry-showcase.md
+      - Thai Noodle Soup Guide: blog/thai-noodle-soup-showcase.md
+      - Thrombocytopenia Guide: blog/thrombocytopenia-showcase.md
+      - Tikka Masala Guide: blog/tikka-masala-showcase.md
+      - Toxoplasma Guide: blog/toxoplasma-showcase.md
+      - Toxoplasma Gondii Guide: blog/toxoplasma-gondii-showcase.md
+      - Trypanosoma Guide: blog/trypanosoma-showcase.md
+      - Tuberculosis Guide: blog/tuberculosis-showcase.md
+      - Tumor Guide: blog/tumor-showcase.md
+      - Turbellarians Guide: blog/turbellarians-showcase.md
+      - Viruses Guide: blog/viruses-showcase.md
+      - Vitiligo Guide: blog/vitiligo-showcase.md
+      - Worm Guide: blog/worm-showcase.md
+      - Yeast Cells Guide: blog/yeast-cells-showcase.md
+      - Yeast cells Guide: blog/yeast-cells-showcase.md
+      - Zygomycete Guide: blog/zygomycete-showcase.md
+      - protozoa Guide: blog/protozoa-showcase.md
+      - red and white blood cells Guide: blog/red-and-white-blood-cells-showcase.md
+      - tardigrade Guide: blog/tardigrade-showcase.md
+      - yeast and mold Guide: blog/yeast-and-mold-showcase.md

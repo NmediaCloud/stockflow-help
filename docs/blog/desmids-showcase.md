@@ -1,94 +1,87 @@
-# Showcase: Desmids
+# How to Use Desmids Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Algae](../subcategories/algae.md) → **Desmids Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Algae](../subcategories/algae.md) → **Desmids Blog**
 
-Discover our **Desmids** collection — 12 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[🌐 Browse the Desmids Collection](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Desmids** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Desmids** collection — 12 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 06 Algae 09 Desmids
 ![1 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0589_01_Micro_06_Algae_09_Desmids_W_01__Previews.webp)
 
 Microscopic view of Desmids algae, showing green, chloroplast-filled cells arranged in network-like structures.
 
----
-
 ### 2 Micro 06 Algae 09 Desmids
 ![2 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0590_01_Micro_06_Algae_09_Desmids_W_01_Previews.webp)
 
 Close-up of green algae cells (desmids) in a vivid, interconnected cluster.
-
----
 
 ### 3 Micro 06 Algae 09 Desmids
 ![3 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0591_01_Micro_06_Algae_09_Desmids_W_02__Previews.webp)
 
 Desmids (green algae) with intricately segmented, leafy colonies and bright green chloroplasts.
 
----
+## Why Desmids Visuals Are in Demand
 
-### 4 Micro 06 Algae 09 Desmids
-![4 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0592_01_Micro_06_Algae_09_Desmids_W_02_Previews.webp)
+High-quality desmids footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Microscopic view of green desmid algae cells with intricate, segmented internal structures forming jewel-like colonies.
+All **12 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 06 Algae 09 Desmids
-![5 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0593_01_Micro_06_Algae_09_Desmids_W_03__Previews.webp)
+## Common Use Cases
 
-Close-up of Desmid freshwater algae cells, showing bright green chloroplast-rich compartments arranged in paired, connected halves.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 06 Algae 09 Desmids
-![6 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0594_01_Micro_06_Algae_09_Desmids_W_04__Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Close-up of Desmid freshwater algae cells, showing bright green chloroplast-rich compartments arranged in paired, connected halves.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 06 Algae 09 Desmids
-![7 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0595_01_Micro_06_Algae_09_Desmids_W_05__Previews.webp)
+## Supported File Formats
 
-Microscopic view of green desmid algae cells with thick walls and jewel-like internal chloroplasts and granules.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 06 Algae 09 Desmids
-![8 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0596_01_Micro_06_Algae_09_Desmids_W_06__Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Desmid green microalgae cells with segmented, mitten-shaped bodies packed with numerous chloroplasts.
+## Explore the Full Desmids Collection
 
----
+Ready to add **Desmids** visuals to your next project?
 
-### 9 Micro 06 Algae 09 Desmids
-![9 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0597_01_Micro_06_Algae_09_Desmids_W_07__Previews.webp)
-
-Desmid green microalgae cells with segmented, mitten-shaped bodies packed with numerous chloroplasts.
-
----
-
-### 10 Micro 06 Algae 09 Desmids
-![10 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0598_01_Micro_06_Algae_09_Desmids_W_07_Previews.webp)
-
-Desmid green microalgae cells with segmented, mitten-shaped bodies packed with numerous chloroplasts.
-
----
-
-### 11 Micro 06 Algae 09 Desmids
-![11 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0599_01_Micro_06_Algae_09_Desmids_W_08__Previews.webp)
-
-Micrograph of desmid green algae (Desmids) showing detailed cellular structure.
-
----
-
-### 12 Micro 06 Algae 09 Desmids
-![12 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0600_01_Micro_06_Algae_09_Desmids_W_08_Previews.webp)
-
-Microscopic image of green algae (Desmids) showing interconnected cells and bright chloroplast-rich interiors.
-
----
-
+[🌐 Browse Desmids on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/desmids.md){ .md-button }

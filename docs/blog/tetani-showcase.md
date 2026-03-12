@@ -1,59 +1,87 @@
-# Showcase: Tetani
+# How to Use Tetani Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Tetani Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Tetani Blog**
 
-Discover our **Tetani** collection — 7 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[🌐 Browse the Tetani Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Tetani** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Tetani** collection — 7 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 07 Bacteria 09 Tetani
 ![1 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0709_01_Micro_07_Bacteria_09_Tetani_01_W_01__Previews.webp)
 
 Blue microscopic image of Tetani bacteria arranged in a chain.
 
----
-
 ### 2 Micro 07 Bacteria 09 Tetani
 ![2 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0710_01_Micro_07_Bacteria_09_Tetani_01_W_01_Previews.webp)
 
 Blue-tinted microscopic view of rod-shaped bacteria connected in a chain.
-
----
 
 ### 3 Micro 07 Bacteria 09 Tetani
 ![3 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0711_01_Micro_07_Bacteria_09_Tetani_01_W_02__Previews.webp)
 
 Fluorescent blue rod-shaped bacteria (bacilli) with small green spheres against a dark background.
 
----
+## Why Tetani Visuals Are in Demand
 
-### 4 Micro 07 Bacteria 09 Tetani
-![4 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0712_01_Micro_07_Bacteria_09_Tetani_01_W_02_Previews.webp)
+High-quality tetani footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Clostridium tetani bacteria (rod-shaped) imaged under fluorescence with small circular structures attached.
+All **7 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 07 Bacteria 09 Tetani
-![5 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0713_01_Micro_07_Bacteria_09_Tetani_01_W_03__Previews.webp)
+## Common Use Cases
 
-Fluorescent blue rod-shaped bacteria (bacilli) in a dark background.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 07 Bacteria 09 Tetani
-![6 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0714_01_Micro_07_Bacteria_09_Tetani_01_W_04__Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Fluorescent blue micrograph of Tetani bacteria, rod-shaped cells often in pairs, against a dark background.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 07 Bacteria 09 Tetani
-![7 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0715_01_Micro_07_Bacteria_09_Tetani_01_W_04_Previews.webp)
+## Supported File Formats
 
-Blue-stained rod-shaped bacteria arranged in short chains.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
+
+## Explore the Full Tetani Collection
+
+Ready to add **Tetani** visuals to your next project?
+
+[🌐 Browse Tetani on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/tetani.md){ .md-button }

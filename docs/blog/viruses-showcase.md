@@ -1,66 +1,87 @@
-# Showcase: Viruses
+# How to Use Viruses Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cancer Cell](../subcategories/cancer-cell.md) → **Viruses Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cancer Cell](../subcategories/cancer-cell.md) → **Viruses Blog**
 
-Discover our **Viruses** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+[🌐 Browse the Viruses Collection](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Viruses** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Viruses** collection — 8 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 10 Cancer Cell 03 (TEM) Of Viruses
 ![1 Micro 10 Cancer Cell 03 (TEM) Of Viruses](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0964_01_Micro_10_Cancer_cell_03_(Tem)_Of_Viruses_W_01__Previews.webp)
 
 Colorized microscopic view of cancer cells with virus particles.
 
----
-
 ### 2 Micro 10 Cancer Cell 03 (TEM) Of Viruses
 ![2 Micro 10 Cancer Cell 03 (TEM) Of Viruses](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0965_01_Micro_10_Cancer_cell_03_(Tem)_Of_Viruses_W_01_Previews.webp)
 
 Colorized micrograph showing orange cancer cells with blue virus particles nearby.
-
----
 
 ### 3 Micro 10 Cancer Cell 03 (TEM) Of Viruses
 ![3 Micro 10 Cancer Cell 03 (TEM) Of Viruses](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0966_01_Micro_10_Cancer_cell_03_(Tem)_Of_Viruses_W_02__Previews.webp)
 
 Colored close-up of cancer cells and surrounding viruses/bacteria under a microscope.
 
----
+## Why Viruses Visuals Are in Demand
 
-### 4 Micro 10 Cancer Cell 03 (TEM) Of Viruses
-![4 Micro 10 Cancer Cell 03 (TEM) Of Viruses](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0967_01_Micro_10_Cancer_cell_03_(Tem)_Of_Viruses_W_02_Previews.webp)
+High-quality viruses footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Color-enhanced microscopic view of a cancer cell with surrounding microbes.
+All **8 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 10 Cancer Cell 03 (TEM) Of Viruses
-![5 Micro 10 Cancer Cell 03 (TEM) Of Viruses](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0968_01_Micro_10_Cancer_cell_03_(Tem)_Of_Viruses_W_03__Previews.webp)
+## Common Use Cases
 
-Microscopic view of cancer cells and viruses floating against a dark background, showing round, spiky viral particles and rod-shaped bacteria.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 10 Cancer Cell 03 (TEM) Of Viruses
-![6 Micro 10 Cancer Cell 03 (TEM) Of Viruses](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0969_01_Micro_10_Cancer_cell_03_(Tem)_Of_Viruses_W_03_Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Colorized micrograph of a cancer cell surrounded by virus-like particles.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 10 Cancer Cell 03 (TEM) Of Viruses
-![7 Micro 10 Cancer Cell 03 (TEM) Of Viruses](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0970_01_Micro_10_Cancer_cell_03_(Tem)_Of_Viruses_W_04__Previews.webp)
+## Supported File Formats
 
-Color-enhanced micrograph of red, spiked virus particles around a green rod-shaped bacterium.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 10 Cancer Cell 03 (TEM) Of Viruses
-![8 Micro 10 Cancer Cell 03 (TEM) Of Viruses](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0971_01_Micro_10_Cancer_cell_03_(Tem)_Of_Viruses_W_04_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Color-enhanced micrograph of a green rod-shaped bacterium surrounded by red virus particles.
+## Explore the Full Viruses Collection
 
----
+Ready to add **Viruses** visuals to your next project?
 
+[🌐 Browse Viruses on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/viruses.md){ .md-button }

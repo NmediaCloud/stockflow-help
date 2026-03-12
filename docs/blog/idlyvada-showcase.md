@@ -1,143 +1,87 @@
-# Showcase: IdlyVada
+# How to Use IdlyVada Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **IdlyVada Showcase**
+🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **IdlyVada Blog**
 
-Discover our **IdlyVada** collection — 19 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[🌐 Browse the IdlyVada Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**IdlyVada** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
+
+This guide explores how to use the **IdlyVada** collection — 19 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 06 Indian IdlyVada b 02 
 ![06 Indian IdlyVada b 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00197_06_Indian_IdlyVada_S_b_02_Previews.webp)
 
 Indian idli with sambar and chutney on a banana leaf.
 
----
-
 ### 06 Indian IdlyVada b 05 
 ![06 Indian IdlyVada b 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00198_06_Indian_IdlyVada_S_b_05_Previews.webp)
 
 South Indian plate with crispy vada and soft idli, served with sambar and chutneys on a banana leaf.
-
----
 
 ### 06 Indian IdlyVada b 06 
 ![06 Indian IdlyVada b 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00199_06_Indian_IdlyVada_S_b_06_Previews.webp)
 
 South Indian thali with fluffy idlis, crisp vadas, and bowls of sambar and chutneys.
 
----
+## Why IdlyVada Visuals Are in Demand
 
-### 06 Indian IdlyVada b 07 
-![06 Indian IdlyVada b 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00200_06_Indian_IdlyVada_S_b_07_Previews.webp)
+High-quality idlyvada footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Idli and vada with assorted chutneys on a banana leaf platter.
+All **19 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 06 Indian IdlyVada b 08 
-![06 Indian IdlyVada b 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00201_06_Indian_IdlyVada_S_b_08_Previews.webp)
+## Common Use Cases
 
-A South Indian thali featuring soft idlis, crispy vadas, bowls of sambar and chutneys (coconut and tomato), with a side of mixed toppings.
+- 📱 Instagram Reels, TikTok food videos, and YouTube Shorts
+- 🎬 Restaurant ads, delivery app promotions, and brand storytelling
+- 🍴 Food blog visuals, cookbook pages, and menu photography
+- 📺 Food documentary B-roll and culinary travel content
+- 🖨️ Menu printing, poster design, and in-store display boards
+- 🎨 Canva social media templates for food and hospitality brands
 
----
+## How to Use in Your Editing Software
 
-### 06 Indian IdlyVada b 01 
-![06 Indian IdlyVada b 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00202_06_Indian_IdlyVada_V_b_01_Previews.webp)
+Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for food video production. Use JPEG assets in **Canva**, **Adobe InDesign**, or **Photoshop** for print and social media design.
 
-South Indian platter with fluffy idli topped with a crisp crust, served on a banana leaf with coconut chutney and sambar.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 06 Indian IdlyVada b 02 
-![06 Indian IdlyVada b 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00203_06_Indian_IdlyVada_V_b_02_Previews.webp)
+## Supported File Formats
 
-A platter of fluffy idlis with crispy vadas, served with coconut and tomato chutneys and sambar.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 06 Indian IdlyVada b 03 
-![06 Indian IdlyVada b 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00204_06_Indian_IdlyVada_V_b_03_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Indian Idli and Vada platter with sambar and chutney on a banana leaf.
+## Explore the Full IdlyVada Collection
 
----
+Ready to add **IdlyVada** visuals to your next project?
 
-### 06 Indian IdlyVada b 04 
-![06 Indian IdlyVada b 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00205_06_Indian_IdlyVada_V_b_04_Previews.webp)
-
-Fluffy idlis with crisp fried tops, garnished with curry leaves, on a banana leaf with chutney and sambar.
-
----
-
-### 06 Indian IdlyVada b 05 
-![06 Indian IdlyVada b 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00206_06_Indian_IdlyVada_V_b_05_Previews.webp)
-
-Indian meal featuring steamed idli with coconut chutney, accompanied by spicy lentil sambar and a side of vada and curry, served on a banana leaf. Aesthetic plating with fresh greens and small bowls of accompaniments.
-
----
-
-### 06 Indian IdlyVada b 03 
-![06 Indian IdlyVada b 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00207_06_Indian_IdlyVada_W_b_03_Previews.webp)
-
-South Indian thali with idli and medu vada, served with sambar and coconut chutney on a banana leaf.
-
----
-
-### 06 Indian IdlyVada b 05 
-![06 Indian IdlyVada b 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00208_06_Indian_IdlyVada_W_b_05_Previews.webp)
-
-South Indian breakfast: idli with medu vada, served with coconut chutney and sambar on a banana leaf.
-
----
-
-### 06 Indian IdlyVada b 06 
-![06 Indian IdlyVada b 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00209_06_Indian_IdlyVada_W_b_06_Previews.webp)
-
-South Indian platter with fluffy idlis, crispy vadas, and chutney served on a green banana leaf.
-
----
-
-### 06 Indian IdlyVada b 07 
-![06 Indian IdlyVada b 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00210_06_Indian_IdlyVada_W_b_07_Previews.webp)
-
-South Indian breakfast: fluffy idlis and crispy medu vadas on a banana leaf.
-
----
-
-### 06 Indian IdlyVada b 08 
-![06 Indian IdlyVada b 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00211_06_Indian_IdlyVada_W_b_08_Previews.webp)
-
-Plate with fluffy white idlis and crispy vadas served with chutney and sambar on a banana leaf.
-
----
-
-### 06 Indian IdlyVada b 09 
-![06 Indian IdlyVada b 09 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00212_06_Indian_IdlyVada_W_b_09_Previews.webp)
-
-South Indian breakfast plate with crispy vadas and soft idlis, served with chutney and sambar on a banana leaf.
-
----
-
-### 06 Indian IdlyVada b 10 
-![06 Indian IdlyVada b 10 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00213_06_Indian_IdlyVada_W_b_10_Previews.webp)
-
-A South Indian platter with fluffy idlis, crispy medu vada, and sides of sambar and chutneys in wooden bowls.
-
----
-
-### 06 Indian IdlyVada b 11 
-![06 Indian IdlyVada b 11 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00214_06_Indian_IdlyVada_W_b_11_Previews.webp)
-
-South Indian platter with idli and medu vada, served with chutneys and sambar on a banana leaf.
-
----
-
-### 06 Indian IdlyVada b 12 
-![06 Indian IdlyVada b 12 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00215_06_Indian_IdlyVada_W_b_12_Previews.webp)
-
-Plate on a banana leaf with soft white idlis, golden fried vadas, and small bowls of sambar and coconut chutney.
-
----
-
+[🌐 Browse IdlyVada on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/idlyvada.md){ .md-button }

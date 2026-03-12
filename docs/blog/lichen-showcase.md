@@ -1,136 +1,87 @@
-# Showcase: Lichen
+# How to Use Lichen Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Dermatopathology](../subcategories/dermatopathology.md) → **Lichen Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Dermatopathology](../subcategories/dermatopathology.md) → **Lichen Blog**
 
-Discover our **Lichen** collection — 18 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[🌐 Browse the Lichen Collection](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Lichen** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Lichen** collection — 18 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 08 Fungi 07 Lichen
 ![1 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0796_01_Micro_08_Fungi_07_Lichen_W_01__Previews.webp)
 
 Macro view of orange, rounded-topped fungi with long slender stalks growing on a mossy, rocky surface.
 
----
-
 ### 2 Micro 08 Fungi 07 Lichen
 ![2 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0797_01_Micro_08_Fungi_07_Lichen_W_02__Previews.webp)
 
 Macro view of small fungi with slender stems and rounded caps growing from mossy ground, illuminated by soft, golden light.
-
----
 
 ### 3 Micro 08 Fungi 07 Lichen
 ![3 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0798_01_Micro_08_Fungi_07_Lichen_W_03__Previews.webp)
 
 Macro close-up of fungal fruiting bodies on a bark-like surface.
 
----
+## Why Lichen Visuals Are in Demand
 
-### 4 Micro 08 Fungi 07 Lichen
-![4 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0799_01_Micro_08_Fungi_07_Lichen_W_03_Previews.webp)
+High-quality lichen footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Macro shot of small brown mushroom-like fungi with rounded heads on slender stalks, growing from a textured dark surface. Warm, soft backlight.
+All **18 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 08 Fungi 07 Lichen
-![5 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0800_01_Micro_08_Fungi_07_Lichen_W_04__Previews.webp)
+## Common Use Cases
 
-Macro shot of tiny fungal fruiting bodies on a mossy ground, bathed in warm sunlight with a soft, blurred background.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 08 Fungi 07 Lichen
-![6 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0801_01_Micro_08_Fungi_07_Lichen_W_04_Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Macro shot of tiny fungi growing on mossy ground in soft, golden light.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 08 Fungi 07 Lichen
-![7 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0802_01_Micro_08_Fungi_07_Lichen_W_05__Previews.webp)
+## Supported File Formats
 
-Macro shot of delicate fungi and mold-like fruiting bodies rising from a lush mossy substrate.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 08 Fungi 07 Lichen
-![8 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0803_01_Micro_08_Fungi_07_Lichen_W_05_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Close-up of tiny fungi and lichen-like structures with slender stalks and fuzzy, textured spherical bodies growing on moss.
+## Explore the Full Lichen Collection
 
----
+Ready to add **Lichen** visuals to your next project?
 
-### 9 Micro 08 Fungi 07 Lichen
-![9 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0804_01_Micro_08_Fungi_07_Lichen_W_06__Previews.webp)
-
-Close-up of tall, round, textured fungi on slender stems rising above green grass against a bright blue sky.
-
----
-
-### 10 Micro 08 Fungi 07 Lichen
-![10 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0805_01_Micro_08_Fungi_07_Lichen_W_06_Previews.webp)
-
-Close-up of fuzzy, honeycomb-textured spherical fungi/lichen on slender stems rising from green grass against a blue sky.
-
----
-
-### 11 Micro 08 Fungi 07 Lichen
-![11 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0806_01_Micro_08_Fungi_07_Lichen_W_07__Previews.webp)
-
-Floating orange-brown fungal spores and hyphal fragments drifting in a soft green background.
-
----
-
-### 12 Micro 08 Fungi 07 Lichen
-![12 Micro 08 Fungi 07 Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0807_01_Micro_08_Fungi_07_Lichen_W_08__Previews.webp)
-
-Brown, honeycomb-textured mushroom clusters rising from a decaying log.
-
----
-
-### 1 Micro 12 Pathology 08 Dermatopathology Lichen
-![1 Micro 12 Pathology 08 Dermatopathology Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1222_01_Micro_12_Pathology_08_Dermatopathology_Lichen_W_01__Previews.webp)
-
-Dermatopathology: Lichen with keratinocyte changes and a lichenoid inflammatory infiltrate in skin tissue.
-
----
-
-### 2 Micro 12 Pathology 08 Dermatopathology Lichen
-![2 Micro 12 Pathology 08 Dermatopathology Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1223_01_Micro_12_Pathology_08_Dermatopathology_Lichen_W_01_Previews.webp)
-
-Skin biopsy showing features of lichenoid dermatitis consistent with lichen planus.
-
----
-
-### 3 Micro 12 Pathology 08 Dermatopathology Lichen
-![3 Micro 12 Pathology 08 Dermatopathology Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1224_01_Micro_12_Pathology_08_Dermatopathology_Lichen_W_02__Previews.webp)
-
-Histology of skin with epidermal hyperplasia and elongated rete pegs overlying a dermal inflammatory infiltrate, consistent with dermatopathologic changes such as lichen-related dermatitis.
-
----
-
-### 4 Micro 12 Pathology 08 Dermatopathology Lichen
-![4 Micro 12 Pathology 08 Dermatopathology Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1225_01_Micro_12_Pathology_08_Dermatopathology_Lichen_W_02_Previews.webp)
-
-Dermatopathology slide of lichen planus with sawtooth epidermal rete ridges, basal cell degeneration, and dense lichenoid inflammatory infiltrate.
-
----
-
-### 5 Micro 12 Pathology 08 Dermatopathology Lichen
-![5 Micro 12 Pathology 08 Dermatopathology Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1226_01_Micro_12_Pathology_08_Dermatopathology_Lichen_W_03__Previews.webp)
-
-Dermatopathology: Lichen with lichenoid inflammatory infiltrate and characteristic epidermal changes.
-
----
-
-### 6 Micro 12 Pathology 08 Dermatopathology Lichen
-![6 Micro 12 Pathology 08 Dermatopathology Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1227_01_Micro_12_Pathology_08_Dermatopathology_Lichen_W_03_Previews.webp)
-
-Dermatopathology image of lichen planus.
-
----
-
+[🌐 Browse Lichen on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/lichen.md){ .md-button }

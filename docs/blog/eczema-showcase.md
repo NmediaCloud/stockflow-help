@@ -1,66 +1,87 @@
-# Showcase: Eczema
+# How to Use Eczema Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Dermatopathology](../subcategories/dermatopathology.md) → **Eczema Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Dermatopathology](../subcategories/dermatopathology.md) → **Eczema Blog**
 
-Discover our **Eczema** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[🌐 Browse the Eczema Collection](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Eczema** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Eczema** collection — 8 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 12 Pathology 10 Dermatopathology Eczema
 ![1 Micro 12 Pathology 10 Dermatopathology Eczema](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1236_01_Micro_12_Pathology_10_Dermatopathology_Eczema_W_01__Previews.webp)
 
 Microscopic view of eczema (dermatopathology) showing epidermal spongiosis with dermal inflammatory infiltrate including eosinophils.
 
----
-
 ### 2 Micro 12 Pathology 10 Dermatopathology Eczema
 ![2 Micro 12 Pathology 10 Dermatopathology Eczema](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1237_01_Micro_12_Pathology_10_Dermatopathology_Eczema_W_01_Previews.webp)
 
 H&E image of eczema showing epidermal spongiosis and dermal inflammatory infiltrate.
-
----
 
 ### 3 Micro 12 Pathology 10 Dermatopathology Eczema
 ![3 Micro 12 Pathology 10 Dermatopathology Eczema](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1238_01_Micro_12_Pathology_10_Dermatopathology_Eczema_W_02__Previews.webp)
 
 Histologic section of eczema in skin showing spongiotic dermatitis with intraepidermal edema and mixed inflammatory infiltrate.
 
----
+## Why Eczema Visuals Are in Demand
 
-### 4 Micro 12 Pathology 10 Dermatopathology Eczema
-![4 Micro 12 Pathology 10 Dermatopathology Eczema](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1239_01_Micro_12_Pathology_10_Dermatopathology_Eczema_W_02_Previews.webp)
+High-quality eczema footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Dermatopathology: eczema with spongiotic dermatitis, eosininophilic inflammatory infiltrate, and dermal edema.
+All **8 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 12 Pathology 10 Dermatopathology Eczema
-![5 Micro 12 Pathology 10 Dermatopathology Eczema](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1240_01_Micro_12_Pathology_10_Dermatopathology_Eczema_W_03__Previews.webp)
+## Common Use Cases
 
-Dermatopathology eczema tissue section showing inflammatory infiltrate with spongiosis in a pink-stained slide.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 12 Pathology 10 Dermatopathology Eczema
-![6 Micro 12 Pathology 10 Dermatopathology Eczema](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1241_01_Micro_12_Pathology_10_Dermatopathology_Eczema_W_03_Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Dermatopathology image of eczema (dermatitis).
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 12 Pathology 10 Dermatopathology Eczema
-![7 Micro 12 Pathology 10 Dermatopathology Eczema](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1242_01_Micro_12_Pathology_10_Dermatopathology_Eczema_W_04__Previews.webp)
+## Supported File Formats
 
-Skin biopsy showing eczematous dermatitis with spongiosis and inflammatory infiltrate in the dermis.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 12 Pathology 10 Dermatopathology Eczema
-![8 Micro 12 Pathology 10 Dermatopathology Eczema](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1243_01_Micro_12_Pathology_10_Dermatopathology_Eczema_W_04_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Skin biopsy showing epidermal spongiosis with inflammatory infiltrate consistent with eczema (dermatitis).
+## Explore the Full Eczema Collection
 
----
+Ready to add **Eczema** visuals to your next project?
 
+[🌐 Browse Eczema on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/eczema.md){ .md-button }

@@ -1,150 +1,87 @@
-# Showcase: Bacillus
+# How to Use Bacillus Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Bacillus Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Bacillus Blog**
 
-Discover our **Bacillus** collection — 20 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[🌐 Browse the Bacillus Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Bacillus** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Bacillus** collection — 20 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 07 Bacteria 01 Bacillus
 ![1 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0621_01_Micro_07_Bacteria_01_Bacillus_01_V_09__Previews.webp)
 
 Bacillus bacteria forming a Y-shaped cluster.
 
----
-
 ### 2 Micro 07 Bacteria 01 Bacillus
 ![2 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0622_01_Micro_07_Bacteria_01_Bacillus_01_W_01__Previews.webp)
 
 Colorful close-up of rod-shaped Bacillus bacteria undergoing cell division, with small surface-bound particles.
-
----
 
 ### 3 Micro 07 Bacteria 01 Bacillus
 ![3 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0623_01_Micro_07_Bacteria_01_Bacillus_01_W_01_Previews.webp)
 
 Rod-shaped bacillus bacteria arranged in a chain, with a textured surface and tiny surface vesicles.
 
----
+## Why Bacillus Visuals Are in Demand
 
-### 4 Micro 07 Bacteria 01 Bacillus
-![4 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0624_01_Micro_07_Bacteria_01_Bacillus_01_W_02__Previews.webp)
+High-quality bacillus footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Color-enhanced electron micrograph of Bacillus bacteria, rod-shaped, arranged in a cluster with a central coccoid structure and surrounding vesicles.
+All **20 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 07 Bacteria 01 Bacillus
-![5 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0625_01_Micro_07_Bacteria_01_Bacillus_01_W_03__Previews.webp)
+## Common Use Cases
 
-Colorized microscopic image of Bacillus bacteria with clusters of blue cocci inside orange rod-shaped cells.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 07 Bacteria 01 Bacillus
-![6 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0626_01_Micro_07_Bacteria_01_Bacillus_01_W_03_Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Bacillus bacteria shown as orange rod-shaped cells containing blue endospores in a magnified microscopic view.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 07 Bacteria 01 Bacillus
-![7 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0627_01_Micro_07_Bacteria_01_Bacillus_01_W_04__Previews.webp)
+## Supported File Formats
 
-Bacillus bacteria viewed under the microscope, rod-shaped orange cells radiating around a small central cluster.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 07 Bacteria 01 Bacillus
-![8 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0628_01_Micro_07_Bacteria_01_Bacillus_01_W_04_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Bacillus bacteria rods arranged in a star-like cluster around a central group of small spheres.
+## Explore the Full Bacillus Collection
 
----
+Ready to add **Bacillus** visuals to your next project?
 
-### 9 Micro 07 Bacteria 01 Bacillus
-![9 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0629_01_Micro_07_Bacteria_01_Bacillus_01_W_05__Previews.webp)
-
-Rod-shaped Bacillus bacteria undergoing cell division (binary fission) at high magnification.
-
----
-
-### 10 Micro 07 Bacteria 01 Bacillus
-![10 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0630_01_Micro_07_Bacteria_01_Bacillus_01_W_05_Previews.webp)
-
-Bacillus bacteria in rod shape undergoing cell division.
-
----
-
-### 11 Micro 07 Bacteria 01 Bacillus
-![11 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0631_01_Micro_07_Bacteria_01_Bacillus_01_W_06__Previews.webp)
-
-Bacillus bacteria (red rod-shaped) inside a curved, looped cell.
-
----
-
-### 12 Micro 07 Bacteria 01 Bacillus
-![12 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0632_01_Micro_07_Bacteria_01_Bacillus_01_W_06_Previews.webp)
-
-Bacillus bacteria (rod-shaped) in a golden-toned micrograph.
-
----
-
-### 13 Micro 07 Bacteria 01 Bacillus
-![13 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0633_01_Micro_07_Bacteria_01_Bacillus_01_W_07__Previews.webp)
-
-Bacillus bacteria rods in orange, magnified view.
-
----
-
-### 14 Micro 07 Bacteria 01 Bacillus
-![14 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0634_01_Micro_07_Bacteria_01_Bacillus_01_W_07_Previews.webp)
-
-Bacillus bacteria rods, orange-stained under the microscope.
-
----
-
-### 15 Micro 07 Bacteria 01 Bacillus
-![15 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0635_01_Micro_07_Bacteria_01_Bacillus_01_W_08__Previews.webp)
-
-Bacillus rod-shaped bacteria with small spherical particles around them.
-
----
-
-### 16 Micro 07 Bacteria 01 Bacillus
-![16 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0636_01_Micro_07_Bacteria_01_Bacillus_01_W_08_Previews.webp)
-
-Rod-shaped bacteria (Bacillus) clustered together with numerous small orange particles around a central junction.
-
----
-
-### 17 Micro 07 Bacteria 01 Bacillus
-![17 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0637_01_Micro_07_Bacteria_01_Bacillus_01_W_10__Previews.webp)
-
-Bacillus rod-shaped bacteria in a clustered arrangement.
-
----
-
-### 18 Micro 07 Bacteria 01 Bacillus
-![18 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0638_01_Micro_07_Bacteria_01_Bacillus_01_W_11__Previews.webp)
-
-Bacillus bacteria; rod-shaped cells forming short chains.
-
----
-
-### 19 Micro 07 Bacteria 01 Bacillus
-![19 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0639_01_Micro_07_Bacteria_01_Bacillus_01_W_12__Previews.webp)
-
-Bacillus bacteria undergoing cell division (microscopic view).
-
----
-
-### 20 Micro 07 Bacteria 01 Bacillus
-![20 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0640_01_Micro_07_Bacteria_01_Bacillus_01_W_12_Previews.webp)
-
-Bacillus bacteria cells in a cluster undergoing division.
-
----
-
+[🌐 Browse Bacillus on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/bacillus.md){ .md-button }

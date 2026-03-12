@@ -1,141 +1,87 @@
-# Showcase: Noodles
+# How to Use Noodles Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Noodles Showcase**
+🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Noodles Blog**
 
-Discover our **Noodles** collection — 23 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[🌐 Browse the Noodles Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 ---
 
-### 15 Shops Noodle 01
-Steaming bowl of shrimp noodle stir-fry with colorful vegetables and greens.
+## Introduction
 
----
+**Noodles** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-### 15 Shops Noodle 02
-A steaming bowl of noodle stir-fry with shrimp, red and yellow peppers, and green vegetables in a dark bowl.
+This guide explores how to use the **Noodles** collection — 23 premium assets available in 4K/8K — across real creative workflows.
 
----
-
-### 15 Shops Noodle 03
-Delicious bowl of noodles with shrimp and colorful vegetables, steam rising for a vibrant, appetizing presentation.
-
----
-
-### 15 Shops Noodle 04
-Delicious stir-fried noodle bowl with shrimp, peppers, and greens.
-
----
-
-### 15 Shops Noodle 01
-High-quality image of a shrimp noodle dish with colorful peppers, greens, and steam.
-
----
-
-### 15 Shops Noodle 02
-A sizzling shrimp noodle dish with vibrant vegetables in a dark bowl, steam rising, with chopsticks resting nearby.
-
----
-
-### 15 Shops Noodle 03
-A vibrant bowl of stir-fried noodles with shrimp, colorful peppers and green onions, steam rising as chopsticks rest beside the dish.
-
----
-
-### 15 Shops Noodle 04
-Delicious shrimp noodle dish with colorful peppers and greens.
-
----
-
-### 15 Shops Noodle 01
-Sizzling noodles held by chopsticks, glossy with sauce and loaded with vegetables and mushrooms.
-
----
-
-### 15 Shops Noodle 02
-Close-up of glossy stir-fried noodles with sesame seeds and vegetables, lifted by chopsticks.
-
----
-
-### 15 Shops Noodle 03
-A glossy stir-fried noodle dish with peppers, onions and sesame seeds, lifted by chopsticks with steam rising.
-
----
-
-### 15 Shops Noodle 04
-A glossy stir-fried noodle dish with sesame seeds, vegetables, and chopsticks.
-
----
-
-### 15 Shops Noodle 05
-A steaming bowl of noodle soup with meatballs, fresh herbs, bean sprouts, and lime, lifted by chopsticks.
-
----
-
-### 15 Shops Noodle 06
-A steaming bowl of noodle soup with meatballs, fresh herbs, lime, and crushed peanuts.
-
----
-
-### 15 Shops Noodle 07
-A vibrant bowl of noodle soup topped with herbs, lime, bean sprouts, crushed peanuts and meatballs.
-
----
+## Visual Highlights
 
 ### 15  Noodle 01 
 ![15  Noodle 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00362_15_Shops_Noodle_S_01_Previews.webp)
 
 Steaming shrimp noodle stir-fry with colorful vegetables in a dark bowl.
 
----
-
 ### 15  Noodle 02 
 ![15  Noodle 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00363_15_Shops_Noodle_S_02_Previews.webp)
 
 Shrimp and vegetable stir-fried noodles in a black bowl with steam and chopsticks.
-
----
 
 ### 15  Noodle 03 
 ![15  Noodle 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00364_15_Shops_Noodle_S_03_Previews.webp)
 
 Steaming shrimp noodle dish with colorful vegetables in a dark bowl, chopsticks resting nearby.
 
----
+## Why Noodles Visuals Are in Demand
 
-### 15  Noodle 04 
-![15  Noodle 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00365_15_Shops_Noodle_S_04_Previews.webp)
+High-quality noodles footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Steaming shrimp noodles with colorful peppers and greens in a dark bowl, with chopsticks resting nearby.
+All **23 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 15  Noodle 01 
-![15  Noodle 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00366_15_Shops_Noodle_V_01_Previews.webp)
+## Common Use Cases
 
-Steaming noodle dish with shrimp, colorful vegetables, and greens in a dark bowl, chopsticks resting beside.
+- 📱 Instagram Reels, TikTok food videos, and YouTube Shorts
+- 🎬 Restaurant ads, delivery app promotions, and brand storytelling
+- 🍴 Food blog visuals, cookbook pages, and menu photography
+- 📺 Food documentary B-roll and culinary travel content
+- 🖨️ Menu printing, poster design, and in-store display boards
+- 🎨 Canva social media templates for food and hospitality brands
 
----
+## How to Use in Your Editing Software
 
-### 15  Noodle 02 
-![15  Noodle 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00367_15_Shops_Noodle_V_02_Previews.webp)
+Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for food video production. Use JPEG assets in **Canva**, **Adobe InDesign**, or **Photoshop** for print and social media design.
 
-Steaming shrimp noodle dish in a dark bowl with colorful peppers and green onions, held by chopsticks against a dark background.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 15  Noodle 03 
-![15  Noodle 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00368_15_Shops_Noodle_V_03_Previews.webp)
+## Supported File Formats
 
-Steaming shrimp noodle stir-fry with colorful peppers and greens in a dark bowl.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 15  Noodle 04 
-![15  Noodle 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00369_15_Shops_Noodle_V_04_Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Stir-fried noodles with shrimp and colorful vegetables (peppers, scallions) in a steaming black bowl.
+## Explore the Full Noodles Collection
 
----
+Ready to add **Noodles** visuals to your next project?
 
+[🌐 Browse Noodles on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/noodles.md){ .md-button }

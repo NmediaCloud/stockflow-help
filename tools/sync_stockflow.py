@@ -39,48 +39,94 @@ def build_website_url(cat, cat_sub):
     return f"{STOCKFLOW_BASE}?{params}"
 
 def generate_reddit_feed(hierarchy, sub_groups):
-    """Generates one Reddit post per Category_Sub (subcategory)."""
-    print("Generating Reddit feed...")
+    """Generates one Reddit post per Category_Sub with subreddit targeting."""
+    print("\nGenerating Reddit feed...")
+
+    # Subreddit targeting by parent category
+    SUBREDDIT_MAP = {
+        "microscopic": [
+            "r/biology", "r/microbiology", "r/microscopy",
+            "r/science", "r/educationalgifs",
+        ],
+        "food": [
+            "r/foodporn", "r/food", "r/videos",
+            "r/Cooking", "r/GifRecipes",
+        ],
+        "pathology": [
+            "r/Pathology", "r/medicine", "r/biology",
+            "r/science", "r/medicalschool",
+        ],
+        "algae": ["r/biology", "r/microscopy", "r/botany", "r/science"],
+        "fungi": ["r/mycology", "r/biology", "r/microscopy"],
+        "worm": ["r/biology", "r/Parasitology", "r/microscopy"],
+        "parasite": ["r/Parasitology", "r/biology", "r/medicine"],
+        "cancer": ["r/oncology", "r/medicine", "r/biology", "r/science"],
+        "default": ["r/biology", "r/science", "r/microscopy", "r/educationalgifs"],
+    }
+
+    def get_subreddits(cat_name, cat_sub_name):
+        key = cat_name.lower()
+        sub_key = cat_sub_name.lower()
+        if "food" in key or "beverage" in key:
+            return SUBREDDIT_MAP["food"]
+        for kw in ["parasite", "cancer", "pathology", "algae", "fungi", "worm"]:
+            if kw in sub_key:
+                return SUBREDDIT_MAP[kw]
+        if "microscopic" in key or "micro" in key:
+            return SUBREDDIT_MAP["microscopic"]
+        return SUBREDDIT_MAP["default"]
+
     lines = ["# Reddit Feed — Stockflow.media\n"]
-    lines.append("> Copy and paste each block below into Reddit when sharing a new collection.\n")
+    lines.append("> One post per subcategory. Copy the title + post text into the listed subreddits.\n")
     lines.append("---\n")
 
+    total = sum(len(v) for v in hierarchy.values())
+    done = 0
     for cat_name, cat_subs in sorted(hierarchy.items()):
         for cat_sub_name, subs in sorted(cat_subs.items()):
+            done += 1
+            progress(f"Reddit: {cat_sub_name}", done, total)
+
             cat_sub_slug = sanitize_slug(cat_sub_name)
             total_items = sum(len(sub_groups[s]) for s in subs if s in sub_groups)
             website_url = build_website_url(cat_name, cat_sub_name)
             help_url = f"{HELP_BASE}subcategories/{cat_sub_slug}/"
+            subreddits = get_subreddits(cat_name, cat_sub_name)
 
-            # Build a short list of highlights (first 5 Subs)
             highlights = sorted(list(subs))[:5]
-            highlight_text = "\n".join(f"• {h}" for h in highlights)
+            highlight_lines = "\n".join(f"> • {h}" for h in highlights)
             if len(subs) > 5:
-                highlight_text += f"\n• ...and {len(subs) - 5} more"
+                highlight_lines += f"\n> • ...and {len(subs) - 5} more"
 
             lines.append(f"## {cat_name} — {cat_sub_name}\n")
+            lines.append(f"**Post to:** {' | '.join(subreddits)}\n")
             lines.append(f"**Reddit Title:**")
-            lines.append(f"> {cat_sub_name} – Premium Stock {cat_name} Visuals | {total_items} assets in 4K/8K (Free to preview)\n")
+            lines.append(f"> {cat_sub_name} – Premium Stock {cat_name} Visuals | {total_items} assets in 4K/8K\n")
             lines.append(f"**Reddit Post:**")
-            lines.append(f"> I just published a new **{cat_sub_name}** collection in our {cat_name} stock library.")
+            lines.append(f"> I just published a new **{cat_sub_name}** collection in the {cat_name} stock library at Stockflow.media.")
             lines.append(f">")
             lines.append(f"> This pack includes {total_items} assets covering:")
             lines.append(f">")
-            lines.append(highlight_text.replace('•', '> •'))
+            lines.append(highlight_lines)
             lines.append(f">")
-            lines.append(f"> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.")
+            lines.append(f"> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.")
             lines.append(f">")
-            lines.append(f"> 🌐 Browse the collection: {website_url}")
-            lines.append(f"> 📖 Full details & previews: {help_url}")
+            lines.append(f"> 🌐 Browse: {website_url}")
+            lines.append(f"> 📖 Details & previews: {help_url}")
             lines.append(f">")
             lines.append(f"> All assets are royalty-free. No attribution required.")
             lines.append("\n---\n")
 
     with open(REDDIT_FEED_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
-    print(f"Reddit feed written to: {REDDIT_FEED_FILE}")
+    print(f"\nReddit feed written to: {REDDIT_FEED_FILE}")
 
 def main():
+    import sys
+    delta_mode = "--delta" in sys.argv
+
+    SNAPSHOT_FILE = SCRIPT_DIR / "previous_data.json"
+
     print("Fetching data from Google Sheets...")
     req = urllib.request.Request(SHEET_URL, headers={'User-Agent': 'Mozilla/5.0'})
     response = urllib.request.urlopen(req)
@@ -88,7 +134,30 @@ def main():
     
     reader = csv.DictReader(csv_data.splitlines())
     current_data = [row for row in reader if row.get("File_ID") and row.get("File_ID").strip()]
-    
+
+    # --- Delta sync: compare against previous snapshot ---
+    prev_ids = set()
+    if SNAPSHOT_FILE.exists():
+        with open(SNAPSHOT_FILE, "r", encoding="utf-8") as f:
+            prev_ids = set(json.load(f))
+
+    current_ids = {row["File_ID"].strip() for row in current_data}
+    new_ids = current_ids - prev_ids
+    new_rows = [r for r in current_data if r.get("File_ID", "").strip() in new_ids]
+
+    if delta_mode:
+        if not new_ids:
+            print(f"✅ Delta sync: No new items found. {len(current_ids)} items already up to date.")
+            # Still save snapshot and regenerate nav in case structure changed
+        else:
+            print(f"🆕 Delta sync: {len(new_ids)} new items found out of {len(current_ids)} total.")
+    else:
+        print(f"🔄 Full sync: {len(current_ids)} items ({len(new_ids)} new since last run)")
+
+    # Save updated snapshot
+    with open(SNAPSHOT_FILE, "w", encoding="utf-8") as f:
+        json.dump(sorted(list(current_ids)), f, indent=2)
+
     hierarchy = {}
     sub_groups = {}
     
@@ -131,10 +200,19 @@ def main():
     for f in (DOCS_PATH / "subcategories").glob("*.md"):
         f.unlink()
     
-    # Clean Collections & Blog but keep placeholders
+    # Clean Collections & Blog but keep manually authored files
+    MANUAL_BLOG_FILES = {
+        "collection-1.md", "collection-2.md",
+        "general-usage.md", "documentary-visuals.md",
+        "8k-images-print.md", "social-media-posts.md",
+        # Static SEO blog posts (never auto-delete)
+        "canva-science-backgrounds.md", "youtube-science-footage.md",
+        "education-biology-footage.md", "social-media-science-content.md",
+        "podcast-science-backgrounds.md", "research-presentation-visuals.md",
+    }
     for folder in ["collections", "blog"]:
         for f in (DOCS_PATH / folder).glob("*.md"):
-             if f.name not in ["collection-1.md", "collection-2.md", "general-usage.md", "documentary-visuals.md", "8k-images-print.md", "social-media-posts.md"]:
+             if f.name not in MANUAL_BLOG_FILES:
                  f.unlink()
 
     # Generate the Markdown Pages and build the nav lists
@@ -231,26 +309,124 @@ def main():
             
         collections_nav.append(f"      - {sub_name}: collections/{slug}.md")
         
-        # Blog showcase with preview images
-        blog_md = f"# Showcase: {sub_name}\n\n"
-        blog_md += f"🏠 [Home](../index.md) → [{parent_cat}](../categories/{cat_slug_for_link}.md) → [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) → **{sub_name} Showcase**\n\n"
-        blog_md += f"Discover our **{sub_name}** collection — {len(items)} premium assets available in 4K/8K for video, print, and digital media.\n\n"
-        blog_md += f"[🌐 View on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n\n---\n\n"
-        for item in items:
-            title = item.get("Title", "Untitled")
-            desc = item.get("Description", "")
-            preview_url = (item.get("Preview_URL") or "").strip()
-            blog_md += f"### {title}\n"
-            if preview_url and not preview_url.lower().endswith(".mp4"):
+        # --- Blog showcase: 8-section use-case SEO format ---
+        # Determine category-specific use case context
+        is_microscopic = "microscopic" in parent_cat.lower() or "micro" in parent_cat.lower()
+        is_food = "food" in parent_cat.lower() or "beverage" in parent_cat.lower()
+
+        if is_microscopic:
+            use_case_intro = f"**{sub_name}** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers."
+            use_case_list = [
+                "🎬 Science documentaries and biology explainer videos",
+                "📱 Educational YouTube Shorts, Instagram Reels, and TikTok content",
+                "🖥️ University lectures, online courses, and e-learning modules",
+                "🖨️ Science posters, museum displays, and exhibition banners",
+                "🎨 Canva educational templates and presentation backgrounds",
+                "🎙️ Video podcasts covering biology, health, and technology topics",
+            ]
+            software_tip = "Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals."
+        elif is_food:
+            use_case_intro = f"**{sub_name}** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
+            use_case_list = [
+                "📱 Instagram Reels, TikTok food videos, and YouTube Shorts",
+                "🎬 Restaurant ads, delivery app promotions, and brand storytelling",
+                "🍴 Food blog visuals, cookbook pages, and menu photography",
+                "📺 Food documentary B-roll and culinary travel content",
+                "🖨️ Menu printing, poster design, and in-store display boards",
+                "🎨 Canva social media templates for food and hospitality brands",
+            ]
+            software_tip = "Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for food video production. Use JPEG assets in **Canva**, **Adobe InDesign**, or **Photoshop** for print and social media design."
+        else:
+            use_case_intro = f"**{sub_name}** assets are versatile visual tools for content creators, marketers, and designers across multiple platforms and project types."
+            use_case_list = [
+                "📱 Social media videos: YouTube Shorts, Instagram Reels, TikTok",
+                "🎬 Documentary B-roll, explainer videos, and brand storytelling",
+                "🎨 Canva designs, presentation backgrounds, and digital marketing",
+                "🖨️ Print design: posters, banners, editorial layouts",
+                "🌐 Website hero sections and landing page backgrounds",
+                "🎙️ Video podcast visual environments and motion backgrounds",
+            ]
+            software_tip = "Import MP4 files into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut**. Use JPEG/webp images in **Canva**, **PowerPoint**, **Google Slides**, or **Adobe InDesign**."
+
+        # Pick first 3 items with image previews for the blog
+        preview_items = [i for i in items if (i.get("Preview_URL") or "").strip() and not (i.get("Preview_URL") or "").strip().lower().endswith(".mp4")][:3]
+
+        blog_md  = f"# How to Use {sub_name} Visuals in Your Creative Projects\n\n"
+        blog_md += f"🏠 [Home](../index.md) → [{parent_cat}](../categories/{cat_slug_for_link}.md) → [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) → **{sub_name} Blog**\n\n"
+        blog_md += f"[🌐 Browse the {sub_name} Collection]({website_url}){{ .md-button .md-button--primary }}\n\n"
+        blog_md += "---\n\n"
+
+        # Section 1: Introduction
+        blog_md += f"## Introduction\n\n{use_case_intro}\n\n"
+        blog_md += f"This guide explores how to use the **{sub_name}** collection — {len(items)} premium assets available in 4K/8K — across real creative workflows.\n\n"
+
+        # Section 2: Preview highlights
+        if preview_items:
+            blog_md += f"## Visual Highlights\n\n"
+            for item in preview_items:
+                title = item.get("Title", "Untitled")
+                preview_url = item.get("Preview_URL", "").strip()
+                desc = item.get("Description", "")
+                blog_md += f"### {title}\n"
                 blog_md += f"![{title}]({preview_url})\n\n"
-            if desc:
-                blog_md += f"{desc}\n\n"
-            blog_md += "---\n\n"
-            
+                if desc:
+                    blog_md += f"{desc}\n\n"
+
+        # Section 3: Why these visuals are useful
+        blog_md += f"## Why {sub_name} Visuals Are in Demand\n\n"
+        blog_md += f"High-quality {sub_name.lower()} footage is notoriously difficult to capture independently. "
+        blog_md += f"Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — "
+        blog_md += f"saving hours of production time and thousands in equipment costs.\n\n"
+        blog_md += f"All **{len(items)} assets** in this collection are:\n\n"
+        blog_md += "- ✅ Royalty-free — no attribution required\n"
+        blog_md += "- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)\n"
+        blog_md += "- ✅ Up to 8K resolution for print and up to 4K for video\n"
+        blog_md += "- ✅ Instant download after purchase\n\n"
+
+        # Section 4: Use cases
+        blog_md += f"## Common Use Cases\n\n"
+        for uc in use_case_list:
+            blog_md += f"- {uc}\n"
+        blog_md += "\n"
+
+        # Section 5: Editing software workflow
+        blog_md += f"## How to Use in Your Editing Software\n\n"
+        blog_md += f"{software_tip}\n\n"
+        blog_md += "**Recommended workflow:**\n\n"
+        blog_md += "1. Download the asset from [Stockflow.media]({website_url})\n"
+        blog_md += "2. Import into your editing timeline or design canvas\n"
+        blog_md += "3. Resize or trim to fit your project format\n"
+        blog_md += "4. Add text overlays, voiceover, or music as needed\n\n"
+
+        # Section 6: Supported formats
+        blog_md += f"## Supported File Formats\n\n"
+        blog_md += "| Format | Use Case | Max Resolution |\n"
+        blog_md += "|---|---|---|\n"
+        blog_md += "| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |\n"
+        blog_md += "| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |\n"
+        blog_md += "| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |\n\n"
+
+        # Section 7: Platform-specific tips
+        blog_md += f"## Platform-Specific Tips\n\n"
+        blog_md += "| Platform | Best Format | Recommended Ratio |\n"
+        blog_md += "|---|---|---|\n"
+        blog_md += "| YouTube | MP4 | 16:9 |\n"
+        blog_md += "| Instagram Reels / TikTok | MP4 | 9:16 |\n"
+        blog_md += "| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |\n"
+        blog_md += "| Canva | JPEG or MP4 | Any |\n"
+        blog_md += "| PowerPoint / Google Slides | JPEG | 16:9 |\n"
+        blog_md += "| Print (A1 Poster+) | JPEG 8K | Any |\n\n"
+
+        # Section 8: CTA
+        blog_md += f"## Explore the Full {sub_name} Collection\n\n"
+        blog_md += f"Ready to add **{sub_name}** visuals to your next project?\n\n"
+        blog_md += f"[🌐 Browse {sub_name} on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n"
+        blog_md += f"[📂 View Collection Details](../collections/{slug}.md){{ .md-button }}\n"
+
         with open(DOCS_PATH / "blog" / f"{slug}-showcase.md", "w", encoding="utf-8") as f:
             f.write(blog_md)
             
-        blog_nav.append(f"      - {sub_name} Showcase: blog/{slug}-showcase.md")
+        blog_nav.append(f"      - {sub_name} Guide: blog/{slug}-showcase.md")
 
     # Generate Reddit feed
     generate_reddit_feed(hierarchy, sub_groups)
@@ -285,6 +461,13 @@ def main():
         new_yaml.append("      - Usage in Documentaries: blog/documentary-visuals.md")
         new_yaml.append("      - 8K Images for Print: blog/8k-images-print.md")
         new_yaml.append("      - Social Media Visuals: blog/social-media-posts.md")
+        # Static SEO strategy blog posts — manually authored, always included
+        new_yaml.append("      - Science Footage for Canva: blog/canva-science-backgrounds.md")
+        new_yaml.append("      - YouTube Science Channels: blog/youtube-science-footage.md")
+        new_yaml.append("      - Biology Lessons & E-Learning: blog/education-biology-footage.md")
+        new_yaml.append("      - Social Media Science Content: blog/social-media-science-content.md")
+        new_yaml.append("      - Video Podcast Backgrounds: blog/podcast-science-backgrounds.md")
+        new_yaml.append("      - Research & Conference Visuals: blog/research-presentation-visuals.md")
         new_yaml.extend(blog_nav)
 
         with open(MKDOCS_YML, "w", encoding="utf-8") as f:

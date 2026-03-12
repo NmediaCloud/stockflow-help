@@ -1,157 +1,87 @@
-# Showcase: Turbellarians
+# How to Use Turbellarians Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Worms](../subcategories/worms.md) → **Turbellarians Showcase**
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Worms](../subcategories/worms.md) → **Turbellarians Blog**
 
-Discover our **Turbellarians** collection — 21 premium assets available in 4K/8K for video, print, and digital media.
-
-[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+[🌐 Browse the Turbellarians Collection](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
 
 ---
+
+## Introduction
+
+**Turbellarians** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+
+This guide explores how to use the **Turbellarians** collection — 21 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
 
 ### 1 Micro 05 Worms 03 Aquatic Turbellarians 
 ![1 Micro 05 Worms 03 Aquatic Turbellarians ](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0421_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v2_W_08__Previews.webp)
 
 Aquatic flatworm (turbellarian) shown under the microscope with a transparent body and visible internal organs.
 
----
-
 ### 2 Micro 05 Worms 03 Aquatic Turbellarians
 ![2 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0422_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v2_W_13__Previews.webp)
 
 Aquatic turbellarian worm, translucent body with visible internal organs.
-
----
 
 ### 3 Micro 05 Worms 03 Aquatic Turbellarians
 ![3 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0423_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v2_W_13_Previews.webp)
 
 Close-up of an aquatic turbellarian worm, transparent body revealing internal organs.
 
----
+## Why Turbellarians Visuals Are in Demand
 
-### 4 Micro 05 Worms 03 Aquatic Turbellarians
-![4 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0424_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v2_W_14_Previews.webp)
+High-quality turbellarians footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-Aquatic Turbellarian flatworm, elongated transparent body with brown gut, numerous cilia on the head and posterior, viewed under a microscope.
+All **21 assets** in this collection are:
 
----
+- ✅ Royalty-free — no attribution required
+- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- ✅ Up to 8K resolution for print and up to 4K for video
+- ✅ Instant download after purchase
 
-### 5 Micro 05 Worms 03 Aquatic Turbellarians
-![5 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0425_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v2_W_15__Previews.webp)
+## Common Use Cases
 
-Microscopic aquatic turbellarian (flatworm) organisms with ciliated, bristle-like appendages.
+- 🎬 Science documentaries and biology explainer videos
+- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
+- 🖥️ University lectures, online courses, and e-learning modules
+- 🖨️ Science posters, museum displays, and exhibition banners
+- 🎨 Canva educational templates and presentation backgrounds
+- 🎙️ Video podcasts covering biology, health, and technology topics
 
----
+## How to Use in Your Editing Software
 
-### 6 Micro 05 Worms 03 Aquatic Turbellarians
-![6 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0426_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v4_W_06__Previews.webp)
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
-Microscopic view of aquatic turbellarian worms.
+**Recommended workflow:**
 
----
+1. Download the asset from [Stockflow.media]({website_url})
+2. Import into your editing timeline or design canvas
+3. Resize or trim to fit your project format
+4. Add text overlays, voiceover, or music as needed
 
-### 7 Micro 05 Worms 03 Aquatic Turbellarians
-![7 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0427_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v4_W_07_Previews.webp)
+## Supported File Formats
 
-Microscopic image of an aquatic turbellarian (flatworm) showing a ciliated, anterior head and visible internal orange-red organs.
+| Format | Use Case | Max Resolution |
+|---|---|---|
+| **MP4 Video** | Social media, YouTube, documentaries | Up to 4K (3840×2160) |
+| **JPEG Image** | Print, Canva, presentations | Up to 8K (7680×4320) |
+| **Aspect Ratios** | 16:9, 9:16, 1:1 | All resolutions |
 
----
+## Platform-Specific Tips
 
-### 8 Micro 05 Worms 03 Aquatic Turbellarians
-![8 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0428_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v4_W_10__Previews.webp)
+| Platform | Best Format | Recommended Ratio |
+|---|---|---|
+| YouTube | MP4 | 16:9 |
+| Instagram Reels / TikTok | MP4 | 9:16 |
+| Instagram Feed / LinkedIn | JPEG or MP4 | 1:1 |
+| Canva | JPEG or MP4 | Any |
+| PowerPoint / Google Slides | JPEG | 16:9 |
+| Print (A1 Poster+) | JPEG 8K | Any |
 
-Colorful microscopic aquatic flatworm (turbellarian) with a transparent body showing internal organs and dense bristles along its sides.
+## Explore the Full Turbellarians Collection
 
----
+Ready to add **Turbellarians** visuals to your next project?
 
-### 9 Micro 05 Worms 03 Aquatic Turbellarians
-![9 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0429_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v4_W_10_Previews.webp)
-
-Microscopic view of an aquatic worm (turbellarian) with a translucent, segmented body and colorful internal organs (yellow/red) and bristle-like sensory structures.
-
----
-
-### 10 Micro 05 Worms 03 Aquatic Turbellarians
-![10 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0430_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v4_W_16__Previews.webp)
-
-A detailed illustration of an aquatic Turbellarian flatworm with a curled, ciliated body and visible internal digestive tract.
-
----
-
-### 11 Micro 05 Worms 03 Aquatic Turbellarians
-![11 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0431_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_v4_W_16_Previews.webp)
-
-Illustration of an aquatic bristle worm (polychaete) with a segmented body and numerous chaetae along its sides.
-
----
-
-### 12 Micro 05 Worms 03 Aquatic Turbellarians
-![12 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0432_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_01__Previews.webp)
-
-Aquatic turbellarian worm in a micrograph, showing a curved, transparent body with cilia and branched appendages.
-
----
-
-### 13 Micro 05 Worms 03 Aquatic Turbellarians
-![13 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0433_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_01_Previews.webp)
-
-Aquatic Turbellarian flatworm; a translucent, bristled micro-worm with cilia.
-
----
-
-### 14 Micro 05 Worms 03 Aquatic Turbellarians
-![14 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0434_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_02_Previews.webp)
-
-Microscopic image of an aquatic worm (turbellarian).
-
----
-
-### 15 Micro 05 Worms 03 Aquatic Turbellarians
-![15 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0435_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_03__Previews.webp)
-
-Transparent aquatic flatworm (Turbellaria) with visible internal organs and reproductive structures.
-
----
-
-### 16 Micro 05 Worms 03 Aquatic Turbellarians
-![16 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0436_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_03_Previews.webp)
-
-Micrograph of an aquatic turbellarian (free-living flatworm) with visible internal organs and ciliary fringe.
-
----
-
-### 17 Micro 05 Worms 03 Aquatic Turbellarians
-![17 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0437_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_04__Previews.webp)
-
-Micrograph of an aquatic turbellarian (free-living flatworm) with visible internal organs and ciliary fringe.
-
----
-
-### 18 Micro 05 Worms 03 Aquatic Turbellarians
-![18 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0438_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_09__Previews.webp)
-
-Aquatic turbellarian worm (microscopic flatworm)
-
----
-
-### 19 Micro 05 Worms 03 Aquatic Turbellarians
-![19 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0439_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_11__Previews.webp)
-
-Micro photograph of an aquatic turbellarian (flatworm) worm, transparent body with visible internal structures.
-
----
-
-### 20 Micro 05 Worms 03 Aquatic Turbellarians
-![20 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0440_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_12__Previews.webp)
-
-Close-up of an aquatic turbellarian worm with a translucent body showing orange-red internal organs.
-
----
-
-### 21 Micro 05 Worms 03 Aquatic Turbellarians
-![21 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0441_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_12_Previews.webp)
-
-Macro close-up of an aquatic worm (turbellarian) showing a transparent, segmented body with visible internal organs and bristle-like appendages.
-
----
-
+[🌐 Browse Turbellarians on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+[📂 View Collection Details](../collections/turbellarians.md){ .md-button }
