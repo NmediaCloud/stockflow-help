@@ -238,7 +238,7 @@ def main():
             # Generate Subcategory Page with breadcrumb
             cat_slug_for_link = sanitize_slug(cat_name)
             subcat_md = f"# {cat_sub_name}\n\n"
-            subcat_md += f"🏠 [Home](../index.md) → [{cat_name}](../categories/{cat_slug_for_link}.md) → **{cat_sub_name}**\n\n"
+            subcat_md += f"[Home](../index.md) / [{cat_name}](../categories/{cat_slug_for_link}.md) / **{cat_sub_name}**\n\n"
             subcat_md += f"---\n\nExplore the **{len(subs)} collections** in this subcategory:\n\n"
             for sub_name in sorted(list(subs)):
                 sub_slug = sanitize_slug(sub_name)
@@ -279,8 +279,8 @@ def main():
 
         # Collection with breadcrumb
         collection_md = f"# {sub_name}\n\n"
-        collection_md += f"🏠 [Home](../index.md) → [{parent_cat}](../categories/{cat_slug_for_link}.md) → [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) → **{sub_name}**\n\n"
-        collection_md += f"[🌐 Browse on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n\n"
+        collection_md += f"[Home](../index.md) / [{parent_cat}](../categories/{cat_slug_for_link}.md) / [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) / **{sub_name}**\n\n"
+        collection_md += f"[Browse on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n\n"
         collection_md += f"This collection contains **{len(items)} assets** available in multiple resolutions and aspect ratios.\n\n---\n\n"
 
         for item in items:
@@ -315,45 +315,45 @@ def main():
         is_food = "food" in parent_cat.lower() or "beverage" in parent_cat.lower()
 
         if is_microscopic:
-            use_case_intro = f"**{sub_name}** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers."
+            use_case_intro = f"**{sub_name}** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
             use_case_list = [
-                "🎬 Science documentaries and biology explainer videos",
-                "📱 Educational YouTube Shorts, Instagram Reels, and TikTok content",
-                "🖥️ University lectures, online courses, and e-learning modules",
-                "🖨️ Science posters, museum displays, and exhibition banners",
-                "🎨 Canva educational templates and presentation backgrounds",
-                "🎙️ Video podcasts covering biology, health, and technology topics",
+                "Science documentaries and biology explainer videos",
+                "Educational YouTube Shorts, Instagram Reels, and TikTok content",
+                "University lectures, online courses, and e-learning modules",
+                "Science posters, museum displays, and exhibition banners",
+                "Canva educational templates and presentation backgrounds",
+                "Video podcasts covering biology, health, and technology topics",
             ]
-            software_tip = "Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals."
+            software_tip = "Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals."
         elif is_food:
             use_case_intro = f"**{sub_name}** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
             use_case_list = [
-                "📱 Instagram Reels, TikTok food videos, and YouTube Shorts",
-                "🎬 Restaurant ads, delivery app promotions, and brand storytelling",
-                "🍴 Food blog visuals, cookbook pages, and menu photography",
-                "📺 Food documentary B-roll and culinary travel content",
-                "🖨️ Menu printing, poster design, and in-store display boards",
-                "🎨 Canva social media templates for food and hospitality brands",
+                "Instagram Reels, TikTok food videos, and YouTube Shorts",
+                "Restaurant ads, delivery app promotions, and brand storytelling",
+                "Food blog visuals, cookbook pages, and menu photography",
+                "Food documentary B-roll and culinary travel content",
+                "Menu printing, poster design, and in-store display boards",
+                "Canva social media templates for food and hospitality brands",
             ]
             software_tip = "Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for food video production. Use JPEG assets in **Canva**, **Adobe InDesign**, or **Photoshop** for print and social media design."
         else:
             use_case_intro = f"**{sub_name}** assets are versatile visual tools for content creators, marketers, and designers across multiple platforms and project types."
             use_case_list = [
-                "📱 Social media videos: YouTube Shorts, Instagram Reels, TikTok",
-                "🎬 Documentary B-roll, explainer videos, and brand storytelling",
-                "🎨 Canva designs, presentation backgrounds, and digital marketing",
-                "🖨️ Print design: posters, banners, editorial layouts",
-                "🌐 Website hero sections and landing page backgrounds",
-                "🎙️ Video podcast visual environments and motion backgrounds",
+                "Social media videos: YouTube Shorts, Instagram Reels, TikTok",
+                "Documentary B-roll, explainer videos, and brand storytelling",
+                "Canva designs, presentation backgrounds, and digital marketing",
+                "Print design: posters, banners, editorial layouts",
+                "Website hero sections and landing page backgrounds",
+                "Video podcast visual environments and motion backgrounds",
             ]
-            software_tip = "Import MP4 files into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut**. Use JPEG/webp images in **Canva**, **PowerPoint**, **Google Slides**, or **Adobe InDesign**."
+            software_tip = "Import MP4 files into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut**. Use JPEG images in **Canva**, **PowerPoint**, **Google Slides**, or **Adobe InDesign**."
 
         # Pick first 3 items with image previews for the blog
         preview_items = [i for i in items if (i.get("Preview_URL") or "").strip() and not (i.get("Preview_URL") or "").strip().lower().endswith(".mp4")][:3]
 
         blog_md  = f"# How to Use {sub_name} Visuals in Your Creative Projects\n\n"
-        blog_md += f"🏠 [Home](../index.md) → [{parent_cat}](../categories/{cat_slug_for_link}.md) → [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) → **{sub_name} Blog**\n\n"
-        blog_md += f"[🌐 Browse the {sub_name} Collection]({website_url}){{ .md-button .md-button--primary }}\n\n"
+        blog_md += f"[Home](../index.md) / [{parent_cat}](../categories/{cat_slug_for_link}.md) / [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) / **{sub_name}**\n\n"
+        blog_md += f"[Browse the {sub_name} Collection]({website_url}){{ .md-button .md-button--primary }}\n\n"
         blog_md += "---\n\n"
 
         # Section 1: Introduction
@@ -378,10 +378,10 @@ def main():
         blog_md += f"Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — "
         blog_md += f"saving hours of production time and thousands in equipment costs.\n\n"
         blog_md += f"All **{len(items)} assets** in this collection are:\n\n"
-        blog_md += "- ✅ Royalty-free — no attribution required\n"
-        blog_md += "- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)\n"
-        blog_md += "- ✅ Up to 8K resolution for print and up to 4K for video\n"
-        blog_md += "- ✅ Instant download after purchase\n\n"
+        blog_md += "- Royalty-free — no attribution required\n"
+        blog_md += "- Available in multiple aspect ratios (16:9, 9:16, 1:1)\n"
+        blog_md += "- Up to 8K resolution for print and up to 4K for video\n"
+        blog_md += "- Instant download after purchase\n\n"
 
         # Section 4: Use cases
         blog_md += f"## Common Use Cases\n\n"
@@ -420,8 +420,8 @@ def main():
         # Section 8: CTA
         blog_md += f"## Explore the Full {sub_name} Collection\n\n"
         blog_md += f"Ready to add **{sub_name}** visuals to your next project?\n\n"
-        blog_md += f"[🌐 Browse {sub_name} on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n"
-        blog_md += f"[📂 View Collection Details](../collections/{slug}.md){{ .md-button }}\n"
+        blog_md += f"[Browse {sub_name} on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n"
+        blog_md += f"[View Collection Details](../collections/{slug}.md){{ .md-button }}\n"
 
         with open(DOCS_PATH / "blog" / f"{slug}-showcase.md", "w", encoding="utf-8") as f:
             f.write(blog_md)
@@ -453,9 +453,15 @@ def main():
         new_yaml.append("      - Collection 2 (Placeholder): collections/collection-2.md")
         new_yaml.extend(collections_nav)
         new_yaml.append("  - Guides:")
-        new_yaml.append("      - Using Video (MP4) Footage: guides/video-mp4.md")
-        new_yaml.append("      - Using Audio (MP3) Assets: guides/audio-mp3.md")
-        new_yaml.append("      - Using Vector Files: guides/vector-files.md")
+        new_yaml.append("      - Video:")
+        new_yaml.append("          - Using MP4 Video Footage: guides/video-mp4.md")
+        new_yaml.append("          - Using Audio (MP3) Assets: guides/audio-mp3.md")
+        new_yaml.append("      - Images:")
+        new_yaml.append("          - Using JPEG Images: guides/image-jpeg.md")
+        new_yaml.append("          - Using PNG Images: guides/image-png.md")
+        new_yaml.append("          - Animated WebP Guide: guides/image-webp-animated.md")
+        new_yaml.append("      - Design Files:")
+        new_yaml.append("          - Using Vector Files: guides/vector-files.md")
         new_yaml.append("  - Blog:")
         new_yaml.append("      - End Usage Scenarios: blog/general-usage.md")
         new_yaml.append("      - Usage in Documentaries: blog/documentary-visuals.md")

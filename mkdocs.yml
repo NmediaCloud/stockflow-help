@@ -192,9 +192,15 @@ nav:
       - tardigrade: collections/tardigrade.md
       - yeast and mold: collections/yeast-and-mold.md
   - Guides:
-      - Using Video (MP4) Footage: guides/video-mp4.md
-      - Using Audio (MP3) Assets: guides/audio-mp3.md
-      - Using Vector Files: guides/vector-files.md
+      - Video:
+          - Using MP4 Video Footage: guides/video-mp4.md
+          - Using Audio (MP3) Assets: guides/audio-mp3.md
+      - Images:
+          - Using JPEG Images: guides/image-jpeg.md
+          - Using PNG Images: guides/image-png.md
+          - Animated WebP Guide: guides/image-webp-animated.md
+      - Design Files:
+          - Using Vector Files: guides/vector-files.md
   - Blog:
       - End Usage Scenarios: blog/general-usage.md
       - Usage in Documentaries: blog/documentary-visuals.md
