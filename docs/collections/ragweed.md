@@ -1,8 +1,13 @@
+---
+title: "Ragweed Stock Footage and Images | Pollen | Stockflow.media"
+description: "Download 12 professional Ragweed assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
+---
+
 # Ragweed
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Pollen](../subcategories/pollen.md) → **Ragweed**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Ragweed**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
 
 This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 

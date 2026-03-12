@@ -1,8 +1,13 @@
+---
+title: "Sandwich Stock Footage and Images | Food Menu | Stockflow.media"
+description: "Download 31 professional Sandwich assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Menu collection."
+---
+
 # Sandwich
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Sandwich**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Sandwich**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 This collection contains **31 assets** available in multiple resolutions and aspect ratios.
 

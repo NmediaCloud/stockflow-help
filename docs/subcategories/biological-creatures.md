@@ -1,6 +1,11 @@
+---
+title: "Biological Creatures Stock Footage and Images | Stockflow.media"
+description: "Browse 31 professional 4K/8K Biological Creatures assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Biological Creatures
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Biological Creatures**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Biological Creatures**
 
 ---
 

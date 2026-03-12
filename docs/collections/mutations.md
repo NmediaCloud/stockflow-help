@@ -1,8 +1,13 @@
+---
+title: "Mutations Stock Footage and Images | Cancer Cell | Stockflow.media"
+description: "Download 8 professional Mutations assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
+---
+
 # Mutations
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cancer Cell](../subcategories/cancer-cell.md) → **Mutations**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cancer Cell](../subcategories/cancer-cell.md) / **Mutations**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

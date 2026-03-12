@@ -1,6 +1,11 @@
+---
+title: "Cellular Stock Footage and Images | Stockflow.media"
+description: "Browse 144 professional 4K/8K Cellular assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Cellular
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Cellular**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Cellular**
 
 ---
 

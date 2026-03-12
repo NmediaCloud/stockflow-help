@@ -1,8 +1,13 @@
+---
+title: "How to Use Biriyani Footage in Creative Projects | Stockflow.media"
+description: "**Biriyani** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
+---
+
 # How to Use Biriyani Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Biriyani Blog**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Biriyani**
 
-[🌐 Browse the Biriyani Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse the Biriyani Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 ---
 
@@ -35,19 +40,19 @@ High-quality biriyani footage is notoriously difficult to capture independently.
 
 All **44 assets** in this collection are:
 
-- ✅ Royalty-free — no attribution required
-- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
-- ✅ Up to 8K resolution for print and up to 4K for video
-- ✅ Instant download after purchase
+- Royalty-free — no attribution required
+- Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- Up to 8K resolution for print and up to 4K for video
+- Instant download after purchase
 
 ## Common Use Cases
 
-- 📱 Instagram Reels, TikTok food videos, and YouTube Shorts
-- 🎬 Restaurant ads, delivery app promotions, and brand storytelling
-- 🍴 Food blog visuals, cookbook pages, and menu photography
-- 📺 Food documentary B-roll and culinary travel content
-- 🖨️ Menu printing, poster design, and in-store display boards
-- 🎨 Canva social media templates for food and hospitality brands
+- Instagram Reels, TikTok food videos, and YouTube Shorts
+- Restaurant ads, delivery app promotions, and brand storytelling
+- Food blog visuals, cookbook pages, and menu photography
+- Food documentary B-roll and culinary travel content
+- Menu printing, poster design, and in-store display boards
+- Canva social media templates for food and hospitality brands
 
 ## How to Use in Your Editing Software
 
@@ -83,5 +88,5 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 Ready to add **Biriyani** visuals to your next project?
 
-[🌐 Browse Biriyani on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
-[📂 View Collection Details](../collections/biriyani.md){ .md-button }
+[Browse Biriyani on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[View Collection Details](../collections/biriyani.md){ .md-button }

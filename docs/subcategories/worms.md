@@ -1,6 +1,11 @@
+---
+title: "Worms Stock Footage and Images | Stockflow.media"
+description: "Browse 126 professional 4K/8K Worms assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Worms
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Worms**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Worms**
 
 ---
 

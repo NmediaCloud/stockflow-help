@@ -1,6 +1,11 @@
+---
+title: "Blood Hematology Stock Footage and Images | Stockflow.media"
+description: "Browse 48 professional 4K/8K Blood Hematology assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Blood Hematology
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Blood Hematology**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Blood Hematology**
 
 ---
 

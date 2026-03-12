@@ -1,6 +1,11 @@
+---
+title: "Algae Stock Footage and Images | Stockflow.media"
+description: "Browse 125 professional 4K/8K Algae assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Algae
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Algae**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Algae**
 
 ---
 

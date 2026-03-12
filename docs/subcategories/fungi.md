@@ -1,6 +1,11 @@
+---
+title: "Fungi Stock Footage and Images | Stockflow.media"
+description: "Browse 131 professional 4K/8K Fungi assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Fungi
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Fungi**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Fungi**
 
 ---
 

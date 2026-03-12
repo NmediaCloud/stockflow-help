@@ -1,8 +1,13 @@
+---
+title: "Nematode Lifecycle Stock Footage and Images | Worms | Stockflow.media"
+description: "Download 2 professional Nematode Lifecycle assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Worms collection."
+---
+
 # Nematode Lifecycle
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Worms](../subcategories/worms.md) → **Nematode Lifecycle**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Worms](../subcategories/worms.md) / **Nematode Lifecycle**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
 
 This collection contains **2 assets** available in multiple resolutions and aspect ratios.
 

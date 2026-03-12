@@ -1,6 +1,11 @@
+---
+title: "Underwater Stock Footage and Images | Stockflow.media"
+description: "Browse 121 professional 4K/8K Underwater assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Underwater
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Underwater**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Underwater**
 
 ---
 

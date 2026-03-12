@@ -1,6 +1,11 @@
+---
+title: "Waterborne Stock Footage and Images | Stockflow.media"
+description: "Browse 94 professional 4K/8K Waterborne assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Waterborne
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Waterborne**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Waterborne**
 
 ---
 

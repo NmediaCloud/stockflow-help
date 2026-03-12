@@ -1,8 +1,13 @@
+---
+title: "Decay Stock Footage and Images | Fungi | Stockflow.media"
+description: "Download 12 professional Decay assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
+---
+
 # Decay
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Fungi](../subcategories/fungi.md) → **Decay**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Decay**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi){ .md-button .md-button--primary }
 
 This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 

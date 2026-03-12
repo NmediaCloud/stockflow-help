@@ -1,8 +1,13 @@
+---
+title: "Euglena And Green Algae Stock Footage and Images | Underwater | Stockflow.media"
+description: "Download 4 professional Euglena And Green Algae assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Underwater collection."
+---
+
 # Euglena And Green Algae
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Underwater](../subcategories/underwater.md) → **Euglena And Green Algae**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **Euglena And Green Algae**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
 
 This collection contains **4 assets** available in multiple resolutions and aspect ratios.
 

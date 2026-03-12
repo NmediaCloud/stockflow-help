@@ -1,8 +1,13 @@
+---
+title: "E. Coli Stock Footage and Images | Bacteria | Stockflow.media"
+description: "Download 11 professional E. Coli assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
+---
+
 # E. Coli
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **E. Coli**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **E. Coli**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
 
 This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 

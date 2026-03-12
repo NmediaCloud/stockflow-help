@@ -1,8 +1,13 @@
+---
+title: "Algae Bloom Stock Footage and Images | Algae | Stockflow.media"
+description: "Download 16 professional Algae Bloom assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Algae collection."
+---
+
 # Algae Bloom
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Algae](../subcategories/algae.md) → **Algae Bloom**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Algae Bloom**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
 
 This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 

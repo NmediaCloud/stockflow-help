@@ -1,8 +1,13 @@
+---
+title: "tardigrade Stock Footage and Images | Underwater | Stockflow.media"
+description: "Download 3 professional tardigrade assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Underwater collection."
+---
+
 # tardigrade
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Underwater](../subcategories/underwater.md) → **tardigrade**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **tardigrade**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
 
 This collection contains **3 assets** available in multiple resolutions and aspect ratios.
 

@@ -6,9 +6,9 @@ Whether you're a filmmaker, designer, educator, or digital agency, our massive l
 
 ### What You'll Find Here
 
-* **📂 Asset Collections:** Browse through our curated lists of premium stock footage, microscopic photography, and food & beverage visuals.
-* **💡 Usage Guides:** Learn the best practices for implementing our 8K images, MP4 video footage, and audio stems into your specific workflow.
-* **📝 Creative Showcases:** Read our blog and showcase posts for deep-dives into specific formats, discovering new ways to utilize our media in documentaries, social campaigns, and print media.
+* **Asset Collections:** Browse through our curated lists of premium stock footage, microscopic photography, and food & beverage visuals.
+* **Usage Guides:** Learn the best practices for implementing our 8K images, MP4 video footage, and audio stems into your specific workflow.
+* **Creative Showcases:** Read our blog and showcase posts for deep-dives into specific formats, discovering new ways to utilize our media in documentaries, social campaigns, and print media.
 
 ---
 

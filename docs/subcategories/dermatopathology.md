@@ -1,6 +1,11 @@
+---
+title: "Dermatopathology Stock Footage and Images | Stockflow.media"
+description: "Browse 50 professional 4K/8K Dermatopathology assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Dermatopathology
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Dermatopathology**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Dermatopathology**
 
 ---
 

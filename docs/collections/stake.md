@@ -1,8 +1,13 @@
+---
+title: "Stake Stock Footage and Images | Food Menu | Stockflow.media"
+description: "Download 59 professional Stake assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Menu collection."
+---
+
 # Stake
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → [Food Menu](../subcategories/food-menu.md) → **Stake**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Stake**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
 
 This collection contains **59 assets** available in multiple resolutions and aspect ratios.
 

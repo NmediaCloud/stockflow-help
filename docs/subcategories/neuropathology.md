@@ -1,6 +1,11 @@
+---
+title: "Neuropathology Stock Footage and Images | Stockflow.media"
+description: "Browse 33 professional 4K/8K Neuropathology assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Neuropathology
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Neuropathology**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Neuropathology**
 
 ---
 

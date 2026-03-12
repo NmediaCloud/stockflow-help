@@ -1,8 +1,13 @@
+---
+title: "Liver Cirrhosis Stock Footage and Images | Histopathology | Stockflow.media"
+description: "Download 8 professional Liver Cirrhosis assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
+---
+
 # Liver Cirrhosis
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Histopathology](../subcategories/histopathology.md) → **Liver Cirrhosis**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Histopathology](../subcategories/histopathology.md) / **Liver Cirrhosis**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

@@ -1,14 +1,19 @@
+---
+title: "How to Use Planktonic Footage in Creative Projects | Stockflow.media"
+description: "**Planktonic** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+---
+
 # How to Use Planktonic Visuals in Your Creative Projects
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cellular](../subcategories/cellular.md) → **Planktonic Blog**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Planktonic**
 
-[🌐 Browse the Planktonic Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
+[Browse the Planktonic Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Planktonic** visuals bring the invisible world to life — perfect for science communicators, educators, documentary makers, and digital designers.
+**Planktonic** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
 This guide explores how to use the **Planktonic** collection — 12 premium assets available in 4K/8K — across real creative workflows.
 
@@ -35,23 +40,23 @@ High-quality planktonic footage is notoriously difficult to capture independentl
 
 All **12 assets** in this collection are:
 
-- ✅ Royalty-free — no attribution required
-- ✅ Available in multiple aspect ratios (16:9, 9:16, 1:1)
-- ✅ Up to 8K resolution for print and up to 4K for video
-- ✅ Instant download after purchase
+- Royalty-free — no attribution required
+- Available in multiple aspect ratios (16:9, 9:16, 1:1)
+- Up to 8K resolution for print and up to 4K for video
+- Instant download after purchase
 
 ## Common Use Cases
 
-- 🎬 Science documentaries and biology explainer videos
-- 📱 Educational YouTube Shorts, Instagram Reels, and TikTok content
-- 🖥️ University lectures, online courses, and e-learning modules
-- 🖨️ Science posters, museum displays, and exhibition banners
-- 🎨 Canva educational templates and presentation backgrounds
-- 🎙️ Video podcasts covering biology, health, and technology topics
+- Science documentaries and biology explainer videos
+- Educational YouTube Shorts, Instagram Reels, and TikTok content
+- University lectures, online courses, and e-learning modules
+- Science posters, museum displays, and exhibition banners
+- Canva educational templates and presentation backgrounds
+- Video podcasts covering biology, health, and technology topics
 
 ## How to Use in Your Editing Software
 
-Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG/webp images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
+Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cut Pro**, or **CapCut** as B-roll overlays. Drop JPEG images into **Canva**, **PowerPoint**, or **Google Slides** as background visuals.
 
 **Recommended workflow:**
 
@@ -83,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Planktonic** visuals to your next project?
 
-[🌐 Browse Planktonic on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
-[📂 View Collection Details](../collections/planktonic.md){ .md-button }
+[Browse Planktonic on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
+[View Collection Details](../collections/planktonic.md){ .md-button }

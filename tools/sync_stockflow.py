@@ -8,15 +8,26 @@ import shutil
 import sys
 from pathlib import Path
 
-def progress(label, current, total):
+import time as _time
+
+def progress(label, current, total, start_time=None):
     bar_len = 30
     filled = int(bar_len * current / total) if total else 0
-    bar = '█' * filled + '░' * (bar_len - filled)
+    bar = '#' * filled + '-' * (bar_len - filled)
     pct = int(100 * current / total) if total else 0
-    sys.stdout.write(f'\r  [{bar}] {pct:3d}%  {label[:40]:<40}')
+    eta = ''
+    if start_time and current > 0:
+        elapsed = _time.time() - start_time
+        remaining = (elapsed / current) * (total - current)
+        if remaining > 60:
+            eta = f'  ETA: {int(remaining/60)}m {int(remaining%60)}s'
+        else:
+            eta = f'  ETA: {int(remaining)}s'
+    sys.stdout.write(f'\r  [{bar}] {pct:3d}%  {label[:40]:<40}{eta:<20}')
     sys.stdout.flush()
     if current == total:
-        print()  # newline when done
+        elapsed = _time.time() - start_time if start_time else 0
+        print(f'  Done in {int(elapsed)}s')
 
 # Configuration
 SHEET_URL = "https://docs.google.com/spreadsheets/d/12eyXAI9-hT0TFSx2HhVDUWHXo4X9QVT-vSPmGQBx6c8/export?format=csv&gid=65282458"
@@ -138,8 +149,13 @@ def main():
     # --- Delta sync: compare against previous snapshot ---
     prev_ids = set()
     if SNAPSHOT_FILE.exists():
-        with open(SNAPSHOT_FILE, "r", encoding="utf-8") as f:
-            prev_ids = set(json.load(f))
+        try:
+            with open(SNAPSHOT_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                prev_ids = {str(x) for x in data if isinstance(x, str)}
+        except Exception:
+            print("Note: previous_data.json was corrupted, starting fresh.")
+            prev_ids = set()
 
     current_ids = {row["File_ID"].strip() for row in current_data}
     new_ids = current_ids - prev_ids
@@ -147,12 +163,11 @@ def main():
 
     if delta_mode:
         if not new_ids:
-            print(f"✅ Delta sync: No new items found. {len(current_ids)} items already up to date.")
-            # Still save snapshot and regenerate nav in case structure changed
+            print(f"Delta sync: No new items found. {len(current_ids)} items already up to date.")
         else:
-            print(f"🆕 Delta sync: {len(new_ids)} new items found out of {len(current_ids)} total.")
+            print(f"Delta sync: {len(new_ids)} new items found out of {len(current_ids)} total.")
     else:
-        print(f"🔄 Full sync: {len(current_ids)} items ({len(new_ids)} new since last run)")
+        print(f"Full sync: {len(current_ids)} items ({len(new_ids)} new since last run)")
 
     # Save updated snapshot
     with open(SNAPSHOT_FILE, "w", encoding="utf-8") as f:
@@ -221,6 +236,8 @@ def main():
     blog_nav = []
     total_cats = sum(len(v) for v in hierarchy.values())
     cat_done = 0
+    cat_start = _time.time()
+    print(f"\nPhase 1/4: Generating {total_cats} category/subcategory pages...")
 
     for cat_name, cat_subs in sorted(hierarchy.items()):
         cat_slug = sanitize_slug(cat_name)
@@ -233,11 +250,16 @@ def main():
             cat_sub_slug = sanitize_slug(cat_sub_name)
             cat_md += f"* **[{cat_sub_name}](../subcategories/{cat_sub_slug}.md)** - Contains {len(subs)} collections.\n"
             cat_done += 1
-            progress(f"Category: {cat_name} > {cat_sub_name}", cat_done, total_cats)
+            progress(f"Category: {cat_name} > {cat_sub_name}", cat_done, total_cats, cat_start)
             
             # Generate Subcategory Page with breadcrumb
             cat_slug_for_link = sanitize_slug(cat_name)
-            subcat_md = f"# {cat_sub_name}\n\n"
+            total_sub_assets = sum(len(sub_groups.get(s, [])) for s in subs)
+            subcat_md  = f"---\n"
+            subcat_md += f"title: \"{cat_sub_name} Stock Footage and Images | Stockflow.media\"\n"
+            subcat_md += f"description: \"Browse {total_sub_assets} professional 4K/8K {cat_sub_name} assets from the {cat_name} library — royalty-free footage and images for creators, educators, and designers.\"\n"
+            subcat_md += f"---\n\n"
+            subcat_md += f"# {cat_sub_name}\n\n"
             subcat_md += f"[Home](../index.md) / [{cat_name}](../categories/{cat_slug_for_link}.md) / **{cat_sub_name}**\n\n"
             subcat_md += f"---\n\nExplore the **{len(subs)} collections** in this subcategory:\n\n"
             for sub_name in sorted(list(subs)):
@@ -256,12 +278,13 @@ def main():
         categories_nav.extend(cat_nav_block)
 
     # Generate Collections and Blogs safely
-    print(f"\n⏳ Generating {len(sub_groups)} collection & blog pages...")
     total_subs = len(sub_groups)
     sub_done = 0
+    coll_start = _time.time()
+    print(f"\nPhase 2/4: Generating {total_subs} collection pages...")
     for sub_name, items in sorted(sub_groups.items()):
         sub_done += 1
-        progress(f"Collection: {sub_name}", sub_done, total_subs)
+        progress(f"Collection: {sub_name}", sub_done, total_subs, coll_start)
         slug = sanitize_slug(sub_name)
         
         # Determine parent category for website link
@@ -278,7 +301,11 @@ def main():
         website_url = build_website_url(parent_cat, parent_cat_sub)
 
         # Collection with breadcrumb
-        collection_md = f"# {sub_name}\n\n"
+        collection_md  = f"---\n"
+        collection_md += f"title: \"{sub_name} Stock Footage and Images | {parent_cat_sub} | Stockflow.media\"\n"
+        collection_md += f"description: \"Download {len(items)} professional {sub_name} assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the {parent_cat_sub} collection.\"\n"
+        collection_md += f"---\n\n"
+        collection_md += f"# {sub_name}\n\n"
         collection_md += f"[Home](../index.md) / [{parent_cat}](../categories/{cat_slug_for_link}.md) / [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) / **{sub_name}**\n\n"
         collection_md += f"[Browse on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n\n"
         collection_md += f"This collection contains **{len(items)} assets** available in multiple resolutions and aspect ratios.\n\n---\n\n"
@@ -351,7 +378,11 @@ def main():
         # Pick first 3 items with image previews for the blog
         preview_items = [i for i in items if (i.get("Preview_URL") or "").strip() and not (i.get("Preview_URL") or "").strip().lower().endswith(".mp4")][:3]
 
-        blog_md  = f"# How to Use {sub_name} Visuals in Your Creative Projects\n\n"
+        blog_md  = f"---\n"
+        blog_md += f"title: \"How to Use {sub_name} Footage in Creative Projects | Stockflow.media\"\n"
+        blog_md += f"description: \"{use_case_intro[:160]}\"\n"
+        blog_md += f"---\n\n"
+        blog_md += f"# How to Use {sub_name} Visuals in Your Creative Projects\n\n"
         blog_md += f"[Home](../index.md) / [{parent_cat}](../categories/{cat_slug_for_link}.md) / [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) / **{sub_name}**\n\n"
         blog_md += f"[Browse the {sub_name} Collection]({website_url}){{ .md-button .md-button--primary }}\n\n"
         blog_md += "---\n\n"
@@ -429,9 +460,11 @@ def main():
         blog_nav.append(f"      - {sub_name} Guide: blog/{slug}-showcase.md")
 
     # Generate Reddit feed
+    print("\nPhase 3/4: Generating Reddit feed...")
     generate_reddit_feed(hierarchy, sub_groups)
 
     # Update mkdocs.yml gracefully
+    print("\nPhase 4/4: Updating mkdocs.yml navigation...")
     if MKDOCS_YML.exists():
         with open(MKDOCS_YML, "r", encoding="utf-8") as f:
              yaml_content = f.read()
@@ -482,4 +515,14 @@ def main():
         print("Re-generated mkdocs.yml navigating hierarchy successfully.")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+        print("\n" + "="*50)
+        print("  SYNC COMPLETE - All pages generated successfully")
+        print("="*50)
+    except Exception as e:
+        print(f"\n\nERROR: {e}")
+        import traceback
+        traceback.print_exc()
+        print("\nSync failed. See error above.")
+        sys.exit(1)

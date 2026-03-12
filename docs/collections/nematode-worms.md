@@ -1,8 +1,13 @@
+---
+title: "Nematode worms Stock Footage and Images | Biological Creatures | Stockflow.media"
+description: "Download 4 professional Nematode worms assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Biological Creatures collection."
+---
+
 # Nematode worms
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Biological Creatures](../subcategories/biological-creatures.md) → **Nematode worms**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Nematode worms**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures){ .md-button .md-button--primary }
 
 This collection contains **4 assets** available in multiple resolutions and aspect ratios.
 

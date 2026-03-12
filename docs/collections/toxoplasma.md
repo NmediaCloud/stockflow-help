@@ -1,8 +1,13 @@
+---
+title: "Toxoplasma Stock Footage and Images | Infectious | Stockflow.media"
+description: "Download 8 professional Toxoplasma assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Infectious collection."
+---
+
 # Toxoplasma
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Infectious](../subcategories/infectious.md) → **Toxoplasma**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Infectious](../subcategories/infectious.md) / **Toxoplasma**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Infectious){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Infectious){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

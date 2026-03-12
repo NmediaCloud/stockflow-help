@@ -1,8 +1,13 @@
+---
+title: "Dandelion Stock Footage and Images | Pollen | Stockflow.media"
+description: "Download 24 professional Dandelion assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
+---
+
 # Dandelion
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Pollen](../subcategories/pollen.md) → **Dandelion**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Dandelion**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
 
 This collection contains **24 assets** available in multiple resolutions and aspect ratios.
 

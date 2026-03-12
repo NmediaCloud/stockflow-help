@@ -1,6 +1,11 @@
+---
+title: "Food Menu Stock Footage and Images | Stockflow.media"
+description: "Browse 1005 professional 4K/8K Food Menu assets from the Food & Beverage library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Food Menu
 
-🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → **Food Menu**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / **Food Menu**
 
 ---
 

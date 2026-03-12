@@ -1,6 +1,11 @@
+---
+title: "Virus Stock Footage and Images | Stockflow.media"
+description: "Browse 58 professional 4K/8K Virus assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Virus
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Virus**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Virus**
 
 ---
 

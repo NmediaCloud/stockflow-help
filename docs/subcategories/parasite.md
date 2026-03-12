@@ -1,6 +1,11 @@
+---
+title: "Parasite Stock Footage and Images | Stockflow.media"
+description: "Browse 110 professional 4K/8K Parasite assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Parasite
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Parasite**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Parasite**
 
 ---
 

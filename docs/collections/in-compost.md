@@ -1,8 +1,13 @@
+---
+title: "In Compost Stock Footage and Images | Worms | Stockflow.media"
+description: "Download 1 professional In Compost assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Worms collection."
+---
+
 # In Compost
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Worms](../subcategories/worms.md) → **In Compost**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Worms](../subcategories/worms.md) / **In Compost**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
 
 This collection contains **1 assets** available in multiple resolutions and aspect ratios.
 

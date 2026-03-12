@@ -1,8 +1,13 @@
+---
+title: "Intracellular Stock Footage and Images | Cellular | Stockflow.media"
+description: "Download 8 professional Intracellular assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cellular collection."
+---
+
 # Intracellular
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cellular](../subcategories/cellular.md) → **Intracellular**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Intracellular**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

@@ -1,8 +1,13 @@
+---
+title: "protozoa Stock Footage and Images | Protozoa | Stockflow.media"
+description: "Download 16 professional protozoa assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Protozoa collection."
+---
+
 # protozoa
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Protozoa](../subcategories/protozoa.md) → **protozoa**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Protozoa](../subcategories/protozoa.md) / **protozoa**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Protozoa){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Protozoa){ .md-button .md-button--primary }
 
 This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 

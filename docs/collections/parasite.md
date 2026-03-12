@@ -1,8 +1,13 @@
+---
+title: "Parasite Stock Footage and Images | Blood Hematology | Stockflow.media"
+description: "Download 8 professional Parasite assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Blood Hematology collection."
+---
+
 # Parasite
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Blood Hematology](../subcategories/blood-hematology.md) → **Parasite**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Blood Hematology](../subcategories/blood-hematology.md) / **Parasite**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Blood+Hematology){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Blood+Hematology){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

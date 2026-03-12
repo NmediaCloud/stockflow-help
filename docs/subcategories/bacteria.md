@@ -1,6 +1,11 @@
+---
+title: "Bacteria Stock Footage and Images | Stockflow.media"
+description: "Browse 114 professional 4K/8K Bacteria assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Bacteria
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Bacteria**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Bacteria**
 
 ---
 

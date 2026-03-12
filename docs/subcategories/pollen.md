@@ -1,6 +1,11 @@
+---
+title: "Pollen Stock Footage and Images | Stockflow.media"
+description: "Browse 104 professional 4K/8K Pollen assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Pollen
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Pollen**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Pollen**
 
 ---
 

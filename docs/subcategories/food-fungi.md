@@ -1,6 +1,11 @@
+---
+title: "Food Fungi Stock Footage and Images | Stockflow.media"
+description: "Browse 85 professional 4K/8K Food Fungi assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Food Fungi
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Food Fungi**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Food Fungi**
 
 ---
 

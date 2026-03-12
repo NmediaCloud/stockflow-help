@@ -1,6 +1,11 @@
+---
+title: "Infectious Stock Footage and Images | Stockflow.media"
+description: "Browse 40 professional 4K/8K Infectious assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Infectious
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Infectious**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Infectious**
 
 ---
 

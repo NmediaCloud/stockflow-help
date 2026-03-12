@@ -1,8 +1,13 @@
+---
+title: "Tetani Stock Footage and Images | Bacteria | Stockflow.media"
+description: "Download 7 professional Tetani assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
+---
+
 # Tetani
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Tetani**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Tetani**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
 
 This collection contains **7 assets** available in multiple resolutions and aspect ratios.
 

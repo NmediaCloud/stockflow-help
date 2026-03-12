@@ -1,8 +1,13 @@
+---
+title: "Resistant Bacteria Stock Footage and Images | Bacteria | Stockflow.media"
+description: "Download 10 professional Resistant Bacteria assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
+---
+
 # Resistant Bacteria
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Resistant Bacteria**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Resistant Bacteria**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
 
 This collection contains **10 assets** available in multiple resolutions and aspect ratios.
 

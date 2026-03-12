@@ -1,16 +1,18 @@
 # Reddit Feed — Stockflow.media
 
-> Copy and paste each block below into Reddit when sharing a new collection.
+> One post per subcategory. Copy the title + post text into the listed subreddits.
 
 ---
 
 ## Food & Beverage — Food Menu
 
+**Post to:** r/foodporn | r/food | r/videos | r/Cooking | r/GifRecipes
+
 **Reddit Title:**
-> Food Menu – Premium Stock Food & Beverage Visuals | 1005 assets in 4K/8K (Free to preview)
+> Food Menu – Premium Stock Food & Beverage Visuals | 1005 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Food Menu** collection in our Food & Beverage stock library.
+> I just published a new **Food Menu** collection in the Food & Beverage stock library at Stockflow.media.
 >
 > This pack includes 1005 assets covering:
 >
@@ -21,10 +23,10 @@
 > • Chicken Dinner
 > • ...and 14 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/food-menu/
+> 🌐 Browse: https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu
+> 📖 Details & previews: https://help.stockflow.media/subcategories/food-menu/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -32,11 +34,13 @@
 
 ## Microscopic — Algae
 
+**Post to:** r/biology | r/microscopy | r/botany | r/science
+
 **Reddit Title:**
-> Algae – Premium Stock Microscopic Visuals | 125 assets in 4K/8K (Free to preview)
+> Algae – Premium Stock Microscopic Visuals | 125 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Algae** collection in our Microscopic stock library.
+> I just published a new **Algae** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 125 assets covering:
 >
@@ -47,10 +51,10 @@
 > • Colonial Algae
 > • ...and 5 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Algae
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/algae/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Algae
+> 📖 Details & previews: https://help.stockflow.media/subcategories/algae/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -58,11 +62,13 @@
 
 ## Microscopic — Bacteria
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Bacteria – Premium Stock Microscopic Visuals | 114 assets in 4K/8K (Free to preview)
+> Bacteria – Premium Stock Microscopic Visuals | 114 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Bacteria** collection in our Microscopic stock library.
+> I just published a new **Bacteria** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 114 assets covering:
 >
@@ -73,10 +79,10 @@
 > • E. Coli
 > • ...and 4 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Bacteria
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/bacteria/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Bacteria
+> 📖 Details & previews: https://help.stockflow.media/subcategories/bacteria/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -84,11 +90,13 @@
 
 ## Microscopic — Biological Creatures
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Biological Creatures – Premium Stock Microscopic Visuals | 31 assets in 4K/8K (Free to preview)
+> Biological Creatures – Premium Stock Microscopic Visuals | 31 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Biological Creatures** collection in our Microscopic stock library.
+> I just published a new **Biological Creatures** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 31 assets covering:
 >
@@ -98,10 +106,10 @@
 > • Paramecium
 > • Tardigrade
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/biological-creatures/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures
+> 📖 Details & previews: https://help.stockflow.media/subcategories/biological-creatures/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -109,11 +117,13 @@
 
 ## Microscopic — Blood Hematology
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Blood Hematology – Premium Stock Microscopic Visuals | 48 assets in 4K/8K (Free to preview)
+> Blood Hematology – Premium Stock Microscopic Visuals | 48 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Blood Hematology** collection in our Microscopic stock library.
+> I just published a new **Blood Hematology** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 48 assets covering:
 >
@@ -123,10 +133,10 @@
 > • Sickle Cell
 > • Thrombocytopenia
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Blood+Hematology
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/blood-hematology/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Blood+Hematology
+> 📖 Details & previews: https://help.stockflow.media/subcategories/blood-hematology/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -134,11 +144,13 @@
 
 ## Microscopic — Cancer Cell
 
+**Post to:** r/oncology | r/medicine | r/biology | r/science
+
 **Reddit Title:**
-> Cancer Cell – Premium Stock Microscopic Visuals | 123 assets in 4K/8K (Free to preview)
+> Cancer Cell – Premium Stock Microscopic Visuals | 123 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Cancer Cell** collection in our Microscopic stock library.
+> I just published a new **Cancer Cell** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 123 assets covering:
 >
@@ -149,10 +161,10 @@
 > • Healthy Cells
 > • ...and 7 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/cancer-cell/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell
+> 📖 Details & previews: https://help.stockflow.media/subcategories/cancer-cell/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -160,11 +172,13 @@
 
 ## Microscopic — Cellular
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Cellular – Premium Stock Microscopic Visuals | 144 assets in 4K/8K (Free to preview)
+> Cellular – Premium Stock Microscopic Visuals | 144 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Cellular** collection in our Microscopic stock library.
+> I just published a new **Cellular** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 144 assets covering:
 >
@@ -175,10 +189,10 @@
 > • Planktonic
 > • ...and 2 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Cellular
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/cellular/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Cellular
+> 📖 Details & previews: https://help.stockflow.media/subcategories/cellular/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -186,11 +200,13 @@
 
 ## Microscopic — Dermatopathology
 
+**Post to:** r/Pathology | r/medicine | r/biology | r/science | r/medicalschool
+
 **Reddit Title:**
-> Dermatopathology – Premium Stock Microscopic Visuals | 50 assets in 4K/8K (Free to preview)
+> Dermatopathology – Premium Stock Microscopic Visuals | 50 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Dermatopathology** collection in our Microscopic stock library.
+> I just published a new **Dermatopathology** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 50 assets covering:
 >
@@ -200,10 +216,10 @@
 > • Squamous
 > • Vitiligo
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Dermatopathology
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/dermatopathology/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Dermatopathology
+> 📖 Details & previews: https://help.stockflow.media/subcategories/dermatopathology/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -211,11 +227,13 @@
 
 ## Microscopic — Food Fungi
 
+**Post to:** r/mycology | r/biology | r/microscopy
+
 **Reddit Title:**
-> Food Fungi – Premium Stock Microscopic Visuals | 85 assets in 4K/8K (Free to preview)
+> Food Fungi – Premium Stock Microscopic Visuals | 85 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Food Fungi** collection in our Microscopic stock library.
+> I just published a new **Food Fungi** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 85 assets covering:
 >
@@ -226,10 +244,10 @@
 > • Hyphae
 > • ...and 4 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Food+Fungi
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/food-fungi/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Food+Fungi
+> 📖 Details & previews: https://help.stockflow.media/subcategories/food-fungi/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -237,11 +255,13 @@
 
 ## Microscopic — Fungi
 
+**Post to:** r/mycology | r/biology | r/microscopy
+
 **Reddit Title:**
-> Fungi – Premium Stock Microscopic Visuals | 131 assets in 4K/8K (Free to preview)
+> Fungi – Premium Stock Microscopic Visuals | 131 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Fungi** collection in our Microscopic stock library.
+> I just published a new **Fungi** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 131 assets covering:
 >
@@ -252,10 +272,10 @@
 > • Lichen
 > • ...and 5 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Fungi
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/fungi/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Fungi
+> 📖 Details & previews: https://help.stockflow.media/subcategories/fungi/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -263,11 +283,13 @@
 
 ## Microscopic — Histopathology
 
+**Post to:** r/Pathology | r/medicine | r/biology | r/science | r/medicalschool
+
 **Reddit Title:**
-> Histopathology – Premium Stock Microscopic Visuals | 70 assets in 4K/8K (Free to preview)
+> Histopathology – Premium Stock Microscopic Visuals | 70 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Histopathology** collection in our Microscopic stock library.
+> I just published a new **Histopathology** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 70 assets covering:
 >
@@ -278,10 +300,10 @@
 > • Kidney
 > • ...and 4 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Histopathology
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/histopathology/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Histopathology
+> 📖 Details & previews: https://help.stockflow.media/subcategories/histopathology/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -289,11 +311,13 @@
 
 ## Microscopic — Infectious
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Infectious – Premium Stock Microscopic Visuals | 40 assets in 4K/8K (Free to preview)
+> Infectious – Premium Stock Microscopic Visuals | 40 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Infectious** collection in our Microscopic stock library.
+> I just published a new **Infectious** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 40 assets covering:
 >
@@ -303,10 +327,10 @@
 > • Toxoplasma
 > • Tuberculosis
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Infectious
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/infectious/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Infectious
+> 📖 Details & previews: https://help.stockflow.media/subcategories/infectious/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -314,11 +338,13 @@
 
 ## Microscopic — Neuropathology
 
+**Post to:** r/Pathology | r/medicine | r/biology | r/science | r/medicalschool
+
 **Reddit Title:**
-> Neuropathology – Premium Stock Microscopic Visuals | 33 assets in 4K/8K (Free to preview)
+> Neuropathology – Premium Stock Microscopic Visuals | 33 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Neuropathology** collection in our Microscopic stock library.
+> I just published a new **Neuropathology** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 33 assets covering:
 >
@@ -327,10 +353,10 @@
 > • Neuroblastoma
 > • Spinal Cord
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Neuropathology
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/neuropathology/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Neuropathology
+> 📖 Details & previews: https://help.stockflow.media/subcategories/neuropathology/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -338,11 +364,13 @@
 
 ## Microscopic — Parasite
 
+**Post to:** r/Parasitology | r/biology | r/medicine
+
 **Reddit Title:**
-> Parasite – Premium Stock Microscopic Visuals | 110 assets in 4K/8K (Free to preview)
+> Parasite – Premium Stock Microscopic Visuals | 110 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Parasite** collection in our Microscopic stock library.
+> I just published a new **Parasite** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 110 assets covering:
 >
@@ -353,10 +381,10 @@
 > • Plasmodium
 > • ...and 4 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Parasite
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/parasite/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Parasite
+> 📖 Details & previews: https://help.stockflow.media/subcategories/parasite/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -364,11 +392,13 @@
 
 ## Microscopic — Pollen
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Pollen – Premium Stock Microscopic Visuals | 104 assets in 4K/8K (Free to preview)
+> Pollen – Premium Stock Microscopic Visuals | 104 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Pollen** collection in our Microscopic stock library.
+> I just published a new **Pollen** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 104 assets covering:
 >
@@ -379,10 +409,10 @@
 > • Peanut Hex Surface
 > • ...and 3 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Pollen
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/pollen/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Pollen
+> 📖 Details & previews: https://help.stockflow.media/subcategories/pollen/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -390,20 +420,22 @@
 
 ## Microscopic — Protozoa
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Protozoa – Premium Stock Microscopic Visuals | 16 assets in 4K/8K (Free to preview)
+> Protozoa – Premium Stock Microscopic Visuals | 16 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Protozoa** collection in our Microscopic stock library.
+> I just published a new **Protozoa** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 16 assets covering:
 >
 > • protozoa
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Protozoa
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/protozoa/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Protozoa
+> 📖 Details & previews: https://help.stockflow.media/subcategories/protozoa/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -411,11 +443,13 @@
 
 ## Microscopic — Underwater
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Underwater – Premium Stock Microscopic Visuals | 121 assets in 4K/8K (Free to preview)
+> Underwater – Premium Stock Microscopic Visuals | 121 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Underwater** collection in our Microscopic stock library.
+> I just published a new **Underwater** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 121 assets covering:
 >
@@ -426,10 +460,10 @@
 > • Protozoa And Algae
 > • ...and 5 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Underwater
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/underwater/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Underwater
+> 📖 Details & previews: https://help.stockflow.media/subcategories/underwater/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -437,20 +471,22 @@
 
 ## Microscopic — Virus
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Virus – Premium Stock Microscopic Visuals | 58 assets in 4K/8K (Free to preview)
+> Virus – Premium Stock Microscopic Visuals | 58 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Virus** collection in our Microscopic stock library.
+> I just published a new **Virus** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 58 assets covering:
 >
 > • Membrane
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Virus
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/virus/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Virus
+> 📖 Details & previews: https://help.stockflow.media/subcategories/virus/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -458,11 +494,13 @@
 
 ## Microscopic — Waterborne
 
+**Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
+
 **Reddit Title:**
-> Waterborne – Premium Stock Microscopic Visuals | 94 assets in 4K/8K (Free to preview)
+> Waterborne – Premium Stock Microscopic Visuals | 94 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Waterborne** collection in our Microscopic stock library.
+> I just published a new **Waterborne** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 94 assets covering:
 >
@@ -473,10 +511,10 @@
 > • Euglena cell
 > • ...and 4 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Waterborne
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/waterborne/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Waterborne
+> 📖 Details & previews: https://help.stockflow.media/subcategories/waterborne/
 >
 > All assets are royalty-free. No attribution required.
 
@@ -484,11 +522,13 @@
 
 ## Microscopic — Worms
 
+**Post to:** r/biology | r/Parasitology | r/microscopy
+
 **Reddit Title:**
-> Worms – Premium Stock Microscopic Visuals | 126 assets in 4K/8K (Free to preview)
+> Worms – Premium Stock Microscopic Visuals | 126 assets in 4K/8K
 
 **Reddit Post:**
-> I just published a new **Worms** collection in our Microscopic stock library.
+> I just published a new **Worms** collection in the Microscopic stock library at Stockflow.media.
 >
 > This pack includes 126 assets covering:
 >
@@ -499,10 +539,10 @@
 > • In Compost
 > • ...and 5 more
 >
-> Available as 4K/8K video (MP4), high-res images (JPEG), in widescreen, vertical, and square formats.
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
-> 🌐 Browse the collection: https://stockflow.media/?cat=Microscopic&sub=Worms
-> 📖 Full details & previews: https://help.stockflow.media/subcategories/worms/
+> 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Worms
+> 📖 Details & previews: https://help.stockflow.media/subcategories/worms/
 >
 > All assets are royalty-free. No attribution required.
 

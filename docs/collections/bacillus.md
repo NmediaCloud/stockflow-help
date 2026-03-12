@@ -1,8 +1,13 @@
+---
+title: "Bacillus Stock Footage and Images | Bacteria | Stockflow.media"
+description: "Download 20 professional Bacillus assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
+---
+
 # Bacillus
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Bacillus**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Bacillus**
 
-[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
 
 This collection contains **20 assets** available in multiple resolutions and aspect ratios.
 

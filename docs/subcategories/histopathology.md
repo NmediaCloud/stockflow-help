@@ -1,6 +1,11 @@
+---
+title: "Histopathology Stock Footage and Images | Stockflow.media"
+description: "Browse 70 professional 4K/8K Histopathology assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+---
+
 # Histopathology
 
-🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Histopathology**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Histopathology**
 
 ---
 
