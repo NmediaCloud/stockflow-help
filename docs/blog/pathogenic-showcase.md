@@ -1,79 +1,185 @@
-# Showcase for Pathogenic
+# Showcase: Pathogenic
 
-Discover our newest visually stunning additions in the **Pathogenic** category. Here are amazing ways to use these 25 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Fungi](../subcategories/fungi.md) → **Pathogenic Showcase**
 
-### Highlight: 1 Micro 07 Bacteria 06 Pathogenic
+Discover our **Pathogenic** collection — 25 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 07 Bacteria 06 Pathogenic
+![1 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0687_01_Micro_07_Bacteria_06_Pathogenic_01_W_01__Previews.webp)
+
 Pathogenic rod-shaped bacteria on a cellular surface.
 
-### Highlight: 2 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 2 Micro 07 Bacteria 06 Pathogenic
+![2 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0688_01_Micro_07_Bacteria_06_Pathogenic_01_W_01_Previews.webp)
+
 Close-up of rod-shaped pathogenic bacteria under a microscope.
 
-### Highlight: 3 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 3 Micro 07 Bacteria 06 Pathogenic
+![3 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0689_01_Micro_07_Bacteria_06_Pathogenic_01_W_02__Previews.webp)
+
 Color-enhanced micrograph showing pathogenic bacteria (green rod-shaped) surrounding and invading orange-toned tissue cells.
 
-### Highlight: 4 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 4 Micro 07 Bacteria 06 Pathogenic
+![4 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0690_01_Micro_07_Bacteria_06_Pathogenic_01_W_02_Previews.webp)
+
 Colorful 3D render of pathogenic bacteria within a cellular environment.
 
-### Highlight: 5 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 5 Micro 07 Bacteria 06 Pathogenic
+![5 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0691_01_Micro_07_Bacteria_06_Pathogenic_01_W_03__Previews.webp)
+
 Color-enhanced micrograph of pathogenic bacteria (purple rod-shaped) interacting with a host cell.
 
-### Highlight: 6 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 6 Micro 07 Bacteria 06 Pathogenic
+![6 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0692_01_Micro_07_Bacteria_06_Pathogenic_01_W_04__Previews.webp)
+
 Color-enhanced micrograph of pathogenic bacteria (purple rod-shaped) interacting with a host cell.
 
-### Highlight: 7 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 7 Micro 07 Bacteria 06 Pathogenic
+![7 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0693_01_Micro_07_Bacteria_06_Pathogenic_01_W_05__Previews.webp)
+
 Color-enhanced micrograph of pathogenic bacteria (purple rod-shaped) interacting with a host cell.
 
-### Highlight: 8 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 8 Micro 07 Bacteria 06 Pathogenic
+![8 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0694_01_Micro_07_Bacteria_06_Pathogenic_01_W_06__Previews.webp)
+
 Pathogenic rod-shaped bacteria attached to a host cell surface.
 
-### Highlight: 9 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 9 Micro 07 Bacteria 06 Pathogenic
+![9 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0695_01_Micro_07_Bacteria_06_Pathogenic_01_W_07__Previews.webp)
+
 Color-enhanced micrograph of pathogenic bacteria (blue rods) inside a host cell surrounded by cellular material.
 
-### Highlight: 10 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 10 Micro 07 Bacteria 06 Pathogenic
+![10 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0696_01_Micro_07_Bacteria_06_Pathogenic_01_W_07_Previews.webp)
+
 Color-enhanced micrograph of blue rod-shaped bacteria inside a membrane-bound vesicle within host tissue.
 
-### Highlight: 11 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 11 Micro 07 Bacteria 06 Pathogenic
+![11 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0697_01_Micro_07_Bacteria_06_Pathogenic_01_W_08__Previews.webp)
+
 Color-enhanced micrograph of pathogenic rod-shaped bacteria in tissue.
 
-### Highlight: 12 Micro 07 Bacteria 06 Pathogenic
+---
+
+### 12 Micro 07 Bacteria 06 Pathogenic
+![12 Micro 07 Bacteria 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0698_01_Micro_07_Bacteria_06_Pathogenic_01_W_08_Previews.webp)
+
 Rod-shaped pathogenic bacteria among tissue structures.
 
-### Highlight: 1 Micro 08 Fungi 06 Pathogenic
+---
+
+### 1 Micro 08 Fungi 06 Pathogenic
+![1 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0783_01_Micro_08_Fungi_06_Pathogenic_W_01__Previews.webp)
+
 Illustration of pathogenic fungi invading tissue, showing fungal hyphae and spores among surrounding cells and immune elements.
 
-### Highlight: 2 Micro 08 Fungi 06 Pathogenic
+---
+
+### 2 Micro 08 Fungi 06 Pathogenic
+![2 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0784_01_Micro_08_Fungi_06_Pathogenic_W_02__Previews.webp)
+
 Pathogenic fungi invading skin tissue, with immune cells responding.
 
-### Highlight: 3 Micro 08 Fungi 06 Pathogenic
+---
+
+### 3 Micro 08 Fungi 06 Pathogenic
+![3 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0785_01_Micro_08_Fungi_06_Pathogenic_W_03__Previews.webp)
+
 High‑resolution illustration of pathogenic fungi and immune cells interacting inside a blood vessel.
 
-### Highlight: 4 Micro 08 Fungi 06 Pathogenic
+---
+
+### 4 Micro 08 Fungi 06 Pathogenic
+![4 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0786_01_Micro_08_Fungi_06_Pathogenic_W_04__Previews.webp)
+
 Microscopic view of pathogenic fungi with branching hyphae and clustered spores on a tissue surface.
 
-### Highlight: 5 Micro 08 Fungi 06 Pathogenic
+---
+
+### 5 Micro 08 Fungi 06 Pathogenic
+![5 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0787_01_Micro_08_Fungi_06_Pathogenic_W_04_Previews.webp)
+
 Pathogenic fungus with branched hyphae and round spores on a tissue surface.
 
-### Highlight: 6 Micro 08 Fungi 06 Pathogenic
+---
+
+### 6 Micro 08 Fungi 06 Pathogenic
+![6 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0788_01_Micro_08_Fungi_06_Pathogenic_W_05__Previews.webp)
+
 Color-enhanced micrograph of a pathogenic fungus with hyphae and budding yeast-like cells within tissue.
 
-### Highlight: 7 Micro 08 Fungi 06 Pathogenic
+---
+
+### 7 Micro 08 Fungi 06 Pathogenic
+![7 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0789_01_Micro_08_Fungi_06_Pathogenic_W_06__Previews.webp)
+
 Color-enhanced micrograph of a pathogenic fungus with hyphae and budding yeast-like cells within tissue.
 
-### Highlight: 8 Micro 08 Fungi 06 Pathogenic
+---
+
+### 8 Micro 08 Fungi 06 Pathogenic
+![8 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0790_01_Micro_08_Fungi_06_Pathogenic_W_06_Previews.webp)
+
 Color-enhanced micrograph of fungal pathogens invading a tissue, showing yellow hyphae and spherical fungal cells alongside a purple-brown epithelial layer.
 
-### Highlight: 9 Micro 08 Fungi 06 Pathogenic
+---
+
+### 9 Micro 08 Fungi 06 Pathogenic
+![9 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0791_01_Micro_08_Fungi_06_Pathogenic_W_07__Previews.webp)
+
 Color-enhanced micrograph of fungal pathogens invading a tissue, showing yellow hyphae and spherical fungal cells alongside a purple-brown epithelial layer.
 
-### Highlight: 10 Micro 08 Fungi 06 Pathogenic
+---
+
+### 10 Micro 08 Fungi 06 Pathogenic
+![10 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0792_01_Micro_08_Fungi_06_Pathogenic_W_07_Previews.webp)
+
 Pathogenic fungi with hyphae invading a tissue surface.
 
-### Highlight: 11 Micro 08 Fungi 06 Pathogenic
+---
+
+### 11 Micro 08 Fungi 06 Pathogenic
+![11 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0793_01_Micro_08_Fungi_06_Pathogenic_W_08__Previews.webp)
+
 Pathogenic fungi with hyphal networks and spherical yeast-like cells.
 
-### Highlight: 12 Micro 08 Fungi 06 Pathogenic
+---
+
+### 12 Micro 08 Fungi 06 Pathogenic
+![12 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0794_01_Micro_08_Fungi_06_Pathogenic_W_08_Previews.webp)
+
 Pathogenic fungal hyphae in tissue with a blue spherical cell visible.
 
-### Highlight: 13 Micro 08 Fungi 06 Pathogenic
+---
+
+### 13 Micro 08 Fungi 06 Pathogenic
+![13 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0795_01_Micro_08_Fungi_06_Pathogenic_W_09__Previews.webp)
+
 Color-enhanced micrograph of pathogenic fungi in tissue, showing yellow filamentous structures amid surrounding cells and debris.
+
+---
 

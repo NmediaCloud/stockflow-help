@@ -1,28 +1,66 @@
-# Showcase for Squamous
+# Showcase: Squamous
 
-Discover our newest visually stunning additions in the **Squamous** category. Here are amazing ways to use these 8 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Dermatopathology](../subcategories/dermatopathology.md) → **Squamous Showcase**
 
-### Highlight: 1 Micro 12 Pathology 07 Dermatopathology Squamous
+Discover our **Squamous** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 12 Pathology 07 Dermatopathology Squamous
+![1 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1214_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_01__Previews.webp)
+
 Skin biopsy showing squamous cell pathology with nests and keratinization of polygonal keratinocytes.
 
-### Highlight: 2 Micro 12 Pathology 07 Dermatopathology Squamous
+---
+
+### 2 Micro 12 Pathology 07 Dermatopathology Squamous
+![2 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1215_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_01_Previews.webp)
+
 Dermatopathology: squamous cell pathology of skin.
 
-### Highlight: 3 Micro 12 Pathology 07 Dermatopathology Squamous
+---
+
+### 3 Micro 12 Pathology 07 Dermatopathology Squamous
+![3 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1216_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_02__Previews.webp)
+
 Dermatopathology: squamous epithelium with keratinization and inflammatory dermal infiltrate.
 
-### Highlight: 4 Micro 12 Pathology 07 Dermatopathology Squamous
+---
+
+### 4 Micro 12 Pathology 07 Dermatopathology Squamous
+![4 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1217_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_02_Previews.webp)
+
 Dermatopathology: squamous cell features with keratin pearls in the dermis.
 
-### Highlight: 5 Micro 12 Pathology 07 Dermatopathology Squamous
+---
+
+### 5 Micro 12 Pathology 07 Dermatopathology Squamous
+![5 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1218_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_03__Previews.webp)
+
 Dermatopathology – squamous cell carcinoma with keratin pearls invading the dermis.
 
-### Highlight: 6 Micro 12 Pathology 07 Dermatopathology Squamous
+---
+
+### 6 Micro 12 Pathology 07 Dermatopathology Squamous
+![6 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1219_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_03_Previews.webp)
+
 Dermatopathology: squamous epithelium with dysplastic cells and dense dermal inflammatory infiltrate.
 
-### Highlight: 7 Micro 12 Pathology 07 Dermatopathology Squamous
+---
+
+### 7 Micro 12 Pathology 07 Dermatopathology Squamous
+![7 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1220_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_04__Previews.webp)
+
 Dermatopathology: squamous epithelium with keratinization and surrounding inflammatory/granulomatous infiltrate.
 
-### Highlight: 8 Micro 12 Pathology 07 Dermatopathology Squamous
+---
+
+### 8 Micro 12 Pathology 07 Dermatopathology Squamous
+![8 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1221_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_04_Previews.webp)
+
 Skin squamous lesion with keratin pearls and inflammatory infiltrate.
+
+---
 

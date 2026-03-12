@@ -1,28 +1,66 @@
-# Showcase for Toxoplasma
+# Showcase: Toxoplasma
 
-Discover our newest visually stunning additions in the **Toxoplasma** category. Here are amazing ways to use these 8 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Infectious](../subcategories/infectious.md) → **Toxoplasma Showcase**
 
-### Highlight: 1 Micro 12 Pathology 24 Infectious Toxoplasma
+Discover our **Toxoplasma** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Infectious){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 12 Pathology 24 Infectious Toxoplasma
+![1 Micro 12 Pathology 24 Infectious Toxoplasma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1346_01_Micro_12_Pathology_24_Infectious_Toxoplasma_W_01__Previews.webp)
+
 Histology of infectious toxoplasmosis in tissue with intracellular Toxoplasma gondii within inflammatory infiltrate.
 
-### Highlight: 2 Micro 12 Pathology 24 Infectious Toxoplasma
+---
+
+### 2 Micro 12 Pathology 24 Infectious Toxoplasma
+![2 Micro 12 Pathology 24 Infectious Toxoplasma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1347_01_Micro_12_Pathology_24_Infectious_Toxoplasma_W_01_Previews.webp)
+
 Microscopic view of tissue infected by Toxoplasma gondii, showing parasitic cysts with tachyzoites amid inflammatory cells.
 
-### Highlight: 3 Micro 12 Pathology 24 Infectious Toxoplasma
+---
+
+### 3 Micro 12 Pathology 24 Infectious Toxoplasma
+![3 Micro 12 Pathology 24 Infectious Toxoplasma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1348_01_Micro_12_Pathology_24_Infectious_Toxoplasma_W_02__Previews.webp)
+
 Histology of toxoplasmosis showing intracellular Toxoplasma gondii within parasitized host cells in an inflammatory lesion.
 
-### Highlight: 4 Micro 12 Pathology 24 Infectious Toxoplasma
+---
+
+### 4 Micro 12 Pathology 24 Infectious Toxoplasma
+![4 Micro 12 Pathology 24 Infectious Toxoplasma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1349_01_Micro_12_Pathology_24_Infectious_Toxoplasma_W_02_Previews.webp)
+
 Histology image of tissue with intracellular Toxoplasma infection, showing purple-stained cells and parasitic clusters within tissue structures.
 
-### Highlight: 5 Micro 12 Pathology 24 Infectious Toxoplasma
+---
+
+### 5 Micro 12 Pathology 24 Infectious Toxoplasma
+![5 Micro 12 Pathology 24 Infectious Toxoplasma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1350_01_Micro_12_Pathology_24_Infectious_Toxoplasma_W_03__Previews.webp)
+
 Histology image of tissue with intracellular Toxoplasma infection, showing purple-stained cells and parasitic clusters within tissue structures.
 
-### Highlight: 6 Micro 12 Pathology 24 Infectious Toxoplasma
+---
+
+### 6 Micro 12 Pathology 24 Infectious Toxoplasma
+![6 Micro 12 Pathology 24 Infectious Toxoplasma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1351_01_Micro_12_Pathology_24_Infectious_Toxoplasma_W_03_Previews.webp)
+
 Histologic section showing infectious toxoplasmosis with intracellular tachyzoites within host cells in tissue.
 
-### Highlight: 7 Micro 12 Pathology 24 Infectious Toxoplasma
+---
+
+### 7 Micro 12 Pathology 24 Infectious Toxoplasma
+![7 Micro 12 Pathology 24 Infectious Toxoplasma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1352_01_Micro_12_Pathology_24_Infectious_Toxoplasma_W_04__Previews.webp)
+
 Histology of toxoplasmosis with intracellular parasites (Toxoplasma gondii) inside inflammatory cells in tissue.
 
-### Highlight: 8 Micro 12 Pathology 24 Infectious Toxoplasma
+---
+
+### 8 Micro 12 Pathology 24 Infectious Toxoplasma
+![8 Micro 12 Pathology 24 Infectious Toxoplasma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1353_01_Micro_12_Pathology_24_Infectious_Toxoplasma_W_04_Previews.webp)
+
 Histopathology slide showing tissue with intracellular organisms consistent with Toxoplasma gondii inside parasitized cells and surrounding inflammatory infiltrate.
+
+---
 

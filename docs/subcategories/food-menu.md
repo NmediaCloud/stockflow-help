@@ -1,23 +1,27 @@
-# Subcategory: Food Menu
+# Food Menu
 
-Explore the collections below:
+🏠 [Home](../index.md) → [Food & Beverage](../categories/food-beverage.md) → **Food Menu**
 
-* **[Biriyani](../collections/biriyani.md)** (44 items)
-* **[Burgers](../collections/burgers.md)** (56 items)
-* **[Buritos](../collections/buritos.md)** (7 items)
-* **[Butter Chiken](../collections/butter-chiken.md)** (170 items)
-* **[Chicken Dinner](../collections/chicken-dinner.md)** (64 items)
-* **[Chicken Fry](../collections/chicken-fry.md)** (44 items)
-* **[Dosa](../collections/dosa.md)** (64 items)
-* **[Fish Dinner](../collections/fish-dinner.md)** (71 items)
-* **[Idly Vada](../collections/idly-vada.md)** (14 items)
-* **[IdlyVada](../collections/idlyvada.md)** (19 items)
-* **[Noodles](../collections/noodles.md)** (23 items)
-* **[Pizza](../collections/pizza.md)** (88 items)
-* **[Remen](../collections/remen.md)** (57 items)
-* **[Sandwich](../collections/sandwich.md)** (31 items)
-* **[Stake](../collections/stake.md)** (59 items)
-* **[Suzhi](../collections/suzhi.md)** (39 items)
-* **[Thai Curry](../collections/thai-curry.md)** (57 items)
-* **[Thai Noodle Soup](../collections/thai-noodle-soup.md)** (57 items)
-* **[Tikka Masala](../collections/tikka-masala.md)** (41 items)
+---
+
+Explore the **19 collections** in this subcategory:
+
+* **[Biriyani](../collections/biriyani.md)** — 44 assets
+* **[Burgers](../collections/burgers.md)** — 56 assets
+* **[Buritos](../collections/buritos.md)** — 7 assets
+* **[Butter Chiken](../collections/butter-chiken.md)** — 170 assets
+* **[Chicken Dinner](../collections/chicken-dinner.md)** — 64 assets
+* **[Chicken Fry](../collections/chicken-fry.md)** — 44 assets
+* **[Dosa](../collections/dosa.md)** — 64 assets
+* **[Fish Dinner](../collections/fish-dinner.md)** — 71 assets
+* **[Idly Vada](../collections/idly-vada.md)** — 14 assets
+* **[IdlyVada](../collections/idlyvada.md)** — 19 assets
+* **[Noodles](../collections/noodles.md)** — 23 assets
+* **[Pizza](../collections/pizza.md)** — 88 assets
+* **[Remen](../collections/remen.md)** — 57 assets
+* **[Sandwich](../collections/sandwich.md)** — 31 assets
+* **[Stake](../collections/stake.md)** — 59 assets
+* **[Suzhi](../collections/suzhi.md)** — 39 assets
+* **[Thai Curry](../collections/thai-curry.md)** — 57 assets
+* **[Thai Noodle Soup](../collections/thai-noodle-soup.md)** — 57 assets
+* **[Tikka Masala](../collections/tikka-masala.md)** — 41 assets

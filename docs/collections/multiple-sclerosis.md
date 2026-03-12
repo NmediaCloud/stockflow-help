@@ -1,8 +1,8 @@
-# Collection: Multiple Sclerosis
+# Multiple Sclerosis
 
-**Category:** Microscopic > Neuropathology
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Neuropathology](../subcategories/neuropathology.md) → **Multiple Sclerosis**
 
-[🌐 Browse this collection on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology){ .md-button .md-button--primary }
+[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 
@@ -11,16 +11,16 @@ This collection contains **8 assets** available in multiple resolutions and aspe
 ## 1 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![Preview - 1 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1367_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_01__Previews.webp)
+![1 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1367_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_01__Previews.webp)
 
 Histologic section of brain tissue showing neuropathological features characteristic of multiple sclerosis.
 
 ---
 
 ## 2 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 2 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1368_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_01_Previews.webp)
+![2 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1368_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_01_Previews.webp)
 
 Neuropathology of multiple sclerosis: demyelinated neural tissue with inflammatory cells and plaques.
 
@@ -29,16 +29,16 @@ Neuropathology of multiple sclerosis: demyelinated neural tissue with inflammato
 ## 3 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![Preview - 3 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1369_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_02__Previews.webp)
+![3 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1369_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_02__Previews.webp)
 
 Neuropathology of multiple sclerosis: demyelinated neural tissue with inflammatory cells and plaques.
 
 ---
 
 ## 4 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 4 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1370_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_02_Previews.webp)
+![4 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1370_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_02_Previews.webp)
 
 Histological view of neuropathology in multiple sclerosis: demyelinating lesion with inflammatory infiltrates, gliosis, and axonal damage in neural tissue.
 
@@ -47,16 +47,16 @@ Histological view of neuropathology in multiple sclerosis: demyelinating lesion 
 ## 5 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![Preview - 5 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1371_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_03__Previews.webp)
+![5 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1371_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_03__Previews.webp)
 
 Histology of brain white matter showing demyelinating plaques with lipid-laden macrophages, consistent with multiple sclerosis.
 
 ---
 
 ## 6 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 6 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1372_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_03_Previews.webp)
+![6 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1372_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_03_Previews.webp)
 
 Histology of a multiple sclerosis plaque with demyelination, perivascular inflammation, and reactive glia.
 
@@ -65,16 +65,16 @@ Histology of a multiple sclerosis plaque with demyelination, perivascular inflam
 ## 7 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![Preview - 7 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1373_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_04__Previews.webp)
+![7 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1373_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_04__Previews.webp)
 
 Neuropathology image showing a demyelinating plaque consistent with multiple sclerosis, with macrophage/microglial debris and perivascular inflammatory cells on H&E stain.
 
 ---
 
 ## 8 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 8 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1374_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_04_Previews.webp)
+![8 Micro 12 Pathology 27 Neuropathology Multiple Sclerosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1374_01_Micro_12_Pathology_27_Neuropathology_Multiple_Sclerosis_W_04_Previews.webp)
 
 Demyelinating brain lesion with lipid-laden macrophages and gliosis, typical of multiple sclerosis.
 

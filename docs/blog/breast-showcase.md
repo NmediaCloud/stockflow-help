@@ -1,22 +1,52 @@
-# Showcase for Breast
+# Showcase: Breast
 
-Discover our newest visually stunning additions in the **Breast** category. Here are amazing ways to use these 6 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cancer Cell](../subcategories/cancer-cell.md) → **Breast Showcase**
 
-### Highlight: 1 Micro 10 Cancer Cell 05 Breast
+Discover our **Breast** collection — 6 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 10 Cancer Cell 05 Breast
+![1 Micro 10 Cancer Cell 05 Breast](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0996_01_Micro_10_Cancer_cell_05_Breast_W_01__Previews.webp)
+
 Micro image of a breast cancer cell with surrounding tissue.
 
-### Highlight: 2 Micro 10 Cancer Cell 05 Breast
+---
+
+### 2 Micro 10 Cancer Cell 05 Breast
+![2 Micro 10 Cancer Cell 05 Breast](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0997_01_Micro_10_Cancer_cell_05_Breast_W_01_Previews.webp)
+
 Micrograph of a breast cancer cell showing a purple nucleus and dark clumped structures inside.
 
-### Highlight: 3 Micro 10 Cancer Cell 05 Breast
+---
+
+### 3 Micro 10 Cancer Cell 05 Breast
+![3 Micro 10 Cancer Cell 05 Breast](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0998_01_Micro_10_Cancer_cell_05_Breast_W_02__Previews.webp)
+
 Micrograph of a breast cancer cell showing a purple nucleus and dark clumped structures inside.
 
-### Highlight: 4 Micro 10 Cancer Cell 05 Breast
+---
+
+### 4 Micro 10 Cancer Cell 05 Breast
+![4 Micro 10 Cancer Cell 05 Breast](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0999_01_Micro_10_Cancer_cell_05_Breast_W_03__Previews.webp)
+
 Color-enhanced microscopic view of breast cancer cells clustering within surrounding tissue.
 
-### Highlight: 5 Micro 10 Cancer Cell 05 Breast
+---
+
+### 5 Micro 10 Cancer Cell 05 Breast
+![5 Micro 10 Cancer Cell 05 Breast](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1000_01_Micro_10_Cancer_cell_05_Breast_W_03_Previews.webp)
+
 Breast cancer cells under a microscope.
 
-### Highlight: 6 Micro 10 Cancer Cell 05 Breast
+---
+
+### 6 Micro 10 Cancer Cell 05 Breast
+![6 Micro 10 Cancer Cell 05 Breast](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1001_01_Micro_10_Cancer_cell_05_Breast_W_04__Previews.webp)
+
 Microscopic scene of immune cells attacking a cancer cell with a bright, fiery collision.
+
+---
 

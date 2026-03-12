@@ -1,28 +1,66 @@
-# Showcase for Kidney
+# Showcase: Kidney
 
-Discover our newest visually stunning additions in the **Kidney** category. Here are amazing ways to use these 8 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Histopathology](../subcategories/histopathology.md) → **Kidney Showcase**
 
-### Highlight: 1 Micro 12 Pathology 19 Histopathology Kidney
+Discover our **Kidney** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 12 Pathology 19 Histopathology Kidney
+![1 Micro 12 Pathology 19 Histopathology Kidney](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1306_01_Micro_12_Pathology_19_Histopathology_Kidney_W_01__Previews.webp)
+
 Histology of kidney tissue showing tubules with tall, crowded tubular epithelium and prominent nuclei; surrounding pink interstitial stroma with scattered inflammatory cells.
 
-### Highlight: 2 Micro 12 Pathology 19 Histopathology Kidney
+---
+
+### 2 Micro 12 Pathology 19 Histopathology Kidney
+![2 Micro 12 Pathology 19 Histopathology Kidney](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1307_01_Micro_12_Pathology_19_Histopathology_Kidney_W_01_Previews.webp)
+
 Histopathology of kidney showing renal tubules with cuboidal epithelium and prominent nuclei, pink interstitium.
 
-### Highlight: 3 Micro 12 Pathology 19 Histopathology Kidney
+---
+
+### 3 Micro 12 Pathology 19 Histopathology Kidney
+![3 Micro 12 Pathology 19 Histopathology Kidney](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1308_01_Micro_12_Pathology_19_Histopathology_Kidney_W_02__Previews.webp)
+
 Kidney histopathology with tubular epithelial cells and interstitial spaces, showing tubular injury.
 
-### Highlight: 4 Micro 12 Pathology 19 Histopathology Kidney
+---
+
+### 4 Micro 12 Pathology 19 Histopathology Kidney
+![4 Micro 12 Pathology 19 Histopathology Kidney](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1309_01_Micro_12_Pathology_19_Histopathology_Kidney_W_02_Previews.webp)
+
 Kidney histopathology slide showing tubular structures with prominent nuclei in a pink-stained tissue.
 
-### Highlight: 5 Micro 12 Pathology 19 Histopathology Kidney
+---
+
+### 5 Micro 12 Pathology 19 Histopathology Kidney
+![5 Micro 12 Pathology 19 Histopathology Kidney](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1310_01_Micro_12_Pathology_19_Histopathology_Kidney_W_03__Previews.webp)
+
 Kidney histology showing renal tubules with cuboidal epithelium in pink-stained stroma.
 
-### Highlight: 6 Micro 12 Pathology 19 Histopathology Kidney
+---
+
+### 6 Micro 12 Pathology 19 Histopathology Kidney
+![6 Micro 12 Pathology 19 Histopathology Kidney](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1311_01_Micro_12_Pathology_19_Histopathology_Kidney_W_03_Previews.webp)
+
 Kidney tissue with tubules lined by cuboidal epithelium and prominent nuclei (H&E-stained)
 
-### Highlight: 7 Micro 12 Pathology 19 Histopathology Kidney
+---
+
+### 7 Micro 12 Pathology 19 Histopathology Kidney
+![7 Micro 12 Pathology 19 Histopathology Kidney](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1312_01_Micro_12_Pathology_19_Histopathology_Kidney_W_04__Previews.webp)
+
 Microscopic view of kidney tissue showing renal tubules with cuboidal epithelium, prominent nuclei, and surrounding pink-staining interstitium.
 
-### Highlight: 8 Micro 12 Pathology 19 Histopathology Kidney
+---
+
+### 8 Micro 12 Pathology 19 Histopathology Kidney
+![8 Micro 12 Pathology 19 Histopathology Kidney](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1313_01_Micro_12_Pathology_19_Histopathology_Kidney_W_04_Previews.webp)
+
 Renal tissue with tubular structures showing epithelial cells and prominent nuclei (kidney histopathology).
+
+---
 

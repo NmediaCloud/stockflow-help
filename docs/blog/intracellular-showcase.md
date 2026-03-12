@@ -1,28 +1,66 @@
-# Showcase for Intracellular
+# Showcase: Intracellular
 
-Discover our newest visually stunning additions in the **Intracellular** category. Here are amazing ways to use these 8 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cellular](../subcategories/cellular.md) → **Intracellular Showcase**
 
-### Highlight: 10 Micro 01 Biological Creatures
+Discover our **Intracellular** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
+
+---
+
+### 10 Micro 01 Biological Creatures
+![10 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0068_01_Micro_01_Biological_Creatures_03_Intracellular_environment__Previews.webp)
+
 A microscopic view of an intracellular environment featuring a green, rod-shaped organelle with stacked internal membranes and a blue nucleus, surrounded by other cells and organelles.
 
-### Highlight: 11 Micro 01 Biological Creatures
+---
+
+### 11 Micro 01 Biological Creatures
+![11 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0069_01_Micro_01_Biological_Creatures_03_Intracellular_environment__Previews.webp)
+
 Intracellular scene: a mitochondrion-like organelle filled with blue vesicles inside a green cellular environment.
 
-### Highlight: 12 Micro 01 Biological Creatures
+---
+
+### 12 Micro 01 Biological Creatures
+![12 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0070_01_Micro_01_Biological_Creatures_03_Intracellular_environment__Previews.webp)
+
 Intracellular scene of colorful biological creatures and organelles inside a cell.
 
-### Highlight: 13 Micro 01 Biological Creatures
+---
+
+### 13 Micro 01 Biological Creatures
+![13 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0071_01_Micro_01_Biological_Creatures_03_Intracellular_environment_Previews.webp)
+
 Colorful microscopic illustration of a mitochondrion with folded inner membranes (cristae) and surrounding cellular components.
 
-### Highlight: 14 Micro 01 Biological Creatures
+---
+
+### 14 Micro 01 Biological Creatures
+![14 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0072_01_Micro_01_Biological_Creatures_03_Intracellular_environment_Previews.webp)
+
 Intracellular environment with a microorganism containing blue circular vesicles.
 
-### Highlight: 15 Micro 01 Biological Creatures
+---
+
+### 15 Micro 01 Biological Creatures
+![15 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0073_01_Micro_01_Biological_Creatures_03_Intracellular_environment_Previews.webp)
+
 Colorful 3D illustration of the inside of a cell, showing mitochondrion, vesicles, filaments, and various tiny organelles in a crowded intracellular environment.
 
-### Highlight: 16 Micro 01 Biological Creatures
+---
+
+### 16 Micro 01 Biological Creatures
+![16 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0074_01_Micro_01_Biological_Creatures_03_Intracellular_environment_v4__Previews.webp)
+
 Intracellular scene showing colorful microbes and organelle-like shapes floating in a greenish medium.
 
-### Highlight: 17 Micro 01 Biological Creatures
+---
+
+### 17 Micro 01 Biological Creatures
+![17 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0075_01_Micro_01_Biological_Creatures_03_Intracellular_environment_v4_Previews.webp)
+
 Colorful microscopic scene of the intracellular environment with orange bacteria-like shapes and blue rod-shaped microorganisms among cellular structures.
+
+---
 

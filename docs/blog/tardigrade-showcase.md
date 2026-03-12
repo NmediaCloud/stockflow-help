@@ -1,13 +1,31 @@
-# Showcase for tardigrade
+# Showcase: tardigrade
 
-Discover our newest visually stunning additions in the **tardigrade** category. Here are amazing ways to use these 3 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Underwater](../subcategories/underwater.md) → **tardigrade Showcase**
 
-### Highlight: 1 Micro Images 03 Underwater 07 Tardigrade
+Discover our **tardigrade** collection — 3 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro Images 03 Underwater 07 Tardigrade
+![1 Micro Images 03 Underwater 07 Tardigrade](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1495_01_Micro_Images_upload_03_Underwater_07_tardigrade_v4_W_01__Previews.webp)
+
 Tardigrade strolling through vibrant moss with colorful mushrooms.
 
-### Highlight: 2 Micro Images 03 Underwater 07 Tardigrade
+---
+
+### 2 Micro Images 03 Underwater 07 Tardigrade
+![2 Micro Images 03 Underwater 07 Tardigrade](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1496_01_Micro_Images_upload_03_Underwater_07_tardigrade_W_01__Previews.webp)
+
 Macro image of a tardigrade crawling on moss in an underwater-like microhabitat.
 
-### Highlight: 3 Micro Images 03 Underwater 07 Tardigrade
+---
+
+### 3 Micro Images 03 Underwater 07 Tardigrade
+![3 Micro Images 03 Underwater 07 Tardigrade](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1497_01_Micro_Images_upload_03_Underwater_07_tardigrade_W_01_Previews.webp)
+
 Close-up macro of a tardigrade (water bear) navigating a lush mossy underwater scene.
+
+---
 

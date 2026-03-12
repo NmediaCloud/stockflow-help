@@ -1,8 +1,8 @@
-# Collection: Yeast cells
+# Yeast cells
 
-**Category:** Microscopic > Food Fungi
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Food Fungi](../subcategories/food-fungi.md) → **Yeast cells**
 
-[🌐 Browse this collection on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi){ .md-button .md-button--primary }
+[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 
@@ -11,16 +11,16 @@ This collection contains **8 assets** available in multiple resolutions and aspe
 ## 1 Micro 04 Food Fungi 03 Yeast Cells
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![Preview - 1 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0312_01_Micro_04_Food_Fungi_03_yeast_cells_v2_W_10__Previews.webp)
+![1 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0312_01_Micro_04_Food_Fungi_03_yeast_cells_v2_W_10__Previews.webp)
 
 Scanning electron micrograph of yeast cells on a textured fungal surface.
 
 ---
 
 ## 2 Micro 04 Food Fungi 03 Yeast Cells
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 2 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0313_01_Micro_04_Food_Fungi_03_yeast_cells_v2_W_10_Previews.webp)
+![2 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0313_01_Micro_04_Food_Fungi_03_yeast_cells_v2_W_10_Previews.webp)
 
 SEM image of yeast cells (food fungi) on a textured surface.
 
@@ -29,16 +29,16 @@ SEM image of yeast cells (food fungi) on a textured surface.
 ## 3 Micro 04 Food Fungi 03 Yeast Cells
 **Resolution:** 11092x6050 | **Format:** 16:9
 
-![Preview - 3 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0314_01_Micro_04_Food_Fungi_03_yeast_cells_v4_W_01__Previews.webp)
+![3 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0314_01_Micro_04_Food_Fungi_03_yeast_cells_v4_W_01__Previews.webp)
 
 SEM image of yeast cells (food fungi) on a textured surface.
 
 ---
 
 ## 4 Micro 04 Food Fungi 03 Yeast Cells
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 4 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0315_01_Micro_04_Food_Fungi_03_yeast_cells_v4_W_01_Previews.webp)
+![4 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0315_01_Micro_04_Food_Fungi_03_yeast_cells_v4_W_01_Previews.webp)
 
 SEM image of yeast cells (food fungi) on a textured surface.
 
@@ -47,16 +47,16 @@ SEM image of yeast cells (food fungi) on a textured surface.
 ## 5 Micro 04 Food Fungi 03 Yeast Cells
 **Resolution:** 11092x6050 | **Format:** 16:9
 
-![Preview - 5 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0316_01_Micro_04_Food_Fungi_03_yeast_cells_W_01__Previews.webp)
+![5 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0316_01_Micro_04_Food_Fungi_03_yeast_cells_W_01__Previews.webp)
 
 SEM image of yeast cells (food fungi) on a textured surface.
 
 ---
 
 ## 6 Micro 04 Food Fungi 03 Yeast Cells
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 6 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0317_01_Micro_04_Food_Fungi_03_yeast_cells_W_01_Previews.webp)
+![6 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0317_01_Micro_04_Food_Fungi_03_yeast_cells_W_01_Previews.webp)
 
 SEM image of yeast cells (food fungi) on a textured surface.
 
@@ -65,16 +65,16 @@ SEM image of yeast cells (food fungi) on a textured surface.
 ## 7 Micro 04 Food Fungi 03 Yeast Cells
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![Preview - 7 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0318_01_Micro_04_Food_Fungi_03_yeast_cells_W_02__Previews.webp)
+![7 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0318_01_Micro_04_Food_Fungi_03_yeast_cells_W_02__Previews.webp)
 
 Cluster of round yeast cells attached to a textured surface.
 
 ---
 
 ## 8 Micro 04 Food Fungi 03 Yeast Cells
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 8 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0319_01_Micro_04_Food_Fungi_03_yeast_cells_W_02_Previews.webp)
+![8 Micro 04 Food Fungi 03 Yeast Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0319_01_Micro_04_Food_Fungi_03_yeast_cells_W_02_Previews.webp)
 
 Colorized micrograph of yeast cells forming clusters on a fibrous, porous substrate.
 

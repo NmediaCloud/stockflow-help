@@ -1,28 +1,66 @@
-# Showcase for Glioblastoma
+# Showcase: Glioblastoma
 
-Discover our newest visually stunning additions in the **Glioblastoma** category. Here are amazing ways to use these 8 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Histopathology](../subcategories/histopathology.md) → **Glioblastoma Showcase**
 
-### Highlight: 1 Micro 12 Pathology 17 Histopathology Glioblastoma
+Discover our **Glioblastoma** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 12 Pathology 17 Histopathology Glioblastoma
+![1 Micro 12 Pathology 17 Histopathology Glioblastoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1290_01_Micro_12_Pathology_17_Histopathology_Glioblastoma_W_01__Previews.webp)
+
 Glioblastoma histopathology with hypercellular astrocytic tumor displaying pseudopalisading tumor cells around necrosis.
 
-### Highlight: 2 Micro 12 Pathology 17 Histopathology Glioblastoma
+---
+
+### 2 Micro 12 Pathology 17 Histopathology Glioblastoma
+![2 Micro 12 Pathology 17 Histopathology Glioblastoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1291_01_Micro_12_Pathology_17_Histopathology_Glioblastoma_W_01_Previews.webp)
+
 Histopathology of glioblastoma with highly pleomorphic astrocytes, hypercellularity, mitotic activity, and areas of necrosis/pseudopalisading. H&E stained.
 
-### Highlight: 3 Micro 12 Pathology 17 Histopathology Glioblastoma
+---
+
+### 3 Micro 12 Pathology 17 Histopathology Glioblastoma
+![3 Micro 12 Pathology 17 Histopathology Glioblastoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1292_01_Micro_12_Pathology_17_Histopathology_Glioblastoma_W_02__Previews.webp)
+
 Histopathology of glioblastoma showing pleomorphic high-grade astrocytoma cells in a pink stroma with mitotic figures.
 
-### Highlight: 4 Micro 12 Pathology 17 Histopathology Glioblastoma
+---
+
+### 4 Micro 12 Pathology 17 Histopathology Glioblastoma
+![4 Micro 12 Pathology 17 Histopathology Glioblastoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1293_01_Micro_12_Pathology_17_Histopathology_Glioblastoma_W_02_Previews.webp)
+
 Histopathology of glioblastoma with densely packed atypical astrocytes and prominent nuclei.
 
-### Highlight: 5 Micro 12 Pathology 17 Histopathology Glioblastoma
+---
+
+### 5 Micro 12 Pathology 17 Histopathology Glioblastoma
+![5 Micro 12 Pathology 17 Histopathology Glioblastoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1294_01_Micro_12_Pathology_17_Histopathology_Glioblastoma_W_03__Previews.webp)
+
 Histopathology of glioblastoma showing invasive pleomorphic glial cells with necrosis and microvascular proliferation.
 
-### Highlight: 6 Micro 12 Pathology 17 Histopathology Glioblastoma
+---
+
+### 6 Micro 12 Pathology 17 Histopathology Glioblastoma
+![6 Micro 12 Pathology 17 Histopathology Glioblastoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1295_01_Micro_12_Pathology_17_Histopathology_Glioblastoma_W_03_Previews.webp)
+
 Histopathology of glioblastoma: high cellularity pleomorphic astrocytes with mitotic activity and necrosis.
 
-### Highlight: 7 Micro 12 Pathology 17 Histopathology Glioblastoma
+---
+
+### 7 Micro 12 Pathology 17 Histopathology Glioblastoma
+![7 Micro 12 Pathology 17 Histopathology Glioblastoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1296_01_Micro_12_Pathology_17_Histopathology_Glioblastoma_W_04__Previews.webp)
+
 Histopathology image of glioblastoma showing highly pleomorphic astrocytic tumor cells with high nuclear grade in a pink extracellular matrix.
 
-### Highlight: 8 Micro 12 Pathology 17 Histopathology Glioblastoma
+---
+
+### 8 Micro 12 Pathology 17 Histopathology Glioblastoma
+![8 Micro 12 Pathology 17 Histopathology Glioblastoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1297_01_Micro_12_Pathology_17_Histopathology_Glioblastoma_W_04_Previews.webp)
+
 H&E stained histology of glioblastoma showing highly cellular astrocytic tumor with pleomorphic nuclei, mitotic activity, and surrounding stroma.
+
+---
 

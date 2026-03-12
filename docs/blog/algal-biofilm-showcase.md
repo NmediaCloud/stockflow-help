@@ -1,43 +1,101 @@
-# Showcase for Algal Biofilm
+# Showcase: Algal Biofilm
 
-Discover our newest visually stunning additions in the **Algal Biofilm** category. Here are amazing ways to use these 13 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Algae](../subcategories/algae.md) → **Algal Biofilm Showcase**
 
-### Highlight: 1 Micro 06 Algae 07 Algal Biofilm
+Discover our **Algal Biofilm** collection — 13 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 06 Algae 07 Algal Biofilm
+![1 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0564_01_Micro_06_Algae_07_Algal_Biofilm_V_04__Previews.webp)
+
 Close-up of green and turquoise algae forming a biofilm on a dark rock.
 
-### Highlight: 2 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 2 Micro 06 Algae 07 Algal Biofilm
+![2 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0565_01_Micro_06_Algae_07_Algal_Biofilm_W_01__Previews.webp)
+
 Green algae forming a slimy biofilm on a rock along the water’s edge, with small pinkish beads scattered among the seaweed.
 
-### Highlight: 3 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 3 Micro 06 Algae 07 Algal Biofilm
+![3 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0566_01_Micro_06_Algae_07_Algal_Biofilm_W_01_Previews.webp)
+
 Close-up of a green algal biofilm on a damp rock beside water.
 
-### Highlight: 4 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 4 Micro 06 Algae 07 Algal Biofilm
+![4 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0567_01_Micro_06_Algae_07_Algal_Biofilm_W_02__Previews.webp)
+
 Close-up of vibrant green algae forming a shiny, textured biofilm on a rocky surface by the water.
 
-### Highlight: 5 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 5 Micro 06 Algae 07 Algal Biofilm
+![5 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0568_01_Micro_06_Algae_07_Algal_Biofilm_W_02_Previews.webp)
+
 Close-up of vibrant green algal biofilm coating a rock surface.
 
-### Highlight: 6 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 6 Micro 06 Algae 07 Algal Biofilm
+![6 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0569_01_Micro_06_Algae_07_Algal_Biofilm_W_03__Previews.webp)
+
 Close-up of a rock covered in bright green algae with orange-yellow encrustations forming a slimy biofilm along a wet shoreline.
 
-### Highlight: 7 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 7 Micro 06 Algae 07 Algal Biofilm
+![7 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0570_01_Micro_06_Algae_07_Algal_Biofilm_W_04__Previews.webp)
+
 Dark rock topped with fresh green algae biofilm.
 
-### Highlight: 8 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 8 Micro 06 Algae 07 Algal Biofilm
+![8 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0571_01_Micro_06_Algae_07_Algal_Biofilm_W_05__Previews.webp)
+
 Green aquatic algae clinging to a wet rock with a blue-green biofilm along the shoreline.
 
-### Highlight: 9 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 9 Micro 06 Algae 07 Algal Biofilm
+![9 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0572_01_Micro_06_Algae_07_Algal_Biofilm_W_06__Previews.webp)
+
 Close-up of a wet rock with a vibrant mixed algal biofilm—green and blue translucent algal filaments and tiny bubbles clinging to the textured surface.
 
-### Highlight: 10 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 10 Micro 06 Algae 07 Algal Biofilm
+![10 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0573_01_Micro_06_Algae_07_Algal_Biofilm_W_07__Previews.webp)
+
 Green algae growing on a wet, rocky shoreline.
 
-### Highlight: 11 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 11 Micro 06 Algae 07 Algal Biofilm
+![11 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0574_01_Micro_06_Algae_07_Algal_Biofilm_W_07_Previews.webp)
+
 Algae forming a slimy biofilm on a wet rocky surface.
 
-### Highlight: 12 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 12 Micro 06 Algae 07 Algal Biofilm
+![12 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0575_01_Micro_06_Algae_07_Algal_Biofilm_W_08__Previews.webp)
+
 Close-up of bright green algae biofilm growing on a wet rock beside a blurred shoreline.
 
-### Highlight: 13 Micro 06 Algae 07 Algal Biofilm
+---
+
+### 13 Micro 06 Algae 07 Algal Biofilm
+![13 Micro 06 Algae 07 Algal Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0576_01_Micro_06_Algae_07_Algal_Biofilm_W_08_Previews.webp)
+
 Bright green algae forming a textured biofilm on a rocky surface with white crustose lichens.
+
+---
 

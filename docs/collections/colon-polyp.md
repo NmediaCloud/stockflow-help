@@ -1,8 +1,8 @@
-# Collection: Colon Polyp
+# Colon Polyp
 
-**Category:** Microscopic > Histopathology
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Histopathology](../subcategories/histopathology.md) → **Colon Polyp**
 
-[🌐 Browse this collection on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
 
 This collection contains **6 assets** available in multiple resolutions and aspect ratios.
 
@@ -11,16 +11,16 @@ This collection contains **6 assets** available in multiple resolutions and aspe
 ## 1 Micro 12 Pathology 13 Histopathology Colon Polyp
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![Preview - 1 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1260_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_01__Previews.webp)
+![1 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1260_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_01__Previews.webp)
 
 Histopathology of a colon polyp with tightly packed, elongated glands and dysplastic epithelium consistent with a tubular adenoma.
 
 ---
 
 ## 2 Micro 12 Pathology 13 Histopathology Colon Polyp
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 2 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1261_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_01_Previews.webp)
+![2 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1261_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_01_Previews.webp)
 
 Histopathology slide of a colon polyp.
 
@@ -29,16 +29,16 @@ Histopathology slide of a colon polyp.
 ## 3 Micro 12 Pathology 13 Histopathology Colon Polyp
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![Preview - 3 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1262_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_02__Previews.webp)
+![3 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1262_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_02__Previews.webp)
 
 Histopathology slide of a colon polyp.
 
 ---
 
 ## 4 Micro 12 Pathology 13 Histopathology Colon Polyp
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 4 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1263_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_02_Previews.webp)
+![4 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1263_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_02_Previews.webp)
 
 Histological image of a colonic polyp with dysplastic, tubular glands characteristic of a tubular adenoma (H&E stain, high magnification).
 
@@ -47,16 +47,16 @@ Histological image of a colonic polyp with dysplastic, tubular glands characteri
 ## 5 Micro 12 Pathology 13 Histopathology Colon Polyp
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![Preview - 5 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1264_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_03__Previews.webp)
+![5 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1264_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_03__Previews.webp)
 
 Tubular adenoma of the colon with dysplastic epithelial glands (colonic polyp).
 
 ---
 
 ## 6 Micro 12 Pathology 13 Histopathology Colon Polyp
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 6 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1265_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_03_Previews.webp)
+![6 Micro 12 Pathology 13 Histopathology Colon Polyp](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1265_01_Micro_12_Pathology_13_Histopathology_Colon_Polyp_W_03_Previews.webp)
 
 Histopathology image of a colon polyp.
 

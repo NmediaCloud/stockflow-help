@@ -1,40 +1,94 @@
-# Showcase for Immune
+# Showcase: Immune
 
-Discover our newest visually stunning additions in the **Immune** category. Here are amazing ways to use these 12 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Cancer Cell](../subcategories/cancer-cell.md) → **Immune Showcase**
 
-### Highlight: 1 Micro 10 Cancer Cell 06 Immune
+Discover our **Immune** collection — 12 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 10 Cancer Cell 06 Immune
+![1 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1002_01_Micro_10_Cancer_cell_06_Immune_W_01__Previews.webp)
+
 Microscopic scene of immune cells attacking a cancer cell with a bright, fiery collision.
 
-### Highlight: 2 Micro 10 Cancer Cell 06 Immune
+---
+
+### 2 Micro 10 Cancer Cell 06 Immune
+![2 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1003_01_Micro_10_Cancer_cell_06_Immune_W_01_Previews.webp)
+
 Immune cells attack a cancer cell in a vivid, high-midelity cellular battle.
 
-### Highlight: 3 Micro 10 Cancer Cell 06 Immune
+---
+
+### 3 Micro 10 Cancer Cell 06 Immune
+![3 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1004_01_Micro_10_Cancer_cell_06_Immune_W_02__Previews.webp)
+
 A high-detail microscopic scene of a cancer cell being attacked by immune cells, with orange-yellow filaments and glowing energy at the contact site.
 
-### Highlight: 4 Micro 10 Cancer Cell 06 Immune
+---
+
+### 4 Micro 10 Cancer Cell 06 Immune
+![4 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1005_01_Micro_10_Cancer_cell_06_Immune_W_02_Previews.webp)
+
 Vivid microscopic scene of immune cells attacking a cancer cell with bright, dynamic cellular projections.
 
-### Highlight: 5 Micro 10 Cancer Cell 06 Immune
+---
+
+### 5 Micro 10 Cancer Cell 06 Immune
+![5 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1006_01_Micro_10_Cancer_cell_06_Immune_W_03__Previews.webp)
+
 Colorized 3D illustration of an immune cell attacking a cancer cell on a tissue surface.
 
-### Highlight: 6 Micro 10 Cancer Cell 06 Immune
+---
+
+### 6 Micro 10 Cancer Cell 06 Immune
+![6 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1007_01_Micro_10_Cancer_cell_06_Immune_W_03_Previews.webp)
+
 Colorful microscopic scene of an immune cell attacking a cancer cell with glowing projections and surrounding cellular debris.
 
-### Highlight: 7 Micro 10 Cancer Cell 06 Immune
+---
+
+### 7 Micro 10 Cancer Cell 06 Immune
+![7 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1008_01_Micro_10_Cancer_cell_06_Immune_W_04__Previews.webp)
+
 Colorful microscopic scene of immune cells attacking a cancer cell on a tissue surface.
 
-### Highlight: 8 Micro 10 Cancer Cell 06 Immune
+---
+
+### 8 Micro 10 Cancer Cell 06 Immune
+![8 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1009_01_Micro_10_Cancer_cell_06_Immune_W_05__Previews.webp)
+
 Microscopic scene of immune cells attacking cancer cells.
 
-### Highlight: 9 Micro 10 Cancer Cell 06 Immune
+---
+
+### 9 Micro 10 Cancer Cell 06 Immune
+![9 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1010_01_Micro_10_Cancer_cell_06_Immune_W_06__Previews.webp)
+
 A vivid 3D illustration of an immune cell attacking a cancer cell with sparks and glowing details.
 
-### Highlight: 10 Micro 10 Cancer Cell 06 Immune
+---
+
+### 10 Micro 10 Cancer Cell 06 Immune
+![10 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1011_01_Micro_10_Cancer_cell_06_Immune_W_07__Previews.webp)
+
 Colorful microscopic scene of a cancer cell being attacked by immune cells.
 
-### Highlight: 11 Micro 10 Cancer Cell 06 Immune
+---
+
+### 11 Micro 10 Cancer Cell 06 Immune
+![11 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1012_01_Micro_10_Cancer_cell_06_Immune_W_08__Previews.webp)
+
 Color-enhanced illustration of cancer cells interacting with immune cells in a tissue-like scene, with vibrant orange and blue cellular activity.
 
-### Highlight: 12 Micro 10 Cancer Cell 06 Immune
+---
+
+### 12 Micro 10 Cancer Cell 06 Immune
+![12 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1013_01_Micro_10_Cancer_cell_06_Immune_W_08_Previews.webp)
+
 Immune cells engaging cancer cells in a microscopic scene.
+
+---
 

@@ -1,14 +1,18 @@
-# Subcategory: Underwater
+# Underwater
 
-Explore the collections below:
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Underwater**
 
-* **[Bioluminescent](../collections/bioluminescent.md)** (16 items)
-* **[Coral Reef Plankton](../collections/coral-reef-plankton.md)** (28 items)
-* **[Euglena And Green Algae](../collections/euglena-and-green-algae.md)** (4 items)
-* **[Marine Plankton](../collections/marine-plankton.md)** (8 items)
-* **[Protozoa And Algae](../collections/protozoa-and-algae.md)** (8 items)
-* **[Rotifers](../collections/rotifers.md)** (16 items)
-* **[Seawater Droplet](../collections/seawater-droplet.md)** (16 items)
-* **[Single Celled Organisms](../collections/single-celled-organisms.md)** (8 items)
-* **[Tardigrade](../collections/tardigrade.md)** (14 items)
-* **[tardigrade](../collections/tardigrade.md)** (3 items)
+---
+
+Explore the **10 collections** in this subcategory:
+
+* **[Bioluminescent](../collections/bioluminescent.md)** — 16 assets
+* **[Coral Reef Plankton](../collections/coral-reef-plankton.md)** — 28 assets
+* **[Euglena And Green Algae](../collections/euglena-and-green-algae.md)** — 4 assets
+* **[Marine Plankton](../collections/marine-plankton.md)** — 8 assets
+* **[Protozoa And Algae](../collections/protozoa-and-algae.md)** — 8 assets
+* **[Rotifers](../collections/rotifers.md)** — 16 assets
+* **[Seawater Droplet](../collections/seawater-droplet.md)** — 16 assets
+* **[Single Celled Organisms](../collections/single-celled-organisms.md)** — 8 assets
+* **[Tardigrade](../collections/tardigrade.md)** — 14 assets
+* **[tardigrade](../collections/tardigrade.md)** — 3 assets

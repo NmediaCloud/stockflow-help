@@ -1,55 +1,129 @@
-# Showcase for Hyphae
+# Showcase: Hyphae
 
-Discover our newest visually stunning additions in the **Hyphae** category. Here are amazing ways to use these 17 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Fungi](../subcategories/fungi.md) → **Hyphae Showcase**
 
-### Highlight: 1 Micro 04 Food Fungi 05 Fungi Hyphae
+Discover our **Hyphae** collection — 17 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 04 Food Fungi 05 Fungi Hyphae
+![1 Micro 04 Food Fungi 05 Fungi Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0328_01_Micro_04_Food_Fungi_05_fungi_hyphae_v2_W_01__Previews.webp)
+
 Close-up of fungal hyphae in a food-related sample, with blue and green filamentous structures among orange-brown tissue and scattered spores.
 
-### Highlight: 2 Micro 04 Food Fungi 05 Fungi Hyphae
+---
+
+### 2 Micro 04 Food Fungi 05 Fungi Hyphae
+![2 Micro 04 Food Fungi 05 Fungi Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0329_01_Micro_04_Food_Fungi_05_fungi_hyphae_v2_W_01_Previews.webp)
+
 Microscopic view of fungal hyphae in food.
 
-### Highlight: 3 Micro 04 Food Fungi 05 Fungi Hyphae
+---
+
+### 3 Micro 04 Food Fungi 05 Fungi Hyphae
+![3 Micro 04 Food Fungi 05 Fungi Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0330_01_Micro_04_Food_Fungi_05_fungi_hyphae_W_04__Previews.webp)
+
 Color-enhanced micrograph showing fungal hyphae (blue/green) intertwined with orange, tissue-like material.
 
-### Highlight: 4 Micro 04 Food Fungi 05 Fungi Hyphae
+---
+
+### 4 Micro 04 Food Fungi 05 Fungi Hyphae
+![4 Micro 04 Food Fungi 05 Fungi Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0331_01_Micro_04_Food_Fungi_05_fungi_hyphae_W_04_Previews.webp)
+
 Colored micrograph showing fungal hyphae intertwined with tissue fibers and scattered spores.
 
-### Highlight: 1 Micro 08 Fungi 01 Hyphae
+---
+
+### 1 Micro 08 Fungi 01 Hyphae
+![1 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0726_01_Micro_08_Fungi_01_Hyphae_W_01__Previews.webp)
+
 Color-enhanced micrograph of intertwined fungal hyphae with spherical spores on a fibrous substrate.
 
-### Highlight: 2 Micro 08 Fungi 01 Hyphae
+---
+
+### 2 Micro 08 Fungi 01 Hyphae
+![2 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0727_01_Micro_08_Fungi_01_Hyphae_W_02__Previews.webp)
+
 Close-up of intertwined fungal hyphae among a brown substrate, with translucent white filamentous strands and small spherical structures.
 
-### Highlight: 3 Micro 08 Fungi 01 Hyphae
+---
+
+### 3 Micro 08 Fungi 01 Hyphae
+![3 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0728_01_Micro_08_Fungi_01_Hyphae_W_02_Previews.webp)
+
 Microscopic view of fungal hyphae woven among plant fibers.
 
-### Highlight: 4 Micro 08 Fungi 01 Hyphae
+---
+
+### 4 Micro 08 Fungi 01 Hyphae
+![4 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0729_01_Micro_08_Fungi_01_Hyphae_W_03__Previews.webp)
+
 Colored microscopic image of green fungal hyphae entwined among brown plant fibers and debris.
 
-### Highlight: 5 Micro 08 Fungi 01 Hyphae
+---
+
+### 5 Micro 08 Fungi 01 Hyphae
+![5 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0730_01_Micro_08_Fungi_01_Hyphae_W_03_Previews.webp)
+
 Close-up of fungal hyphae tangled with branching filaments and spherical spores.
 
-### Highlight: 6 Micro 08 Fungi 01 Hyphae
+---
+
+### 6 Micro 08 Fungi 01 Hyphae
+![6 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0731_01_Micro_08_Fungi_01_Hyphae_W_04__Previews.webp)
+
 Fungal hyphae intertwined with brown plant fibers.
 
-### Highlight: 7 Micro 08 Fungi 01 Hyphae
+---
+
+### 7 Micro 08 Fungi 01 Hyphae
+![7 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0732_01_Micro_08_Fungi_01_Hyphae_W_04_Previews.webp)
+
 Micrograph of fungal hyphae interwoven with brown fibrous tissue.
 
-### Highlight: 8 Micro 08 Fungi 01 Hyphae
+---
+
+### 8 Micro 08 Fungi 01 Hyphae
+![8 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0733_01_Micro_08_Fungi_01_Hyphae_W_05__Previews.webp)
+
 Fungal hyphae intertwined with plant fibers.
 
-### Highlight: 9 Micro 08 Fungi 01 Hyphae
+---
+
+### 9 Micro 08 Fungi 01 Hyphae
+![9 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0734_01_Micro_08_Fungi_01_Hyphae_W_05_Previews.webp)
+
 Close-up of fungal hyphae among brown fibrous debris.
 
-### Highlight: 10 Micro 08 Fungi 01 Hyphae
+---
+
+### 10 Micro 08 Fungi 01 Hyphae
+![10 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0735_01_Micro_08_Fungi_01_Hyphae_W_06__Previews.webp)
+
 Microfungal hyphae intertwined with plant debris.
 
-### Highlight: 11 Micro 08 Fungi 01 Hyphae
+---
+
+### 11 Micro 08 Fungi 01 Hyphae
+![11 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0736_01_Micro_08_Fungi_01_Hyphae_W_07__Previews.webp)
+
 Close-up of fungal hyphae: slender, threadlike filaments interwoven with brown plant fibers and tiny round spores on their surfaces.
 
-### Highlight: 12 Micro 08 Fungi 01 Hyphae
+---
+
+### 12 Micro 08 Fungi 01 Hyphae
+![12 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0737_01_Micro_08_Fungi_01_Hyphae_W_08__Previews.webp)
+
 Micro image of blue-green fungal hyphae interwoven with brown plant fibers.
 
-### Highlight: 13 Micro 08 Fungi 01 Hyphae
+---
+
+### 13 Micro 08 Fungi 01 Hyphae
+![13 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0738_01_Micro_08_Fungi_01_Hyphae_W_08_Previews.webp)
+
 Microfungal hyphae among fibrous plant tissue.
+
+---
 

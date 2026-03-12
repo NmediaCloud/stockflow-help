@@ -1,40 +1,94 @@
-# Showcase for Lotus Starburst
+# Showcase: Lotus Starburst
 
-Discover our newest visually stunning additions in the **Lotus Starburst** category. Here are amazing ways to use these 12 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Pollen](../subcategories/pollen.md) → **Lotus Starburst Showcase**
 
-### Highlight: 1 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+Discover our **Lotus Starburst** collection — 12 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![1 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1140_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_01__Previews.webp)
+
 Fluorescent lotus pollen grains arranged on a blue, textured surface, with orange starburst petals radiating from purple centers.
 
-### Highlight: 2 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 2 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![2 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1141_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_02__Previews.webp)
+
 Macro shot of lotus pollen grains glowing golden with starburst light patterns.
 
-### Highlight: 3 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 3 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![3 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1142_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_03__Previews.webp)
+
 Lotus pollen grains shown as a fluorescent, radial starburst.
 
-### Highlight: 4 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 4 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![4 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1143_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_03_Previews.webp)
+
 Fluorescent lotus pollen grain viewed head-on with pink-tipped filaments radiating around a dark central core.
 
-### Highlight: 5 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 5 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![5 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1144_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_04__Previews.webp)
+
 Fluorescent cross-section of lotus pollen with orange starburst spokes against a dark background.
 
-### Highlight: 6 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 6 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![6 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1145_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_04_Previews.webp)
+
 Fluorescent lotus pollen grains arranged in a starburst pattern inside a circular cross-section.
 
-### Highlight: 7 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 7 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![7 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1146_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_05__Previews.webp)
+
 Cluster of fluorescent blue-purple pollen grains, each with a ridged, circular surface and a central pore.
 
-### Highlight: 8 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 8 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![8 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1147_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_05_Previews.webp)
+
 Fluorescent blue-purple close-up of lotus pollen grains, round with radiating grooves and a central pore, clustered together.
 
-### Highlight: 9 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 9 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![9 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1148_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_06__Previews.webp)
+
 Fluorescent orange lotus pollen grain with radiating starburst spokes.
 
-### Highlight: 10 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 10 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![10 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1149_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_06_Previews.webp)
+
 A glowing cross-section of a lotus pollen grain with a star-like radiating pattern.
 
-### Highlight: 11 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 11 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![11 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1150_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_07__Previews.webp)
+
 Fluorescent lotus pollen grain seen under the microscope in a starburst arrangement.
 
-### Highlight: 12 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+---
+
+### 12 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst
+![12 Micro 11 Pollen Grains 07 Lotus Pollen Fluorescent Starburst](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1151_01_Micro_11_Pollen_Grains_07_Lotus_Pollen_Fluorescent_Starburst_W_08__Previews.webp)
+
 Fluorescent lotus pollen grains arranged in a starburst pattern around a central core.
+
+---
 

@@ -1,28 +1,66 @@
-# Showcase for Penicillium mold
+# Showcase: Penicillium mold
 
-Discover our newest visually stunning additions in the **Penicillium mold** category. Here are amazing ways to use these 8 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Food Fungi](../subcategories/food-fungi.md) → **Penicillium mold Showcase**
 
-### Highlight: 1 Micro 04 Food Fungi 01 Penicillium Mold
+Discover our **Penicillium mold** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 04 Food Fungi 01 Penicillium Mold
+![1 Micro 04 Food Fungi 01 Penicillium Mold](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0296_01_Micro_04_Food_Fungi_01_Penicillium_mold_v2_W_12__Previews.webp)
+
 Microscopic view of Penicillium mold with green spherical spores on hyphae (food fungus).
 
-### Highlight: 2 Micro 04 Food Fungi 01 Penicillium Mold
+---
+
+### 2 Micro 04 Food Fungi 01 Penicillium Mold
+![2 Micro 04 Food Fungi 01 Penicillium Mold](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0297_01_Micro_04_Food_Fungi_01_Penicillium_mold_v2_W_12_Previews.webp)
+
 Green Penicillium mold with filamentous hyphae and round spores on a food-like substrate.
 
-### Highlight: 3 Micro 04 Food Fungi 01 Penicillium Mold
+---
+
+### 3 Micro 04 Food Fungi 01 Penicillium Mold
+![3 Micro 04 Food Fungi 01 Penicillium Mold](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0298_01_Micro_04_Food_Fungi_01_Penicillium_mold_v4_W_01__Previews.webp)
+
 Close-up of Penicillium mold growing on a food surface, showing green hyphae with blue-green spores on a brown substrate.
 
-### Highlight: 4 Micro 04 Food Fungi 01 Penicillium Mold
+---
+
+### 4 Micro 04 Food Fungi 01 Penicillium Mold
+![4 Micro 04 Food Fungi 01 Penicillium Mold](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0299_01_Micro_04_Food_Fungi_01_Penicillium_mold_v4_W_01_Previews.webp)
+
 Penicillium mold on food, green filamentous hyphae with blue conidia.
 
-### Highlight: 5 Micro 04 Food Fungi 01 Penicillium Mold
+---
+
+### 5 Micro 04 Food Fungi 01 Penicillium Mold
+![5 Micro 04 Food Fungi 01 Penicillium Mold](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0300_01_Micro_04_Food_Fungi_01_Penicillium_mold_W_01__Previews.webp)
+
 Close-up of blue-green Penicillium mold growing on a food surface.
 
-### Highlight: 6 Micro 04 Food Fungi 01 Penicillium Mold
+---
+
+### 6 Micro 04 Food Fungi 01 Penicillium Mold
+![6 Micro 04 Food Fungi 01 Penicillium Mold](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0301_01_Micro_04_Food_Fungi_01_Penicillium_mold_W_01_Previews.webp)
+
 Blue-green Penicillium mold growing on a food surface.
 
-### Highlight: 7 Micro 04 Food Fungi 01 Penicillium Mold
+---
+
+### 7 Micro 04 Food Fungi 01 Penicillium Mold
+![7 Micro 04 Food Fungi 01 Penicillium Mold](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0302_01_Micro_04_Food_Fungi_01_Penicillium_mold_W_04__Previews.webp)
+
 Penicillium mold with hyphae and spherical spores on a food-like surface.
 
-### Highlight: 8 Micro 04 Food Fungi 01 Penicillium Mold
+---
+
+### 8 Micro 04 Food Fungi 01 Penicillium Mold
+![8 Micro 04 Food Fungi 01 Penicillium Mold](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0303_01_Micro_04_Food_Fungi_01_Penicillium_mold_W_04_Previews.webp)
+
 Micrograph of Penicillium mold showing branched hyphae with round conidia.
+
+---
 

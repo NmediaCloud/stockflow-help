@@ -1,28 +1,66 @@
-# Showcase for Psoriatic
+# Showcase: Psoriatic
 
-Discover our newest visually stunning additions in the **Psoriatic** category. Here are amazing ways to use these 8 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Histopathology](../subcategories/histopathology.md) → **Psoriatic Showcase**
 
-### Highlight: 1 Micro 12 Pathology 16 Histopathology Psoriatic
+Discover our **Psoriatic** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 12 Pathology 16 Histopathology Psoriatic
+![1 Micro 12 Pathology 16 Histopathology Psoriatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1282_01_Micro_12_Pathology_16_Histopathology_Psoriatic_W_01__Previews.webp)
+
 Histopathology of psoriatic skin with elongated rete ridges and inflammatory cellular infiltrate.
 
-### Highlight: 2 Micro 12 Pathology 16 Histopathology Psoriatic
+---
+
+### 2 Micro 12 Pathology 16 Histopathology Psoriatic
+![2 Micro 12 Pathology 16 Histopathology Psoriatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1283_01_Micro_12_Pathology_16_Histopathology_Psoriatic_W_01_Previews.webp)
+
 Skin histology showing psoriatic changes: thickened epidermis with elongated rete ridges, parakeratosis, and dermal inflammatory infiltrate.
 
-### Highlight: 3 Micro 12 Pathology 16 Histopathology Psoriatic
+---
+
+### 3 Micro 12 Pathology 16 Histopathology Psoriatic
+![3 Micro 12 Pathology 16 Histopathology Psoriatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1284_01_Micro_12_Pathology_16_Histopathology_Psoriatic_W_02__Previews.webp)
+
 Histopathology of psoriasis with elongated rete pegs, acanthosis, and neutrophilic microabscesses in the stratum corneum.
 
-### Highlight: 4 Micro 12 Pathology 16 Histopathology Psoriatic
+---
+
+### 4 Micro 12 Pathology 16 Histopathology Psoriatic
+![4 Micro 12 Pathology 16 Histopathology Psoriatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1285_01_Micro_12_Pathology_16_Histopathology_Psoriatic_W_02_Previews.webp)
+
 Psoriatic skin histology with epidermal hyperplasia, elongated rete ridges, and neutrophil microabscesses in the stratum corneum.
 
-### Highlight: 5 Micro 12 Pathology 16 Histopathology Psoriatic
+---
+
+### 5 Micro 12 Pathology 16 Histopathology Psoriatic
+![5 Micro 12 Pathology 16 Histopathology Psoriatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1286_01_Micro_12_Pathology_16_Histopathology_Psoriatic_W_03__Previews.webp)
+
 Psoriatic skin histology with epidermal hyperplasia, parakeratosis, neutrophilic microabscesses in the stratum corneum, and dermal inflammatory infiltrate.
 
-### Highlight: 6 Micro 12 Pathology 16 Histopathology Psoriatic
+---
+
+### 6 Micro 12 Pathology 16 Histopathology Psoriatic
+![6 Micro 12 Pathology 16 Histopathology Psoriatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1287_01_Micro_12_Pathology_16_Histopathology_Psoriatic_W_03_Previews.webp)
+
 Psoriatic skin histology with epidermal hyperplasia and neutrophilic infiltrates (psoriasiform dermatitis).
 
-### Highlight: 7 Micro 12 Pathology 16 Histopathology Psoriatic
+---
+
+### 7 Micro 12 Pathology 16 Histopathology Psoriatic
+![7 Micro 12 Pathology 16 Histopathology Psoriatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1288_01_Micro_12_Pathology_16_Histopathology_Psoriatic_W_04__Previews.webp)
+
 Skin biopsy showing psoriatic histopathology: epidermal thickening (acanthosis) with parakeratosis and dermal inflammatory cells.
 
-### Highlight: 8 Micro 12 Pathology 16 Histopathology Psoriatic
+---
+
+### 8 Micro 12 Pathology 16 Histopathology Psoriatic
+![8 Micro 12 Pathology 16 Histopathology Psoriatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1289_01_Micro_12_Pathology_16_Histopathology_Psoriatic_W_04_Previews.webp)
+
 Psoriatic skin histology with thickened epidermis, elongated rete ridges, and neutrophilic infiltrates in the stratum corneum.
+
+---
 

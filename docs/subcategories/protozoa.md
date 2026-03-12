@@ -1,5 +1,9 @@
-# Subcategory: Protozoa
+# Protozoa
 
-Explore the collections below:
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Protozoa**
 
-* **[protozoa](../collections/protozoa.md)** (16 items)
+---
+
+Explore the **1 collections** in this subcategory:
+
+* **[protozoa](../collections/protozoa.md)** — 16 assets

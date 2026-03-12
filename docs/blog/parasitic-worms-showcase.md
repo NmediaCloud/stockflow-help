@@ -1,40 +1,94 @@
-# Showcase for Parasitic Worms
+# Showcase: Parasitic Worms
 
-Discover our newest visually stunning additions in the **Parasitic Worms** category. Here are amazing ways to use these 12 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Worms](../subcategories/worms.md) → **Parasitic Worms Showcase**
 
-### Highlight: 1 Micro 05 Worms 06 Parasitic Worms
+Discover our **Parasitic Worms** collection — 12 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 05 Worms 06 Parasitic Worms
+![1 Micro 05 Worms 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0461_01_Micro_05_Worms_06_Parasitic_Worms_W_02__Previews.webp)
+
 Parasitic worms (nematodes) tangled around exposed tissue and nerve-like structures.
 
-### Highlight: 2 Micro 05 Worms 06 Parasitic Worms
+---
+
+### 2 Micro 05 Worms 06 Parasitic Worms
+![2 Micro 05 Worms 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0462_01_Micro_05_Worms_06_Parasitic_Worms_W_02_Previews.webp)
+
 Parasitic worms (nematodes) intertwined in tissue cross-section.
 
-### Highlight: 3 Micro 05 Worms 06 Parasitic Worms
+---
+
+### 3 Micro 05 Worms 06 Parasitic Worms
+![3 Micro 05 Worms 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0463_01_Micro_05_Worms_06_Parasitic_Worms_W_03__Previews.webp)
+
 Close-up of parasitic worms attached to plant roots.
 
-### Highlight: 4 Micro 05 Worms 06 Parasitic Worms
+---
+
+### 4 Micro 05 Worms 06 Parasitic Worms
+![4 Micro 05 Worms 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0464_01_Micro_05_Worms_06_Parasitic_Worms_W_03_Previews.webp)
+
 Macro image of plant roots infested with parasitic worms (nematodes).
 
-### Highlight: 5 Micro 05 Worms 06 Parasitic Worms
+---
+
+### 5 Micro 05 Worms 06 Parasitic Worms
+![5 Micro 05 Worms 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0465_01_Micro_05_Worms_06_Parasitic_Worms_W_07__Previews.webp)
+
 Macro image of parasitic worms coiled around plant roots.
 
-### Highlight: 6 Micro 05 Worms 06 Parasitic Worms
+---
+
+### 6 Micro 05 Worms 06 Parasitic Worms
+![6 Micro 05 Worms 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0466_01_Micro_05_Worms_06_Parasitic_Worms_W_07_Previews.webp)
+
 Close-up of red, segmented parasitic worms entwined around plant roots.
 
-### Highlight: 7 Micro 05 Worms 06 Parasitic Worms
+---
+
+### 7 Micro 05 Worms 06 Parasitic Worms
+![7 Micro 05 Worms 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0467_01_Micro_05_Worms_06_Parasitic_Worms_W_08__Previews.webp)
+
 Close-up of purple parasitic nematodes intertwined with light-colored tissue fibers.
 
-### Highlight: 8 Micro 05 Worms 06 Parasitic Worms
+---
+
+### 8 Micro 05 Worms 06 Parasitic Worms
+![8 Micro 05 Worms 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0468_01_Micro_05_Worms_06_Parasitic_Worms_W_08_Previews.webp)
+
 Micrograph of purple parasitic worms intertwined with a network of tissue.
 
-### Highlight: 1 Micro 06 Parasitic Worms
+---
+
+### 1 Micro 06 Parasitic Worms
+![1 Micro 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0617_01_Micro_06_Parasitic_Worms_W_01__Previews.webp)
+
 Close-up of parasitic worms entwined around a plant stem and root tissue.
 
-### Highlight: 2 Micro 06 Parasitic Worms
+---
+
+### 2 Micro 06 Parasitic Worms
+![2 Micro 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0618_01_Micro_06_Parasitic_Worms_W_04__Previews.webp)
+
 Close-up of parasitic worms entwined around a plant stem and root tissue.
 
-### Highlight: 3 Micro 06 Parasitic Worms
+---
+
+### 3 Micro 06 Parasitic Worms
+![3 Micro 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0619_01_Micro_06_Parasitic_Worms_W_05__Previews.webp)
+
 Close-up of parasitic worms entwined around a plant stem and root tissue.
 
-### Highlight: 4 Micro 06 Parasitic Worms
+---
+
+### 4 Micro 06 Parasitic Worms
+![4 Micro 06 Parasitic Worms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0620_01_Micro_06_Parasitic_Worms_W_06__Previews.webp)
+
 Close-up of parasitic worms entwined around a plant stem and root tissue.
+
+---
 

@@ -1,28 +1,66 @@
-# Showcase for Marine Plankton
+# Showcase: Marine Plankton
 
-Discover our newest visually stunning additions in the **Marine Plankton** category. Here are amazing ways to use these 8 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Underwater](../subcategories/underwater.md) → **Marine Plankton Showcase**
 
-### Highlight: 1 Micro 03 Underwater 03 Marine Plankton
+Discover our **Marine Plankton** collection — 8 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 03 Underwater 03 Marine Plankton
+![1 Micro 03 Underwater 03 Marine Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0212_01_Micro_03_Underwater_03_Marine_Plankton_03_Underwater_W_01__Previews.webp)
+
 Green fluorescent underwater plankton and microalgae glowing against a dark ocean background, showing intricate cellular details and slender filamentous shapes.
 
-### Highlight: 2 Micro 03 Underwater 03 Marine Plankton
+---
+
+### 2 Micro 03 Underwater 03 Marine Plankton
+![2 Micro 03 Underwater 03 Marine Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0213_01_Micro_03_Underwater_03_Marine_Plankton_03_Underwater_W_01_Previews.webp)
+
 Underwater micro marine plankton with glowing green diatoms and other tiny organisms.
 
-### Highlight: 3 Micro 03 Underwater 03 Marine Plankton
+---
+
+### 3 Micro 03 Underwater 03 Marine Plankton
+![3 Micro 03 Underwater 03 Marine Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0214_01_Micro_03_Underwater_03_Marine_Plankton_V2_W_01__Previews.webp)
+
 Glowing green marine plankton floating in an underwater microscopic scene.
 
-### Highlight: 4 Micro 03 Underwater 03 Marine Plankton
+---
+
+### 4 Micro 03 Underwater 03 Marine Plankton
+![4 Micro 03 Underwater 03 Marine Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0215_01_Micro_03_Underwater_03_Marine_Plankton_V2_W_01_Previews.webp)
+
 Underwater magnified scene of glowing green marine plankton and diatoms.
 
-### Highlight: 5 Micro 03 Underwater 03 Marine Plankton
+---
+
+### 5 Micro 03 Underwater 03 Marine Plankton
+![5 Micro 03 Underwater 03 Marine Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0216_01_Micro_03_Underwater_03_Marine_Plankton_V4_W_01__Previews.webp)
+
 Microscopic view of underwater marine plankton, showing diverse single-celled organisms and shapes.
 
-### Highlight: 6 Micro 03 Underwater 03 Marine Plankton
+---
+
+### 6 Micro 03 Underwater 03 Marine Plankton
+![6 Micro 03 Underwater 03 Marine Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0217_01_Micro_03_Underwater_03_Marine_Plankton_V4_W_01_Previews.webp)
+
 Underwater scene of marine plankton, featuring a small transparent crustacean among various diatoms and microalgae.
 
-### Highlight: 7 Micro 03 Underwater 03 Marine Plankton
+---
+
+### 7 Micro 03 Underwater 03 Marine Plankton
+![7 Micro 03 Underwater 03 Marine Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0218_01_Micro_03_Underwater_03_Marine_Plankton_W_01__Previews.webp)
+
 Underwater scene of glowing green marine plankton with segmented, chain-like cells and long filament tails.
 
-### Highlight: 8 Micro 03 Underwater 03 Marine Plankton
+---
+
+### 8 Micro 03 Underwater 03 Marine Plankton
+![8 Micro 03 Underwater 03 Marine Plankton](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0219_01_Micro_03_Underwater_03_Marine_Plankton_W_01_Previews.webp)
+
 Microscopic view of marine plankton: glowing green diatoms forming a chain with rounded colonies, set against a dark, bubbly background.
+
+---
 

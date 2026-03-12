@@ -1,8 +1,8 @@
-# Collection: Organisms
+# Organisms
 
-**Category:** Microscopic > Waterborne
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Waterborne](../subcategories/waterborne.md) → **Organisms**
 
-[🌐 Browse this collection on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne){ .md-button .md-button--primary }
+[🌐 Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne){ .md-button .md-button--primary }
 
 This collection contains **4 assets** available in multiple resolutions and aspect ratios.
 
@@ -11,16 +11,16 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 ## 1 Micro 02 Waterborne 09 Aquatic organisms
 **Resolution:** 11092x6050 | **Format:** 16:9
 
-![Preview - 1 Micro 02 Waterborne 09 Aquatic organisms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0184_01_Micro_02_Waterborne_09_Aquatic_organisms_02__Previews.webp)
+![1 Micro 02 Waterborne 09 Aquatic organisms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0184_01_Micro_02_Waterborne_09_Aquatic_organisms_02__Previews.webp)
 
 Micro aquatic organisms in a waterborne sample.
 
 ---
 
 ## 2 Micro 02 Waterborne 09 Aquatic organisms
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 2 Micro 02 Waterborne 09 Aquatic organisms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0185_01_Micro_02_Waterborne_09_Aquatic_organisms_02_Previews.webp)
+![2 Micro 02 Waterborne 09 Aquatic organisms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0185_01_Micro_02_Waterborne_09_Aquatic_organisms_02_Previews.webp)
 
 Microscopic aquatic planktonic organisms observed under magnification.
 
@@ -29,16 +29,16 @@ Microscopic aquatic planktonic organisms observed under magnification.
 ## 3 Micro 02 Waterborne 09 Aquatic organisms
 **Resolution:** 11092x6050 | **Format:** 16:9
 
-![Preview - 3 Micro 02 Waterborne 09 Aquatic organisms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0186_01_Micro_02_Waterborne_09_Aquatic_organisms_v2_03__Previews.webp)
+![3 Micro 02 Waterborne 09 Aquatic organisms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0186_01_Micro_02_Waterborne_09_Aquatic_organisms_v2_03__Previews.webp)
 
 Close-up of waterborne aquatic organisms inside a circular droplet, with a vibrant blue-green background.
 
 ---
 
 ## 4 Micro 02 Waterborne 09 Aquatic organisms
-**Resolution:** 8192x8192 | **Format:** 16:9
+**Resolution:** 8192x8192 | **Format:** 1:1
 
-![Preview - 4 Micro 02 Waterborne 09 Aquatic organisms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0187_01_Micro_02_Waterborne_09_Aquatic_organisms_v2_03_Previews.webp)
+![4 Micro 02 Waterborne 09 Aquatic organisms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0187_01_Micro_02_Waterborne_09_Aquatic_organisms_v2_03_Previews.webp)
 
 Aquatic microorganisms in a waterborne sample shown in a circular field.
 

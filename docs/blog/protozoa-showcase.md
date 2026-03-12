@@ -1,52 +1,122 @@
-# Showcase for protozoa
+# Showcase: protozoa
 
-Discover our newest visually stunning additions in the **protozoa** category. Here are amazing ways to use these 16 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Protozoa](../subcategories/protozoa.md) → **protozoa Showcase**
 
-### Highlight: 1 Micro 05 Protozoa
+Discover our **protozoa** collection — 16 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Protozoa){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 05 Protozoa
+![1 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0368_01_Micro_05_Protozoa_W_01__Previews.webp)
+
 Protozoa micrograph of a segmented, worm‑like organism among cellular debris.
 
-### Highlight: 2 Micro 05 Protozoa
+---
+
+### 2 Micro 05 Protozoa
+![2 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0369_01_Micro_05_Protozoa_W_02_Previews.webp)
+
 Protozoa micrograph of a segmented, worm‑like organism among cellular debris.
 
-### Highlight: 3 Micro 05 Protozoa
+---
+
+### 3 Micro 05 Protozoa
+![3 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0370_01_Micro_05_Protozoa_W_03__Previews.webp)
+
 Micro world scene with protozoa and a rotifer among algae in a pond water sample.
 
-### Highlight: 4 Micro 05 Protozoa
+---
+
+### 4 Micro 05 Protozoa
+![4 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0371_01_Micro_05_Protozoa_W_03_Previews.webp)
+
 Micro view of protozoa: worm-like pink organism among round, cell-like structures.
 
-### Highlight: 5 Micro 05 Protozoa
+---
+
+### 5 Micro 05 Protozoa
+![5 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0372_01_Micro_05_Protozoa_W_04__Previews.webp)
+
 Colorful micrograph of protozoa and other single-celled organisms among filamentous structures.
 
-### Highlight: 6 Micro 05 Protozoa
+---
+
+### 6 Micro 05 Protozoa
+![6 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0373_01_Micro_05_Protozoa_W_05__Previews.webp)
+
 Colorful micrograph of protozoa and other single-celled organisms among filamentous structures.
 
-### Highlight: 7 Micro 05 Protozoa
+---
+
+### 7 Micro 05 Protozoa
+![7 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0374_01_Micro_05_Protozoa_W_05_Previews.webp)
+
 Microscopic view of protozoa and various microorganisms among a green fibrous background.
 
-### Highlight: 8 Micro 05 Protozoa
+---
+
+### 8 Micro 05 Protozoa
+![8 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0375_01_Micro_05_Protozoa_W_06__Previews.webp)
+
 Microscopic view of diverse protozoa and other microorganisms.
 
-### Highlight: 9 Micro 05 Protozoa
+---
+
+### 9 Micro 05 Protozoa
+![9 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0376_01_Micro_05_Protozoa_W_07__Previews.webp)
+
 Microscopic scene of protozoa and a pink worm‑like organism among green algal cells.
 
-### Highlight: 10 Micro 05 Protozoa
+---
+
+### 10 Micro 05 Protozoa
+![10 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0377_01_Micro_05_Protozoa_W_07_Previews.webp)
+
 Microscopic scene of protozoa and algae, featuring a spiky round protozoan and a pink worm among green cells.
 
-### Highlight: 11 Micro 05 Protozoa
+---
+
+### 11 Micro 05 Protozoa
+![11 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0378_01_Micro_05_Protozoa_W_08__Previews.webp)
+
 Microscopic view of protozoa and microorganisms; a coiled, worm-like protozoan amid numerous circular vesicles and cells.
 
-### Highlight: 12 Micro 05 Protozoa
+---
+
+### 12 Micro 05 Protozoa
+![12 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0379_01_Micro_05_Protozoa_W_09__Previews.webp)
+
 Microscopic view of protozoa and microorganisms; a coiled, worm-like protozoan amid numerous circular vesicles and cells.
 
-### Highlight: 13 Micro 05 Protozoa
+---
+
+### 13 Micro 05 Protozoa
+![13 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0380_01_Micro_05_Protozoa_W_10__Previews.webp)
+
 Micrograph of protozoa showing a curved, segmented worm-like organism among round cellular structures.
 
-### Highlight: 14 Micro 05 Protozoa
+---
+
+### 14 Micro 05 Protozoa
+![14 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0381_01_Micro_05_Protozoa_W_11_Previews.webp)
+
 Coiled pink worm‑like microbe with a segmented body among rounded cellular structures.
 
-### Highlight: 15 Micro 05 Protozoa
+---
+
+### 15 Micro 05 Protozoa
+![15 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0382_01_Micro_05_Protozoa_W_12__Previews.webp)
+
 Two orange segmented protozoa swimming among green round cells in a blue micrograph.
 
-### Highlight: 16 Micro 05 Protozoa
+---
+
+### 16 Micro 05 Protozoa
+![16 Micro 05 Protozoa](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0383_01_Micro_05_Protozoa_W_12_Previews.webp)
+
 Colorful microscopic illustration of a segmented orange protozoan surrounded by round green cells and bubbles.
+
+---
 

@@ -1,5 +1,9 @@
-# Subcategory: Virus
+# Virus
 
-Explore the collections below:
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Virus**
 
-* **[Membrane](../collections/membrane.md)** (58 items)
+---
+
+Explore the **1 collections** in this subcategory:
+
+* **[Membrane](../collections/membrane.md)** — 58 assets

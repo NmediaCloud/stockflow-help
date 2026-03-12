@@ -1,9 +1,13 @@
-# Subcategory: Blood Hematology
+# Blood Hematology
 
-Explore the collections below:
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → **Blood Hematology**
 
-* **[Anemia](../collections/anemia.md)** (8 items)
-* **[Leukemia](../collections/leukemia.md)** (16 items)
-* **[Parasite](../collections/parasite.md)** (8 items)
-* **[Sickle Cell](../collections/sickle-cell.md)** (8 items)
-* **[Thrombocytopenia](../collections/thrombocytopenia.md)** (8 items)
+---
+
+Explore the **5 collections** in this subcategory:
+
+* **[Anemia](../collections/anemia.md)** — 8 assets
+* **[Leukemia](../collections/leukemia.md)** — 16 assets
+* **[Parasite](../collections/parasite.md)** — 8 assets
+* **[Sickle Cell](../collections/sickle-cell.md)** — 8 assets
+* **[Thrombocytopenia](../collections/thrombocytopenia.md)** — 8 assets

@@ -1,34 +1,80 @@
-# Showcase for Spirochete
+# Showcase: Spirochete
 
-Discover our newest visually stunning additions in the **Spirochete** category. Here are amazing ways to use these 10 items across your media projects.
+🏠 [Home](../index.md) → [Microscopic](../categories/microscopic.md) → [Bacteria](../subcategories/bacteria.md) → **Spirochete Showcase**
 
-### Highlight: 1 Micro 07 Bacteria 03 Spirochete
+Discover our **Spirochete** collection — 10 premium assets available in 4K/8K for video, print, and digital media.
+
+[🌐 View on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+
+---
+
+### 1 Micro 07 Bacteria 03 Spirochete
+![1 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0654_01_Micro_07_Bacteria_03_Spirochete_01_W_01__Previews.webp)
+
 Spirochete bacterium photographed under magnification.
 
-### Highlight: 2 Micro 07 Bacteria 03 Spirochete
+---
+
+### 2 Micro 07 Bacteria 03 Spirochete
+![2 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0655_01_Micro_07_Bacteria_03_Spirochete_01_W_01_Previews.webp)
+
 A curved, corkscrew-shaped spirochete bacterium with hairlike surface appendages.
 
-### Highlight: 3 Micro 07 Bacteria 03 Spirochete
+---
+
+### 3 Micro 07 Bacteria 03 Spirochete
+![3 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0656_01_Micro_07_Bacteria_03_Spirochete_01_W_02_Previews.webp)
+
 Micro image of a spirochete bacterium with slender, threadlike appendages.
 
-### Highlight: 4 Micro 07 Bacteria 03 Spirochete
+---
+
+### 4 Micro 07 Bacteria 03 Spirochete
+![4 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0657_01_Micro_07_Bacteria_03_Spirochete_01_W_03__Previews.webp)
+
 Electron micrograph of a spirochete bacterium with a helical body and many slender flagella-like extensions.
 
-### Highlight: 5 Micro 07 Bacteria 03 Spirochete
+---
+
+### 5 Micro 07 Bacteria 03 Spirochete
+![5 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0658_01_Micro_07_Bacteria_03_Spirochete_01_W_04__Previews.webp)
+
 Electron microscope image of a spirochete bacterium with numerous long flagella radiating from one end.
 
-### Highlight: 6 Micro 07 Bacteria 03 Spirochete
+---
+
+### 6 Micro 07 Bacteria 03 Spirochete
+![6 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0659_01_Micro_07_Bacteria_03_Spirochete_01_W_05__Previews.webp)
+
 Close-up of a helical spirochete bacterium with long, threadlike projections.
 
-### Highlight: 7 Micro 07 Bacteria 03 Spirochete
+---
+
+### 7 Micro 07 Bacteria 03 Spirochete
+![7 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0660_01_Micro_07_Bacteria_03_Spirochete_01_W_06__Previews.webp)
+
 Close-up of a helical spirochete bacterium with long, threadlike projections.
 
-### Highlight: 8 Micro 07 Bacteria 03 Spirochete
+---
+
+### 8 Micro 07 Bacteria 03 Spirochete
+![8 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0661_01_Micro_07_Bacteria_03_Spirochete_01_W_06_Previews.webp)
+
 Micrograph of a spirochete bacterium, a long, curved, flexible cell with surface particles.
 
-### Highlight: 9 Micro 07 Bacteria 03 Spirochete
+---
+
+### 9 Micro 07 Bacteria 03 Spirochete
+![9 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0662_01_Micro_07_Bacteria_03_Spirochete_01_W_07__Previews.webp)
+
 A spiral-shaped bacterium with multiple tail-like flagella in a grayscale electron micrograph.
 
-### Highlight: 10 Micro 07 Bacteria 03 Spirochete
+---
+
+### 10 Micro 07 Bacteria 03 Spirochete
+![10 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0663_01_Micro_07_Bacteria_03_Spirochete_01_W_08__Previews.webp)
+
 A curved spirochete bacterium with a segmented, helix-shaped body and multiple tail-like flagella at both ends.
+
+---
 

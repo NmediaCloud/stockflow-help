@@ -157,12 +157,15 @@ def main():
             cat_done += 1
             progress(f"Category: {cat_name} > {cat_sub_name}", cat_done, total_cats)
             
-            # Generate Subcategory Page
-            subcat_md = f"# Subcategory: {cat_sub_name}\n\nExplore the collections below:\n\n"
+            # Generate Subcategory Page with breadcrumb
+            cat_slug_for_link = sanitize_slug(cat_name)
+            subcat_md = f"# {cat_sub_name}\n\n"
+            subcat_md += f"🏠 [Home](../index.md) → [{cat_name}](../categories/{cat_slug_for_link}.md) → **{cat_sub_name}**\n\n"
+            subcat_md += f"---\n\nExplore the **{len(subs)} collections** in this subcategory:\n\n"
             for sub_name in sorted(list(subs)):
                 sub_slug = sanitize_slug(sub_name)
                 count = len(sub_groups[sub_name])
-                subcat_md += f"* **[{sub_name}](../collections/{sub_slug}.md)** ({count} items)\n"
+                subcat_md += f"* **[{sub_name}](../collections/{sub_slug}.md)** — {count} assets\n"
                 
             with open(DOCS_PATH / "subcategories" / f"{cat_sub_slug}.md", "w", encoding="utf-8") as f:
                 f.write(subcat_md)
@@ -192,12 +195,14 @@ def main():
                     parent_cat = cat_name
                     parent_cat_sub = cat_sub_name
 
+        cat_slug_for_link = sanitize_slug(parent_cat)
+        cat_sub_slug_for_link = sanitize_slug(parent_cat_sub)
         website_url = build_website_url(parent_cat, parent_cat_sub)
 
-        # Collection
-        collection_md = f"# Collection: {sub_name}\n\n"
-        collection_md += f"**Category:** {parent_cat} > {parent_cat_sub}\n\n"
-        collection_md += f"[🌐 Browse this collection on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n\n"
+        # Collection with breadcrumb
+        collection_md = f"# {sub_name}\n\n"
+        collection_md += f"🏠 [Home](../index.md) → [{parent_cat}](../categories/{cat_slug_for_link}.md) → [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) → **{sub_name}**\n\n"
+        collection_md += f"[🌐 Browse on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n\n"
         collection_md += f"This collection contains **{len(items)} assets** available in multiple resolutions and aspect ratios.\n\n---\n\n"
 
         for item in items:
@@ -205,12 +210,18 @@ def main():
             desc = item.get("Description", "")
             res = item.get("Resolution", "")
             fmt = item.get("Format", "")
-            preview_url = item.get("Preview_URL", "")
+            preview_url = (item.get("Preview_URL") or "").strip()
             
             collection_md += f"## {title}\n"
             collection_md += f"**Resolution:** {res} | **Format:** {fmt}\n\n"
             if preview_url:
-                collection_md += f"![Preview - {title}]({preview_url})\n\n"
+                if preview_url.lower().endswith(".mp4"):
+                    collection_md += f'<video controls width="100%" style="max-width:720px;">\n'
+                    collection_md += f'  <source src="{preview_url}" type="video/mp4">\n'
+                    collection_md += f'  <a href="{preview_url}">Preview video</a>\n'
+                    collection_md += f'</video>\n\n'
+                else:
+                    collection_md += f"![{title}]({preview_url})\n\n"
             if desc:
                 collection_md += f"{desc}\n\n"
             collection_md += "---\n\n"
@@ -220,12 +231,21 @@ def main():
             
         collections_nav.append(f"      - {sub_name}: collections/{slug}.md")
         
-        # Blog showcase
-        blog_md = f"# Showcase for {sub_name}\n\nDiscover our newest visually stunning additions in the **{sub_name}** category. Here are amazing ways to use these {len(items)} items across your media projects.\n\n"
+        # Blog showcase with preview images
+        blog_md = f"# Showcase: {sub_name}\n\n"
+        blog_md += f"🏠 [Home](../index.md) → [{parent_cat}](../categories/{cat_slug_for_link}.md) → [{parent_cat_sub}](../subcategories/{cat_sub_slug_for_link}.md) → **{sub_name} Showcase**\n\n"
+        blog_md += f"Discover our **{sub_name}** collection — {len(items)} premium assets available in 4K/8K for video, print, and digital media.\n\n"
+        blog_md += f"[🌐 View on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n\n---\n\n"
         for item in items:
             title = item.get("Title", "Untitled")
-            blog_md += f"### Highlight: {title}\n"
-            blog_md += f"{item.get('Description', '')}\n\n"
+            desc = item.get("Description", "")
+            preview_url = (item.get("Preview_URL") or "").strip()
+            blog_md += f"### {title}\n"
+            if preview_url and not preview_url.lower().endswith(".mp4"):
+                blog_md += f"![{title}]({preview_url})\n\n"
+            if desc:
+                blog_md += f"{desc}\n\n"
+            blog_md += "---\n\n"
             
         with open(DOCS_PATH / "blog" / f"{slug}-showcase.md", "w", encoding="utf-8") as f:
             f.write(blog_md)
