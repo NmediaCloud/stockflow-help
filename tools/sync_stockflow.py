@@ -224,28 +224,29 @@ def main():
     # Manually-maintained category pages (do NOT auto-delete these)
     MANUAL_CATEGORY_FILES = {"microscopic.md"}
 
-    # Clean previous generated automatic files
-    print("Cleaning previously generated directories...")
-    for f in (DOCS_PATH / "categories").glob("*.md"):
-        if f.name not in MANUAL_CATEGORY_FILES:
+    # Clean previous generated automatic files (ONLY if Full Sync)
+    if not delta_mode:
+        print("Cleaning previously generated directories...")
+        for f in (DOCS_PATH / "categories").glob("*.md"):
+            if f.name not in MANUAL_CATEGORY_FILES:
+                f.unlink()
+        for f in (DOCS_PATH / "subcategories").glob("*.md"):
             f.unlink()
-    for f in (DOCS_PATH / "subcategories").glob("*.md"):
-        f.unlink()
-    
-    # Clean Collections & Blog but keep manually authored files
-    MANUAL_BLOG_FILES = {
-        "collection-1.md", "collection-2.md",
-        "general-usage.md", "documentary-visuals.md",
-        "8k-images-print.md", "social-media-posts.md",
-        # Static SEO blog posts (never auto-delete)
-        "canva-science-backgrounds.md", "youtube-science-footage.md",
-        "education-biology-footage.md", "social-media-science-content.md",
-        "podcast-science-backgrounds.md", "research-presentation-visuals.md",
-    }
-    for folder in ["collections", "blog"]:
-        for f in (DOCS_PATH / folder).glob("*.md"):
-             if f.name not in MANUAL_BLOG_FILES:
-                 f.unlink()
+        
+        # Clean Collections & Blog but keep manually authored files
+        MANUAL_BLOG_FILES = {
+            "collection-1.md", "collection-2.md",
+            "general-usage.md", "documentary-visuals.md",
+            "8k-images-print.md", "social-media-posts.md",
+            # Static SEO blog posts (never auto-delete)
+            "canva-science-backgrounds.md", "youtube-science-footage.md",
+            "education-biology-footage.md", "social-media-science-content.md",
+            "podcast-science-backgrounds.md", "research-presentation-visuals.md",
+        }
+        for folder in ["collections", "blog"]:
+            for f in (DOCS_PATH / folder).glob("*.md"):
+                 if f.name not in MANUAL_BLOG_FILES:
+                     f.unlink()
 
     # Generate the Markdown Pages and build the nav lists
     categories_nav = []
