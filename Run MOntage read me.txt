@@ -1,0 +1,7 @@
+Ready to go whenever you want to build more. Just run:
+
+Single collection: python montage/montage_builder.py --level collection --name "Pizza"
+Full subcategory: python montage/montage_builder.py --level subcategory --name "Food Menu"
+Full category: python montage/montage_builder.py --level category --name "Microscopic"
+See everything available: python montage/montage_builder.py --list
+What's next?

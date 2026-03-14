@@ -17,4 +17,13 @@ Thumbs.db
 
 # Editor
 .vscode/
+.claude/
 *.swp
+
+# Marketing content pipeline
+Marketing content/W output/
+Marketing content/temp/
+Marketing content/music/
+Marketing content/watermark/*.webp
+Marketing content/youtube_credentials.json
+Marketing content/youtube_token.json

@@ -1,0 +1,48 @@
+{
+  "sheet_url": "https://docs.google.com/spreadsheets/d/12eyXAI9-hT0TFSx2HhVDUWHXo4X9QVT-vSPmGQBx6c8/export?format=csv&gid=65282458",
+  "ffmpeg_path": "ffmpeg",
+  "ffprobe_path": "ffprobe",
+
+  "output_dir": "W output/01_Rendered",
+  "temp_dir": "temp",
+
+  "resolution": "1920x1080",
+  "fps": 25,
+  "crf": 18,
+  "preset": "fast",
+
+  "collection_target_secs": 60,
+  "subcategory_target_secs": 180,
+  "category_target_secs": 360,
+
+  "clip_duration": 3,
+  "title_card_duration": 1.5,
+  "overlay_fade_out": 0.5,
+  "divider_card_duration": 1.5,
+
+  "transition_duration": 0.4,
+  "collection_transition": "wipeleft",
+  "subcategory_transition": "fade",
+  "category_transition": "smoothup",
+
+  "font_path": "C:/Windows/Fonts/arialbd.ttf",
+  "font_path_light": "C:/Windows/Fonts/arial.ttf",
+  "title_font_size": 72,
+  "subtitle_font_size": 36,
+  "divider_font_size": 56,
+
+  "music_dir": "music",
+  "music_volume_db": -18,
+  "music_fade_in": 2,
+  "music_fade_out": 3,
+
+  "watermark_dir": "watermark",
+
+  "youtube_credentials_path": "youtube_credentials.json",
+  "youtube_token_path": "youtube_token.json",
+  "youtube_privacy": "unlisted",
+  "youtube_category_id": "27",
+
+  "montages_json_path": "../tools/category_montages.json",
+  "auto_sync_after_upload": false
+}

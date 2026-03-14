@@ -5,6 +5,7 @@ site_url: https://help.stockflow.media
 theme:
   name: material
   favicon: assets/favicon.svg
+  custom_dir: overrides
 
 markdown_extensions:
   - attr_list
