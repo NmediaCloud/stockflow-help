@@ -7,7 +7,7 @@ description: "**Green Algae** visuals bring the invisible world to life — idea
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Green Algae**
 
-[Browse the Green Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[Browse the Green Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Green+Algae){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Green+Algae)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Green Algae** visuals to your next project?
 
-[Browse Green Algae on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[Browse Green Algae on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Green+Algae){ .md-button .md-button--primary }
 [View Collection Details](../collections/green-algae.md){ .md-button }

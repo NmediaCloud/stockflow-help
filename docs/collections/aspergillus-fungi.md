@@ -7,7 +7,7 @@ description: "Download 8 professional Aspergillus fungi assets — 4K MP4 video 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Aspergillus fungi**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+fungi){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

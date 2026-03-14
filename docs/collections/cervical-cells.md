@@ -7,7 +7,7 @@ description: "Download 8 professional Cervical Cells assets — 4K MP4 video and
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Histopathology](../subcategories/histopathology.md) / **Cervical Cells**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Cervical+Cells){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

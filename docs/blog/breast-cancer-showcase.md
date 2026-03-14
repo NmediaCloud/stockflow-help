@@ -7,7 +7,7 @@ description: "**Breast Cancer** visuals bring the invisible world to life — id
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Histopathology](../subcategories/histopathology.md) / **Breast Cancer**
 
-[Browse the Breast Cancer Collection](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse the Breast Cancer Collection](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Breast+Cancer){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Breast+Cancer)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Breast Cancer** visuals to your next project?
 
-[Browse Breast Cancer on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse Breast Cancer on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Breast+Cancer){ .md-button .md-button--primary }
 [View Collection Details](../collections/breast-cancer.md){ .md-button }

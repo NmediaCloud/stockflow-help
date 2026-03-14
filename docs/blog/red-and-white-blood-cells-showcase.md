@@ -7,7 +7,7 @@ description: "**red and white blood cells** visuals bring the invisible world to
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **red and white blood cells**
 
-[Browse the red and white blood cells Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
+[Browse the red and white blood cells Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=red+and+white+blood+cells){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=red+and+white+blood+cells)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **red and white blood cells** visuals to your next project?
 
-[Browse red and white blood cells on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
+[Browse red and white blood cells on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=red+and+white+blood+cells){ .md-button .md-button--primary }
 [View Collection Details](../collections/red-and-white-blood-cells.md){ .md-button }

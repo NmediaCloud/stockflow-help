@@ -7,7 +7,7 @@ description: "**Thai Curry** footage captures food at its most cinematic — ide
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Thai Curry**
 
-[Browse the Thai Curry Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse the Thai Curry Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Thai+Curry){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Thai+Curry)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 Ready to add **Thai Curry** visuals to your next project?
 
-[Browse Thai Curry on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse Thai Curry on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Thai+Curry){ .md-button .md-button--primary }
 [View Collection Details](../collections/thai-curry.md){ .md-button }

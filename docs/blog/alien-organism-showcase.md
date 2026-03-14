@@ -7,7 +7,7 @@ description: "**Alien organism** visuals bring the invisible world to life — i
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Alien organism**
 
-[Browse the Alien organism Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures){ .md-button .md-button--primary }
+[Browse the Alien organism Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Alien+organism){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Alien+organism)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Alien organism** visuals to your next project?
 
-[Browse Alien organism on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures){ .md-button .md-button--primary }
+[Browse Alien organism on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Alien+organism){ .md-button .md-button--primary }
 [View Collection Details](../collections/alien-organism.md){ .md-button }

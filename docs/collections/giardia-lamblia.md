@@ -7,7 +7,7 @@ description: "Download 13 professional Giardia Lamblia assets — 4K MP4 video a
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Parasite](../subcategories/parasite.md) / **Giardia Lamblia**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Giardia+Lamblia){ .md-button .md-button--primary }
 
 This collection contains **13 assets** available in multiple resolutions and aspect ratios.
 

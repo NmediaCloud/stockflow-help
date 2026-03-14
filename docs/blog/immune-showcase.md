@@ -7,7 +7,7 @@ description: "**Immune** visuals bring the invisible world to life — ideal for
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cancer Cell](../subcategories/cancer-cell.md) / **Immune**
 
-[Browse the Immune Collection](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+[Browse the Immune Collection](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Immune){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Immune)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Immune** visuals to your next project?
 
-[Browse Immune on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+[Browse Immune on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Immune){ .md-button .md-button--primary }
 [View Collection Details](../collections/immune.md){ .md-button }

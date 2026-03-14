@@ -7,7 +7,7 @@ description: "Download 12 professional Basidiospores assets — 4K MP4 video and
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Basidiospores**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Basidiospores){ .md-button .md-button--primary }
 
 This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 

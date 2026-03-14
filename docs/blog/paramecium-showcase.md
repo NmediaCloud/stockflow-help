@@ -7,7 +7,7 @@ description: "**Paramecium** visuals bring the invisible world to life — ideal
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Paramecium**
 
-[Browse the Paramecium Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures){ .md-button .md-button--primary }
+[Browse the Paramecium Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Paramecium){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Paramecium)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Paramecium** visuals to your next project?
 
-[Browse Paramecium on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures){ .md-button .md-button--primary }
+[Browse Paramecium on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Paramecium){ .md-button .md-button--primary }
 [View Collection Details](../collections/paramecium.md){ .md-button }

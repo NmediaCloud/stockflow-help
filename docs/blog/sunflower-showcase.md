@@ -7,7 +7,7 @@ description: "**Sunflower** visuals bring the invisible world to life — ideal 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Sunflower**
 
-[Browse the Sunflower Collection](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[Browse the Sunflower Collection](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Sunflower){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Sunflower)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Sunflower** visuals to your next project?
 
-[Browse Sunflower on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[Browse Sunflower on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Sunflower){ .md-button .md-button--primary }
 [View Collection Details](../collections/sunflower.md){ .md-button }

@@ -7,7 +7,7 @@ description: "Download 71 professional Fish Dinner assets — 4K MP4 video and 8
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Fish Dinner**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Fish+Dinner){ .md-button .md-button--primary }
 
 This collection contains **71 assets** available in multiple resolutions and aspect ratios.
 

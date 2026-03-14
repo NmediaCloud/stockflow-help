@@ -7,7 +7,7 @@ description: "Download 6 professional Agar Plate assets — 4K MP4 video and 8K 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Agar Plate**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Agar+Plate){ .md-button .md-button--primary }
 
 This collection contains **6 assets** available in multiple resolutions and aspect ratios.
 

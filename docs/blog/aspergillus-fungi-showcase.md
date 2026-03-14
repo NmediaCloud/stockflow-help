@@ -7,7 +7,7 @@ description: "**Aspergillus fungi** visuals bring the invisible world to life â€
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Aspergillus fungi**
 
-[Browse the Aspergillus fungi Collection](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi){ .md-button .md-button--primary }
+[Browse the Aspergillus fungi Collection](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+fungi){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+fungi)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Aspergillus fungi** visuals to your next project?
 
-[Browse Aspergillus fungi on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi){ .md-button .md-button--primary }
+[Browse Aspergillus fungi on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+fungi){ .md-button .md-button--primary }
 [View Collection Details](../collections/aspergillus-fungi.md){ .md-button }

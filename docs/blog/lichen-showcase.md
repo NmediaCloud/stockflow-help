@@ -7,7 +7,7 @@ description: "**Lichen** visuals bring the invisible world to life — ideal for
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Dermatopathology](../subcategories/dermatopathology.md) / **Lichen**
 
-[Browse the Lichen Collection](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[Browse the Lichen Collection](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Lichen){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Lichen)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Lichen** visuals to your next project?
 
-[Browse Lichen on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[Browse Lichen on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Lichen){ .md-button .md-button--primary }
 [View Collection Details](../collections/lichen.md){ .md-button }

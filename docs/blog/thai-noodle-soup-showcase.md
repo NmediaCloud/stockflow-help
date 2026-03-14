@@ -7,7 +7,7 @@ description: "**Thai Noodle Soup** footage captures food at its most cinematic â
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Thai Noodle Soup**
 
-[Browse the Thai Noodle Soup Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse the Thai Noodle Soup Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Thai+Noodle+Soup){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Thai+Noodle+Soup)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 Ready to add **Thai Noodle Soup** visuals to your next project?
 
-[Browse Thai Noodle Soup on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse Thai Noodle Soup on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Thai+Noodle+Soup){ .md-button .md-button--primary }
 [View Collection Details](../collections/thai-noodle-soup.md){ .md-button }

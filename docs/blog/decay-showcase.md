@@ -7,7 +7,7 @@ description: "**Decay** visuals bring the invisible world to life — ideal for 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Decay**
 
-[Browse the Decay Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi){ .md-button .md-button--primary }
+[Browse the Decay Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Decay){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Decay)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Decay** visuals to your next project?
 
-[Browse Decay on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi){ .md-button .md-button--primary }
+[Browse Decay on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Decay){ .md-button .md-button--primary }
 [View Collection Details](../collections/decay.md){ .md-button }

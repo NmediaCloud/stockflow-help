@@ -46,10 +46,12 @@ def sanitize_slug(text):
     slug = re.sub(r'[^a-z0-9]+', '-', slug)
     return slug.strip('-')
 
-def build_website_url(cat, cat_sub):
-    """Builds the live Stockflow.media URL for a given category/subcategory."""
-    params = urllib.parse.urlencode({'cat': cat, 'sub': cat_sub})
-    return f"{STOCKFLOW_BASE}?{params}"
+def build_website_url(cat, cat_sub, collection=None):
+    """Builds the live Stockflow.media URL for a given category/subcategory/collection."""
+    params = {'cat': cat, 'sub': cat_sub}
+    if collection:
+        params['collection'] = collection
+    return f"{STOCKFLOW_BASE}?{urllib.parse.urlencode(params)}"
 
 def generate_reddit_feed(hierarchy, sub_groups):
     """Generates one Reddit post per Category_Sub with subreddit targeting."""
@@ -326,7 +328,7 @@ def main():
 
         cat_slug_for_link = sanitize_slug(parent_cat)
         cat_sub_slug_for_link = sanitize_slug(parent_cat_sub)
-        website_url = build_website_url(parent_cat, parent_cat_sub)
+        website_url = build_website_url(parent_cat, parent_cat_sub, sub_name)
 
         # Collection with breadcrumb
         collection_md  = f"---\n"
@@ -452,7 +454,7 @@ def main():
         blog_md += f"## How to Use in Your Editing Software\n\n"
         blog_md += f"{software_tip}\n\n"
         blog_md += "**Recommended workflow:**\n\n"
-        blog_md += "1. Download the asset from [Stockflow.media]({website_url})\n"
+        blog_md += f"1. Download the asset from [Stockflow.media]({website_url})\n"
         blog_md += "2. Import into your editing timeline or design canvas\n"
         blog_md += "3. Resize or trim to fit your project format\n"
         blog_md += "4. Add text overlays, voiceover, or music as needed\n\n"

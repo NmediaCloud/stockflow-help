@@ -7,7 +7,7 @@ description: "Download 8 professional Single Celled Organisms assets — 4K MP4 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **Single Celled Organisms**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Single+Celled+Organisms){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

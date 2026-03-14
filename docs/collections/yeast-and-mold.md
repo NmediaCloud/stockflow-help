@@ -7,7 +7,7 @@ description: "Download 16 professional yeast and mold assets — 4K MP4 video an
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **yeast and mold**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=yeast+and+mold){ .md-button .md-button--primary }
 
 This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 

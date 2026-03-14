@@ -7,7 +7,7 @@ description: "Download 12 professional Immune assets — 4K MP4 video and 8K JPE
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cancer Cell](../subcategories/cancer-cell.md) / **Immune**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Immune){ .md-button .md-button--primary }
 
 This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 

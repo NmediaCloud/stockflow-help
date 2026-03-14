@@ -7,7 +7,7 @@ description: "**Biofilm** visuals bring the invisible world to life — ideal fo
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Biofilm**
 
-[Browse the Biofilm Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[Browse the Biofilm Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Biofilm){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Biofilm)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Biofilm** visuals to your next project?
 
-[Browse Biofilm on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[Browse Biofilm on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Biofilm){ .md-button .md-button--primary }
 [View Collection Details](../collections/biofilm.md){ .md-button }

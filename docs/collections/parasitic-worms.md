@@ -7,7 +7,7 @@ description: "Download 12 professional Parasitic Worms assets — 4K MP4 video a
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Worms](../subcategories/worms.md) / **Parasitic Worms**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Parasitic+Worms){ .md-button .md-button--primary }
 
 This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 

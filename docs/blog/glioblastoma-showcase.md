@@ -7,7 +7,7 @@ description: "**Glioblastoma** visuals bring the invisible world to life — ide
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Histopathology](../subcategories/histopathology.md) / **Glioblastoma**
 
-[Browse the Glioblastoma Collection](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse the Glioblastoma Collection](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Glioblastoma){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Glioblastoma)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Glioblastoma** visuals to your next project?
 
-[Browse Glioblastoma on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse Glioblastoma on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Glioblastoma){ .md-button .md-button--primary }
 [View Collection Details](../collections/glioblastoma.md){ .md-button }

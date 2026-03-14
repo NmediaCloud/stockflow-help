@@ -7,7 +7,7 @@ description: "Download 12 professional Fluorescence assets — 4K MP4 video and 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cancer Cell](../subcategories/cancer-cell.md) / **Fluorescence**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Fluorescence){ .md-button .md-button--primary }
 
 This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 

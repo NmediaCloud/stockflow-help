@@ -7,7 +7,7 @@ description: "Download 8 professional Vitiligo assets — 4K MP4 video and 8K JP
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Dermatopathology](../subcategories/dermatopathology.md) / **Vitiligo**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Vitiligo){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

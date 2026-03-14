@@ -7,7 +7,7 @@ description: "Download 64 professional Dosa assets — 4K MP4 video and 8K JPEG 
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Dosa**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Dosa){ .md-button .md-button--primary }
 
 This collection contains **64 assets** available in multiple resolutions and aspect ratios.
 

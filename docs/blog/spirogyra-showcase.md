@@ -7,7 +7,7 @@ description: "**Spirogyra** visuals bring the invisible world to life — ideal 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Spirogyra**
 
-[Browse the Spirogyra Collection](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[Browse the Spirogyra Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Spirogyra){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Spirogyra)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Spirogyra** visuals to your next project?
 
-[Browse Spirogyra on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[Browse Spirogyra on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Spirogyra){ .md-button .md-button--primary }
 [View Collection Details](../collections/spirogyra.md){ .md-button }

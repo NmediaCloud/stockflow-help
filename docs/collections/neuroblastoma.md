@@ -7,7 +7,7 @@ description: "Download 6 professional Neuroblastoma assets — 4K MP4 video and 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Neuropathology](../subcategories/neuropathology.md) / **Neuroblastoma**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=Neuroblastoma){ .md-button .md-button--primary }
 
 This collection contains **6 assets** available in multiple resolutions and aspect ratios.
 

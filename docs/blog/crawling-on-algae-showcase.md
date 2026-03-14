@@ -7,7 +7,7 @@ description: "**Crawling On Algae** visuals bring the invisible world to life â€
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Worms](../subcategories/worms.md) / **Crawling On Algae**
 
-[Browse the Crawling On Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+[Browse the Crawling On Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Crawling+On+Algae){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Crawling+On+Algae)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Crawling On Algae** visuals to your next project?
 
-[Browse Crawling On Algae on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms){ .md-button .md-button--primary }
+[Browse Crawling On Algae on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Crawling+On+Algae){ .md-button .md-button--primary }
 [View Collection Details](../collections/crawling-on-algae.md){ .md-button }

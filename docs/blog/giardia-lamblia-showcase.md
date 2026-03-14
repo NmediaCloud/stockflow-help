@@ -7,7 +7,7 @@ description: "**Giardia Lamblia** visuals bring the invisible world to life — 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Parasite](../subcategories/parasite.md) / **Giardia Lamblia**
 
-[Browse the Giardia Lamblia Collection](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
+[Browse the Giardia Lamblia Collection](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Giardia+Lamblia){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Giardia+Lamblia)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Giardia Lamblia** visuals to your next project?
 
-[Browse Giardia Lamblia on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
+[Browse Giardia Lamblia on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Giardia+Lamblia){ .md-button .md-button--primary }
 [View Collection Details](../collections/giardia-lamblia.md){ .md-button }

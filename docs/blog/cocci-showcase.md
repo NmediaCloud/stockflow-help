@@ -7,7 +7,7 @@ description: "**Cocci** visuals bring the invisible world to life — ideal for 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Cocci**
 
-[Browse the Cocci Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[Browse the Cocci Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Cocci){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Cocci)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Cocci** visuals to your next project?
 
-[Browse Cocci on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria){ .md-button .md-button--primary }
+[Browse Cocci on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Cocci){ .md-button .md-button--primary }
 [View Collection Details](../collections/cocci.md){ .md-button }

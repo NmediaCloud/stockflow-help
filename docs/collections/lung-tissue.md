@@ -7,7 +7,7 @@ description: "Download 8 professional Lung Tissue assets — 4K MP4 video and 8K
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Histopathology](../subcategories/histopathology.md) / **Lung Tissue**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Lung+Tissue){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

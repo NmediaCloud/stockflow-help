@@ -7,7 +7,7 @@ description: "**Intracellular** visuals bring the invisible world to life — id
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Intracellular**
 
-[Browse the Intracellular Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
+[Browse the Intracellular Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Intracellular){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Intracellular)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Intracellular** visuals to your next project?
 
-[Browse Intracellular on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular){ .md-button .md-button--primary }
+[Browse Intracellular on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Intracellular){ .md-button .md-button--primary }
 [View Collection Details](../collections/intracellular.md){ .md-button }

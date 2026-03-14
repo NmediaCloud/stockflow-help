@@ -7,7 +7,7 @@ description: "**Worm** visuals bring the invisible world to life — ideal for s
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Parasite](../subcategories/parasite.md) / **Worm**
 
-[Browse the Worm Collection](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
+[Browse the Worm Collection](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Worm){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Worm)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Worm** visuals to your next project?
 
-[Browse Worm on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
+[Browse Worm on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Worm){ .md-button .md-button--primary }
 [View Collection Details](../collections/worm.md){ .md-button }

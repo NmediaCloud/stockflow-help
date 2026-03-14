@@ -7,7 +7,7 @@ description: "**Colonial Algae** visuals bring the invisible world to life — i
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Colonial Algae**
 
-[Browse the Colonial Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[Browse the Colonial Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Colonial+Algae){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Colonial+Algae)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Colonial Algae** visuals to your next project?
 
-[Browse Colonial Algae on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae){ .md-button .md-button--primary }
+[Browse Colonial Algae on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Colonial+Algae){ .md-button .md-button--primary }
 [View Collection Details](../collections/colonial-algae.md){ .md-button }

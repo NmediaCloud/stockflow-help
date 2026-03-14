@@ -7,7 +7,7 @@ description: "Download 12 professional Toxoplasma Gondii assets — 4K MP4 video
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Parasite](../subcategories/parasite.md) / **Toxoplasma Gondii**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Toxoplasma+Gondii){ .md-button .md-button--primary }
 
 This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 

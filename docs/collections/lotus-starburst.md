@@ -7,7 +7,7 @@ description: "Download 12 professional Lotus Starburst assets — 4K MP4 video a
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Lotus Starburst**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus+Starburst){ .md-button .md-button--primary }
 
 This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 

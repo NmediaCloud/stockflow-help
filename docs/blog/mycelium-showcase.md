@@ -7,7 +7,7 @@ description: "**Mycelium** visuals bring the invisible world to life — ideal f
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Mycelium**
 
-[Browse the Mycelium Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi){ .md-button .md-button--primary }
+[Browse the Mycelium Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Mycelium){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Mycelium)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Mycelium** visuals to your next project?
 
-[Browse Mycelium on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi){ .md-button .md-button--primary }
+[Browse Mycelium on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Mycelium){ .md-button .md-button--primary }
 [View Collection Details](../collections/mycelium.md){ .md-button }

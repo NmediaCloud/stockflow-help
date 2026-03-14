@@ -7,7 +7,7 @@ description: "Download 5 professional Plasmodium assets — 4K MP4 video and 8K 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Parasite](../subcategories/parasite.md) / **Plasmodium**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Plasmodium){ .md-button .md-button--primary }
 
 This collection contains **5 assets** available in multiple resolutions and aspect ratios.
 

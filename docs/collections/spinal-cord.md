@@ -7,7 +7,7 @@ description: "Download 6 professional Spinal Cord assets — 4K MP4 video and 8K
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Neuropathology](../subcategories/neuropathology.md) / **Spinal Cord**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=Spinal+Cord){ .md-button .md-button--primary }
 
 This collection contains **6 assets** available in multiple resolutions and aspect ratios.
 

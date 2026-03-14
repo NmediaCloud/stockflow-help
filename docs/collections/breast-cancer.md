@@ -7,7 +7,7 @@ description: "Download 8 professional Breast Cancer assets — 4K MP4 video and 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Histopathology](../subcategories/histopathology.md) / **Breast Cancer**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Breast+Cancer){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

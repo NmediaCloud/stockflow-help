@@ -7,7 +7,7 @@ description: "**Lavender** visuals bring the invisible world to life — ideal f
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Lavender**
 
-[Browse the Lavender Collection](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[Browse the Lavender Collection](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lavender){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lavender)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Lavender** visuals to your next project?
 
-[Browse Lavender on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[Browse Lavender on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lavender){ .md-button .md-button--primary }
 [View Collection Details](../collections/lavender.md){ .md-button }

@@ -7,7 +7,7 @@ description: "Download 59 professional Stake assets — 4K MP4 video and 8K JPEG
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Stake**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Stake){ .md-button .md-button--primary }
 
 This collection contains **59 assets** available in multiple resolutions and aspect ratios.
 

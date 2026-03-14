@@ -7,7 +7,7 @@ description: "Download 44 professional Chicken Fry assets — 4K MP4 video and 8
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Chicken Fry**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Chicken+Fry){ .md-button .md-button--primary }
 
 This collection contains **44 assets** available in multiple resolutions and aspect ratios.
 

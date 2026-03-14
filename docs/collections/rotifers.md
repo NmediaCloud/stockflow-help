@@ -7,7 +7,7 @@ description: "Download 16 professional Rotifers assets — 4K MP4 video and 8K J
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **Rotifers**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Rotifers){ .md-button .md-button--primary }
 
 This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 

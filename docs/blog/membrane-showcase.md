@@ -7,7 +7,7 @@ description: "**Membrane** visuals bring the invisible world to life — ideal f
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Virus](../subcategories/virus.md) / **Membrane**
 
-[Browse the Membrane Collection](https://stockflow.media/?cat=Microscopic&sub=Virus){ .md-button .md-button--primary }
+[Browse the Membrane Collection](https://stockflow.media/?cat=Microscopic&sub=Virus&collection=Membrane){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Virus&collection=Membrane)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Membrane** visuals to your next project?
 
-[Browse Membrane on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Virus){ .md-button .md-button--primary }
+[Browse Membrane on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Virus&collection=Membrane){ .md-button .md-button--primary }
 [View Collection Details](../collections/membrane.md){ .md-button }

@@ -7,7 +7,7 @@ description: "Download 8 professional Diatom shell assets — 4K MP4 video and 8
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Diatom shell**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Diatom+shell){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

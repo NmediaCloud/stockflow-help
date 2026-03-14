@@ -7,7 +7,7 @@ description: "**Lotus Starburst** visuals bring the invisible world to life — 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Lotus Starburst**
 
-[Browse the Lotus Starburst Collection](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[Browse the Lotus Starburst Collection](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus+Starburst){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus+Starburst)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Lotus Starburst** visuals to your next project?
 
-[Browse Lotus Starburst on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen){ .md-button .md-button--primary }
+[Browse Lotus Starburst on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus+Starburst){ .md-button .md-button--primary }
 [View Collection Details](../collections/lotus-starburst.md){ .md-button }

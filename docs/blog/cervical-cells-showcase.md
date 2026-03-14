@@ -7,7 +7,7 @@ description: "**Cervical Cells** visuals bring the invisible world to life — i
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Histopathology](../subcategories/histopathology.md) / **Cervical Cells**
 
-[Browse the Cervical Cells Collection](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse the Cervical Cells Collection](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Cervical+Cells){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Cervical+Cells)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Cervical Cells** visuals to your next project?
 
-[Browse Cervical Cells on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology){ .md-button .md-button--primary }
+[Browse Cervical Cells on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Cervical+Cells){ .md-button .md-button--primary }
 [View Collection Details](../collections/cervical-cells.md){ .md-button }

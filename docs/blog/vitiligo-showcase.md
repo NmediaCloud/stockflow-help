@@ -7,7 +7,7 @@ description: "**Vitiligo** visuals bring the invisible world to life — ideal f
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Dermatopathology](../subcategories/dermatopathology.md) / **Vitiligo**
 
-[Browse the Vitiligo Collection](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[Browse the Vitiligo Collection](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Vitiligo){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Vitiligo)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Vitiligo** visuals to your next project?
 
-[Browse Vitiligo on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology){ .md-button .md-button--primary }
+[Browse Vitiligo on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Vitiligo){ .md-button .md-button--primary }
 [View Collection Details](../collections/vitiligo.md){ .md-button }

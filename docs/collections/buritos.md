@@ -7,7 +7,7 @@ description: "Download 7 professional Buritos assets — 4K MP4 video and 8K JPE
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Buritos**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Buritos){ .md-button .md-button--primary }
 
 This collection contains **7 assets** available in multiple resolutions and aspect ratios.
 

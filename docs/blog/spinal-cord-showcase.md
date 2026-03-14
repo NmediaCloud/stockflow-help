@@ -7,7 +7,7 @@ description: "**Spinal Cord** visuals bring the invisible world to life — idea
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Neuropathology](../subcategories/neuropathology.md) / **Spinal Cord**
 
-[Browse the Spinal Cord Collection](https://stockflow.media/?cat=Microscopic&sub=Neuropathology){ .md-button .md-button--primary }
+[Browse the Spinal Cord Collection](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=Spinal+Cord){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media]({website_url})
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=Spinal+Cord)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Spinal Cord** visuals to your next project?
 
-[Browse Spinal Cord on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology){ .md-button .md-button--primary }
+[Browse Spinal Cord on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=Spinal+Cord){ .md-button .md-button--primary }
 [View Collection Details](../collections/spinal-cord.md){ .md-button }
