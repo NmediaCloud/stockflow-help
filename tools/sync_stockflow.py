@@ -293,7 +293,12 @@ def main():
             with open(DOCS_PATH / "subcategories" / f"{cat_sub_slug}.md", "w", encoding="utf-8") as f:
                 f.write(subcat_md)
                 
-            cat_nav_block.append(f"          - {cat_sub_name}: subcategories/{cat_sub_slug}.md")
+            # Nest subcategory with its collections as children
+            cat_nav_block.append(f"          - {cat_sub_name}:")
+            cat_nav_block.append(f"              - {cat_sub_name} Overview: subcategories/{cat_sub_slug}.md")
+            for sub_name_nav in sorted(list(subs)):
+                sub_slug_nav = sanitize_slug(sub_name_nav)
+                cat_nav_block.append(f"              - {sub_name_nav}: collections/{sub_slug_nav}.md")
             
         with open(DOCS_PATH / "categories" / f"{cat_slug}.md", "w", encoding="utf-8") as f:
             f.write(cat_md)
@@ -504,10 +509,6 @@ def main():
         # Append the new blocks
         new_yaml.append("  - Categories:")
         new_yaml.extend(categories_nav)
-        new_yaml.append("  - Collections:")
-        new_yaml.append("      - Collection 1 (Placeholder): collections/collection-1.md")
-        new_yaml.append("      - Collection 2 (Placeholder): collections/collection-2.md")
-        new_yaml.extend(collections_nav)
         new_yaml.append("  - Guides:")
         new_yaml.append("      - Video:")
         new_yaml.append("          - Using MP4 Video Footage: guides/video-mp4.md")

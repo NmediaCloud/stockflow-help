@@ -15,13 +15,30 @@ description: "**Idly Vada** footage captures food at its most cinematic — idea
 
 **Idly Vada** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-This guide explores how to use the **Idly Vada** collection — 14 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Idly Vada** collection — 33 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
+
+### 06 Indian IdlyVada b 02 
+![06 Indian IdlyVada b 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00197_06_Indian_IdlyVada_S_b_02_Previews.webp)
+
+Indian idli with sambar and chutney on a banana leaf.
+
+### 06 Indian IdlyVada b 05 
+![06 Indian IdlyVada b 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00198_06_Indian_IdlyVada_S_b_05_Previews.webp)
+
+South Indian plate with crispy vada and soft idli, served with sambar and chutneys on a banana leaf.
+
+### 06 Indian IdlyVada b 06 
+![06 Indian IdlyVada b 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00199_06_Indian_IdlyVada_S_b_06_Previews.webp)
+
+South Indian thali with fluffy idlis, crisp vadas, and bowls of sambar and chutneys.
 
 ## Why Idly Vada Visuals Are in Demand
 
 High-quality idly vada footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **14 assets** in this collection are:
+All **33 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)

@@ -9,7 +9,7 @@ description: "Browse 1005 professional 4K/8K Food Menu assets from the Food & Be
 
 ---
 
-Explore the **19 collections** in this subcategory:
+Explore the **18 collections** in this subcategory:
 
 * **[Biriyani](../collections/biriyani.md)** — 44 assets
 * **[Burgers](../collections/burgers.md)** — 56 assets
@@ -19,8 +19,7 @@ Explore the **19 collections** in this subcategory:
 * **[Chicken Fry](../collections/chicken-fry.md)** — 44 assets
 * **[Dosa](../collections/dosa.md)** — 64 assets
 * **[Fish Dinner](../collections/fish-dinner.md)** — 71 assets
-* **[Idly Vada](../collections/idly-vada.md)** — 14 assets
-* **[IdlyVada](../collections/idlyvada.md)** — 19 assets
+* **[Idly Vada](../collections/idly-vada.md)** — 33 assets
 * **[Noodles](../collections/noodles.md)** — 23 assets
 * **[Pizza](../collections/pizza.md)** — 88 assets
 * **[Remen](../collections/remen.md)** — 57 assets

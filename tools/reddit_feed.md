@@ -21,7 +21,7 @@
 > • Buritos
 > • Butter Chiken
 > • Chicken Dinner
-> • ...and 14 more
+> • ...and 13 more
 >
 > Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
