@@ -1,6 +1,6 @@
 ---
 title: "Toxoplasma Gondii Stock Footage and Images | Parasite | Stockflow.media"
-description: "Download 12 professional Toxoplasma Gondii assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Parasite collection."
+description: "Download 15 professional Toxoplasma Gondii assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Parasite collection."
 ---
 
 # Toxoplasma Gondii
@@ -9,7 +9,7 @@ description: "Download 12 professional Toxoplasma Gondii assets — 4K MP4 video
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Toxoplasma+Gondii){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **15 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,42 @@ Tissue section showing crescent-shaped Toxoplasma gondii tachyzoites within host
 ![12 Micro 09 Parasite 03 Toxoplasma Gondii](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0874_01_Micro_09_Parasite_03_Toxoplasma_Gondii_W_08_Previews.webp)
 
 Tissue section showing crescent-shaped parasites (Toxoplasma gondii) among host cells with prominent nuclei.
+
+---
+
+## 01 Toxoplasma Gondii
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0874_01_Micro_09_Parasite_03_Toxoplasma_Gondii_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0874_01_Micro_09_Parasite_03_Toxoplasma_Gondii_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-fidelity microscopic image shows a curled parasite among host cells, illustrating intracellular invasion and tissue damage typical of toxoplasma gondii in vivid, false-color staining reveals complex interactions.
+
+---
+
+## 02 Toxoplasma Gondii
+**Resolution:** 3840x21 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0875_01_Micro_09_Parasite_03_Toxoplasma_Gondii_V1_W_60_272_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0875_01_Micro_09_Parasite_03_Toxoplasma_Gondii_V1_W_60_272_Mp4_preview.mp4">Preview video</a>
+</video>
+
+High magnification micrograph reveals a circular parasite structure amid host cell debris, highlighting the intracellular lifecycle of Toxoplasma gondii with surrounding vesicles and organelles during infection.
+
+---
+
+## 03 Toxoplasma Gondii
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0876_01_Micro_09_Parasite_03_Toxoplasma_Gondii_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0876_01_Micro_09_Parasite_03_Toxoplasma_Gondii_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A micrograph illustrating Toxoplasma gondii parasites in tissue, with crescent-shaped tachyzoites among host cells and surrounding cellular debris, highlighting intracellular infection and complex parasite-host interactions.
 
 ---
 

@@ -1,7 +1,22 @@
-Ready to go whenever you want to build more. Just run:
+---
 
-Single collection: python montage/montage_builder.py --level collection --name "Pizza"
-Full subcategory: python montage/montage_builder.py --level subcategory --name "Food Menu"
-Full category: python montage/montage_builder.py --level category --name "Microscopic"
-See everything available: python montage/montage_builder.py --list
-What's next?
+All cleaned up. Your toolkit is simple now:
+
+Script	Purpose
+run_sync.bat	Full help site sync from Google Sheets
+run_montage.bat	Build montages (W/S/V/all)
+run_watermark.bat	Watermark all rendered videos
+run_music.bat	Add music to all watermarked videos
+deploy.bat	Push help site live
+Delete to refresh, run to rebuild. Ready when your assets are.
+---------------
+
+
+Never delete:
+
+docs/CNAME (custom domain - breaks site)
+docs/index.md (homepage - manual)
+docs/mission.md (manual)
+docs/categories/microscopic.md (manual)
+SEO blog posts (canva, youtube, education, etc.)
+The sync script auto-protects these — it won't touch them even during a full sync.

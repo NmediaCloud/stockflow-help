@@ -1,6 +1,6 @@
 ---
 title: "Metastatic Stock Footage and Images | Cancer Cell | Stockflow.media"
-description: "Download 12 professional Metastatic assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
+description: "Download 15 professional Metastatic assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
 ---
 
 # Metastatic
@@ -9,7 +9,7 @@ description: "Download 12 professional Metastatic assets — 4K MP4 video and 8K
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Metastatic){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **15 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,42 @@ Metastatic cancer cell with radiating extensions, surrounded by smaller blue/pur
 ![12 Micro 10 Cancer Cell 04 Metastatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0995_01_Micro_10_Cancer_cell_04_Metastatic_W_08_Previews.webp)
 
 Metastatic cancer cell with numerous extensions spreading across a surface.
+
+---
+
+## 16 Cancer Cell
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0922_01_Micro_10_Cancer_Cell_04_Metastatic_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0922_01_Micro_10_Cancer_Cell_04_Metastatic_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Colorized microscopic view of cancer cells spreading through tissue, with tumor cells extending projections and interacting with surrounding molecules, illustrating metastasis and tumor invasion processes.
+
+---
+
+## 17 Cancer Cell
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0923_01_Micro_10_Cancer_Cell_04_Metastatic_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0923_01_Micro_10_Cancer_Cell_04_Metastatic_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-detail microscopic view of cancer cells, showing metastatic tumor cells spreading, attaching to surroundings and forming new colonies, highlighting invasion and interactions within the microenvironment during cancer progression.
+
+---
+
+## 18 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0924_01_Micro_10_Cancer_Cell_04_Metastatic_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0924_01_Micro_10_Cancer_Cell_04_Metastatic_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid micrograph showing a cancer cell with sprawling metastasis, its yellow extensions invading surrounding tissue, highlighting cellular interactions and the microenvironment in metastatic cancer.
 
 ---
 

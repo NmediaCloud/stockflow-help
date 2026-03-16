@@ -1,6 +1,6 @@
 ---
 title: "Dermatopathology Stock Footage and Images | Stockflow.media"
-description: "Browse 50 professional 4K/8K Dermatopathology assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+description: "Browse 69 professional 4K/8K Dermatopathology assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
 ---
 
 # Dermatopathology
@@ -11,8 +11,8 @@ description: "Browse 50 professional 4K/8K Dermatopathology assets from the Micr
 
 Explore the **5 collections** in this subcategory:
 
-* **[Basal](../collections/basal.md)** — 8 assets
-* **[Eczema](../collections/eczema.md)** — 8 assets
-* **[Lichen](../collections/lichen.md)** — 18 assets
-* **[Squamous](../collections/squamous.md)** — 8 assets
-* **[Vitiligo](../collections/vitiligo.md)** — 8 assets
+* **[Basal](../collections/basal.md)** — 12 assets
+* **[Eczema](../collections/eczema.md)** — 11 assets
+* **[Lichen](../collections/lichen.md)** — 24 assets
+* **[Squamous](../collections/squamous.md)** — 11 assets
+* **[Vitiligo](../collections/vitiligo.md)** — 11 assets

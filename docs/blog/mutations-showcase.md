@@ -15,7 +15,7 @@ description: "**Mutations** visuals bring the invisible world to life — ideal 
 
 **Mutations** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Mutations** collection — 8 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Mutations** collection — 14 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -38,7 +38,7 @@ Colorful neon illustration of a cancer cell interacting with a DNA double helix.
 
 High-quality mutations footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **8 assets** in this collection are:
+All **14 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)

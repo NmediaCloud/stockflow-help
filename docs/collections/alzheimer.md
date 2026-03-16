@@ -1,6 +1,6 @@
 ---
 title: "Alzheimer Stock Footage and Images | Neuropathology | Stockflow.media"
-description: "Download 13 professional Alzheimer assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Neuropathology collection."
+description: "Download 16 professional Alzheimer assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Neuropathology collection."
 ---
 
 # Alzheimer
@@ -9,7 +9,7 @@ description: "Download 13 professional Alzheimer assets — 4K MP4 video and 8K 
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=Alzheimer){ .md-button .md-button--primary }
 
-This collection contains **13 assets** available in multiple resolutions and aspect ratios.
+This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -127,6 +127,42 @@ Colorized micrograph of neural tissue showing neurons with long processes and su
 ![5 Micro 12 Pathology 26 Neuropathology Parkinson](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1366_01_Micro_12_Pathology_26_Neuropathology_Parkinson_W_04__Previews.webp)
 
 Parkinson’s disease neuropathology in brain tissue.
+
+---
+
+## 01 Neuropathology
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1080_01_Micro_25_Neuropathology_Alzheimer_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1080_01_Micro_25_Neuropathology_Alzheimer_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histological image of brain tissue showing amyloid plaques and neurofibrillary tangles with purple-stained neurons, illustrating characteristic neuropathology of Alzheimer's disease in the hippocampal region and surrounding cortex.
+
+---
+
+## 02 Neuropathology
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1081_01_Micro_25_Neuropathology_Alzheimer_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1081_01_Micro_25_Neuropathology_Alzheimer_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph shows Alzheimer’s disease-related neuropathology with clustered extracellular amyloid plaques amid glial elements and neuronal loss, highlighting hallmark amyloid accumulation and neurodegenerative changes in brain tissue.
+
+---
+
+## 03 Neuropathology
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1082_01_Micro_25_Neuropathology_Alzheimer_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1082_01_Micro_25_Neuropathology_Alzheimer_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view of neuropathology showing clustered brown amyloid-like deposits amid purple-stained neural tissue, highlighting neuronal loss and vessel changes typical of neurodegenerative disease, often associated with Alzheimer's pathology.
 
 ---
 

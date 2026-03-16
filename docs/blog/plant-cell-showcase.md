@@ -5,9 +5,9 @@ description: "**Plant Cell** visuals bring the invisible world to life — ideal
 
 # How to Use Plant Cell Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Plant Cell**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cross-Section](../subcategories/cross-section.md) / **Plant Cell**
 
-[Browse the Plant Cell Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Plant+Cell){ .md-button .md-button--primary }
+[Browse the Plant Cell Collection](https://stockflow.media/?cat=Microscopic&sub=Cross-Section&collection=Plant+Cell){ .md-button .md-button--primary }
 
 ---
 
@@ -15,7 +15,7 @@ description: "**Plant Cell** visuals bring the invisible world to life — ideal
 
 **Plant Cell** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Plant Cell** collection — 8 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Plant Cell** collection — 12 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -38,7 +38,7 @@ Cross-section of a plant tissue showing cells and internal organelles.
 
 High-quality plant cell footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **8 assets** in this collection are:
+All **12 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Plant+Cell)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cross-Section&collection=Plant+Cell)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Plant Cell** visuals to your next project?
 
-[Browse Plant Cell on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Plant+Cell){ .md-button .md-button--primary }
+[Browse Plant Cell on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cross-Section&collection=Plant+Cell){ .md-button .md-button--primary }
 [View Collection Details](../collections/plant-cell.md){ .md-button }

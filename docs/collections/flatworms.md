@@ -1,6 +1,6 @@
 ---
 title: "Flatworms Stock Footage and Images | Worms | Stockflow.media"
-description: "Download 12 professional Flatworms assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Worms collection."
+description: "Download 15 professional Flatworms assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Worms collection."
 ---
 
 # Flatworms
@@ -9,7 +9,7 @@ description: "Download 12 professional Flatworms assets — 4K MP4 video and 8K 
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Flatworms){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **15 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,42 @@ Two translucent flatworms (planarians) swimming in a blue-green microscopic fiel
 ![4 Micro 07 Flatworms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0725_01_Micro_07_Flatworms_W_06__Previews.webp)
 
 Glowing microscopic flatworms swimming in a dark blue aquatic world.
+
+---
+
+## 01 Flatworms
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0708_01_Micro_05_Worms_07_Flatworms_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0708_01_Micro_05_Worms_07_Flatworms_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micro-worms, flatworms glide through emerald algae, showcasing delicate, wavy edges and dotted patterns. A vivid underwater microcosm captures tiny invertebrates weaving through a lush green aquatic habitat.
+
+---
+
+## 02 Flatworms
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0709_01_Micro_05_Worms_07_Flatworms_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0709_01_Micro_05_Worms_07_Flatworms_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Tiny translucent flatworms glide through green aquatic plants, showing dotted patterns and scalloped edges, capturing a delicate micro-world in a vibrant underwater scene full of tiny creatures.
+
+---
+
+## 03 Flatworms
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0710_01_Micro_05_Worms_07_Flatworms_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0710_01_Micro_05_Worms_07_Flatworms_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of tiny flatworms in a green aquatic environment, showcasing translucent bodies with dark spots and wavy edges, highlighting micro marine life and delicate segmentation.
 
 ---
 

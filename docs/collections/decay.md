@@ -1,6 +1,6 @@
 ---
 title: "Decay Stock Footage and Images | Fungi | Stockflow.media"
-description: "Download 12 professional Decay assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
+description: "Download 15 professional Decay assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
 ---
 
 # Decay
@@ -9,7 +9,7 @@ description: "Download 12 professional Decay assets — 4K MP4 video and 8K JPEG
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Decay){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **15 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,42 @@ Cross-section of wood undergoing fungal decay with yellow fungal mats and emergi
 ![12 Micro 08 Fungi 10 Decay](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0834_01_Micro_08_Fungi_10_Decay_W_08_Previews.webp)
 
 Cross-section of decaying wood covered with a vibrant mat of yellow fungal cells and blue-green hyphae, with small mushroom clusters along the grain.
+
+---
+
+## 01 Decay
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0849_01_Micro_08_Fungi_10_Decay_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0849_01_Micro_08_Fungi_10_Decay_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid cross-section of decaying wood reveals a neon spectrum of fungal hyphae weaving through the fibers, illustrating microscopic decay and the complex, living networks that break down timber.
+
+---
+
+## 02 Decay
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0850_01_Micro_08_Fungi_10_Decay_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0850_01_Micro_08_Fungi_10_Decay_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A cross-section of decaying wood reveals vibrant, tangled fungal mycelium strands weaving through the cracks, highlighting micro-scale networks and rich color variations in a vivid decay microbiology scene.
+
+---
+
+## 03 Decay
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0851_01_Micro_08_Fungi_10_Decay_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0851_01_Micro_08_Fungi_10_Decay_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A micro view of decaying tree bark reveals vibrant, multicolored fungal networks intertwining through the crevices, with shelf-like fungi and dark fissures highlighting the decay process.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Toxoplasma Stock Footage and Images | Infectious | Stockflow.media"
-description: "Download 8 professional Toxoplasma assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Infectious collection."
+description: "Download 11 professional Toxoplasma assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Infectious collection."
 ---
 
 # Toxoplasma
@@ -9,7 +9,7 @@ description: "Download 8 professional Toxoplasma assets — 4K MP4 video and 8K 
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Infectious&collection=Toxoplasma){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,42 @@ Histology of toxoplasmosis with intracellular parasites (Toxoplasma gondii) insi
 ![8 Micro 12 Pathology 24 Infectious Toxoplasma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1353_01_Micro_12_Pathology_24_Infectious_Toxoplasma_W_04_Previews.webp)
 
 Histopathology slide showing tissue with intracellular organisms consistent with Toxoplasma gondii inside parasitized cells and surrounding inflammatory infiltrate.
+
+---
+
+## 14 Infectious
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1077_01_Micro_24_Infectious_Toxoplasma_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1077_01_Micro_24_Infectious_Toxoplasma_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph illustrating infectious toxoplasma cysts within host tissue, highlighting purple-stained parasitic structures embedded in a surrounding cellular matrix, revealing intracellular forms and surrounding inflammatory responses.
+
+---
+
+## 15 Infectious
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1078_01_Micro_24_Infectious_Toxoplasma_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1078_01_Micro_24_Infectious_Toxoplasma_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic micrograph of toxoplasma infection in tissue; two parasitic cysts within host cells, demonstrating intracellular, infectious stages stained purple against a brown extracellular matrix highlighting pathology.
+
+---
+
+## 16 Infectious
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1079_01_Micro_24_Infectious_Toxoplasma_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1079_01_Micro_24_Infectious_Toxoplasma_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph showing infectious toxoplasma in tissue, highlighting intracellular parasites within host cells and surrounding inflammatory tissue, rendered in vivid colors to emphasize cellular structures and nuclei.
 
 ---
 

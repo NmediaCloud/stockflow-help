@@ -1,6 +1,6 @@
 ---
 title: "Psoriatic Stock Footage and Images | Histopathology | Stockflow.media"
-description: "Download 8 professional Psoriatic assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
+description: "Download 11 professional Psoriatic assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
 ---
 
 # Psoriatic
@@ -9,7 +9,7 @@ description: "Download 8 professional Psoriatic assets — 4K MP4 video and 8K J
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Psoriatic){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,42 @@ Skin biopsy showing psoriatic histopathology: epidermal thickening (acanthosis) 
 ![8 Micro 12 Pathology 16 Histopathology Psoriatic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1289_01_Micro_12_Pathology_16_Histopathology_Psoriatic_W_04_Previews.webp)
 
 Psoriatic skin histology with thickened epidermis, elongated rete ridges, and neutrophilic infiltrates in the stratum corneum.
+
+---
+
+## 10 Histopathology
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1052_01_Micro_16_Histopathology_Psoriatic_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1052_01_Micro_16_Histopathology_Psoriatic_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histological view of skin showing epidermal layers with dense dermal inflammatory infiltrate, vascular channels, and scattered keratinocytes, indicative of inflammatory dermatosis, psoriatic features suggested by epidermal hyperplasia.
+
+---
+
+## 11 Histopathology
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1053_01_Micro_16_Histopathology_Psoriatic_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1053_01_Micro_16_Histopathology_Psoriatic_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology of psoriatic skin showing elongated rete ridges, thinning epidermis with parakeratosis, neutrophil microabscesses, and dense dermal inflammatory infiltrate around dilated capillaries, with vascular changes in the papillary dermis.
+
+---
+
+## 12 Histopathology
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1054_01_Micro_16_Histopathology_Psoriatic_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1054_01_Micro_16_Histopathology_Psoriatic_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology of psoriatic skin reveals epidermal hyperplasia with acanthosis, parakeratosis, microabscesses of Munro, and a dense dermal inflammatory infiltrate surrounding dilated capillaries, along with thinning of the granular layer.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Cryptosporidium Stock Footage and Images | Parasite | Stockflow.media"
-description: "Download 12 professional Cryptosporidium assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Parasite collection."
+description: "Download 15 professional Cryptosporidium assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Parasite collection."
 ---
 
 # Cryptosporidium
@@ -9,7 +9,7 @@ description: "Download 12 professional Cryptosporidium assets — 4K MP4 video a
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Cryptosporidium){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **15 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,42 @@ Micrograph of Cryptosporidium parasite oocysts clustered on a tissue surface.
 ![12 Micro 09 Parasite 05 Cryptosporidium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0898_01_Micro_09_Parasite_05_Cryptosporidium_W_08_Previews.webp)
 
 Micrograph of Cryptosporidium parasite oocysts on a tissue surface.
+
+---
+
+## 01 Cryptosporidium
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0880_01_Micro_09_Parasite_05_Cryptosporidium_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0880_01_Micro_09_Parasite_05_Cryptosporidium_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph shows Cryptosporidium parasites, round oocysts amid cellular debris, illustrating microscopic detail of infection stages. High-resolution imaging highlights structural features and surrounding tissue interactions in a parasitic context.
+
+---
+
+## 02 Cryptosporidium
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0881_01_Micro_09_Parasite_05_Cryptosporidium_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0881_01_Micro_09_Parasite_05_Cryptosporidium_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up micrograph illustrating Cryptosporidium parasite forms attached to a cellular surface, featuring spherical oocysts dispersed throughout a textured tissue matrix and surrounding filamentous structures in a hydrated environment.
+
+---
+
+## 03 Cryptosporidium
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0882_01_Micro_09_Parasite_05_Cryptosporidium_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0882_01_Micro_09_Parasite_05_Cryptosporidium_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up micrograph showing round cryptosporidium parasites attached to a textured surface, with clustered spheres and debris in a tangled extracellular matrix network at the cellular level, here revealing micro-scale features.
 
 ---
 

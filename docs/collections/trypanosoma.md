@@ -1,6 +1,6 @@
 ---
 title: "Trypanosoma Stock Footage and Images | Parasite | Stockflow.media"
-description: "Download 12 professional Trypanosoma assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Parasite collection."
+description: "Download 16 professional Trypanosoma assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Parasite collection."
 ---
 
 # Trypanosoma
@@ -9,7 +9,7 @@ description: "Download 12 professional Trypanosoma assets — 4K MP4 video and 8
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Trypanosoma){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,54 @@ Green Trypanosoma parasite (flagellate) with blue nuclear clusters among red blo
 ![12 Micro 09 Parasite 08 Trypanosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0934_01_Micro_09_Parasite_08_Trypanosoma_W_09__Previews.webp)
 
 Color-enhanced illustration of a Trypanosoma parasite swimming through a blood vessel among red blood cells.
+
+---
+
+## 01 Trypanosoma
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0890_01_Micro_09_Parasite_08_Trypanosoma_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0890_01_Micro_09_Parasite_08_Trypanosoma_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up illustration of a trypanosome parasite within a blood vessel, highlighting its elongated, spiraled form amid red blood cells, illustrating microscopic infection processes and host interactions.
+
+---
+
+## 02 Trypanosoma
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0891_01_Micro_09_Parasite_08_Trypanosoma_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0891_01_Micro_09_Parasite_08_Trypanosoma_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Illustration of a slender parasite trypanosome swimming through a blood vessel, with red blood cells surrounding it, highlighting its elongated, flagellated form and movement within the circulatory system.
+
+---
+
+## 03 Trypanosoma
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0892_01_Micro_09_Parasite_08_Trypanosoma_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0892_01_Micro_09_Parasite_08_Trypanosoma_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid cross-section of a red blood vessel reveals a twisting parasitic organism, resembling Trypanosoma, with coiled body and flagellum trailing behind, highlighting microscopic parasite morphology.
+
+---
+
+## 04 Trypanosoma
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0893_01_Micro_09_Parasite_08_Trypanosoma_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0893_01_Micro_09_Parasite_08_Trypanosoma_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A micrograph of a Trypanosoma parasite winding its slender, flagellated body through a blood vessel, surrounded by red blood cells, illustrating a flagellate protozoan in the bloodstream.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Hepatitis Stock Footage and Images | Infectious | Stockflow.media"
-description: "Download 8 professional Hepatitis assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Infectious collection."
+description: "Download 11 professional Hepatitis assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Infectious collection."
 ---
 
 # Hepatitis
@@ -9,7 +9,7 @@ description: "Download 8 professional Hepatitis assets — 4K MP4 video and 8K J
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Infectious&collection=Hepatitis){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,42 @@ Liver biopsy showing hepatocellular inflammation and necrosis consistent with in
 ![8 Micro 12 Pathology 21 Infectious Hepatitis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1329_01_Micro_12_Pathology_21_Infectious_Hepatitis_W_04_Previews.webp)
 
 Histologic liver section showing hepatocyte degeneration/necrosis with scattered inflammatory infiltrate (viral hepatitis pattern) on H&E stain.
+
+---
+
+## 04 Infectious
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1068_01_Micro_21_Infectious_Hepatitis_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1068_01_Micro_21_Infectious_Hepatitis_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view of liver tissue showing hepatitis-related changes: inflamed portal tracts, hepatocellular degeneration, and scattered apoptotic bodies within pink-stained hepatic parenchyma.
+
+---
+
+## 05 Infectious
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1069_01_Micro_21_Infectious_Hepatitis_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1069_01_Micro_21_Infectious_Hepatitis_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view of liver tissue showing hepatocytes with inflammatory cells and bile ducts, highlighting cellular changes in hepatitis infection and portal inflammation, necrosis, and vascular congestion.
+
+---
+
+## 06 Infectious
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1070_01_Micro_21_Infectious_Hepatitis_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1070_01_Micro_21_Infectious_Hepatitis_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic liver tissue section showing hepatocytes with vacuolated cytoplasm, inflammatory infiltrates, and portal areas, highlighting cellular changes typical of infectious hepatitis, including periportal inflammation and hepatocellular necrosis.
 
 ---
 

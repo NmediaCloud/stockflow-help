@@ -1,6 +1,6 @@
 ---
 title: "Immune Stock Footage and Images | Cancer Cell | Stockflow.media"
-description: "Download 12 professional Immune assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
+description: "Download 19 professional Immune assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
 ---
 
 # Immune
@@ -9,7 +9,7 @@ description: "Download 12 professional Immune assets — 4K MP4 video and 8K JPE
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Immune){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **19 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,90 @@ Color-enhanced illustration of cancer cells interacting with immune cells in a t
 ![12 Micro 10 Cancer Cell 06 Immune](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1013_01_Micro_10_Cancer_cell_06_Immune_W_08_Previews.webp)
 
 Immune cells engaging cancer cells in a microscopic scene.
+
+---
+
+## 22 Cancer Cell
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0928_01_Micro_10_Cancer_Cell_06_Immune_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0928_01_Micro_10_Cancer_Cell_06_Immune_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid microscopic battle shows immune cells attacking cancerous cells, with fiery red-yellow structures and blue checkpoints, illustrating cellular warfare and immune surveillance at the tumor interface.
+
+---
+
+## 23 Cancer Cell
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0929_01_Micro_10_Cancer_Cell_06_Immune_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0929_01_Micro_10_Cancer_Cell_06_Immune_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid 3D depiction of immune cells attacking cancer cells, revealing dynamic cellular interactions in the tumor microenvironment and the intricate cooperation of immune responses at the microscopic level.
+
+---
+
+## 24 Cancer Cell
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0930_01_Micro_10_Cancer_Cell_06_Immune_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0930_01_Micro_10_Cancer_Cell_06_Immune_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-detail visualization of cancer cells engaging with immune cells at the tissue surface, illustrating cellular interactions, signaling, and destruction as the immune response targets malignant cells.
+
+---
+
+## 25 Cancer Cell
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0931_01_Micro_10_Cancer_Cell_06_Immune_V2_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0931_01_Micro_10_Cancer_Cell_06_Immune_V2_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Vibrant microscopic scene showing immune cells targeting a cancer cell, with colorful blue and orange structures engaging in a dynamic cellular battle within a textured tissue backdrop.
+
+---
+
+## 26 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0932_01_Micro_10_Cancer_Cell_06_Immune_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0932_01_Micro_10_Cancer_Cell_06_Immune_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid microscopic view of cancer cells interacting with immune cells, highlighting immune response and tumor microenvironment in a dynamic colored scene depicting cellular battles and signaling.
+
+---
+
+## 27 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0933_01_Micro_10_Cancer_Cell_06_Immune_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0933_01_Micro_10_Cancer_Cell_06_Immune_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-contrast microscopic scene shows immune cells attacking cancerous cells, with energetic exchanges and glowing contacts illustrating cytotoxic interaction and immune surveillance at the cellular level.
+
+---
+
+## 28 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0934_01_Micro_10_Cancer_Cell_06_Immune_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0934_01_Micro_10_Cancer_Cell_06_Immune_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Vivid microscopic scene of immune cells converging on a cancer cell, with bright blue and green structures engaging an orange tumor region, illustrating cellular defense at the tissue boundary.
 
 ---
 

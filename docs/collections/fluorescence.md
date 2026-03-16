@@ -1,6 +1,6 @@
 ---
 title: "Fluorescence Stock Footage and Images | Cancer Cell | Stockflow.media"
-description: "Download 12 professional Fluorescence assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
+description: "Download 18 professional Fluorescence assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
 ---
 
 # Fluorescence
@@ -9,7 +9,7 @@ description: "Download 12 professional Fluorescence assets — 4K MP4 video and 
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Fluorescence){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **18 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,78 @@ Fluorescent cancer cell with a pink membrane, blue nuclei, and green-orange fila
 ![12 Micro 10 Cancer Cell 07 Fluorescence](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1025_01_Micro_10_Cancer_cell_07_Fluorescence_W_08_Previews.webp)
 
 Fluorescent micrograph of a cancer cell with pink membrane, blue nuclei, and green surrounding filaments.
+
+---
+
+## 29 Cancer Cell
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0935_01_Micro_10_Cancer_Cell_07_Fluorescence_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0935_01_Micro_10_Cancer_Cell_07_Fluorescence_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Colorful fluorescence micrograph showing a single cancer cell with bright blue nuclei, an intricate purple/orange cytoskeleton, and scattered green vesicles, highlighting cellular structure and intercellular connections.
+
+---
+
+## 30 Cancer Cell
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0936_01_Micro_10_Cancer_Cell_07_Fluorescence_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0936_01_Micro_10_Cancer_Cell_07_Fluorescence_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Fluorescence microscopy reveals blue-stained nuclei, orange actin filaments, and green markers within a cancer cell cluster, illustrating complex cellular architecture, organelle distribution, and intercellular interactions in vitro.
+
+---
+
+## 31 Cancer Cell
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0937_01_Micro_10_Cancer_Cell_07_Fluorescence_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0937_01_Micro_10_Cancer_Cell_07_Fluorescence_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Colorful fluorescence image of a cultured cell showing blue nuclei, purple-muchsia cytoskeleton, green specks and orange filaments, highlighting intracellular organization and cytoskeletal network in high resolution.
+
+---
+
+## 32 Cancer Cell
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0938_01_Micro_10_Cancer_Cell_07_Fluorescence_V2_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0938_01_Micro_10_Cancer_Cell_07_Fluorescence_V2_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+High resolution fluorescence image showing a cellular network: blue-stained nuclei, orange actin filaments outlining cell boundaries, and scattered green signals highlighting organelles within a stretching cell across a dark background.
+
+---
+
+## 33 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0939_01_Micro_10_Cancer_Cell_07_Fluorescence_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0939_01_Micro_10_Cancer_Cell_07_Fluorescence_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Colorful fluorescence image of a single cell highlighting cytoskeleton, nucleus, and organelles with vivid red, blue, and green channels, illustrating intracellular architecture and organelle distribution.
+
+---
+
+## 34 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0940_01_Micro_10_Cancer_Cell_07_Fluorescence_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0940_01_Micro_10_Cancer_Cell_07_Fluorescence_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Colorful fluorescence microscopy reveals a tubular orange cytoskeleton surrounding bright blue nuclei, with green puncta scattered throughout the cell’s interior, highlighting organelles and intracellular structures in a high-contrast cellular landscape.
 
 ---
 

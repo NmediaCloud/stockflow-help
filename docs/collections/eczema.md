@@ -1,6 +1,6 @@
 ---
 title: "Eczema Stock Footage and Images | Dermatopathology | Stockflow.media"
-description: "Download 8 professional Eczema assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Dermatopathology collection."
+description: "Download 11 professional Eczema assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Dermatopathology collection."
 ---
 
 # Eczema
@@ -9,7 +9,7 @@ description: "Download 8 professional Eczema assets — 4K MP4 video and 8K JPEG
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Eczema){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,42 @@ Skin biopsy showing eczematous dermatitis with spongiosis and inflammatory infil
 ![8 Micro 12 Pathology 10 Dermatopathology Eczema](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1243_01_Micro_12_Pathology_10_Dermatopathology_Eczema_W_04_Previews.webp)
 
 Skin biopsy showing epidermal spongiosis with inflammatory infiltrate consistent with eczema (dermatitis).
+
+---
+
+## 01 Dermatopathology
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0969_01_Micro_10_Dermatopathology_Eczema_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0969_01_Micro_10_Dermatopathology_Eczema_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathologic image of dermal inflammation showing eosinophils and lymphocytes amid disrupted collagen and blood vessels, consistent with dermatitis characterized by eczema-like inflammatory infiltrates in the superficial to mid-dermis.
+
+---
+
+## 02 Dermatopathology
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0970_01_Micro_10_Dermatopathology_Eczema_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0970_01_Micro_10_Dermatopathology_Eczema_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Dermatopathology slide showing inflammatory infiltrate in dermis with dispersed eosinophils and plasma cells, vascular congestion, and epidermal changes consistent with eczema, characterized by pink collagen, perivascular inflammation, and giant cells.
+
+---
+
+## 03 Dermatopathology
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0971_01_Micro_10_Dermatopathology_Eczema_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0971_01_Micro_10_Dermatopathology_Eczema_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph from dermatopathology illustrating eczema features: inflammatory infiltrate with eosinophils, spongiosis, keratinocyte edema, and vascular dilation in a stained skin biopsy, highlighting epidermal changes and dermal inflammation in chronic lesions.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Mycelium Stock Footage and Images | Fungi | Stockflow.media"
-description: "Download 12 professional Mycelium assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
+description: "Download 16 professional Mycelium assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
 ---
 
 # Mycelium
@@ -9,7 +9,7 @@ description: "Download 12 professional Mycelium assets — 4K MP4 video and 8K J
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Mycelium){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,54 @@ White fuzzy fungal mycelium forming delicate web-like networks on dark brown org
 ![12 Micro 08 Fungi 04 Mycelium](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0774_01_Micro_08_Fungi_04_Mycelium_W_08__Previews.webp)
 
 White mycelium threads spreading across decaying wood, forming a delicate, web-like network.
+
+---
+
+## 01 Mycelium
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0826_01_Micro_08_Fungi_04_Mycelium_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0826_01_Micro_08_Fungi_04_Mycelium_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A close-up of delicate, white mycelial networks weaving beneath cracked bark, with tiny spores scattered on the surface, resembling a lace-like web of fungal threads and microstructures.
+
+---
+
+## 02 Mycelium
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0827_01_Micro_08_Fungi_04_Mycelium_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0827_01_Micro_08_Fungi_04_Mycelium_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A delicate white fungal mycelium forms a lace-like network weaving through dark chocolate and wood fragments, revealing intricate, organic patterns as decay creates a surreal micro landscape.
+
+---
+
+## 03 Mycelium
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0828_01_Micro_08_Fungi_04_Mycelium_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0828_01_Micro_08_Fungi_04_Mycelium_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Delicate white mycelial networks weave through dark, decaying bark, forming lace-like filaments that reveal the hidden fungal life thriving inside a crevice of weathered wood.
+
+---
+
+## 04 Mycelium
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0829_01_Micro_08_Fungi_04_Mycelium_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0829_01_Micro_08_Fungi_04_Mycelium_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Delicate white fungal filaments weave between decaying bark, forming tiny stalked structures. A microcosm of mycelium threads, glimmering like spider silk across a rugged, earthy substrate.
 
 ---
 

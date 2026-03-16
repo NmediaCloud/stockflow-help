@@ -1,6 +1,6 @@
 ---
 title: "Fungal Stock Footage and Images | Infectious | Stockflow.media"
-description: "Download 8 professional Fungal assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Infectious collection."
+description: "Download 11 professional Fungal assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Infectious collection."
 ---
 
 # Fungal
@@ -9,7 +9,7 @@ description: "Download 8 professional Fungal assets — 4K MP4 video and 8K JPEG
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Infectious&collection=Fungal){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,42 @@ Colorful 3D micrograph showing fungal elements (orange/yellow yeast-like structu
 ![8 Micro 12 Pathology 22 Infectious Fungal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1337_01_Micro_12_Pathology_22_Infectious_Fungal_W_04_Previews.webp)
 
 Color-enhanced micrograph of infected tissue showing fungal elements (yeast-like cells and hyphae) among epithelial cells and surrounding inflammatory cells.
+
+---
+
+## 07 Infectious
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1071_01_Micro_22_Infectious_Fungal_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1071_01_Micro_22_Infectious_Fungal_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up view of a fungal infection at the micro scale, illustrating purple fungal cells and spores intertwined with host tissue, highlighting microbial interactions and the contagious nature of fungal pathogens.
+
+---
+
+## 08 Infectious
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1072_01_Micro_22_Infectious_Fungal_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1072_01_Micro_22_Infectious_Fungal_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Color-enhanced micrograph illustrating an infectious fungal biofilm on a surface, with purple fungal cells interwoven with pink bacterial clusters and filamentous structures, highlighting complex microbe interactions.
+
+---
+
+## 09 Infectious
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1073_01_Micro_22_Infectious_Fungal_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1073_01_Micro_22_Infectious_Fungal_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up microscopic view of a fungal infection, showing fungal spores and hyphae intermingling with host cells, illustrating microbial invasion at a cellular membrane. intense colors highlight interactions during infection process.
 
 ---
 

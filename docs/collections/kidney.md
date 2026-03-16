@@ -1,6 +1,6 @@
 ---
 title: "Kidney Stock Footage and Images | Histopathology | Stockflow.media"
-description: "Download 8 professional Kidney assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
+description: "Download 11 professional Kidney assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
 ---
 
 # Kidney
@@ -9,7 +9,7 @@ description: "Download 8 professional Kidney assets — 4K MP4 video and 8K JPEG
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Kidney){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,42 @@ Microscopic view of kidney tissue showing renal tubules with cuboidal epithelium
 ![8 Micro 12 Pathology 19 Histopathology Kidney](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1313_01_Micro_12_Pathology_19_Histopathology_Kidney_W_04_Previews.webp)
 
 Renal tissue with tubular structures showing epithelial cells and prominent nuclei (kidney histopathology).
+
+---
+
+## 19 Histopathology
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1061_01_Micro_19_Histopathology_Kidney_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1061_01_Micro_19_Histopathology_Kidney_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph of kidney histopathology highlighting tubular structures with cuboidal epithelium, prominent nuclei, and eosinophilic cytoplasm, set in a pink-stained interstitium, illustrating typical renal tubule morphology.
+
+---
+
+## 20 Histopathology
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1062_01_Micro_19_Histopathology_Kidney_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1062_01_Micro_19_Histopathology_Kidney_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology slide of kidney showing tubular epithelial cells with prominent nuclei, tubular lumens, interstitial inflammatory cells and mild edema, highlighting renal tubular injury.
+
+---
+
+## 21 Histopathology
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1063_01_Micro_19_Histopathology_Kidney_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1063_01_Micro_19_Histopathology_Kidney_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Kidney histopathology showing dilated tubules with vacuolated, columnar epithelial cells, prominent nuclei, and interstitial inflammatory infiltrates, consistent with acute tubular injury.
 
 ---
 

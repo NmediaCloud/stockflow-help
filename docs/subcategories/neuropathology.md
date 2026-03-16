@@ -1,6 +1,6 @@
 ---
 title: "Neuropathology Stock Footage and Images | Stockflow.media"
-description: "Browse 33 professional 4K/8K Neuropathology assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+description: "Browse 48 professional 4K/8K Neuropathology assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
 ---
 
 # Neuropathology
@@ -9,9 +9,12 @@ description: "Browse 33 professional 4K/8K Neuropathology assets from the Micros
 
 ---
 
-Explore the **4 collections** in this subcategory:
+Explore the **7 collections** in this subcategory:
 
-* **[Alzheimer](../collections/alzheimer.md)** — 13 assets
+* **[Alzheimer](../collections/alzheimer.md)** — 16 assets
 * **[Multiple Sclerosis](../collections/multiple-sclerosis.md)** — 8 assets
-* **[Neuroblastoma](../collections/neuroblastoma.md)** — 6 assets
+* **[MultipleSclerosis](../collections/multiplesclerosis.md)** — 3 assets
+* **[Neuroblastoma](../collections/neuroblastoma.md)** — 9 assets
+* **[Parkinson](../collections/parkinson.md)** — 3 assets
 * **[Spinal Cord](../collections/spinal-cord.md)** — 6 assets
+* **[SpinalCord](../collections/spinalcord.md)** — 3 assets

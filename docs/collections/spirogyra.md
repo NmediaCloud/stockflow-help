@@ -1,6 +1,6 @@
 ---
 title: "Spirogyra Stock Footage and Images | Algae | Stockflow.media"
-description: "Download 13 professional Spirogyra assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Algae collection."
+description: "Download 16 professional Spirogyra assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Algae collection."
 ---
 
 # Spirogyra
@@ -9,7 +9,7 @@ description: "Download 13 professional Spirogyra assets — 4K MP4 video and 8K 
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Spirogyra){ .md-button .md-button--primary }
 
-This collection contains **13 assets** available in multiple resolutions and aspect ratios.
+This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -127,6 +127,42 @@ Micrograph of Spirogyra algae showing helical chloroplasts in filamentous cells.
 ![13 Micro 06 Algae 02 Spirogyra Algae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0516_01_Micro_06_Algae_02_Spirogyra_Algae_W_08_Previews.webp)
 
 Close-up of Spirogyra algae showing spiraling chloroplasts in vivid green.
+
+---
+
+## 01 Spirogyra Algae
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0728_01_Micro_06_Algae_02_Spirogyra_Algae_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0728_01_Micro_06_Algae_02_Spirogyra_Algae_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of spirogyra algae filaments showing bright green chloroplasts and intracellular structures, revealing a branching, spiral pattern in a vivid aquatic microscopic scene.
+
+---
+
+## 02 Spirogyra Algae
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0729_01_Micro_06_Algae_02_Spirogyra_Algae_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0729_01_Micro_06_Algae_02_Spirogyra_Algae_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Macro shot of vivid green algal filaments (Spirogyra) weaving across each other, revealing transparent rectangular cells filled with chloroplasts and internal organelles, flooded with bright light.
+
+---
+
+## 03 Spirogyra Algae
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0730_01_Micro_06_Algae_02_Spirogyra_Algae_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0730_01_Micro_06_Algae_02_Spirogyra_Algae_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of Spirogyra algae filaments, revealing intertwined green cells packed with chloroplasts and bead-like compartments, showcasing the intricate, thread-like structure of this freshwater green alga.
 
 ---
 

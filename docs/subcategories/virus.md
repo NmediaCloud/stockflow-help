@@ -1,6 +1,6 @@
 ---
 title: "Virus Stock Footage and Images | Stockflow.media"
-description: "Browse 58 professional 4K/8K Virus assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+description: "Browse 155 professional 4K/8K Virus assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
 ---
 
 # Virus
@@ -11,4 +11,4 @@ description: "Browse 58 professional 4K/8K Virus assets from the Microscopic lib
 
 Explore the **1 collections** in this subcategory:
 
-* **[Membrane](../collections/membrane.md)** — 58 assets
+* **[Membrane](../collections/membrane.md)** — 155 assets

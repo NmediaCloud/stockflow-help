@@ -1,6 +1,6 @@
 ---
 title: "Cervical Cells Stock Footage and Images | Histopathology | Stockflow.media"
-description: "Download 8 professional Cervical Cells assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
+description: "Download 11 professional Cervical Cells assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
 ---
 
 # Cervical Cells
@@ -9,7 +9,7 @@ description: "Download 8 professional Cervical Cells assets — 4K MP4 video and
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Cervical+Cells){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,42 @@ Histopathology of cervical cells showing koilocytes and epithelial cell changes.
 ![8 Micro 12 Pathology 14 Histopathology Cervical Cells](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1273_01_Micro_12_Pathology_14_Histopathology_Cervical_Cells_W_04_Previews.webp)
 
 Histopathology image of cervical squamous cells showing koilocytosis and HPV-associated epithelial changes.
+
+---
+
+## 04 Histopathology
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1046_01_Micro_14_Histopathology_Cervical_Cells_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1046_01_Micro_14_Histopathology_Cervical_Cells_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology image of cervical cells at micro level, displaying numerous purple-stained nuclei embedded in fibrous tissue, illustrating cellular morphology and tissue architecture characteristic of a cervical lesion.
+
+---
+
+## 5 Histopathology
+**Resolution:** 3840x21 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1047_01_Micro_14_Histopathology_Cervical_Cells_V1_W_60_326_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1047_01_Micro_14_Histopathology_Cervical_Cells_V1_W_60_326_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology micrograph of cervical cells showing scattered nuclei and pink-stained connective tissue, highlighting cellular composition and structural details typical of cervical tissue at high magnification.
+
+---
+
+## 6 Histopathology
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1048_01_Micro_14_Histopathology_Cervical_Cells_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1048_01_Micro_14_Histopathology_Cervical_Cells_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology slide of cervical cells showing layered epithelial debris and dark-staining nuclei amid pink connective tissue, highlighting cellular details and inflammatory features characteristic of cervical cytology.
 
 ---
 

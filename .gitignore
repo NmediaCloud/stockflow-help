@@ -22,6 +22,8 @@ Thumbs.db
 
 # Marketing content pipeline
 Marketing content/W output/
+Marketing content/S output/
+Marketing content/V output/
 Marketing content/temp/
 Marketing content/music/
 Marketing content/watermark/*.webp

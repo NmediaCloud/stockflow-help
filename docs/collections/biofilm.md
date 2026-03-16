@@ -1,6 +1,6 @@
 ---
 title: "Biofilm Stock Footage and Images | Bacteria | Stockflow.media"
-description: "Download 12 professional Biofilm assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
+description: "Download 17 professional Biofilm assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
 ---
 
 # Biofilm
@@ -9,7 +9,7 @@ description: "Download 12 professional Biofilm assets — 4K MP4 video and 8K JP
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Biofilm){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **17 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,66 @@ Microscopic view of bacteria forming a biofilm on a porous, sponge-like network.
 ![12 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0686_01_Micro_07_Bacteria_05_Biofilm_01_W_08_Previews.webp)
 
 Colorful high-magnification image of bacteria forming a biofilm on a porous surface.
+
+---
+
+## 01 Biofilm
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0778_01_Micro_07_Bacteria_05_Biofilm_01_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0778_01_Micro_07_Bacteria_05_Biofilm_01_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Colorful bacteria forming a dense biofilm on a surface, blue and orange rod-shaped microbes intertwine within a slime matrix, illustrating microbial communities and protective cooperation in a microscopic ecosystem.
+
+---
+
+## 02 Biofilm
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0779_01_Micro_07_Bacteria_05_Biofilm_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0779_01_Micro_07_Bacteria_05_Biofilm_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Colorized electron micrograph showing bacteria embedded in a biofilm, orange and blue rod-shaped cells intertwine within a sugary matrix, illustrating microbial communities thriving on a surface and exchanging signals.
+
+---
+
+## 03 Biofilm
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0780_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0780_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Color-enhanced micrograph shows rod-shaped bacteria organized in a dense biofilm on a textured surface, blue and orange cells interwoven within a slimy matrix and tiny particles.
+
+---
+
+## 04 Biofilm
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0781_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0781_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A dense pink biofilm of rod-shaped bacteria forms a complex microbial community on a surface, revealing intertwined cells, microenvironments, and extracellular matrix in a high-magnification view.
+
+---
+
+## 05 Biofilm
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0782_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0782_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-fidelity microscopic view of a bacterial biofilm, showing intertwined filaments and clustered cells embedded in a slimy extracellular matrix, highlighting complex microbe communities and protective biofilm structure.
 
 ---
 

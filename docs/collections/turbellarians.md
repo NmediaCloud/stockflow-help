@@ -1,6 +1,6 @@
 ---
 title: "Turbellarians Stock Footage and Images | Worms | Stockflow.media"
-description: "Download 21 professional Turbellarians assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Worms collection."
+description: "Download 24 professional Turbellarians assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Worms collection."
 ---
 
 # Turbellarians
@@ -9,7 +9,7 @@ description: "Download 21 professional Turbellarians assets — 4K MP4 video and
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Turbellarians){ .md-button .md-button--primary }
 
-This collection contains **21 assets** available in multiple resolutions and aspect ratios.
+This collection contains **24 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -199,6 +199,42 @@ Close-up of an aquatic turbellarian worm with a translucent body showing orange-
 ![21 Micro 05 Worms 03 Aquatic Turbellarians](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0441_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_W_12_Previews.webp)
 
 Macro close-up of an aquatic worm (turbellarian) showing a transparent, segmented body with visible internal organs and bristle-like appendages.
+
+---
+
+## 01 Aquatic (Turbellarians)
+**Resolution:**  | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0694_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V1_W_3840_214_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0694_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V1_W_3840_214_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view of an aquatic turbellarian worm showing a translucent, segmented body, with vivid colors and bristle-like projections against a dark background, revealing internal anatomy and organs.
+
+---
+
+## 02 Aquatic (Turbellarians)
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0695_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0695_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of an aquatic Turbellarian worm, a tiny micro-creature with segmented body, numerous digestive and sensory organs visible, showcasing vibrant internal structures under high magnification.
+
+---
+
+## 03 Aquatic (Turbellarians)
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0696_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0696_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph of an aquatic turbellarian worm, showing a transparent, elongated body with visible internal organs and paired anterior appendages, edged by long ciliated bristles along its sides.
 
 ---
 

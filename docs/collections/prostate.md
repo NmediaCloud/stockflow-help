@@ -1,6 +1,6 @@
 ---
 title: "Prostate Stock Footage and Images | Histopathology | Stockflow.media"
-description: "Download 8 professional Prostate assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
+description: "Download 11 professional Prostate assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
 ---
 
 # Prostate
@@ -9,7 +9,7 @@ description: "Download 8 professional Prostate assets — 4K MP4 video and 8K JP
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Prostate){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,42 @@ Benign prostatic glandular tissue in fibromuscular stroma with tubuloalveolar gl
 ![8 Micro 12 Pathology 18 Histopathology Prostate](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1305_01_Micro_12_Pathology_18_Histopathology_Prostate_W_04_Previews.webp)
 
 Histopathology of prostate gland showing glandular architecture with epithelial cells lining luminal spaces (H&E stained).
+
+---
+
+## 16 Histopathology
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1058_01_Micro_18_Histopathology_Prostate_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1058_01_Micro_18_Histopathology_Prostate_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology micrograph of prostate tissue showing tubular glands with cuboidal to columnar epithelium, arranged in acini within fibromuscular stroma; classic microscopic features used for diagnostic evaluation.
+
+---
+
+## 17 Histopathology
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1059_01_Micro_18_Histopathology_Prostate_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1059_01_Micro_18_Histopathology_Prostate_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Prostate tissue micrograph showing glandular architecture with columnar epithelial cells, basal cell layer, and luminal secretions; highlighted nuclear detail and ducts suggestive of histopathological examination at high magnification.
+
+---
+
+## 18 Histopathology
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1060_01_Micro_18_Histopathology_Prostate_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1060_01_Micro_18_Histopathology_Prostate_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology image of prostate gland acini with glandular epithelium and surrounding stroma, showing typical pink hematoxylin-eosin stained glandular architecture.
 
 ---
 

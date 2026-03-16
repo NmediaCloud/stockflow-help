@@ -1,6 +1,6 @@
 ---
 title: "Spirochete Stock Footage and Images | Bacteria | Stockflow.media"
-description: "Download 10 professional Spirochete assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
+description: "Download 13 professional Spirochete assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
 ---
 
 # Spirochete
@@ -9,7 +9,7 @@ description: "Download 10 professional Spirochete assets — 4K MP4 video and 8K
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Spirochete){ .md-button .md-button--primary }
 
-This collection contains **10 assets** available in multiple resolutions and aspect ratios.
+This collection contains **13 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -100,6 +100,42 @@ A spiral-shaped bacterium with multiple tail-like flagella in a grayscale electr
 ![10 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0663_01_Micro_07_Bacteria_03_Spirochete_01_W_08__Previews.webp)
 
 A curved spirochete bacterium with a segmented, helix-shaped body and multiple tail-like flagella at both ends.
+
+---
+
+## 01 Spirochete
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0772_01_Micro_07_Bacteria_03_Spirochete_01_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0772_01_Micro_07_Bacteria_03_Spirochete_01_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A microscopic view of a spirochete-like organism displaying a slender, helical body and numerous threadlike appendages radiating from both ends, captured with high-resolution imaging to reveal surface texture.
+
+---
+
+## 02 Spirochete
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0773_01_Micro_07_Bacteria_03_Spirochete_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0773_01_Micro_07_Bacteria_03_Spirochete_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A micrograph of a slender, spiral bacterium with multiple appendages resembling flagella, showcasing the distinctive coiled body of a spirochete navigating a rough surface under electron microscopy.
+
+---
+
+## 03 Spirochete
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0774_01_Micro_07_Bacteria_03_Spirochete_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0774_01_Micro_07_Bacteria_03_Spirochete_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micro-scale image of a slender, segmented worm-like organism adorned with numerous tiny surface particles and long feathery tentacles, resembling a spirochete-style microorganism observed under high magnification.
 
 ---
 

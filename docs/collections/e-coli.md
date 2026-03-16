@@ -1,6 +1,6 @@
 ---
 title: "E. Coli Stock Footage and Images | Bacteria | Stockflow.media"
-description: "Download 11 professional E. Coli assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
+description: "Download 14 professional E. Coli assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
 ---
 
 # E. Coli
@@ -9,7 +9,7 @@ description: "Download 11 professional E. Coli assets — 4K MP4 video and 8K JP
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=E.+Coli){ .md-button .md-button--primary }
 
-This collection contains **11 assets** available in multiple resolutions and aspect ratios.
+This collection contains **14 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -109,6 +109,42 @@ Color-enhanced micrograph showing rod-shaped bacteria on a tissue surface, with 
 ![11 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0674_01_Micro_07_Bacteria_04_E._Coli_01_W_08_Previews.webp)
 
 Rod-shaped E. coli bacteria with purple spherical cells on a pink textured surface.
+
+---
+
+## 01 E. Coli
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0775_01_Micro_07_Bacteria_04_E._Coli_01_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0775_01_Micro_07_Bacteria_04_E._Coli_01_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of rod-shaped bacteria with long flagella on a textured surface, illustrating familiar Escherichia coli-like microbes in a detailed, magnified view.
+
+---
+
+## 02 E. Coli
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0776_01_Micro_07_Bacteria_04_E._Coli_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0776_01_Micro_07_Bacteria_04_E._Coli_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-magnification view of rod-shaped bacteria with tail-like flagella, likely Escherichia coli, attached to a textured surface and surrounded by other small particles and cellular debris.
+
+---
+
+## 03 E. Coli
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0777_01_Micro_07_Bacteria_04_E._Coli_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0777_01_Micro_07_Bacteria_04_E._Coli_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-fidelity micrograph showing rod-shaped Escherichia coli bacteria with slender flagella, clustered and moving on a textured surface, highlighting their cylindrical form and surface details at high magnification.
 
 ---
 

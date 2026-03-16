@@ -1,6 +1,6 @@
 ---
 title: "Lichen Stock Footage and Images | Dermatopathology | Stockflow.media"
-description: "Download 18 professional Lichen assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Dermatopathology collection."
+description: "Download 24 professional Lichen assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Dermatopathology collection."
 ---
 
 # Lichen
@@ -9,7 +9,7 @@ description: "Download 18 professional Lichen assets — 4K MP4 video and 8K JPE
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Lichen){ .md-button .md-button--primary }
 
-This collection contains **18 assets** available in multiple resolutions and aspect ratios.
+This collection contains **24 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -172,6 +172,78 @@ Dermatopathology: Lichen with lichenoid inflammatory infiltrate and characterist
 ![6 Micro 12 Pathology 08 Dermatopathology Lichen](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1227_01_Micro_12_Pathology_08_Dermatopathology_Lichen_W_03_Previews.webp)
 
 Dermatopathology image of lichen planus.
+
+---
+
+## 04 Dermatopathology
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0807_01_Micro_08_Dermatopathology_Lichen_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0807_01_Micro_08_Dermatopathology_Lichen_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histology slide from dermatopathology showing lichen planus features: irregular sawtooth epidermal rete ridges, hypergranulosis, and a dense band-like lymphocytic infiltrate obscuring the dermal-epidermal junction, with interface changes.
+
+---
+
+## 05 Dermatopathology
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0808_01_Micro_08_Dermatopathology_Lichen_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0808_01_Micro_08_Dermatopathology_Lichen_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Dermatopathology slide showing lichen planus-like epidermal hyperplasia with saw-tooth rete ridges and band-like inflammatory infiltrate in the papillary dermis, dominated by lymphocytes, with some necrotic keratinocytes.
+
+---
+
+## 06 Dermatopathology
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0809_01_Micro_08_Dermatopathology_Lichen_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0809_01_Micro_08_Dermatopathology_Lichen_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Dermatopathology micrograph of skin showing inflammatory changes consistent with lichen planus, featuring epidermal interface dermatitis, sawtoothing rete ridges, and dense dermal inflammatory infiltrate, characteristic basal vacuolization.
+
+---
+
+## 01 Lichen
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0837_01_Micro_08_Fungi_07_Lichen_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0837_01_Micro_08_Fungi_07_Lichen_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Macro view of microscopic fungal growth on a substrate, showing threadlike filaments and rounded spores forming tiny interconnected colonies under a soft greenish background with scattered particles glow around them.
+
+---
+
+## 02 Lichen
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0838_01_Micro_08_Fungi_07_Lichen_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0838_01_Micro_08_Fungi_07_Lichen_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Macro view of tiny fungi with textured bulbous heads on slender stalks, growing from a rough surface under warm backlighting, set against a soft, green bokeh background.
+
+---
+
+## 03 Lichen
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0839_01_Micro_08_Fungi_07_Lichen_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0839_01_Micro_08_Fungi_07_Lichen_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A close-up of delicate, honeycomb-textured mushrooms curling from a decaying log, their pale spheres perched on slender stalks against a soft green background, like tiny forest lanterns.
 
 ---
 

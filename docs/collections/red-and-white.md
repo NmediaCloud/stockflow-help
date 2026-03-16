@@ -1,0 +1,63 @@
+---
+title: "Red And White Stock Footage and Images | Biological Creatures | Stockflow.media"
+description: "Download 4 professional Red And White assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Biological Creatures collection."
+---
+
+# Red And White
+
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Red And White**
+
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Red+And+White){ .md-button .md-button--primary }
+
+This collection contains **4 assets** available in multiple resolutions and aspect ratios.
+
+---
+
+## 01 Blood Cells
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0211_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0211_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Inside a blood vessel, red blood cells swirl past, while white blood cells and platelets cluster, illustrating microscopic circulation, immune response, and clotting processes in a dynamic vascular environment.
+
+---
+
+## 2 Blood Cells
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0212_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_V2_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0212_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_V2_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Inside a blood vessel, numerous red blood cells flow alongside white blood cells and platelets, illustrating circulation, oxygen transport, and immune defense within the vascular system.
+
+---
+
+## 3 Blood Cells
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0213_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0213_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A detailed cross-section of a blood vessel shows red and white blood cells in motion, highlighting their interactions within the bloodstream as swirling plasma creates a vibrant microcosm of circulation.
+
+---
+
+## 4 Blood Cells
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0214_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0214_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A detailed microscopic view inside a blood vessel shows circulating red blood cells, white blood cells, and platelets, illustrating vibrant, dynamic circulation and immune activity within the bloodstream.
+
+---
+

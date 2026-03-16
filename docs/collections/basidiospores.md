@@ -1,6 +1,6 @@
 ---
 title: "Basidiospores Stock Footage and Images | Fungi | Stockflow.media"
-description: "Download 12 professional Basidiospores assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
+description: "Download 16 professional Basidiospores assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
 ---
 
 # Basidiospores
@@ -9,7 +9,7 @@ description: "Download 12 professional Basidiospores assets — 4K MP4 video and
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Basidiospores){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,54 @@ Macro close-up of a mushroom underside showing gills with numerous droplets hang
 ![12 Micro 08 Fungi 03 Basidiospores](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0762_01_Micro_08_Fungi_03_Basidiospores_W_08_Previews.webp)
 
 Close-up of a mushroom underside with droplets hanging from the gills, highlighting basidiospores.
+
+---
+
+## 01 Basidiospores
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0822_01_Micro_08_Fungi_03_Basidiospores_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0822_01_Micro_08_Fungi_03_Basidiospores_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A close-up of a mushroom underside releasing shimmering basidiospores, capturing droplets and fine filaments as fungal spores drift away in a moist, micro-scale moment from the cap.
+
+---
+
+## 02 Basidiospores
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0823_01_Micro_08_Fungi_03_Basidiospores_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0823_01_Micro_08_Fungi_03_Basidiospores_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A close-up of a mushroom cap releasing countless tiny basidiospores into the air, with glistening droplets on the gills, highlighting delicate fungal spore dispersal process.
+
+---
+
+## 03 Basidiospores
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0824_01_Micro_08_Fungi_03_Basidiospores_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0824_01_Micro_08_Fungi_03_Basidiospores_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Two brown leather shoes pressed together, captured in macro detail, with water droplets and fine mist spraying between the uppers, creating a delicate, sparkling micro-scene.
+
+---
+
+## 04 Basidiospores
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0825_01_Micro_08_Fungi_03_Basidiospores_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0825_01_Micro_08_Fungi_03_Basidiospores_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A macro view of a fungal surface showing slender stalks capped with bright orange basidiospores, densely clustered and glowing, highlighting microstructures and spore production in a rich, earthy habitat.
 
 ---
 

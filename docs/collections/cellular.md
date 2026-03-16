@@ -1,6 +1,6 @@
 ---
 title: "Cellular Stock Footage and Images | Cellular | Stockflow.media"
-description: "Download 94 professional Cellular assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cellular collection."
+description: "Download 113 professional Cellular assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cellular collection."
 ---
 
 # Cellular
@@ -9,7 +9,7 @@ description: "Download 94 professional Cellular assets — 4K MP4 video and 8K J
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Cellular){ .md-button .md-button--primary }
 
-This collection contains **94 assets** available in multiple resolutions and aspect ratios.
+This collection contains **113 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -856,6 +856,234 @@ Colorful 3D render of multiple spherical cellular particles with surface project
 ![1 Micro 00](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1494_01_Micro__Previews.webp)
 
 Fluorescent green micrograph of elongated, segmented aquatic microorganisms with internal granules and fine thread-like appendages.
+
+---
+
+## 01 Cellular
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1020_01_Micro_14_Cellul_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1020_01_Micro_14_Cellul_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-detail micrograph-style scene of a cell membrane with twisting protein structures, colorful receptors and molecular machinery, illustrating cellular interactions and signaling on a miniature, vivid biological landscape.
+
+---
+
+## 02 Cellular
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1021_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1021_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A detailed, micro-scale illustration of nerve cells and myelinated axons forming a neural network, highlighting connections, synapses, and cellular structure in cool blue tones across the image.
+
+---
+
+## 03 Cellular
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1022_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1022_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid illustration of a neuron with a glowing cell body and a chain of myelinated axon segments, highlighting electrical signals traveling along the neural pathway.
+
+---
+
+## 04 Cellular
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1023_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1023_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid micrographic view inside a blood vessel, showing numerous red blood cells flowing past white blood cells and tiny particles, illustrating the dynamic environment of the circulatory system.
+
+---
+
+## 05 Cellular
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1024_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1024_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A glowing neuron stretches its axon, with bright cell bodies along the chain and shimmering electrical signals coursing through yellow myelin. The scene highlights neural connectivity and communication.
+
+---
+
+## 06 Cellular
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1025_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1025_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid view inside a blood vessel shows flowing red blood cells mingling with blue-white immune cells and scattered platelets, illustrating circulation, cellular interactions, and the dynamic inner environment of the bloodstream.
+
+---
+
+## 07 Cellular
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1026_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1026_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Vibrant microscopic view of a neuron with glowing myelinated axons transmitting electric signals, synapses sparking at the nodes, highlighting neural communication and the intricate network of brain cells.
+
+---
+
+## 20 Cellular
+**Resolution:** 3840x2176 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1039_01_Micro_14_Cellular_W_323_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1039_01_Micro_14_Cellular_W_323_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A highly detailed microscopic view of a cell membrane showing colorful proteins and molecular machinery at work, illustrating how receptors, channels, and signaling elements organize on the cellular surface.
+
+---
+
+## 21 Cellular
+**Resolution:** 1064x1064 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1040_01_Micro_14_Cellular_Rescence_Microscopy_Of_Act_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1040_01_Micro_14_Cellular_Rescence_Microscopy_Of_Act_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Fluorescent microscopy of cellular structures revealing blue nuclei, green cytoplasm outlines, and bright red actin filaments radiating from focal centers, illustrating cytoskeleton organization in cells under high resolution.
+
+---
+
+## 22 Cellular
+**Resolution:** 40x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1041_01_Micro_14_Cellular_rescence_microscopy_of_actin_W_38_325_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1041_01_Micro_14_Cellular_rescence_microscopy_of_actin_W_38_325_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Fluorescent microscopy image showing two adjacent cells with a vivid actin network (red) extending across the boundary, green cytoplasm, and blue-stained nuclei illustrating cytoskeletal organization and intercellular contact.
+
+---
+
+## 23 Cellular
+**Resolution:** 1088x1088 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1042_01_Micro_14_Cellular_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1042_01_Micro_14_Cellular_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-resolution 3D rendering of a cell membrane showing blue transmembrane proteins and yellow signaling molecule clusters amid a green lipid bilayer, illustrating molecular interactions at the cell surface.
+
+---
+
+## 24 Cellular
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1043_01_Micro_14_Cellular_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1043_01_Micro_14_Cellular_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid microscopic view inside a blood vessel, where numerous red blood cells flow past blue-white immune cells and various platelets, highlighting the dynamic, bustling environment of circulating blood.
+
+---
+
+## 25 Cellular
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1044_01_Micro_14_Cellular_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1044_01_Micro_14_Cellular_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid microscopic view of a blood vessel showing circulating red blood cells and white blood cells amid plasma, illustrating cellular components of the circulatory system.
+
+---
+
+## 26 Cellular
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1045_01_Micro_14_Cellular_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1045_01_Micro_14_Cellular_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid microscopic view of a cell membrane with diverse colorful proteins and molecular machinery, illustrating how receptors and channels organize on the surface in intricate, dynamic detail.
+
+---
+
+## 06 Microscopic
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1101_01_Micro_Create_A_Highly_Realistic_3d_Med_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1101_01_Micro_Create_A_Highly_Realistic_3d_Med_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up view of a virus particle looming over a cell membrane, with colorful molecules and membranous structures, illustrating viral entry and cellular interactions at a tiny scale.
+
+---
+
+## 07 Microscopic
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1102_01_Micro_Entering_Cell_Me,_2._S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1102_01_Micro_Entering_Cell_Me,_2._S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid, macro view of cellular activity and microstructures in glowing magenta-orange tones, hinting at cells communicating and entering new phases within a dynamic biological environment.
+
+---
+
+## 08 Microscopic
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1103_01_Micro_Entering_Cell_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1103_01_Micro_Entering_Cell_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Entering a micro cell universe: vivid swirling cytoplasm around a glowing nucleus reveals a dynamic, immersive internal world.
+
+---
+
+## 09 Microscopic
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1104_01_Micro_Extended_Ide_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1104_01_Micro_Extended_Ide_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Glowing green microscopic organisms float in a dark, watery world, their translucent bodies revealing internal structures as delicate filaments drift and intertwine in a shimmering underwater scene.
+
+---
+
+## 10 Microscopic
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1105_01_Micro_Extended_Video_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1105_01_Micro_Extended_Video_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vibrant microscopic scene shows glowing green filamentous organisms drifting in dark water, their bright cells linked by fine blue fibers, creating a surreal underwater network of life.
 
 ---
 

@@ -15,7 +15,7 @@ description: "**Tetani** visuals bring the invisible world to life — ideal for
 
 **Tetani** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Tetani** collection — 7 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Tetani** collection — 10 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -38,7 +38,7 @@ Fluorescent blue rod-shaped bacteria (bacilli) with small green spheres against 
 
 High-quality tetani footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **7 assets** in this collection are:
+All **10 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)

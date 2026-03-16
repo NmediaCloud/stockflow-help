@@ -1,6 +1,6 @@
 ---
 title: "Bacillus Stock Footage and Images | Bacteria | Stockflow.media"
-description: "Download 20 professional Bacillus assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
+description: "Download 23 professional Bacillus assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
 ---
 
 # Bacillus
@@ -9,7 +9,7 @@ description: "Download 20 professional Bacillus assets — 4K MP4 video and 8K J
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Bacillus){ .md-button .md-button--primary }
 
-This collection contains **20 assets** available in multiple resolutions and aspect ratios.
+This collection contains **23 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -190,6 +190,42 @@ Bacillus bacteria undergoing cell division (microscopic view).
 ![20 Micro 07 Bacteria 01 Bacillus](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0640_01_Micro_07_Bacteria_01_Bacillus_01_W_12_Previews.webp)
 
 Bacillus bacteria cells in a cluster undergoing division.
+
+---
+
+## 01 Bacillus 01
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0120_01_Micro_01_Bacillus_01_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0120_01_Micro_01_Bacillus_01_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up microscopic view of rod-shaped bacillus bacteria in warm tones, showing cylindrical cells connected and clustered, with tiny red particles around their junctions, illustrating microbial interaction and cellular structure.
+
+---
+
+## 02 Bacillus 01
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0121_01_Micro_01_Bacillus_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0121_01_Micro_01_Bacillus_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up view of Bacillus bacteria, rod-shaped filaments arranged in a cluster, showing textured cell walls and tiny red particles around the junctions, highlighting microbial structure at high magnification.
+
+---
+
+## 03 Bacillus 01
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0122_01_Micro_01_Bacillus_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0122_01_Micro_01_Bacillus_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A close-up, high-contrast view of rod-shaped bacilli in warm amber tones, with tiny red clusters forming at junctions, highlighting bacterial cell walls and cluster interactions.
 
 ---
 

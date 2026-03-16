@@ -1,6 +1,6 @@
 ---
 title: "Pathogenic Stock Footage and Images | Fungi | Stockflow.media"
-description: "Download 25 professional Pathogenic assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
+description: "Download 33 professional Pathogenic assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
 ---
 
 # Pathogenic
@@ -9,7 +9,7 @@ description: "Download 25 professional Pathogenic assets — 4K MP4 video and 8K
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Pathogenic){ .md-button .md-button--primary }
 
-This collection contains **25 assets** available in multiple resolutions and aspect ratios.
+This collection contains **33 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -235,6 +235,102 @@ Pathogenic fungal hyphae in tissue with a blue spherical cell visible.
 ![13 Micro 08 Fungi 06 Pathogenic](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0795_01_Micro_08_Fungi_06_Pathogenic_W_09__Previews.webp)
 
 Color-enhanced micrograph of pathogenic fungi in tissue, showing yellow filamentous structures amid surrounding cells and debris.
+
+---
+
+## 01 Pathogenic
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0783_01_Micro_07_Bacteria_06_Pathogenic_01_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0783_01_Micro_07_Bacteria_06_Pathogenic_01_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-resolution microscopic view reveals blue rod-shaped bacteria within a circular blue cell, embedded in a brownish surrounding matrix, highlighting microscopic bacterial infiltration and cellular interactions.
+
+---
+
+## 02 Pathogenic
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0784_01_Micro_07_Bacteria_06_Pathogenic_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0784_01_Micro_07_Bacteria_06_Pathogenic_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Color-enhanced micrograph of a eukaryotic cell showing blue rod-shaped bacteria within a membrane-bound organelle, surrounded by brown cytoplasm and bluish nuclei, highlighting host-microbe interaction.
+
+---
+
+## 03 Pathogenic
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0785_01_Micro_07_Bacteria_06_Pathogenic_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0785_01_Micro_07_Bacteria_06_Pathogenic_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Color-enhanced micrograph showing pathogenic bacteria (blue rods) inside a host cell, illustrating bacterial invasion and intracellular interaction within a cellular environment, with surrounding organelles and membranes.
+
+---
+
+## 04 Pathogenic
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0786_01_Micro_07_Bacteria_06_Pathogenic_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0786_01_Micro_07_Bacteria_06_Pathogenic_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Color-enhanced micrograph of a blood vessel showing pink rod-shaped bacteria within the lumen, surrounded by purple spherical cells and cellular debris, a close-up view of microbial invasion.
+
+---
+
+## 01 Pathogenic
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0833_01_Micro_08_Fungi_06_Pathogenic_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0833_01_Micro_08_Fungi_06_Pathogenic_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-resolution micrograph of pathogenic fungi interacting with tissue, displaying hyphal networks, spores, and intricate surfaces, illustrating fungal infection processes at the cellular level in detail.
+
+---
+
+## 02 Pathogenic
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0834_01_Micro_08_Fungi_06_Pathogenic_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0834_01_Micro_08_Fungi_06_Pathogenic_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Colorized electron micrograph illustrating fungal pathogens invading a host surface, with branching hyphae spreading among cells and round spores clustered at the edge, highlighting microbe-host interactions.
+
+---
+
+## 03 Pathogenic
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0835_01_Micro_08_Fungi_06_Pathogenic_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0835_01_Micro_08_Fungi_06_Pathogenic_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph of pathogenic fungi at a tissue interface, showing blue spores and yellow hyphae invading the cellular layer; illustrates fungal growth patterns and host interaction in a microenvironment.
+
+---
+
+## 04 Pathogenic
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0836_01_Micro_08_Fungi_06_Pathogenic_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0836_01_Micro_08_Fungi_06_Pathogenic_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-detail micrograph reveals pathogenic fungi with threadlike hyphae invading a blood vessel, surrounded by host cells and circular spores, illustrating fungal infection at the cellular level.
 
 ---
 

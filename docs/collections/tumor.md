@@ -1,6 +1,6 @@
 ---
 title: "Tumor Stock Footage and Images | Cancer Cell | Stockflow.media"
-description: "Download 12 professional Tumor assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
+description: "Download 17 professional Tumor assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
 ---
 
 # Tumor
@@ -9,7 +9,7 @@ description: "Download 12 professional Tumor assets — 4K MP4 video and 8K JPEG
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Tumor){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **17 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,66 @@ Close-up of a cancer cell with branching blood vessels in tissue.
 ![12 Micro 10 Cancer Cell 03 Tumor](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0983_01_Micro_10_Cancer_cell_03_Tumor_W_08__Previews.webp)
 
 Close-up of a yellow cancer tumor mass with a network of red and blue blood vessels in pinkish tissue.
+
+---
+
+## 11 Cancer Cell
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0918_01_Micro_10_Cancer_Cell_03_Tumor_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0918_01_Micro_10_Cancer_Cell_03_Tumor_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up illustration shows a malignant tumor forming within dense tissue, surrounded by branching blood vessels, illustrating cancer growth and invasion at the cellular level in imaging representations.
+
+---
+
+## 12 Cancer Cell
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0919_01_Micro_10_Cancer_Cell_03_Tumor_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0919_01_Micro_10_Cancer_Cell_03_Tumor_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A highly detailed 3D illustration of a tumor growing within vascular tissue, showing a large pink mass surrounded by branching blood vessels against a textured, cellular background.
+
+---
+
+## 13 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0920_01_Micro_10_Cancer_Cell_03_Tumor_V_Mp4_ups_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0920_01_Micro_10_Cancer_Cell_03_Tumor_V_Mp4_ups_preview.mp4">Preview video</a>
+</video>
+
+Detailed 3D view showing a cancer tumor invading a dense network of blood vessels within tissue, highlighting abnormal growth and vascularized malignancy, and illustrating tumor morphology and angiogenesis.
+
+---
+
+## 14 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0920_01_Micro_10_Cancer_Cell_03_Tumor_V_Mp4_ups_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0920_01_Micro_10_Cancer_Cell_03_Tumor_V_Mp4_ups_preview.mp4">Preview video</a>
+</video>
+
+A highly detailed, magnified view of a cancerous tumor embedded in living tissue, showing a dense, irregular mass and entwined blood vessels illustrating tumor vascularization and invasion into surrounding tissue.
+
+---
+
+## 15 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0921_01_Micro_10_Cancer_Cell_03_Tumor_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0921_01_Micro_10_Cancer_Cell_03_Tumor_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A highly detailed, color-enhanced depiction of a malignant-looking growth protruding from layered skin, with tangled yellow surface and red arteries feeding the tumor amid underlying blue blood vessels.
 
 ---
 

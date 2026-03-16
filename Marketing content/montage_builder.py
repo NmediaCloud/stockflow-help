@@ -4,12 +4,19 @@ Stockflow Montage Builder
 Three-tier video montage pipeline:
   Collection (~1 min) → Subcategory (~3 min) → Category (~6 min)
 
+Supports 3 aspect ratios:
+  W = Widescreen 16:9 (1920x1080) → YouTube, LinkedIn, Facebook
+  S = Square 1:1 (1080x1080)      → Instagram, Facebook, Pinterest
+  V = Vertical 9:16 (1080x1920)   → TikTok, Instagram Reels, YouTube Shorts
+
 Usage:
   python montage_builder.py --list
   python montage_builder.py --level collection --name "Chicken Dinner"
+  python montage_builder.py --level collection --name "Chicken Dinner" --format S
+  python montage_builder.py --level collection --all --format V
+  python montage_builder.py --level collection --all --format all
   python montage_builder.py --level subcategory --name "Food Menu"
   python montage_builder.py --level category --name "Food & Beverage"
-  python montage_builder.py --level collection --name "Chicken Dinner" --dry-run
 """
 
 import os
@@ -22,6 +29,7 @@ import subprocess
 import tempfile
 import argparse
 import urllib.request
+import urllib.parse
 import time as _time
 from pathlib import Path
 from datetime import datetime
@@ -36,6 +44,16 @@ if sys.platform == "win32":
 SCRIPT_DIR = Path(__file__).parent.resolve()
 CONFIG_FILE = SCRIPT_DIR / "montage_config.json"
 PROJECT_ROOT = (SCRIPT_DIR / "..").resolve()
+
+# Format presets: W=Widescreen, S=Square, V=Vertical
+FORMAT_PRESETS = {
+    "W": {"resolution": "1920x1080", "aspect": "16:9", "output_suffix": "W output",
+           "label": "Widescreen (16:9)"},
+    "S": {"resolution": "1080x1080", "aspect": "1:1", "output_suffix": "S output",
+           "label": "Square (1:1)"},
+    "V": {"resolution": "1080x1920", "aspect": "9:16", "output_suffix": "V output",
+           "label": "Vertical (9:16)"},
+}
 
 # ─── Utilities ───────────────────────────────────────────────────────────────
 
@@ -211,14 +229,12 @@ def build_hierarchy(rows):
     return hierarchy, sub_groups, sub_to_cat
 
 
-def filter_wide_format(items):
-    """Filter to only 16:9 format items."""
+def filter_by_format(items, aspect="16:9"):
+    """Filter items to the specified aspect ratio (16:9, 1:1, or 9:16)."""
     filtered = []
     for row in items:
         fmt = (row.get("Format") or "").strip()
-        preview = (row.get("Preview_URL") or "").strip()
-        # Include if format is 16:9, or if it's an image (any format — we'll crop to 16:9)
-        if "16:9" in fmt:
+        if aspect in fmt:
             filtered.append(row)
     return filtered
 
@@ -239,6 +255,8 @@ def download_clips(items, temp_dir, config):
         # Fix GCS URL: storage.cloud.google.com requires auth,
         # storage.googleapis.com is the public direct-download URL
         url = url.replace("storage.cloud.google.com", "storage.googleapis.com")
+        # Encode spaces and special chars in URL path (keep scheme/host intact)
+        url = urllib.parse.quote(url, safe=':/?&=@#%+')
 
         # Build filename from File_ID to avoid collisions
         file_id = row.get("File_ID", f"unknown_{i}").strip()
@@ -323,9 +341,11 @@ def format_font_path(path):
     return p
 
 
-def overlay_title_on_clip(clip_path, text_main, text_sub, config, output_path):
+def overlay_title_on_clip(clip_path, text_main, text_sub, config, output_path, position="center"):
     """Overlay title text on a clip with semi-transparent dark strip that fades out.
     Text appears immediately and fades out after title_card_duration seconds.
+
+    position: 'center' (collection), 'top' (category), 'bottom' (subcategory)
     """
     font_bold = format_font_path(config["font_path"])
     font_light = format_font_path(config["font_path_light"])
@@ -335,26 +355,40 @@ def overlay_title_on_clip(clip_path, text_main, text_sub, config, output_path):
     fade_dur = config.get("overlay_fade_out", 0.5)
     fade_start = show_dur - fade_dur
 
-    # Semi-transparent dark bar at center + text, fades out
-    # drawbox for dark strip, then drawtext for title + subtitle
-    # Alpha fade: enable between 0 and show_dur, fade out at end
+    # Position the dark strip and text based on level
+    if position == "top":
+        # Category: upper third
+        box_y = "(ih/6-60)"
+        main_y = "(h/6-text_h-5)"
+        sub_y = "(h/6+8)"
+    elif position == "bottom":
+        # Subcategory: lower third
+        box_y = "(ih*5/6-60)"
+        main_y = "(h*5/6-text_h-5)"
+        sub_y = "(h*5/6+8)"
+    else:
+        # Collection: center (default)
+        box_y = "(ih/2-80)"
+        main_y = "(h/2-text_h-5)"
+        sub_y = "(h/2+8)"
+
     filter_str = (
-        # Dark semi-transparent strip behind text (center of frame)
-        f"drawbox=x=0:y=(ih/2-80):w=iw:h=160:"
+        # Dark semi-transparent strip behind text
+        f"drawbox=x=0:y={box_y}:w=iw:h=120:"
         f"color=black@0.55:t=fill:"
         f"enable='between(t,0,{show_dur})',"
         # Main title text
         f"drawtext=text='{main_escaped}':"
         f"fontfile='{font_bold}':"
         f"fontsize={config['title_font_size']}:fontcolor=white:"
-        f"x=(w-text_w)/2:y=(h/2-text_h-5):"
+        f"x=(w-text_w)/2:y={main_y}:"
         f"alpha='if(lt(t,{fade_start}),1,max(0,(1-(t-{fade_start})/{fade_dur})))':"
         f"enable='between(t,0,{show_dur})',"
         # Subtitle text
         f"drawtext=text='{sub_escaped}':"
         f"fontfile='{font_light}':"
         f"fontsize={config['subtitle_font_size']}:fontcolor=0xDDDDDD:"
-        f"x=(w-text_w)/2:y=(h/2+8):"
+        f"x=(w-text_w)/2:y={sub_y}:"
         f"alpha='if(lt(t,{fade_start}),1,max(0,(1-(t-{fade_start})/{fade_dur})))':"
         f"enable='between(t,0,{show_dur})'"
     )
@@ -363,17 +397,66 @@ def overlay_title_on_clip(clip_path, text_main, text_sub, config, output_path):
         config["ffmpeg_path"], "-y",
         "-i", str(clip_path),
         "-vf", filter_str,
-        "-c:v", "libx264", "-crf", str(config["crf"]),
-        "-preset", config["preset"],
+        "-c:v", "h264_nvenc", "-preset", "p5", "-tune", "hq",
+        "-rc", "vbr", "-cq", str(config["crf"]),
         "-c:a", "copy",
         str(output_path)
     ]
 
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
     if result.returncode != 0:
         print(f"  Warning: Title overlay failed, using clip without text: {result.stderr[-300:]}")
         # Fallback: just copy the original clip
         shutil.copy2(clip_path, output_path)
+    return str(output_path)
+
+
+def generate_title_card(text_main, text_sub, config, output_path, duration=3.0):
+    """Generate a standalone black title card with text that fades in and out.
+    Used as a separator before subcategory/category content to avoid overlapping titles.
+    """
+    font_bold = format_font_path(config["font_path"])
+    font_light = format_font_path(config["font_path_light"])
+    main_escaped = escape_ffmpeg_text(text_main.upper())
+    sub_escaped = escape_ffmpeg_text(text_sub)
+    w, h = config["resolution"].split("x")
+    fade_in = 0.5
+    fade_out = 0.5
+    hold_end = duration - fade_out
+
+    filter_str = (
+        f"color=c=black:s={w}x{h}:d={duration}:r={config['fps']},"
+        f"format=yuv420p,"
+        # Main title text with fade in/out
+        f"drawtext=text='{main_escaped}':"
+        f"fontfile='{font_bold}':"
+        f"fontsize={config['title_font_size']}:fontcolor=white:"
+        f"x=(w-text_w)/2:y=(h/2-text_h-5):"
+        f"alpha='if(lt(t,{fade_in}),t/{fade_in},if(lt(t,{hold_end}),1,max(0,1-(t-{hold_end})/{fade_out})))',"
+        # Subtitle text with fade in/out
+        f"drawtext=text='{sub_escaped}':"
+        f"fontfile='{font_light}':"
+        f"fontsize={config['subtitle_font_size']}:fontcolor=0xDDDDDD:"
+        f"x=(w-text_w)/2:y=(h/2+8):"
+        f"alpha='if(lt(t,{fade_in}),t/{fade_in},if(lt(t,{hold_end}),1,max(0,1-(t-{hold_end})/{fade_out})))'"
+    )
+
+    cmd = [
+        config["ffmpeg_path"], "-y",
+        "-f", "lavfi", "-i", f"anullsrc=r=44100:cl=stereo",
+        "-filter_complex", filter_str,
+        "-map", "1:v", "-map", "0:a",
+        "-c:v", "h264_nvenc", "-preset", "p5", "-tune", "hq",
+        "-rc", "vbr", "-cq", str(config["crf"]),
+        "-c:a", "aac", "-b:a", "128k",
+        "-shortest",
+        str(output_path)
+    ]
+
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+    if result.returncode != 0:
+        print(f"  Warning: Title card generation failed: {result.stderr[-300:]}")
+        return None
     return str(output_path)
 
 
@@ -403,13 +486,13 @@ def overlay_divider_on_clip(clip_path, text, config, output_path):
         config["ffmpeg_path"], "-y",
         "-i", str(clip_path),
         "-vf", filter_str,
-        "-c:v", "libx264", "-crf", str(config["crf"]),
-        "-preset", config["preset"],
+        "-c:v", "h264_nvenc", "-preset", "p5", "-tune", "hq",
+        "-rc", "vbr", "-cq", str(config["crf"]),
         "-c:a", "copy",
         str(output_path)
     ]
 
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
     if result.returncode != 0:
         print(f"  Warning: Divider overlay failed, using clip without text: {result.stderr[-300:]}")
         shutil.copy2(clip_path, output_path)
@@ -435,8 +518,8 @@ def normalize_clip(clip_info, clip_duration, config, output_path):
             "-t", str(clip_duration),
             "-vf", filter_str,
             "-an",  # strip audio for now, music added later
-            "-c:v", "libx264", "-crf", str(config["crf"]),
-            "-preset", config["preset"],
+            "-c:v", "h264_nvenc", "-preset", "p5", "-tune", "hq",
+            "-rc", "vbr", "-cq", str(config["crf"]),
             str(output_path)
         ]
     elif media_type == "image_animated":
@@ -456,8 +539,8 @@ def normalize_clip(clip_info, clip_duration, config, output_path):
             "-vf", filter_str,
             "-r", str(config["fps"]),
             "-an",
-            "-c:v", "libx264", "-crf", str(config["crf"]),
-            "-preset", config["preset"],
+            "-c:v", "h264_nvenc", "-preset", "p5", "-tune", "hq",
+            "-rc", "vbr", "-cq", str(config["crf"]),
             str(output_path)
         ]
     else:
@@ -476,12 +559,12 @@ def normalize_clip(clip_info, clip_duration, config, output_path):
             "-vf", filter_str,
             "-r", str(config["fps"]),
             "-an",
-            "-c:v", "libx264", "-crf", str(config["crf"]),
-            "-preset", config["preset"],
+            "-c:v", "h264_nvenc", "-preset", "p5", "-tune", "hq",
+            "-rc", "vbr", "-cq", str(config["crf"]),
             str(output_path)
         ]
 
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
     if result.returncode != 0:
         print(f"\n  Warning: Failed to normalize {src}: {result.stderr[-300:]}")
         return None
@@ -532,8 +615,8 @@ def stitch_with_transitions(clip_paths, transition_type, transition_dur, config,
         *inputs,
         "-filter_complex", filter_complex,
         "-map", "[vout]",
-        "-c:v", "libx264", "-crf", str(config["crf"]),
-        "-preset", config["preset"],
+        "-c:v", "h264_nvenc", "-preset", "p5", "-tune", "hq",
+        "-rc", "vbr", "-cq", str(config["crf"]),
         "-pix_fmt", "yuv420p",
         "-r", str(config["fps"]),
         str(output_path)
@@ -559,8 +642,8 @@ def concat_clips(clip_paths, config, output_path):
         config["ffmpeg_path"], "-y",
         "-f", "concat", "-safe", "0",
         "-i", str(concat_file),
-        "-c:v", "libx264", "-crf", str(config["crf"]),
-        "-preset", config["preset"],
+        "-c:v", "h264_nvenc", "-preset", "p5", "-tune", "hq",
+        "-rc", "vbr", "-cq", str(config["crf"]),
         "-pix_fmt", "yuv420p",
         "-r", str(config["fps"]),
         str(output_path)
@@ -586,7 +669,7 @@ def add_silent_audio(video_path, config, output_path):
         "-shortest",
         str(output_path)
     ]
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
     if result.returncode != 0:
         # If fails, just copy original
         shutil.copy2(video_path, output_path)
@@ -616,15 +699,16 @@ def build_collection_montage(collection_name, items, cat_name, subcat_name,
         print(f"\n  Skipping {collection_name}: {output_path.name} already exists")
         return str(output_path)
 
-    wide_items = filter_wide_format(items)
+    aspect = config.get("_aspect", "16:9")
+    matched_items = filter_by_format(items, aspect)
     print(f"\n  Building collection: {collection_name}")
-    print(f"  Items available: {len(items)}")
-    if not wide_items:
-        print(f"  No 16:9 items found for {collection_name}, skipping.")
+    print(f"  Items available: {len(items)} ({len(matched_items)} in {aspect})")
+    if not matched_items:
+        print(f"  No {aspect} items found for {collection_name}, skipping.")
         return None
 
     # Download
-    downloaded = download_clips(wide_items, temp_dir, config)
+    downloaded = download_clips(matched_items, temp_dir, config)
     if not downloaded:
         print(f"  No clips downloaded for {collection_name}, skipping.")
         return None
@@ -724,20 +808,18 @@ def build_subcategory_montage(subcat_name, cat_name, collections, sub_groups,
         print(f"  Skipping subcategory merge: {output_path.name} already exists")
         return str(output_path)
 
-    # Overlay subcategory title on first collection video
+    # Overlay subcategory title on first collection video (lower third - avoids collection title in center)
     first_coll_name, first_coll_video = collection_videos[0]
     title_overlay_path = Path(temp_dir) / f"titled_subcat_{sub_slug}.mp4"
     subtitle = f"{cat_name} Collection"
-    overlay_title_on_clip(first_coll_video, subcat_name, subtitle, config, title_overlay_path)
+    overlay_title_on_clip(first_coll_video, subcat_name, subtitle, config, title_overlay_path, position="bottom")
 
-    # Assemble: first collection (with title overlay) + remaining collections (with divider overlays)
+    # Assemble: first collection (with subcategory title overlay) + remaining collections (with divider overlays)
     all_segments = [str(title_overlay_path)]
 
     for coll_name, coll_video in collection_videos[1:]:
-        # Overlay divider text on the start of each subsequent collection video
-        div_overlay_path = Path(temp_dir) / f"div_{sanitize_slug(coll_name)}.mp4"
-        overlay_divider_on_clip(coll_video, coll_name, config, div_overlay_path)
-        all_segments.append(str(div_overlay_path))
+        # Use collection video as-is (no internal divider titles)
+        all_segments.append(str(coll_video))
 
     # Trim collections if total exceeds target
     target = config["subcategory_target_secs"]
@@ -799,18 +881,17 @@ def build_category_montage(cat_name, hierarchy, sub_groups, config, temp_dir, fo
         print(f"  Skipping category merge: {output_path.name} already exists")
         return str(output_path)
 
-    # Overlay category title on first subcategory video
+    # Overlay category title on first subcategory video (upper third - avoids other titles)
     first_subcat_name, first_subcat_video = subcat_videos[0]
     title_overlay_path = Path(temp_dir) / f"titled_cat_{cat_slug}.mp4"
-    overlay_title_on_clip(first_subcat_video, cat_name, "Stockflow.media", config, title_overlay_path)
+    overlay_title_on_clip(first_subcat_video, cat_name, "Stockflow.media", config, title_overlay_path, position="top")
 
-    # Assemble: first subcat (with title overlay) + remaining subcats (with divider overlays)
+    # Assemble: first subcat (with category title overlay) + remaining subcats (with divider overlays)
     all_segments = [str(title_overlay_path)]
 
     for subcat_name, subcat_video in subcat_videos[1:]:
-        div_overlay_path = Path(temp_dir) / f"div_cat_{sanitize_slug(subcat_name)}.mp4"
-        overlay_divider_on_clip(subcat_video, subcat_name, config, div_overlay_path)
-        all_segments.append(str(div_overlay_path))
+        # Use subcategory video as-is (no internal divider titles)
+        all_segments.append(str(subcat_video))
 
     total_dur = sum(get_duration(s, config) for s in all_segments)
     print(f"\n  Raw category duration: {total_dur:.0f}s (target: {config['category_target_secs']}s)")
@@ -851,11 +932,14 @@ def list_available(hierarchy, sub_groups):
             print(f"  {'  SUBCATEGORY':<15} {subcat:<35} {sub_total:>8}")
 
             for coll in sorted(colls):
-                count = len(sub_groups.get(coll, []))
-                wide = len(filter_wide_format(sub_groups.get(coll, [])))
-                print(f"  {'    COLLECTION':<15} {coll:<35} {wide:>4}/{count}")
+                items = sub_groups.get(coll, [])
+                count = len(items)
+                w = len(filter_by_format(items, "16:9"))
+                s = len(filter_by_format(items, "1:1"))
+                v = len(filter_by_format(items, "9:16"))
+                print(f"  {'    COLLECTION':<15} {coll:<35} {w:>2}W {s:>2}S {v:>2}V /{count}")
 
-    print(f"\n  Counts show: wide(16:9) / total items")
+    print(f"\n  Counts show: W(16:9) S(1:1) V(9:16) / total items")
     print()
 
 
@@ -886,6 +970,8 @@ Examples:
                         help="Fetch and show plan without building")
     parser.add_argument("--force", action="store_true",
                         help="Rebuild even if output file already exists")
+    parser.add_argument("--format", choices=["W", "S", "V", "all"], default="W",
+                        help="Aspect ratio: W=16:9, S=1:1, V=9:16, all=build all three (default: W)")
 
     args = parser.parse_args()
 
@@ -897,14 +983,41 @@ Examples:
         print("  Error: Provide --name or --all")
         return
 
+    # Handle --format all: loop over W, S, V
+    if args.format == "all" and args.level:
+        for fmt in ["W", "S", "V"]:
+            print(f"\n{'#'*60}")
+            print(f"  FORMAT: {FORMAT_PRESETS[fmt]['label']}")
+            print(f"{'#'*60}")
+            # Re-run with each format
+            import copy
+            saved_format = args.format
+            args.format = fmt
+            run_build(args)
+            args.format = saved_format
+        return
+
+    run_build(args)
+
+
+def run_build(args):
+    """Execute the build with a specific format."""
+    fmt_key = args.format
+    preset = FORMAT_PRESETS[fmt_key]
+
     # Banner
     print()
-    print("╔══════════════════════════════════════════════════════════════╗")
-    print("║          STOCKFLOW MONTAGE BUILDER                         ║")
-    print("╚══════════════════════════════════════════════════════════════╝")
+    print("+" + "="*60 + "+")
+    print(f"  STOCKFLOW MONTAGE BUILDER  [{preset['label']}]")
+    print("+" + "="*60 + "+")
     print()
 
     config = load_config()
+
+    # Apply format preset: override resolution and output_dir
+    config["resolution"] = preset["resolution"]
+    config["_aspect"] = preset["aspect"]
+    config["output_dir"] = str(SCRIPT_DIR / preset["output_suffix"] / "01_Rendered")
 
     # Phase 1: Fetch
     print_phase(1, 4, "Fetching & filtering data")
@@ -950,10 +1063,11 @@ Examples:
                 return
             cat, subcat = sub_to_cat[name]
             items = sub_groups[name]
-            wide = filter_wide_format(items)
+            aspect = config.get("_aspect", "16:9")
+            matched = filter_by_format(items, aspect)
             print(f"  Target: {name} (Collection)")
             print(f"  Parent: {cat} → {subcat}")
-            print(f"  Items: {len(wide)} wide (16:9) out of {len(items)} total")
+            print(f"  Items: {len(matched)} in {aspect} out of {len(items)} total")
             targets.append(("collection", name))
 
         elif level == "subcategory":

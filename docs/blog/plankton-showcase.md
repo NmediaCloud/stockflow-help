@@ -5,9 +5,9 @@ description: "**Plankton** visuals bring the invisible world to life — ideal f
 
 # How to Use Plankton Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Plankton**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **Plankton**
 
-[Browse the Plankton Collection](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Plankton){ .md-button .md-button--primary }
+[Browse the Plankton Collection](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Plankton){ .md-button .md-button--primary }
 
 ---
 
@@ -15,7 +15,7 @@ description: "**Plankton** visuals bring the invisible world to life — ideal f
 
 **Plankton** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Plankton** collection — 16 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Plankton** collection — 64 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -38,7 +38,7 @@ Close-up of a transparent aquatic crustacean (copepod) with feathery antennae, a
 
 High-quality plankton footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **16 assets** in this collection are:
+All **64 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Plankton)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Plankton)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Plankton** visuals to your next project?
 
-[Browse Plankton on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Plankton){ .md-button .md-button--primary }
+[Browse Plankton on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Plankton){ .md-button .md-button--primary }
 [View Collection Details](../collections/plankton.md){ .md-button }

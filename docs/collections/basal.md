@@ -1,6 +1,6 @@
 ---
 title: "Basal Stock Footage and Images | Dermatopathology | Stockflow.media"
-description: "Download 8 professional Basal assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Dermatopathology collection."
+description: "Download 12 professional Basal assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Dermatopathology collection."
 ---
 
 # Basal
@@ -9,7 +9,7 @@ description: "Download 8 professional Basal assets — 4K MP4 video and 8K JPEG 
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Dermatopathology&collection=Basal){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,54 @@ Dermatopathology: basal layer with nests of basaloid cells in pink-stained strom
 ![8 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1213_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_04_Previews.webp)
 
 Basal cell carcinoma of the skin (dermatopathology).
+
+---
+
+## 01 Dermatopathology Basal
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0766_01_Micro_06_Dermatopathology_Basal_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0766_01_Micro_06_Dermatopathology_Basal_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histology slide of skin showing basal layer abnormalities with nests of round cells in a fibrous dermis, surrounded by connective tissue and inflammatory infiltrate.
+
+---
+
+## 02 Dermatopathology Basal
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0767_01_Micro_06_Dermatopathology_Basal_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0767_01_Micro_06_Dermatopathology_Basal_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view of skin tissue showing basal cell proliferation with nests within pink stroma, scattered inflammatory cells, and prominent nuclei—a dermatopathology slide highlighting basal layer abnormalities.
+
+---
+
+## 03 Dermatopathology Basal
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0768_01_Micro_06_Dermatopathology_Basal_V_Mp4_ups_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0768_01_Micro_06_Dermatopathology_Basal_V_Mp4_ups_preview.mp4">Preview video</a>
+</video>
+
+Micrograph from dermatopathology highlighting basal layer structures in skin, showing round cellular nests with prominent nuclei within the basal epithelium and surrounding connective tissue.
+
+---
+
+## 04 Dermatopathology Basal
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0768_01_Micro_06_Dermatopathology_Basal_V_Mp4_ups_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0768_01_Micro_06_Dermatopathology_Basal_V_Mp4_ups_preview.mp4">Preview video</a>
+</video>
+
+Dermatopathology basal lesion showing basaloid cell nests around duct-like structures within fibrous stroma, with prominent nuclei and mitotic activity, illustrating characteristic basal cell proliferation in this tissue section.
 
 ---
 

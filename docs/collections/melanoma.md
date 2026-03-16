@@ -1,6 +1,6 @@
 ---
 title: "Melanoma Stock Footage and Images | Cancer Cell | Stockflow.media"
-description: "Download 12 professional Melanoma assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
+description: "Download 20 professional Melanoma assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cancer Cell collection."
 ---
 
 # Melanoma
@@ -9,7 +9,7 @@ description: "Download 12 professional Melanoma assets — 4K MP4 video and 8K J
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cancer+Cell&collection=Melanoma){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **20 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,102 @@ Micrograph of a melanoma cancer cell.
 ![12 Micro 10 Cancer Cell 11 Melanoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1061_01_Micro_10_Cancer_cell_11_Melanoma_W_08_Previews.webp)
 
 Melanoma cancer cell in tissue.
+
+---
+
+## 54 Cancer Cell
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0960_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0960_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-detail cross-sectional illustration of skin showing melanoma cancer invading tissue, with malignant cells, blood vessels, and surrounding stroma highlighting early tumor growth and metastasis potential.
+
+---
+
+## 55 Cancer Cell
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0961_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0961_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view of a melanoma cancer cell invading tissue, illustrating cellular structure, melanin-rich tumor mass, and surrounding microenvironment with blood vessels and immune cells in skin.
+
+---
+
+## 56 Cancer Cell
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0962_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0962_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A micrographic view of a melanoma cancer cell invading skin tissue, highlighting tumor structure, surrounding cells and blood vessels, illustrating cancer progression at the cellular level.
+
+---
+
+## 57 Cancer Cell
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0963_01_Micro_10_Cancer_Cell_11_Melanoma_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0963_01_Micro_10_Cancer_Cell_11_Melanoma_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A highly magnified, color-enhanced illustration of melanoma skin cancer invading tissue, showing cancerous cells, surrounding microenvironment, blood vessels, and a protruding dark tumor penetrating the epidermis.
+
+---
+
+## 58 Cancer Cell
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0964_01_Micro_10_Cancer_Cell_11_Melanoma_V2_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0964_01_Micro_10_Cancer_Cell_11_Melanoma_V2_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-fidelity cross-section of melanoma invading skin, showing a tumor cell breaching the epidermis, with nearby blood vessels and surrounding tissue remodeling.
+
+---
+
+## 59 Cancer Cell
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0965_01_Micro_10_Cancer_Cell_11_Melanoma_V3_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0965_01_Micro_10_Cancer_Cell_11_Melanoma_V3_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view of skin tissue showing melanoma cancer cells invading the epidermis, with surrounding microenvironment and extracellular matrix, highlighting tumor growth, pigmentation, and irregular cell morphology.
+
+---
+
+## 60 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0966_01_Micro_10_Cancer_Cell_11_Melanoma_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0966_01_Micro_10_Cancer_Cell_11_Melanoma_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A detailed cross-section of skin shows invasive melanoma forming a dark tumor with blood vessels, penetrating the epidermis and dermis, surrounded by scattered cancer cells and immune response.
+
+---
+
+## 61 Cancer Cell
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0967_01_Micro_10_Cancer_Cell_11_Melanoma_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0967_01_Micro_10_Cancer_Cell_11_Melanoma_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Illustration of melanoma forming a malignant tumor in the skin, with irregular pigment cells, blood vessels, and skin layers highlighting cancerous growth beneath the surface.
 
 ---
 

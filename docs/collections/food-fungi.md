@@ -1,0 +1,39 @@
+---
+title: "Food Fungi Stock Footage and Images | Food Fungi | Stockflow.media"
+description: "Download 2 professional Food Fungi assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Fungi collection."
+---
+
+# Food Fungi
+
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Food Fungi**
+
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Food+Fungi){ .md-button .md-button--primary }
+
+This collection contains **2 assets** available in multiple resolutions and aspect ratios.
+
+---
+
+## 01 Food Fungi
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1106_01_Micro_Food Fungi_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1106_01_Micro_Food Fungi_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A close-up view of microscopic fungal activity, showing delicate hyphal networks and numerous round spores dispersed across a textured substrate, highlighting the intricate web of microbe life.
+
+---
+
+## 2 Food Fungi
+**Resolution:** 720x720 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1107_01_Micro_Food_Fungi_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1107_01_Micro_Food_Fungi_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A microscopic view shows filamentous fungal hyphae with round cyan spores weaving through a viscous substrate, illustrating a tiny mold culture thriving in a moist, food-related environment.
+
+---
+

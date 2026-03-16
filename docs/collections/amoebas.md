@@ -1,6 +1,6 @@
 ---
 title: "Amoebas Stock Footage and Images | Waterborne | Stockflow.media"
-description: "Download 8 professional Amoebas assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Waterborne collection."
+description: "Download 18 professional Amoebas assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Waterborne collection."
 ---
 
 # Amoebas
@@ -9,7 +9,7 @@ description: "Download 8 professional Amoebas assets — 4K MP4 video and 8K JPE
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Amoebas){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **18 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,126 @@ Blue underwater scene featuring numerous glowing amoebas-like micro-organisms dr
 ![8 Micro 02 Waterborne 06 Amoebas](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0168_01_Micro_02_Waterborne_06_Amoebas_v4_06_Previews.webp)
 
 Blue microscopic scene of waterborne amoebas floating in the ocean-like environment.
+
+---
+
+## 01 Amoebas
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0318_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0318_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A tranquil blue underwater landscape filled with translucent, jellyfish-like creatures drifting above a textured seabed, glowing softly and scattering light particles throughout the mysterious deep sea.
+
+---
+
+## 02 Amoebas
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0319_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0319_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microbes swarm in a blue underwater scene, tiny rod-shaped bacteria with threadlike appendages glide above a glittering seabed, revealing the hidden world of aquatic life under dim, ethereal light.
+
+---
+
+## 03 Amoebas
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0320_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0320_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micro waterborne amoebas drift through a blue underwater world, glimmering with scattered particles as translucent, tentacled beings float and swirl in a mesmerizing microcosm of ocean life.
+
+---
+
+## 04 Amoebas
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0321_01_Micro_02_Waterborne_06_Amoebas_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0321_01_Micro_02_Waterborne_06_Amoebas_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Vivid microscopic scene of aquatic single-celled organisms with glowing turquoise outlines and pink interiors, trailing whip-like flagella as they drift through a dark, particle-filled medium.
+
+---
+
+## 05 Amoebas
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0322_01_Micro_02_Waterborne_06_Amoebas_V2_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0322_01_Micro_02_Waterborne_06_Amoebas_V2_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid underwater scene featuring glowing micro jellyfish-like organisms drifting over a dark seabed, illuminating the water with blue light and tiny particle trails through the deep ocean mysteries unfold.
+
+---
+
+## 06 Amoebas
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0323_01_Micro_02_Waterborne_06_Amoebas_V3_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0323_01_Micro_02_Waterborne_06_Amoebas_V3_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micro underwater scene shows vibrant, motile bacteria drifting in a water-filled world, illuminated blue. A microscopic journey through tiny organisms swarming in liquid, revealing hidden life and dynamic motion.
+
+---
+
+## 07 Amoebas
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0324_01_Micro_02_Waterborne_06_Amoebas_V4_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0324_01_Micro_02_Waterborne_06_Amoebas_V4_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Underwater scene of glowing jellyfish-like creatures drifting through a deep blue environment, dotted with bubbles and delicate tentacles, evoking a mysterious microcosm of waterborne life.
+
+---
+
+## 08 Amoebas
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0325_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0325_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A micro underwater scene of translucent jellyfish-like creatures drifting through a blue waterborne world, glowing softly as tiny particles sparkle, revealing a delicate, hidden ecosystem.
+
+---
+
+## 09 Amoebas
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0326_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0326_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of microscopic aquatic life shows shimmering amoebas with delicate, threadlike appendages gliding through a blue, water-filled world, highlighting dynamic movement and hidden wonders of microorganisms.
+
+---
+
+## 10 Amoebas
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0327_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0327_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A micro, waterborne scene of tiny jellyfish-like creatures drifting in deep blue, with glowing specks scattered throughout, capturing a mesmerizing field of suspended amoeba-like organisms in motion.
 
 ---
 

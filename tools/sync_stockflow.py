@@ -137,45 +137,14 @@ def generate_reddit_feed(hierarchy, sub_groups):
     print(f"\nReddit feed written to: {REDDIT_FEED_FILE}")
 
 def main():
-    import sys
-    delta_mode = "--delta" in sys.argv
-
-    SNAPSHOT_FILE = SCRIPT_DIR / "previous_data.json"
-
     print("Fetching data from Google Sheets...")
     req = urllib.request.Request(SHEET_URL, headers={'User-Agent': 'Mozilla/5.0'})
     response = urllib.request.urlopen(req)
     csv_data = response.read().decode('utf-8')
-    
+
     reader = csv.DictReader(csv_data.splitlines())
     current_data = [row for row in reader if row.get("File_ID") and row.get("File_ID").strip()]
-
-    # --- Delta sync: compare against previous snapshot ---
-    prev_ids = set()
-    if SNAPSHOT_FILE.exists():
-        try:
-            with open(SNAPSHOT_FILE, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                prev_ids = {str(x) for x in data if isinstance(x, str)}
-        except Exception:
-            print("Note: previous_data.json was corrupted, starting fresh.")
-            prev_ids = set()
-
-    current_ids = {row["File_ID"].strip() for row in current_data}
-    new_ids = current_ids - prev_ids
-    new_rows = [r for r in current_data if r.get("File_ID", "").strip() in new_ids]
-
-    if delta_mode:
-        if not new_ids:
-            print(f"Delta sync: No new items found. {len(current_ids)} items already up to date.")
-        else:
-            print(f"Delta sync: {len(new_ids)} new items found out of {len(current_ids)} total.")
-    else:
-        print(f"Full sync: {len(current_ids)} items ({len(new_ids)} new since last run)")
-
-    # Save updated snapshot
-    with open(SNAPSHOT_FILE, "w", encoding="utf-8") as f:
-        json.dump(sorted(list(current_ids)), f, indent=2)
+    print(f"Full sync: {len(current_data)} items")
 
     hierarchy = {}
     sub_groups = {}
@@ -226,14 +195,13 @@ def main():
     # Manually-maintained category pages (do NOT auto-delete these)
     MANUAL_CATEGORY_FILES = {"microscopic.md"}
 
-    # Clean previous generated automatic files (ONLY if Full Sync)
-    if not delta_mode:
-        print("Cleaning previously generated directories...")
-        for f in (DOCS_PATH / "categories").glob("*.md"):
-            if f.name not in MANUAL_CATEGORY_FILES:
-                f.unlink()
-        for f in (DOCS_PATH / "subcategories").glob("*.md"):
+    # Clean previous generated automatic files
+    print("Cleaning previously generated directories...")
+    for f in (DOCS_PATH / "categories").glob("*.md"):
+        if f.name not in MANUAL_CATEGORY_FILES:
             f.unlink()
+    for f in (DOCS_PATH / "subcategories").glob("*.md"):
+        f.unlink()
         
         # Clean Collections & Blog but keep manually authored files
         MANUAL_BLOG_FILES = {

@@ -5,9 +5,9 @@ description: "**Hyphae** visuals bring the invisible world to life — ideal for
 
 # How to Use Hyphae Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Hyphae**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Hyphae](../subcategories/hyphae.md) / **Hyphae**
 
-[Browse the Hyphae Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Hyphae){ .md-button .md-button--primary }
+[Browse the Hyphae Collection](https://stockflow.media/?cat=Microscopic&sub=Hyphae&collection=Hyphae){ .md-button .md-button--primary }
 
 ---
 
@@ -15,7 +15,7 @@ description: "**Hyphae** visuals bring the invisible world to life — ideal for
 
 **Hyphae** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Hyphae** collection — 17 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Hyphae** collection — 23 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -38,7 +38,7 @@ Color-enhanced micrograph showing fungal hyphae (blue/green) intertwined with or
 
 High-quality hyphae footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **17 assets** in this collection are:
+All **23 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Hyphae)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Hyphae&collection=Hyphae)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Hyphae** visuals to your next project?
 
-[Browse Hyphae on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Hyphae){ .md-button .md-button--primary }
+[Browse Hyphae on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Hyphae&collection=Hyphae){ .md-button .md-button--primary }
 [View Collection Details](../collections/hyphae.md){ .md-button }

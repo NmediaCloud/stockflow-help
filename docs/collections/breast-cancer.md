@@ -1,6 +1,6 @@
 ---
 title: "Breast Cancer Stock Footage and Images | Histopathology | Stockflow.media"
-description: "Download 8 professional Breast Cancer assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
+description: "Download 11 professional Breast Cancer assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Histopathology collection."
 ---
 
 # Breast Cancer
@@ -9,7 +9,7 @@ description: "Download 8 professional Breast Cancer assets — 4K MP4 video and 
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Histopathology&collection=Breast+Cancer){ .md-button .md-button--primary }
 
-This collection contains **8 assets** available in multiple resolutions and aspect ratios.
+This collection contains **11 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -82,6 +82,42 @@ Histology of breast tissue showing malignant ductal cells forming gland-like str
 ![8 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1251_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_04_Previews.webp)
 
 Histopathology slide of breast cancer showing malignant epithelial cells forming ducts with pleomorphic nuclei in a fibrous stroma.
+
+---
+
+## 01 Histopathology
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0972_01_Micro_11_Histopathology_Breast_Cancer_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0972_01_Micro_11_Histopathology_Breast_Cancer_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology image of breast cancer showing ductal structures with malignant epithelial cells, high nuclear-to-cytoplasmic ratio, prominent nucleoli, and desmoplastic stroma, captured at microscopic magnification and pink stains reveal cellular anomalies.
+
+---
+
+## 02 Histopathology
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0973_01_Micro_11_Histopathology_Breast_Cancer_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0973_01_Micro_11_Histopathology_Breast_Cancer_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology slide showing breast cancer tissue with malignant glandular structures, pleomorphic nuclei, prominent nucleoli, infiltrating ducts within fibrous stroma; H&E staining highlights cellular atypia and desmoplastic reaction.
+
+---
+
+## 03 Histopathology
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0974_01_Micro_11_Histopathology_Breast_Cancer_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0974_01_Micro_11_Histopathology_Breast_Cancer_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Histopathology slide showing breast cancer tissue with ductal architecture, malignant epithelial cells, high nuclear-cytoplasmic ratio, prominent nucleoli, and surrounding stroma; cellular pleomorphism and mitotic activity evident.
 
 ---
 

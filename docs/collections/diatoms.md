@@ -1,6 +1,6 @@
 ---
 title: "Diatoms Stock Footage and Images | Algae | Stockflow.media"
-description: "Download 11 professional Diatoms assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Algae collection."
+description: "Download 17 professional Diatoms assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Algae collection."
 ---
 
 # Diatoms
@@ -9,7 +9,7 @@ description: "Download 11 professional Diatoms assets — 4K MP4 video and 8K JP
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Diatoms){ .md-button .md-button--primary }
 
-This collection contains **11 assets** available in multiple resolutions and aspect ratios.
+This collection contains **17 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -109,6 +109,78 @@ Microscopic view of diverse diatoms and algae with intricate silica shells.
 ![9 Micro 06 Algae 03 Diatoms](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0527_01_Micro_06_Algae_03_Diatoms_W_07_Previews.webp)
 
 Microalgae diatoms under a microscope with circular, ornate silica frustules.
+
+---
+
+## 01 Diatoms
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0731_01_Micro_06_Algae_03_Diatoms_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0731_01_Micro_06_Algae_03_Diatoms_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph of diatoms, a diverse group of algae, displaying intricate silica cell walls with radiating patterns and circular chambers, captured in a vivid microscopic scene.
+
+---
+
+## 02 Diatoms
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0732_01_Micro_06_Algae_03_Diatoms_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0732_01_Micro_06_Algae_03_Diatoms_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A close-up microscopic view of diatoms, a type of algae, showing circular with intricate lattice silica shells. Colorful internal patterns and radial symmetry highlight diverse microalgae life.
+
+---
+
+## 03 Diatoms
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0733_01_Micro_06_Algae_03_Diatoms_V_Mp4_ups_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0733_01_Micro_06_Algae_03_Diatoms_V_Mp4_ups_preview.mp4">Preview video</a>
+</video>
+
+Micrographs of diatoms displaying intricate radiating patterns and circular silica shells, floating in a clear field, highlighting their delicate symmetry and tiny, bead-like interior structures.
+
+---
+
+## 04 Diatoms
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0733_01_Micro_06_Algae_03_Diatoms_V_Mp4_ups_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0733_01_Micro_06_Algae_03_Diatoms_V_Mp4_ups_preview.mp4">Preview video</a>
+</video>
+
+A micrograph showcasing intricate diatom spores and silica shells, a field of circular, ornate algae cells with radiating patterns, highlighting the beauty of diatoms in a suspended aquatic microenvironment.
+
+---
+
+## 01 Algae diatoms
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0764_01_Micro_06_Algae_diatoms_with_ornate_silica_s_s2_f60_chf-3_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0764_01_Micro_06_Algae_diatoms_with_ornate_silica_s_s2_f60_chf-3_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of numerous circular shells displaying complex honeycomb-like interiors and radial symmetry, revealing delicate perforations and a central pore, suspended in a clear, bluish medium.
+
+---
+
+## 02 Algae diatoms
+**Resolution:** 1064x1064 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0765_01_Micro_06_Algae_Diatoms_With_Ornate_Silica_S_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0765_01_Micro_06_Algae_Diatoms_With_Ornate_Silica_S_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of ornate diatoms with silica shells, revealing intricate radial and circular pore patterns, showcasing the delicate, ornamented silica architecture characteristic of microscopic algae.
 
 ---
 

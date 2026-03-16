@@ -1,6 +1,6 @@
 ---
 title: "Flatworm Larvae Stock Footage and Images | Parasite | Stockflow.media"
-description: "Download 12 professional Flatworm Larvae assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Parasite collection."
+description: "Download 14 professional Flatworm Larvae assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Parasite collection."
 ---
 
 # Flatworm Larvae
@@ -9,7 +9,7 @@ description: "Download 12 professional Flatworm Larvae assets — 4K MP4 video a
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Flatworm+Larvae){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **14 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,30 @@ Micrograph of flatworm larvae (parasite) in host tissue.
 ![12 Micro 09 Parasite 04 Flatworm Larvae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0886_01_Micro_09_Parasite_04_Flatworm_Larvae_W_08__Previews.webp)
 
 Color-enhanced micrograph of parasite flatworm larvae on a tissue surface.
+
+---
+
+## 01 Flatworm Larvae
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0878_01_Micro_09_Parasite_04_Flatworm_Larvae_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0878_01_Micro_09_Parasite_04_Flatworm_Larvae_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A magnified view of parasitic flatworm larvae within host tissue, showing elongated pink worms weaving through cellular surroundings, highlighting their morphology, movement, and interaction with host cells.
+
+---
+
+## 02 Flatworm Larvae
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0879_01_Micro_09_Parasite_04_Flatworm_Larvae_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0879_01_Micro_09_Parasite_04_Flatworm_Larvae_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Micrograph reveals slender pink parasite larvae weaving through host tissue, with rounded cells and debris surrounding a cross section of a flatworm larva, highlighting its wormlike morphology and tissue invasion.
 
 ---
 

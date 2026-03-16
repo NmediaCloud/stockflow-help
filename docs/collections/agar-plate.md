@@ -1,6 +1,6 @@
 ---
 title: "Agar Plate Stock Footage and Images | Bacteria | Stockflow.media"
-description: "Download 6 professional Agar Plate assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
+description: "Download 12 professional Agar Plate assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Bacteria collection."
 ---
 
 # Agar Plate
@@ -9,7 +9,7 @@ description: "Download 6 professional Agar Plate assets — 4K MP4 video and 8K 
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Agar+Plate){ .md-button .md-button--primary }
 
-This collection contains **6 assets** available in multiple resolutions and aspect ratios.
+This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -64,6 +64,78 @@ Colorful, abstract radial pattern resembling a bacterial colony on an agar plate
 ![6 Micro 07 Bacteria 10 Agar Plate](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0721_01_Micro_07_Bacteria_10_Agar_Plate_01_W_03_Previews.webp)
 
 Vibrant rainbow circular pattern resembling bacterial growth on an agar plate with scattered tiny dots.
+
+---
+
+## 01 Agar Plate
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0794_01_Micro_07_Bacteria_10_Agar_Plate_01_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0794_01_Micro_07_Bacteria_10_Agar_Plate_01_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Vibrant microscopic view of bacteria radiating from a central point, forming bright yellow spheres and filaments on a dark background, reminiscent of a microbial growth pattern on an agar plate.
+
+---
+
+## 02 Agar Plate
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0795_01_Micro_07_Bacteria_10_Agar_Plate_02_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0795_01_Micro_07_Bacteria_10_Agar_Plate_02_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid rainbow-hued cross-section of a circular culture, revealing layered rings and glowing cells, resembling an intricate microbial portrait or stylized petri dish illuminated in spectrum.
+
+---
+
+## 03 Agar Plate
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0796_01_Micro_07_Bacteria_10_Agar_Plate_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0796_01_Micro_07_Bacteria_10_Agar_Plate_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid microscopic depiction of bacterial growth radiating outward from a bright central core, with yellow spheres and filamentous tendrils creating a dynamic, starburst-like pattern.
+
+---
+
+## 04 Agar Plate
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0797_01_Micro_07_Bacteria_10_Agar_Plate_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0797_01_Micro_07_Bacteria_10_Agar_Plate_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vibrant rainbow-lit cross-section resembling a microscopic view of bacterial colonies forming concentric rings on an agar plate, showcasing layered textures, circular cells, and glowing edges.
+
+---
+
+## 05 Agar Plate
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0798_01_Micro_07_Bacteria_10_Agar_Plate_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0798_01_Micro_07_Bacteria_10_Agar_Plate_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vivid yellow starburst of tiny droplets radiates from a bright center, forming slender filaments with spherical beads, creating a dynamic, explosive pattern against a dark background.
+
+---
+
+## 06 Agar Plate
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0799_01_Micro_07_Bacteria_10_Agar_Plate_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0799_01_Micro_07_Bacteria_10_Agar_Plate_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A vibrant, rainbow-lit circular cross-section of a microbial colony growing on an agar plate, revealing layered rings of cells and shimmering dots, creating a psychedelic microbe portrait.
 
 ---
 

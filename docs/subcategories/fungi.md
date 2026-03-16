@@ -1,6 +1,6 @@
 ---
 title: "Fungi Stock Footage and Images | Stockflow.media"
-description: "Browse 131 professional 4K/8K Fungi assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+description: "Browse 240 professional 4K/8K Fungi assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
 ---
 
 # Fungi
@@ -9,15 +9,17 @@ description: "Browse 131 professional 4K/8K Fungi assets from the Microscopic li
 
 ---
 
-Explore the **10 collections** in this subcategory:
+Explore the **12 collections** in this subcategory:
 
+* **[Algae](../collections/algae.md)** — 27 assets
 * **[Algal Cells](../collections/algal-cells.md)** — 11 assets
-* **[Basidiospores](../collections/basidiospores.md)** — 12 assets
-* **[Decay](../collections/decay.md)** — 12 assets
-* **[Hyphae](../collections/hyphae.md)** — 17 assets
-* **[Lichen](../collections/lichen.md)** — 18 assets
-* **[Mycelium](../collections/mycelium.md)** — 12 assets
-* **[Pathogenic](../collections/pathogenic.md)** — 25 assets
-* **[Sporangia](../collections/sporangia.md)** — 12 assets
-* **[Yeast Cells](../collections/yeast-cells.md)** — 8 assets
-* **[Zygomycete](../collections/zygomycete.md)** — 4 assets
+* **[Basidiospores](../collections/basidiospores.md)** — 16 assets
+* **[Decay](../collections/decay.md)** — 15 assets
+* **[Fungi](../collections/fungi.md)** — 24 assets
+* **[Hyphae](../collections/hyphae.md)** — 23 assets
+* **[Lichen](../collections/lichen.md)** — 24 assets
+* **[Mycelium](../collections/mycelium.md)** — 16 assets
+* **[Pathogenic](../collections/pathogenic.md)** — 33 assets
+* **[Sporangia](../collections/sporangia.md)** — 24 assets
+* **[Yeast Cells](../collections/yeast-cells.md)** — 18 assets
+* **[Zygomycete](../collections/zygomycete.md)** — 9 assets

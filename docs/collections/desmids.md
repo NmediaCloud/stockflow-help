@@ -1,6 +1,6 @@
 ---
 title: "Desmids Stock Footage and Images | Algae | Stockflow.media"
-description: "Download 12 professional Desmids assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Algae collection."
+description: "Download 15 professional Desmids assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Algae collection."
 ---
 
 # Desmids
@@ -9,7 +9,7 @@ description: "Download 12 professional Desmids assets — 4K MP4 video and 8K JP
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Desmids){ .md-button .md-button--primary }
 
-This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+This collection contains **15 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -118,6 +118,42 @@ Micrograph of desmid green algae (Desmids) showing detailed cellular structure.
 ![12 Micro 06 Algae 09 Desmids](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0600_01_Micro_06_Algae_09_Desmids_W_08_Previews.webp)
 
 Microscopic image of green algae (Desmids) showing interconnected cells and bright chloroplast-rich interiors.
+
+---
+
+## 01 Desmids
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0752_01_Micro_06_Algae_09_Desmids_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0752_01_Micro_06_Algae_09_Desmids_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view of desmid algae forming branching, segmented cells with bright green chloroplasts; intricate, symmetrical cell walls connect into star-like patterns, showcasing vibrant internal granules and cellular compartments.
+
+---
+
+## 02 Desmids
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0753_01_Micro_06_Algae_09_Desmids_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0753_01_Micro_06_Algae_09_Desmids_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view of desmid algae, showing a cross-shaped filament composed of paired, bead-like cells filled with chloroplasts, vivid green interiors and intricate cell walls against a pale background.
+
+---
+
+## 03 Desmids
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0754_01_Micro_06_Algae_09_Desmids_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0754_01_Micro_06_Algae_09_Desmids_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A microscopic view of desmid algae, showing a cross-shaped, multi-chambered freshwater green alga with intricate segmentation and abundant circular chloroplasts, highlighted in bright green under the microscope.
 
 ---
 

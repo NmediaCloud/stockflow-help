@@ -1,15 +1,15 @@
 ---
-title: "Hyphae Stock Footage and Images | Fungi | Stockflow.media"
-description: "Download 17 professional Hyphae assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Fungi collection."
+title: "Hyphae Stock Footage and Images | Hyphae | Stockflow.media"
+description: "Download 23 professional Hyphae assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Hyphae collection."
 ---
 
 # Hyphae
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Hyphae**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Hyphae](../subcategories/hyphae.md) / **Hyphae**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Hyphae){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Hyphae&collection=Hyphae){ .md-button .md-button--primary }
 
-This collection contains **17 assets** available in multiple resolutions and aspect ratios.
+This collection contains **23 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -163,6 +163,78 @@ Micro image of blue-green fungal hyphae interwoven with brown plant fibers.
 ![13 Micro 08 Fungi 01 Hyphae](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0738_01_Micro_08_Fungi_01_Hyphae_W_08_Previews.webp)
 
 Microfungal hyphae among fibrous plant tissue.
+
+---
+
+## 01 Hyphae
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0249_01_Micro_01_Hyphae_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0249_01_Micro_01_Hyphae_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of fungal filaments weaving through a rugged debris of plant fibers, displaying slender green strands interlaced amid brown fibrous structures and round spores in a detailed microscopic view.
+
+---
+
+## 02 Hyphae
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0250_01_Micro_01_Hyphae_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0250_01_Micro_01_Hyphae_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up view of translucent fungal hyphae interwoven with brown plant fibers, revealing tube-like filaments and tiny spores, illustrating a microscopic mycelial network thriving within decaying organic matter environment.
+
+---
+
+## 03 Hyphae
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0251_01_Micro_01_Hyphae_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0251_01_Micro_01_Hyphae_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A high-fidelity microscopic view showing green fungal hyphae weaving through brown fibrous material, revealing slender, branching tubes with rounded tips amid a textured, organic matrix.
+
+---
+
+## 04 Hyphae
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0252_01_Micro_01_Hyphae_V2_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0252_01_Micro_01_Hyphae_V2_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of a dense network of brown plant fibers intertwined with translucent hyphae and tiny spores, revealing an intricate microscopic fungal mat in a lab-style micrograph.
+
+---
+
+## 05 Hyphae
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0253_01_Micro_01_Hyphae_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0253_01_Micro_01_Hyphae_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A highly magnified view reveals intertwined fungal hyphae and budding spores, displaying slender, branched filaments in earthy tones with vivid green hyphal tips, illustrating microscopic fungal networks.
+
+---
+
+## 06 Hyphae
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0254_01_Micro_01_Hyphae_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0254_01_Micro_01_Hyphae_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Microscopic view reveals tangled brown plant fibers interwoven with pale, threadlike filaments and small rounded spores, illustrating a fungal network spreading through organic material in a decaying substrate.
 
 ---
 

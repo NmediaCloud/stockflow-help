@@ -15,7 +15,7 @@ description: "**Intracellular** visuals bring the invisible world to life — id
 
 **Intracellular** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Intracellular** collection — 8 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Intracellular** collection — 23 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -38,7 +38,7 @@ Intracellular scene of colorful biological creatures and organelles inside a cel
 
 High-quality intracellular footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **8 assets** in this collection are:
+All **23 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)

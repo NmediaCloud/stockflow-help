@@ -1,6 +1,6 @@
 ---
 title: "Compost Stock Footage and Images | Worms | Stockflow.media"
-description: "Download 10 professional Compost assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Worms collection."
+description: "Download 14 professional Compost assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Worms collection."
 ---
 
 # Compost
@@ -9,7 +9,7 @@ description: "Download 10 professional Compost assets — 4K MP4 video and 8K JP
 
 [Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Compost){ .md-button .md-button--primary }
 
-This collection contains **10 assets** available in multiple resolutions and aspect ratios.
+This collection contains **14 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -100,6 +100,54 @@ Tiny pink earthworms wriggling through dark compost.
 ![10 Micro 08 Worms In Compost](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0844_01_Micro_08_Worms_In_Compost_W_08__Previews.webp)
 
 Close-up of pink earthworms wriggling through dark, rich compost and soil debris.
+
+---
+
+## 01 Worms In Compost
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0711_01_Micro_05_Worms_08_Worms_In_Compost_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0711_01_Micro_05_Worms_08_Worms_In_Compost_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of pink earthworms wriggling through moist compost, weaving through decaying matter. Their movement aerates the soil, highlighting the crucial role of worms in nutrient cycling and garden health.
+
+---
+
+## 02 Worms In Compost
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0712_01_Micro_05_Worms_08_Worms_In_Compost_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0712_01_Micro_05_Worms_08_Worms_In_Compost_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up view of pink earthworms wriggling through rich compost, showcasing nutrient-rich soil organisms at work breaking down organic matter and enriching the garden bed.
+
+---
+
+## 03 Worms In Compost
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0713_01_Micro_05_Worms_08_Worms_In_Compost_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0713_01_Micro_05_Worms_08_Worms_In_Compost_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of pink earthworms wriggling through rich compost, highlighting microbial activity, nutrient cycling and healthy soil in a moist, organic substrate that sustains plant growth and biodiversity.
+
+---
+
+## 04 Worms In Compost
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0714_01_Micro_05_Worms_08_Worms_In_Compost_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0714_01_Micro_05_Worms_08_Worms_In_Compost_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of pink earthworms wriggling through dark, damp compost, their segmented bodies weaving through organic matter, illustrating microbial activity that decomposes waste and enriches soil for healthier plants.
 
 ---
 
