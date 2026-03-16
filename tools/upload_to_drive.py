@@ -345,12 +345,55 @@ def upload_montages(formats, dry_run=False, force=False):
         return []
 
     tracker = load_tracker()
+    creds = get_google_creds()
+    drive_service = build("drive", "v3", credentials=creds)
 
     # Filter already uploaded (unless force)
     if not force:
+        # First pass: check local tracker
         to_upload = [
             m for m in montages if m["tracker_key"] not in tracker["uploaded_files"]
         ]
+
+        # Second pass: check actual Drive for files not in tracker
+        if to_upload:
+            print("  Checking Drive for existing files...")
+            drive_existing = {}
+            for fmt in formats:
+                fmt_folder_name = f"{fmt} output"
+                fmt_folder_id = find_or_create_folder(
+                    drive_service, fmt_folder_name, DRIVE_ROOT_FOLDER_ID, tracker
+                )
+                fmt_files = list_drive_files(drive_service, fmt_folder_id, tracker)
+                for rel_path, info in fmt_files.items():
+                    # Normalize path separators
+                    normalized = rel_path.replace("\\", "/")
+                    drive_existing[f"{fmt}/{normalized}"] = info
+
+            # Skip files that exist on Drive, backfill tracker
+            still_needed = []
+            backfilled = 0
+            for m in to_upload:
+                drive_key = f"{m['format']}/{m['relative_path'].replace(chr(92), '/')}"
+                if drive_key in drive_existing:
+                    # File exists on Drive — backfill tracker
+                    info = drive_existing[drive_key]
+                    tracker["uploaded_files"][m["tracker_key"]] = {
+                        "drive_file_id": info["id"],
+                        "drive_link": f"https://drive.google.com/file/d/{info['id']}/view?usp=drivesdk",
+                        "format": m["format"],
+                        "uploaded_at": "manual",
+                        "file_size_mb": m["file_size_mb"],
+                    }
+                    backfilled += 1
+                else:
+                    still_needed.append(m)
+
+            if backfilled > 0:
+                save_tracker(tracker)
+                print(f"  Found {backfilled} files already on Drive (tracker updated)")
+
+            to_upload = still_needed
     else:
         to_upload = montages
 
@@ -376,10 +419,6 @@ def upload_montages(formats, dry_run=False, force=False):
         print("  All files already uploaded. Use --force to re-upload.")
         return montages
 
-    # Authenticate and build service
-    creds = get_google_creds()
-    drive_service = build("drive", "v3", credentials=creds)
-
     print(f"\n  Uploading to Drive folder: Stockflow_Media_publish")
     start_time = time.time()
 
@@ -391,13 +430,14 @@ def upload_montages(formats, dry_run=False, force=False):
         )
 
         # Create folder hierarchy: format > category > subcategory
+        # Use slug names (matching local folders) for Drive folder names
         cat_folder_id = find_or_create_folder(
-            drive_service, m["category_display"], fmt_folder_id, tracker
+            drive_service, m["category"], fmt_folder_id, tracker
         )
 
         if m["subcategory"]:
             sub_folder_id = find_or_create_folder(
-                drive_service, m["subcategory_display"], cat_folder_id, tracker
+                drive_service, m["subcategory"], cat_folder_id, tracker
             )
             target_folder_id = sub_folder_id
         else:

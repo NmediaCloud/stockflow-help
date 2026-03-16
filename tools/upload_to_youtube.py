@@ -359,29 +359,42 @@ def upload_montages(dry_run=False, force=False, limit=None, include_categories=F
             m["category_display"], m["subcategory_display"], m["collection_display"]
         )
 
-        try:
-            video_id = upload_video(youtube, m["local_path"], metadata)
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                video_id = upload_video(youtube, m["local_path"], metadata)
 
-            video_url = f"https://www.youtube.com/watch?v={video_id}"
-            tracker["youtube_uploads"][m["relative_path"]] = {
-                "video_id": video_id,
-                "video_url": video_url,
-                "title": metadata["title"],
-                "uploaded_at": time.strftime("%Y-%m-%d %H:%M:%S"),
-            }
-            save_tracker(tracker)
-            uploaded_count += 1
-            progress("Uploading", i + 1, len(to_upload), start_time)
+                video_url = f"https://www.youtube.com/watch?v={video_id}"
+                tracker["youtube_uploads"][m["relative_path"]] = {
+                    "video_id": video_id,
+                    "video_url": video_url,
+                    "title": metadata["title"],
+                    "uploaded_at": time.strftime("%Y-%m-%d %H:%M:%S"),
+                }
+                save_tracker(tracker)
+                uploaded_count += 1
+                progress("Uploading", i + 1, len(to_upload), start_time)
+                break  # Success, move to next file
 
-        except HttpError as e:
-            error_reason = e.error_details[0]["reason"] if e.error_details else str(e)
-            if "quotaExceeded" in str(e) or "uploadLimitExceeded" in str(e):
-                print(f"\n\n  YouTube quota exceeded after {uploaded_count} uploads.")
-                print(f"  Re-run tomorrow to continue from where you left off.")
-                break
-            else:
-                print(f"\n  ERROR uploading {m['filename']}: {error_reason}")
-                continue
+            except HttpError as e:
+                error_reason = e.error_details[0]["reason"] if e.error_details else str(e)
+                if "quotaExceeded" in str(e) or "uploadLimitExceeded" in str(e):
+                    print(f"\n\n  YouTube quota exceeded after {uploaded_count} uploads.")
+                    print(f"  Re-run tomorrow to continue from where you left off.")
+                    return montages
+                else:
+                    print(f"\n  ERROR uploading {m['filename']}: {error_reason}")
+                    break  # Skip this file
+
+            except (ConnectionError, TimeoutError, OSError, Exception) as e:
+                if attempt < max_retries - 1:
+                    wait = 10 * (attempt + 1)
+                    print(f"\n  Network error on {m['filename']}, retrying in {wait}s... ({attempt+1}/{max_retries})")
+                    time.sleep(wait)
+                else:
+                    print(f"\n  Failed after {max_retries} attempts: {m['filename']}")
+                    print(f"    Error: {str(e)[:100]}")
+                    break  # Skip this file
 
     print(f"\n  Successfully uploaded {uploaded_count} videos")
     return montages
