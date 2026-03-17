@@ -43,63 +43,63 @@ SCOPES = [
 PLATFORM_SCHEDULE = {
     "YouTube": {
         "times": ["09:00", "14:00"],
-        "days": "daily",       # Post every day
-        "priority": 1,         # Publish first (Phase 3)
-        "format": "Widescreen (16:9)",
+        "days": "daily",
+        "priority": 1,         # Phase 3
+        "source_format": "W",  # Use W (widescreen) montages
     },
     "TikTok": {
         "times": ["11:00", "19:00"],
         "days": "daily",
-        "priority": 2,         # Phase 4 via FeedHive
-        "format": "Vertical (9:16)",
+        "priority": 2,         # Phase 4
+        "source_format": "V",  # Use V (vertical) montages
     },
     "Instagram": {
         "times": ["08:00", "17:00"],
         "days": "daily",
-        "priority": 2,         # Phase 4 via FeedHive
-        "format": "Vertical (9:16) + Square (1:1)",
+        "priority": 2,         # Phase 4
+        "source_format": "S",  # Use S (square) montages — separate from V
     },
     "LinkedIn": {
         "times": ["10:00"],
-        "days": "weekdays",    # Business hours only
-        "priority": 2,         # Phase 4 via FeedHive
-        "format": "Widescreen (16:9)",
+        "days": "weekdays",
+        "priority": 2,         # Phase 4
+        "source_format": "W",
     },
     "Twitter": {
         "times": ["12:00", "18:00"],
         "days": "daily",
         "priority": 3,         # Phase 5
-        "format": "Widescreen (16:9)",
+        "source_format": "W",
     },
     "Pinterest": {
         "times": ["20:00"],
         "days": "daily",
         "priority": 3,         # Phase 5
-        "format": "Vertical (9:16)",
+        "source_format": "V",
     },
     "Reddit": {
         "times": ["08:00"],
         "days": "weekdays",
         "priority": 3,         # Phase 5
-        "format": "Widescreen (16:9)",
+        "source_format": "W",
     },
     "Facebook": {
         "times": ["13:00", "16:00"],
         "days": "daily",
         "priority": 4,         # Phase 7
-        "format": "Square (1:1)",
+        "source_format": "S",
     },
     "Substack": {
         "times": ["07:00"],
-        "days": "weekdays",    # Newsletter on weekday mornings
+        "days": "weekdays",
         "priority": 5,         # Phase 8
-        "format": "Blog + YouTube embed",
+        "source_format": "W",  # Blog embed uses widescreen
     },
     "WordPress": {
         "times": ["10:00"],
-        "days": "weekdays",    # SEO blog posts on weekdays
+        "days": "weekdays",
         "priority": 5,         # Phase 8
-        "format": "Blog + YouTube embed",
+        "source_format": "W",
     },
 }
 
@@ -151,15 +151,16 @@ def read_content_library(sheets_service, spreadsheet_id):
         while len(row) < 19:
             row.append("")
         montages.append({
-            "category": row[0],
-            "subcategory": row[1],
-            "collection": row[2],
-            "filename": row[3],
-            "file_size_mb": row[4],
-            "drive_link": row[5],
-            "drive_file_id": row[6],
-            "help_url": row[16],
-            "stockflow_url": row[17],
+            "format": row[0],         # A: Format (W/S/V)
+            "category": row[1],       # B: Category
+            "subcategory": row[2],    # C: Subcategory
+            "collection": row[3],     # D: Collection
+            "filename": row[4],       # E: Filename
+            "file_size_mb": row[5],   # F: File Size (MB)
+            "drive_link": row[6],     # G: Drive Link
+            "drive_file_id": row[7],  # H: Drive File ID
+            "help_url": row[17],
+            "stockflow_url": row[18],
         })
     return montages
 
@@ -173,47 +174,78 @@ def generate_schedule(montages, start_date, posts_per_day=2):
     Generate a publishing schedule.
 
     Strategy:
-    - YouTube gets published first (1 montage per day at optimal time)
-    - Other platforms follow in waves, offset by 1-2 days per platform
-    - This means each montage appears on YouTube first, then cascades
-      to other platforms over the following days
+    - Each platform gets only montages matching its source_format (W/S/V)
+    - YouTube (W) gets published first, other platforms follow with offset
+    - Same collection cascades across platforms over days
     """
     schedule = []
-    current_date = start_date
-    montage_index = 0
 
-    # Phase 1: YouTube schedule (primary — 2-3 per day)
-    # Phase 2+: Other platforms follow with offset
+    # Group montages by format
+    by_format = {"W": [], "S": [], "V": []}
+    for m in montages:
+        fmt = m.get("format", "")
+        if fmt in by_format:
+            by_format[fmt].append(m)
+
+    # Group montages by collection name for cross-platform linking
+    # Each collection should cascade: YouTube day 0, TikTok day +1, etc.
+    collections_w = {m["collection"]: m for m in by_format["W"]}
+    collections_s = {m["collection"]: m for m in by_format["S"]}
+    collections_v = {m["collection"]: m for m in by_format["V"]}
+
+    # Use W montages as the base timeline (YouTube publishes first)
+    base_montages = by_format["W"]
+
     platform_offsets = {
-        "YouTube": 0,       # Day 0 — publish here first
-        "TikTok": 1,        # Day +1
-        "Instagram": 1,     # Day +1 (same day as TikTok, different time)
-        "LinkedIn": 2,      # Day +2
-        "Twitter": 3,       # Day +3
-        "Pinterest": 3,     # Day +3
-        "Reddit": 4,        # Day +4
-        "Facebook": 5,      # Day +5
-        "Substack": 6,      # Day +6 (after YouTube embed is ready)
-        "WordPress": 6,     # Day +6 (same day, different time)
+        "YouTube": 0,       # Day 0 -- W format
+        "TikTok": 1,        # Day +1 -- V format
+        "Instagram": 1,     # Day +1 -- S format (separate from V)
+        "LinkedIn": 2,      # Day +2 -- W format
+        "Twitter": 3,       # Day +3 -- W format
+        "Pinterest": 3,     # Day +3 -- V format
+        "Reddit": 4,        # Day +4 -- W format
+        "Facebook": 5,      # Day +5 -- S format
+        "Substack": 6,      # Day +6 -- W format (blog embed)
+        "WordPress": 6,     # Day +6 -- W format
     }
 
-    # Assign each montage a "base date" — the day it first goes to YouTube
+    # Assign base dates for each W montage
     montage_dates = []
     date_cursor = start_date
     batch = 0
-    for i, m in enumerate(montages):
+    for i, m in enumerate(base_montages):
         montage_dates.append(date_cursor)
         batch += 1
         if batch >= posts_per_day:
             batch = 0
             date_cursor += timedelta(days=1)
-            # Skip to next day
 
-    # Now generate rows for all platforms
-    for i, montage in enumerate(montages):
+    # Generate schedule entries
+    for i, w_montage in enumerate(base_montages):
         base_date = montage_dates[i]
+        collection_name = w_montage["collection"]
+
+        # Find matching S and V montages for this collection
+        s_montage = collections_s.get(collection_name)
+        v_montage = collections_v.get(collection_name)
 
         for platform, config in PLATFORM_SCHEDULE.items():
+            source_fmt = config["source_format"]
+
+            # Pick the right montage for this platform's format
+            if source_fmt == "W":
+                montage = w_montage
+            elif source_fmt == "V":
+                montage = v_montage
+            elif source_fmt == "S":
+                montage = s_montage
+            else:
+                continue
+
+            # Skip if no montage exists in this format
+            if not montage:
+                continue
+
             offset = platform_offsets[platform]
             pub_date = base_date + timedelta(days=offset)
 
@@ -225,7 +257,7 @@ def generate_schedule(montages, start_date, posts_per_day=2):
             # Pick a time slot (rotate through available times)
             time_slot = config["times"][i % len(config["times"])]
 
-            phase = f"Phase {config['priority'] + 2}"  # Phase 3=YouTube, 4=FeedHive, etc.
+            phase = f"Phase {config['priority'] + 2}"
 
             schedule.append({
                 "date": pub_date.strftime("%Y-%m-%d"),
@@ -233,13 +265,14 @@ def generate_schedule(montages, start_date, posts_per_day=2):
                 "time": time_slot,
                 "platform": platform,
                 "phase": phase,
-                "format": config["format"],
+                "format": source_fmt,
                 "category": montage["category"],
                 "subcategory": montage["subcategory"],
                 "collection": montage["collection"],
-                "drive_link": montage["drive_link"],
-                "help_url": montage["help_url"],
-                "stockflow_url": montage["stockflow_url"],
+                "drive_link": montage.get("drive_link", ""),
+                "drive_file_id": montage.get("drive_file_id", ""),
+                "help_url": montage.get("help_url", ""),
+                "stockflow_url": montage.get("stockflow_url", ""),
                 "status": "Scheduled",
             })
 
@@ -254,6 +287,8 @@ def write_schedule_to_sheet(sheets_service, spreadsheet_id, schedule):
     """Write the schedule to the Publishing Schedule tab."""
 
     headers = [
+        "Publish",
+        "Status",
         "Date",
         "Day",
         "Time",
@@ -264,16 +299,19 @@ def write_schedule_to_sheet(sheets_service, spreadsheet_id, schedule):
         "Subcategory",
         "Collection",
         "Drive Link",
+        "Drive File ID",
         "Help Page URL",
         "Stockflow URL",
-        "Status",
         "Published URL",
+        "Published At",
         "Notes",
     ]
 
     rows = [headers]
     for entry in schedule:
         rows.append([
+            False,                    # Publish (checkbox)
+            "",                       # Status
             entry["date"],
             entry["day_of_week"],
             entry["time"],
@@ -284,11 +322,12 @@ def write_schedule_to_sheet(sheets_service, spreadsheet_id, schedule):
             entry["subcategory"],
             entry["collection"],
             entry["drive_link"],
+            entry.get("drive_file_id", ""),  # Drive File ID
             entry["help_url"],
             entry["stockflow_url"],
-            entry["status"],
-            "",  # Published URL
-            "",  # Notes
+            "",                       # Published URL
+            "",                       # Published At
+            "",                       # Notes
         ])
 
     # Write data
