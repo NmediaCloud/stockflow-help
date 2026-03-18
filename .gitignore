@@ -29,3 +29,8 @@ Marketing content/music/
 Marketing content/watermark/*.webp
 Marketing content/youtube_credentials.json
 Marketing content/youtube_token.json
+
+# API keys
+tools/.feedhive_key
+Marketing content/google_credentials.json
+Marketing content/google_token.json
