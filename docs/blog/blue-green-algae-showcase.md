@@ -7,7 +7,7 @@ description: "**Blue Green Algae** visuals bring the invisible world to life —
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Blue Green Algae**
 
-[Browse the Blue Green Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Blue+Green+Algae){ .md-button .md-button--primary }
+[Browse the Blue Green Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Blue+Green+Algae){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/vBVrhSBShSM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 

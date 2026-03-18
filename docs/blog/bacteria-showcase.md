@@ -7,7 +7,7 @@ description: "**Bacteria** visuals bring the invisible world to life — ideal f
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Bacteria**
 
-[Browse the Bacteria Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Bacteria){ .md-button .md-button--primary }
+[Browse the Bacteria Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Bacteria){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/9INU3IhguFs?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 

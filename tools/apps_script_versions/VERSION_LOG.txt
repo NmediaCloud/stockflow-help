@@ -1,0 +1,68 @@
+========================================================
+  Apps Script Publisher — Version Log
+========================================================
+
+V1.0  (2026-03-17)  — Baseline from live Apps Script
+  - YouTube upload (simple + resumable)
+  - WordPress via post-by-email
+  - LinkedIn native video upload
+  - Reddit text post API
+  - FeedHive exports (S, V, W)
+  - Calendar sync, checkbox triggers
+  - Drive sync, YouTube back-sync
+  - checkScriptIdentity diagnostic
+  - APPSCRIPT_PLATFORMS: YouTube, WordPress, Substack, LinkedIn, Reddit
+  - Quotas: YouTube 100, WordPress 3, LinkedIn 5, Reddit 5, Substack 1
+
+V2.0  (2026-03-17)  — Auto-Publish + Cleanup
+  ADDED:
+  - Per-platform auto-publish system (configureAutoPublish, viewAutoPublishStatus)
+  - Per-platform time-driven triggers (autoPublishYouTube, autoPublishWordPress, etc.)
+  - Configurable daily limits, intervals, start dates per platform
+  - Reddit email reminder system (queueRedditReminder_)
+  - Reddit subreddit targeting map (REDDIT_SUBREDDIT_MAP)
+  - Menu: Configure Auto-Publish, View Auto-Publish Status, Check Script Identity
+  CHANGED:
+  - Removed Substack from APPSCRIPT_PLATFORMS (now: YouTube, WordPress, LinkedIn, Reddit)
+  - Removed Substack from QUOTAS
+  - Updated quotas: YouTube 6, WordPress 6, LinkedIn 2, Reddit 0
+  - removeTriggers() now cleans up auto-publish triggers too
+
+V2.3  (2026-03-18)  — WordPress YouTube Checkpoint
+  ADDED:
+  - WordPress won't publish without YouTube video uploaded first
+  - Shows "Failed: Waiting for YouTube upload" if YouTube not done
+  - Manual retry via uncheck/recheck after YouTube completes
+  - LinkedIn remains fully independent (no YouTube dependency)
+
+V2.2  (2026-03-17)  — Visual Scheduler Indicators + Trigger Fix
+  ADDED:
+  - stampSchedulerInfo_() — fills columns C/D/E/G with scheduler config
+  - stampPublishedRow_() — fills actual publish date/day/time after upload
+  - Column C: Start Date (before publish) → Actual Date (after publish)
+  - Column D: "6/day" (before publish) → Day name (after publish)
+  - Column E: "60 min" (before publish) → Actual time (after publish)
+  - Column G: "AUTO ON" (scheduled) / "DONE" (published) / "MANUAL" (disabled)
+  - Green backgrounds on G column for visual status
+  FIXED:
+  - setupAutoTrigger_() — everyMinutes only accepts 1,5,10,15,30
+  - Now uses everyHours(1/2/4/6/12) for intervals > 30 minutes
+
+V2.1  (2026-03-17)  — AppScript Upload Append Mode + Cleanup
+  ADDED:
+  - generateAppScriptSheet() now has Append vs Total Refresh dialog
+  - Append mode: keeps existing rows (statuses, URLs), only adds new collections
+  - Total Refresh: wipes and rebuilds (old behavior)
+  FIXED:
+  - Removed duplicate generateAppScriptSheet() function
+  - Updated comment from "Substack" to correct platforms
+
+========================================================
+  Versioning Scheme
+========================================================
+  V1.x = Foundation (basic publishing)
+  V2.x = Auto-publish + platform automation
+  V3.x = Future (Medium integration, analytics, etc.)
+
+  Major (V1 → V2): New feature system added
+  Minor (V2.0 → V2.1): Bug fixes, config changes, tweaks
