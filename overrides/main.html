@@ -1,13 +1,29 @@
 {% extends "base.html" %}
 
+{% block extrahead %}
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.meta.description | default(config.site_description) }}">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:image" content="https://help.stockflow.media/assets/images/social-share.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.meta.description | default(config.site_description) }}">
+  <meta name="twitter:image" content="https://help.stockflow.media/assets/images/social-share.png">
+{% endblock %}
+
 {% block analytics %}
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-DK23WJV0QN"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7SC669KFEJ"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
 
-    gtag('config', 'G-DK23WJV0QN');
+    gtag('config', 'G-7SC669KFEJ');
   </script>
 {% endblock %}
