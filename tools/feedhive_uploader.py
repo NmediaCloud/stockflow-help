@@ -28,13 +28,13 @@ import urllib.error
 from pathlib import Path
 from datetime import datetime
 
-# ── Configuration ──────────────────────────────────────────────
+# -- Configuration ----------------------------------------------
 SCRIPT_DIR = Path(__file__).parent.resolve()
 CSV_FOLDER = (SCRIPT_DIR / "../FeedHive CSV").resolve()
 KEY_FILE = SCRIPT_DIR / ".feedhive_key"
 MCP_ENDPOINT = "https://mcp.feedhive.com"
 
-# ── API Key Management ────────────────────────────────────────
+# -- API Key Management ----------------------------------------
 def get_api_key():
     """Get FeedHive API key from env var or key file."""
     # Try environment variable first
@@ -49,7 +49,7 @@ def get_api_key():
     return None
 
 
-# ── MCP JSON-RPC Client ──────────────────────────────────────
+# -- MCP JSON-RPC Client --------------------------------------
 def mcp_request(method, params=None, api_key=None):
     """Send a JSON-RPC 2.0 request to FeedHive MCP endpoint."""
     payload = {
@@ -108,7 +108,7 @@ def call_trigger(api_key, trigger_name, arguments):
     }, api_key)
 
 
-# ── CSV Reader ────────────────────────────────────────────────
+# -- CSV Reader ------------------------------------------------
 def read_csv_file(filepath):
     """Read a FeedHive CSV file and return list of post dicts."""
     posts = []
@@ -137,7 +137,7 @@ def list_csv_files():
     return files
 
 
-# ── Upload Logic ──────────────────────────────────────────────
+# -- Upload Logic ----------------------------------------------
 def upload_posts(api_key, posts, trigger_name, dry_run=False):
     """Upload posts to FeedHive via MCP trigger."""
     total = len(posts)
@@ -161,11 +161,11 @@ def upload_posts(api_key, posts, trigger_name, dry_run=False):
             "text": post["text"]
         }
         if post["media_urls"]:
-            arguments["mediaUrl"] = post["media_urls"]
+            arguments["media_urls"] = post["media_urls"]
         if post["social_medias"]:
-            arguments["socialMedias"] = post["social_medias"]
+            arguments["social_medias"] = post["social_medias"]
         if post["scheduled"]:
-            arguments["scheduledAt"] = post["scheduled"]
+            arguments["scheduled"] = post["scheduled"]
         if post["labels"]:
             arguments["labels"] = post["labels"]
         if post["title"]:
@@ -190,7 +190,7 @@ def upload_posts(api_key, posts, trigger_name, dry_run=False):
     return success, failed
 
 
-# ── Main Flow ─────────────────────────────────────────────────
+# -- Main Flow -------------------------------------------------
 def main():
     args = sys.argv[1:]
     dry_run = "--dry-run" in args
@@ -312,7 +312,7 @@ def main():
     total_failed = 0
 
     for csv_file in selected_files:
-        print(f"\n{'─' * 40}")
+        print(f"\n{'-' * 40}")
         print(f"Processing: {csv_file.name}")
         posts = read_csv_file(csv_file)
         print(f"  Posts found: {len(posts)}")

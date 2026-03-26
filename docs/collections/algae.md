@@ -7,9 +7,7 @@ description: "Download 27 professional Algae assets — 4K MP4 video and 8K JPEG
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Algae**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Algae){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/qYlaNz0PZJI?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-This collection contains **27 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Algae){ .md-button .md-button--primary }This collection contains **27 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

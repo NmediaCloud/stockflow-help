@@ -7,9 +7,7 @@ description: "Download 41 professional Tikka Masala assets — 4K MP4 video and 
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Tikka Masala**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Tikka+Masala){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/BQXNEoZS4yo?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-This collection contains **41 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Tikka+Masala){ .md-button .md-button--primary }This collection contains **41 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

@@ -7,9 +7,7 @@ description: "**Agar Plate** visuals bring the invisible world to life — ideal
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Agar Plate**
 
-[Browse the Agar Plate Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Agar+Plate){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/bV1L9B_Bmcw?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
+[Browse the Agar Plate Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Agar+Plate){ .md-button .md-button--primary }---
 
 ## Introduction
 

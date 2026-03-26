@@ -7,9 +7,7 @@ description: "**Intracellular** visuals bring the invisible world to life — id
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Intracellular**
 
-[Browse the Intracellular Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Intracellular){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/8ZPRsKPaAB0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
+[Browse the Intracellular Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Intracellular){ .md-button .md-button--primary }---
 
 ## Introduction
 

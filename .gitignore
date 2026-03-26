@@ -29,8 +29,12 @@ Marketing content/music/
 Marketing content/watermark/*.webp
 Marketing content/youtube_credentials.json
 Marketing content/youtube_token.json
+Marketing content/Stockflow-social/
 
-# API keys
+# Credentials & API keys (never commit these)
 tools/.feedhive_key
 Marketing content/google_credentials.json
 Marketing content/google_token.json
+Marketing content/gcs_service_account.json
+Marketing content/nmedia-stockfootage-*.json
+Marketing content/client_secret_*.json

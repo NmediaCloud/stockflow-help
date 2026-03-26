@@ -203,6 +203,17 @@ def process_format(format_code, mode="append", dry_run=False, use_cuda=False):
 
     print(f"  Found {len(mp4_files)} videos")
 
+    # Clean up any leftover temp_ files from interrupted runs
+    if output_base.exists():
+        tmp_files = [f for f in output_base.rglob("temp_*.mp4")]
+        if tmp_files:
+            print(f"  Cleaning {len(tmp_files)} interrupted temp files...")
+            for tmp in tmp_files:
+                try:
+                    tmp.unlink()
+                except Exception:
+                    pass
+
     compressed = 0
     skipped = 0
     failed = 0
@@ -215,6 +226,7 @@ def process_format(format_code, mode="append", dry_run=False, use_cuda=False):
         relative = input_file.relative_to(source_folder)
         output_dir = output_base / relative.parent
         output_file = output_dir / relative.name
+        temp_file = output_dir / ("temp_" + relative.name)  # temp_somefile.mp4
 
         # Skip if already exists (append mode)
         if mode == "append" and output_file.exists():
@@ -250,14 +262,25 @@ def process_format(format_code, mode="append", dry_run=False, use_cuda=False):
         # Create output directory
         output_dir.mkdir(parents=True, exist_ok=True)
 
-        success, error = compress_video(input_file, output_file, settings, use_cuda)
+        # Write to .tmp first, rename on success
+        success, error = compress_video(input_file, temp_file, settings, use_cuda)
 
-        if success and output_file.exists():
+        if success and temp_file.exists():
+            # Rename .tmp → .mp4 (atomic-ish on Windows)
+            if output_file.exists():
+                output_file.unlink()
+            temp_file.rename(output_file)
             output_size = get_file_size_mb(output_file)
             total_output_size += output_size
             reduction = ((input_size - output_size) / input_size * 100) if input_size > 0 else 0
             compressed += 1
         else:
+            # Clean up failed temp file
+            if temp_file.exists():
+                try:
+                    temp_file.unlink()
+                except Exception:
+                    pass
             failed += 1
             print(f"\n    FAILED: {relative.name}")
             if error:

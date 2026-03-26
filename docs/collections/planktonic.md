@@ -7,9 +7,7 @@ description: "Download 28 professional Planktonic assets — 4K MP4 video and 8K
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Planktonic**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Planktonic){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/MQ7yZxfZVWw?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-This collection contains **28 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Planktonic){ .md-button .md-button--primary }This collection contains **28 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

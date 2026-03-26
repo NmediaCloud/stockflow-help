@@ -130,7 +130,7 @@ for %%r in ("!OUT_FILE!") do (
 
 echo   Processing: !REL!
 
-ffmpeg -y -i "!CLIP!" -i "!MUSIC_INPUT!" -filter_complex "[1:a]volume=-18dB,afade=t=in:st=0:d=2,afade=t=out:d=3[music]" -map 0:v -map "[music]" -c:v copy -c:a aac -b:a 192k -shortest "!OUT_FILE!"
+ffmpeg -y -i "!CLIP!" -i "!MUSIC_INPUT!" -filter_complex "[1:a]volume=-12dB[music]" -map 0:v -map "[music]" -c:v copy -c:a aac -b:a 192k -shortest "!OUT_FILE!"
 
 if errorlevel 1 (
     echo   FAILED: !REL!

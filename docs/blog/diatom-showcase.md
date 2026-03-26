@@ -7,9 +7,7 @@ description: "**Diatom** visuals bring the invisible world to life — ideal for
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Diatom**
 
-[Browse the Diatom Collection](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Diatom){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/Sk5cCwtoeBQ?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
+[Browse the Diatom Collection](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Diatom){ .md-button .md-button--primary }---
 
 ## Introduction
 

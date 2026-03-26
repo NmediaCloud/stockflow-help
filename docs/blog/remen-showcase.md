@@ -7,9 +7,7 @@ description: "**Remen** footage captures food at its most cinematic — ideal fo
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Remen**
 
-[Browse the Remen Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Remen){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/ikRg1hweaQo?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
+[Browse the Remen Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Remen){ .md-button .md-button--primary }---
 
 ## Introduction
 

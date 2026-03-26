@@ -7,9 +7,7 @@ description: "**Pathogenic** visuals bring the invisible world to life — ideal
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Pathogenic**
 
-[Browse the Pathogenic Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Pathogenic){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/qbl3ih_Rpck?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
+[Browse the Pathogenic Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Pathogenic){ .md-button .md-button--primary }---
 
 ## Introduction
 

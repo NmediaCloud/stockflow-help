@@ -1,8 +1,8 @@
 @echo off
 echo ================================================
-echo   FeedHive Uploader — Stockflow.media
+echo   Upload to Google Cloud Storage
 echo ================================================
 echo.
-python tools\feedhive_uploader.py %*
+python "%~dp0tools\upload_to_gcs.py" %*
 echo.
 pause

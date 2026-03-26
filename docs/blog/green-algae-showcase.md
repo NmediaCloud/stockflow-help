@@ -7,9 +7,7 @@ description: "**Green Algae** visuals bring the invisible world to life — idea
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Green Algae**
 
-[Browse the Green Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Green+Algae){ .md-button .md-button--primary }<iframe width="100%" height="450" style="max-width: 800px; aspect-ratio: 16/9; border-radius: 8px; margin-bottom: 20px;" src="https://www.youtube.com/embed/vBVrhSBShSM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
----
+[Browse the Green Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Green+Algae){ .md-button .md-button--primary }---
 
 ## Introduction
 
