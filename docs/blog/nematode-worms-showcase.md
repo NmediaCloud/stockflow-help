@@ -7,7 +7,9 @@ description: "**Nematode worms** visuals bring the invisible world to life — i
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Nematode worms**
 
-[Browse the Nematode worms Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Nematode+worms){ .md-button .md-button--primary }---
+[Browse the Nematode worms Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Nematode+worms){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

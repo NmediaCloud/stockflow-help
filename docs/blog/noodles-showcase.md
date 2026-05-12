@@ -7,7 +7,9 @@ description: "**Noodles** footage captures food at its most cinematic — ideal 
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Noodles**
 
-[Browse the Noodles Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Noodles){ .md-button .md-button--primary }---
+[Browse the Noodles Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Noodles){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

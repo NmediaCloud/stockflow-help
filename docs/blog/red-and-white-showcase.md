@@ -7,7 +7,9 @@ description: "**Red And White** visuals bring the invisible world to life — id
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Red And White**
 
-[Browse the Red And White Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Red+And+White){ .md-button .md-button--primary }---
+[Browse the Red And White Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Red+And+White){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

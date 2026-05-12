@@ -7,7 +7,9 @@ description: "Download 170 professional Butter Chiken assets — 4K MP4 video an
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Butter Chiken**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Butter+Chiken){ .md-button .md-button--primary }This collection contains **170 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Butter+Chiken){ .md-button .md-button--primary }
+
+This collection contains **170 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

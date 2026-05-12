@@ -7,7 +7,9 @@ description: "**Cyanobacteria** visuals bring the invisible world to life — id
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Cyanobacteria**
 
-[Browse the Cyanobacteria Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Cyanobacteria){ .md-button .md-button--primary }---
+[Browse the Cyanobacteria Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Cyanobacteria){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

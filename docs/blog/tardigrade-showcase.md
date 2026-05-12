@@ -7,7 +7,9 @@ description: "**tardigrade** visuals bring the invisible world to life — ideal
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **tardigrade**
 
-[Browse the tardigrade Collection](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=tardigrade){ .md-button .md-button--primary }---
+[Browse the tardigrade Collection](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=tardigrade){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

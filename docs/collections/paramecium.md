@@ -7,7 +7,9 @@ description: "Download 16 professional Paramecium assets — 4K MP4 video and 8K
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Paramecium**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Paramecium){ .md-button .md-button--primary }This collection contains **16 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Paramecium){ .md-button .md-button--primary }
+
+This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

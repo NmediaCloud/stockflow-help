@@ -7,7 +7,9 @@ description: "**Fish Dinner** footage captures food at its most cinematic — id
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Fish Dinner**
 
-[Browse the Fish Dinner Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Fish+Dinner){ .md-button .md-button--primary }---
+[Browse the Fish Dinner Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Fish+Dinner){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

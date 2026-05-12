@@ -7,7 +7,9 @@ description: "Download 23 professional Noodles assets — 4K MP4 video and 8K JP
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Noodles**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Noodles){ .md-button .md-button--primary }This collection contains **23 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Noodles){ .md-button .md-button--primary }
+
+This collection contains **23 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

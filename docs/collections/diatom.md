@@ -7,7 +7,9 @@ description: "Download 22 professional Diatom assets — 4K MP4 video and 8K JPE
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Diatom**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Diatom){ .md-button .md-button--primary }This collection contains **22 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Diatom){ .md-button .md-button--primary }
+
+This collection contains **22 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

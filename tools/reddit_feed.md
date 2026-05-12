@@ -32,6 +32,34 @@
 
 ---
 
+## Food & Beverage — Restaurants
+
+**Post to:** r/foodporn | r/food | r/videos | r/Cooking | r/GifRecipes
+
+**Reddit Title:**
+> Restaurants – Premium Stock Food & Beverage Visuals | 929 assets in 4K/8K
+
+**Reddit Post:**
+> I just published a new **Restaurants** collection in the Food & Beverage stock library at Stockflow.media.
+>
+> This pack includes 929 assets covering:
+>
+> • Brunch
+> • Buffet
+> • Casual Dining
+> • Casual dining
+> • Chinese
+> • ...and 22 more
+>
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
+>
+> 🌐 Browse: https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants
+> 📖 Details & previews: https://help.stockflow.media/subcategories/restaurants/
+>
+> All assets are royalty-free. No attribution required.
+
+---
+
 ## Microscopic — Actin
 
 **Post to:** r/biology | r/microbiology | r/microscopy | r/science | r/educationalgifs
@@ -570,7 +598,7 @@
 > • Flatworm Larae
 > • Flatworm Larvae
 > • Giardia Lamblia
-> • ...and 10 more
+> • ...and 11 more
 >
 > Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
 >
@@ -594,10 +622,10 @@
 > This pack includes 144 assets covering:
 >
 > • Dandelion
-> • Grass  Mesh Structure
+> • Grass Mesh Structure
 > • Lavender
-> • Lavender  Dreamy Coating
-> • Lotus  Fluorescent Starbur st
+> • Lavender Dreamy Coating
+> • Lotus Fluorescent Starbur st
 > • ...and 12 more
 >
 > Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.

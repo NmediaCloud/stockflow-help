@@ -7,7 +7,9 @@ description: "**Stake** footage captures food at its most cinematic — ideal fo
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Stake**
 
-[Browse the Stake Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Stake){ .md-button .md-button--primary }---
+[Browse the Stake Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Stake){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

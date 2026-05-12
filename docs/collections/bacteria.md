@@ -7,7 +7,9 @@ description: "Download 16 professional Bacteria assets — 4K MP4 video and 8K J
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Bacteria**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Bacteria){ .md-button .md-button--primary }This collection contains **16 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Bacteria){ .md-button .md-button--primary }
+
+This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

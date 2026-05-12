@@ -7,7 +7,9 @@ description: "**Planktonic** visuals bring the invisible world to life — ideal
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Planktonic**
 
-[Browse the Planktonic Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Planktonic){ .md-button .md-button--primary }---
+[Browse the Planktonic Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Planktonic){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

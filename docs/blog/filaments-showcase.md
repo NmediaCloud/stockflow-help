@@ -7,7 +7,9 @@ description: "**Filaments** visuals bring the invisible world to life — ideal 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Actin](../subcategories/actin.md) / **Filaments**
 
-[Browse the Filaments Collection](https://stockflow.media/?cat=Microscopic&sub=Actin&collection=Filaments){ .md-button .md-button--primary }---
+[Browse the Filaments Collection](https://stockflow.media/?cat=Microscopic&sub=Actin&collection=Filaments){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

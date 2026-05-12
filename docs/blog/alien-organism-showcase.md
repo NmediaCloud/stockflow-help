@@ -7,7 +7,9 @@ description: "**Alien organism** visuals bring the invisible world to life — i
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Alien organism**
 
-[Browse the Alien organism Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Alien+organism){ .md-button .md-button--primary }---
+[Browse the Alien organism Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Alien+organism){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

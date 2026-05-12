@@ -7,7 +7,9 @@ description: "Download 18 professional Mitochondria assets — 4K MP4 video and 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Mitochondria**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Mitochondria){ .md-button .md-button--primary }This collection contains **18 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Mitochondria){ .md-button .md-button--primary }
+
+This collection contains **18 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

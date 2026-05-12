@@ -7,7 +7,9 @@ description: "Download 23 professional Intracellular assets — 4K MP4 video and
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Intracellular**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Intracellular){ .md-button .md-button--primary }This collection contains **23 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Intracellular){ .md-button .md-button--primary }
+
+This collection contains **23 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

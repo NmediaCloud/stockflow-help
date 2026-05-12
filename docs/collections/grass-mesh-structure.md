@@ -1,13 +1,13 @@
 ---
-title: "Grass  Mesh Structure Stock Footage and Images | Pollen | Stockflow.media"
-description: "Download 3 professional Grass  Mesh Structure assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
+title: "Grass Mesh Structure Stock Footage and Images | Pollen | Stockflow.media"
+description: "Download 3 professional Grass Mesh Structure assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
 ---
 
-# Grass  Mesh Structure
+# Grass Mesh Structure
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Grass  Mesh Structure**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Grass Mesh Structure**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Grass++Mesh+Structure){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Grass+Mesh+Structure){ .md-button .md-button--primary }
 
 This collection contains **3 assets** available in multiple resolutions and aspect ratios.
 

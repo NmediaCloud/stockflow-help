@@ -7,7 +7,9 @@ description: "Download 88 professional Pizza assets — 4K MP4 video and 8K JPEG
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Pizza**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Pizza){ .md-button .md-button--primary }This collection contains **88 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Pizza){ .md-button .md-button--primary }
+
+This collection contains **88 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

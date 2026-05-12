@@ -7,7 +7,9 @@ description: "**Brown Algae** visuals bring the invisible world to life — idea
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Brown Algae**
 
-[Browse the Brown Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Brown+Algae){ .md-button .md-button--primary }---
+[Browse the Brown Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Brown+Algae){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

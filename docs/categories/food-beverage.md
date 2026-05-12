@@ -5,3 +5,4 @@
 Explore the subcategories below:
 
 * **[Food Menu](../subcategories/food-menu.md)** - Contains 18 collections.
+* **[Restaurants](../subcategories/restaurants.md)** - Contains 27 collections.

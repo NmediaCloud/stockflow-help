@@ -1,13 +1,13 @@
 ---
-title: "Ragweed  Spiky Details Stock Footage and Images | Pollen | Stockflow.media"
-description: "Download 6 professional Ragweed  Spiky Details assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
+title: "Ragweed Spiky Details Stock Footage and Images | Pollen | Stockflow.media"
+description: "Download 6 professional Ragweed Spiky Details assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
 ---
 
-# Ragweed  Spiky Details
+# Ragweed Spiky Details
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Ragweed  Spiky Details**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Ragweed Spiky Details**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Ragweed++Spiky+Details){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Ragweed+Spiky+Details){ .md-button .md-button--primary }
 
 This collection contains **6 assets** available in multiple resolutions and aspect ratios.
 

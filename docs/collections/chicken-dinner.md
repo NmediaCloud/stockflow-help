@@ -7,7 +7,9 @@ description: "Download 64 professional Chicken Dinner assets — 4K MP4 video an
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Chicken Dinner**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Chicken+Dinner){ .md-button .md-button--primary }This collection contains **64 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Chicken+Dinner){ .md-button .md-button--primary }
+
+This collection contains **64 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

@@ -7,7 +7,9 @@ description: "Download 10 professional Resistant Bacteria assets — 4K MP4 vide
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Resistant Bacteria**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Resistant+Bacteria){ .md-button .md-button--primary }This collection contains **10 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Resistant+Bacteria){ .md-button .md-button--primary }
+
+This collection contains **10 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

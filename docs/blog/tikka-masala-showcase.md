@@ -7,7 +7,9 @@ description: "**Tikka Masala** footage captures food at its most cinematic — i
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Tikka Masala**
 
-[Browse the Tikka Masala Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Tikka+Masala){ .md-button .md-button--primary }---
+[Browse the Tikka Masala Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Tikka+Masala){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

@@ -24,7 +24,7 @@ Explore the subcategories below:
 * **[Neuropathology](../subcategories/neuropathology.md)** - Contains 7 collections.
 * **[Nucleus](../subcategories/nucleus.md)** - Contains 3 collections.
 * **[Organism](../subcategories/organism.md)** - Contains 1 collections.
-* **[Parasite](../subcategories/parasite.md)** - Contains 15 collections.
+* **[Parasite](../subcategories/parasite.md)** - Contains 16 collections.
 * **[Pollen](../subcategories/pollen.md)** - Contains 17 collections.
 * **[Protozoa](../subcategories/protozoa.md)** - Contains 1 collections.
 * **[Underwater](../subcategories/underwater.md)** - Contains 15 collections.

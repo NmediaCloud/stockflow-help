@@ -7,7 +7,9 @@ description: "Download 14 professional Cross-Section assets — 4K MP4 video and
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Cross-Section**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-Section){ .md-button .md-button--primary }This collection contains **14 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-Section){ .md-button .md-button--primary }
+
+This collection contains **14 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

@@ -7,7 +7,9 @@ description: "Download 9 professional Filaments assets — 4K MP4 video and 8K J
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Actin](../subcategories/actin.md) / **Filaments**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Actin&collection=Filaments){ .md-button .md-button--primary }This collection contains **9 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Actin&collection=Filaments){ .md-button .md-button--primary }
+
+This collection contains **9 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

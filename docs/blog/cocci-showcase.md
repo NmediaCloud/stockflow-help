@@ -7,7 +7,9 @@ description: "**Cocci** visuals bring the invisible world to life — ideal for 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Cocci**
 
-[Browse the Cocci Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Cocci){ .md-button .md-button--primary }---
+[Browse the Cocci Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Cocci){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

@@ -9,7 +9,7 @@ description: "Browse 199 professional 4K/8K Parasite assets from the Microscopic
 
 ---
 
-Explore the **15 collections** in this subcategory:
+Explore the **16 collections** in this subcategory:
 
 * **[Close up](../collections/close-up.md)** — 2 assets
 * **[Cryptosporidium](../collections/cryptosporidium.md)** — 15 assets
@@ -25,4 +25,5 @@ Explore the **15 collections** in this subcategory:
 * **[Toxoplasma Gondii](../collections/toxoplasma-gondii.md)** — 15 assets
 * **[Trypanosoma](../collections/trypanosoma.md)** — 16 assets
 * **[Trypanosoma Brucei](../collections/trypanosoma-brucei.md)** — 1 assets
-* **[Worm](../collections/worm.md)** — 12 assets
+* **[Worm](../collections/worm.md)** — 11 assets
+* **[Worms](../collections/worms.md)** — 1 assets

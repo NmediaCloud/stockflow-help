@@ -1,25 +1,25 @@
 ---
-title: "How to Use Lotus  Fluorescent Starbur st Footage in Creative Projects | Stockflow.media"
-description: "**Lotus  Fluorescent Starbur st** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital design"
+title: "How to Use Lotus Fluorescent Starbur st Footage in Creative Projects | Stockflow.media"
+description: "**Lotus Fluorescent Starbur st** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designe"
 ---
 
-# How to Use Lotus  Fluorescent Starbur st Visuals in Your Creative Projects
+# How to Use Lotus Fluorescent Starbur st Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Lotus  Fluorescent Starbur st**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Lotus Fluorescent Starbur st**
 
-[Browse the Lotus  Fluorescent Starbur st Collection](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus++Fluorescent+Starbur+st){ .md-button .md-button--primary }
+[Browse the Lotus Fluorescent Starbur st Collection](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus+Fluorescent+Starbur+st){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Lotus  Fluorescent Starbur st** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Lotus Fluorescent Starbur st** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Lotus  Fluorescent Starbur st** collection — 1 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Lotus Fluorescent Starbur st** collection — 1 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Lotus  Fluorescent Starbur st Visuals Are in Demand
+## Why Lotus Fluorescent Starbur st Visuals Are in Demand
 
-High-quality lotus  fluorescent starbur st footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
+High-quality lotus fluorescent starbur st footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
 All **1 assets** in this collection are:
 
@@ -43,7 +43,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus++Fluorescent+Starbur+st)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus+Fluorescent+Starbur+st)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +67,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Lotus  Fluorescent Starbur st Collection
+## Explore the Full Lotus Fluorescent Starbur st Collection
 
-Ready to add **Lotus  Fluorescent Starbur st** visuals to your next project?
+Ready to add **Lotus Fluorescent Starbur st** visuals to your next project?
 
-[Browse Lotus  Fluorescent Starbur st on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus++Fluorescent+Starbur+st){ .md-button .md-button--primary }
+[Browse Lotus Fluorescent Starbur st on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Lotus+Fluorescent+Starbur+st){ .md-button .md-button--primary }
 [View Collection Details](../collections/lotus-fluorescent-starbur-st.md){ .md-button }

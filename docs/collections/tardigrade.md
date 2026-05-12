@@ -7,7 +7,9 @@ description: "Download 3 professional tardigrade assets — 4K MP4 video and 8K 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **tardigrade**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=tardigrade){ .md-button .md-button--primary }This collection contains **3 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=tardigrade){ .md-button .md-button--primary }
+
+This collection contains **3 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

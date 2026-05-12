@@ -7,7 +7,9 @@ description: "**Desmids** visuals bring the invisible world to life — ideal fo
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Desmids**
 
-[Browse the Desmids Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Desmids){ .md-button .md-button--primary }---
+[Browse the Desmids Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Desmids){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

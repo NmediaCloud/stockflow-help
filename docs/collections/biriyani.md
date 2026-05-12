@@ -7,7 +7,9 @@ description: "Download 44 professional Biriyani assets — 4K MP4 video and 8K J
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Biriyani**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Biriyani){ .md-button .md-button--primary }This collection contains **44 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Biriyani){ .md-button .md-button--primary }
+
+This collection contains **44 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

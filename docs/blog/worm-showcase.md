@@ -15,14 +15,9 @@ description: "**Worm** visuals bring the invisible world to life — ideal for s
 
 **Worm** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Worm** collection — 12 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Worm** collection — 11 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
-
-### 1 Micro 09 Parasite 09 Parasitic Worm
-![1 Micro 09 Parasite 09 Parasitic Worm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0935_01_Micro_09_Parasite_09_Parasitic_Worm_W_01__Previews.webp)
-
-Close-up of a parasitic worm with a knobby, mosaic-like surface.
 
 ### 2 Micro 09 Parasite 09 Parasitic Worm
 ![2 Micro 09 Parasite 09 Parasitic Worm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0936_01_Micro_09_Parasite_09_Parasitic_Worm_W_01_Previews.webp)
@@ -34,11 +29,16 @@ Close-up of textured, spherical parasite eggs (parasitic worm) on host tissue.
 
 Close-up of a parasitic worm egg with a textured, paired surface among surrounding debris.
 
+### 4 Micro 09 Parasite 09 Parasitic Worm
+![4 Micro 09 Parasite 09 Parasitic Worm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0938_01_Micro_09_Parasite_09_Parasitic_Worm_W_02_Previews.webp)
+
+Close-up of a parasitic worm with a segmented, bead-like exterior.
+
 ## Why Worm Visuals Are in Demand
 
 High-quality worm footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **12 assets** in this collection are:
+All **11 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)

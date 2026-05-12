@@ -7,7 +7,9 @@ description: "**Micro** visuals bring the invisible world to life — ideal for 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Nucleus](../subcategories/nucleus.md) / **Micro**
 
-[Browse the Micro Collection](https://stockflow.media/?cat=Microscopic&sub=Nucleus&collection=Micro){ .md-button .md-button--primary }---
+[Browse the Micro Collection](https://stockflow.media/?cat=Microscopic&sub=Nucleus&collection=Micro){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

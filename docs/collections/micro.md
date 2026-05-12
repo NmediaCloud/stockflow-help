@@ -7,7 +7,9 @@ description: "Download 18 professional Micro assets — 4K MP4 video and 8K JPEG
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Nucleus](../subcategories/nucleus.md) / **Micro**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Nucleus&collection=Micro){ .md-button .md-button--primary }This collection contains **18 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Nucleus&collection=Micro){ .md-button .md-button--primary }
+
+This collection contains **18 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

@@ -7,7 +7,9 @@ description: "**Butter Chiken** footage captures food at its most cinematic — 
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Butter Chiken**
 
-[Browse the Butter Chiken Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Butter+Chiken){ .md-button .md-button--primary }---
+[Browse the Butter Chiken Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Butter+Chiken){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

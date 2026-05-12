@@ -7,7 +7,9 @@ description: "**Resistant** visuals bring the invisible world to life — ideal 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Resistant**
 
-[Browse the Resistant Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Resistant){ .md-button .md-button--primary }---
+[Browse the Resistant Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Resistant){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

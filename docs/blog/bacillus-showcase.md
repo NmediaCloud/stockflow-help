@@ -7,7 +7,9 @@ description: "**Bacillus** visuals bring the invisible world to life — ideal f
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Bacillus**
 
-[Browse the Bacillus Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Bacillus){ .md-button .md-button--primary }---
+[Browse the Bacillus Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Bacillus){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

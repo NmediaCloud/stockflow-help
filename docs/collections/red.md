@@ -7,7 +7,9 @@ description: "Download 4 professional Red assets — 4K MP4 video and 8K JPEG im
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Red**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Red){ .md-button .md-button--primary }This collection contains **4 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Red){ .md-button .md-button--primary }
+
+This collection contains **4 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

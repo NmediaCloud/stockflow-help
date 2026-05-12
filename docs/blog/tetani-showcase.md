@@ -7,7 +7,9 @@ description: "**Tetani** visuals bring the invisible world to life — ideal for
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Tetani**
 
-[Browse the Tetani Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Tetani){ .md-button .md-button--primary }---
+[Browse the Tetani Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Tetani){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

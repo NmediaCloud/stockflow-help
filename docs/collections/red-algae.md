@@ -7,7 +7,9 @@ description: "Download 12 professional Red Algae assets — 4K MP4 video and 8K 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Red Algae**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Red+Algae){ .md-button .md-button--primary }This collection contains **12 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Red+Algae){ .md-button .md-button--primary }
+
+This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

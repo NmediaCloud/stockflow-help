@@ -37,6 +37,35 @@ nav:
               - Thai Curry: collections/thai-curry.md
               - Thai Noodle Soup: collections/thai-noodle-soup.md
               - Tikka Masala: collections/tikka-masala.md
+          - Restaurants:
+              - Restaurants Overview: subcategories/restaurants.md
+              - Brunch: collections/brunch.md
+              - Buffet: collections/buffet.md
+              - Casual Dining: collections/casual-dining.md
+              - Casual dining: collections/casual-dining.md
+              - Chinese: collections/chinese.md
+              - Family Style: collections/family-style.md
+              - Family style: collections/family-style.md
+              - Fast Casual: collections/fast-casual.md
+              - Fast casual: collections/fast-casual.md
+              - Fast food: collections/fast-food.md
+              - Fine Dining: collections/fine-dining.md
+              - Fine dining: collections/fine-dining.md
+              - French: collections/french.md
+              - Fusion Cuisine: collections/fusion-cuisine.md
+              - Fusion cuisine: collections/fusion-cuisine.md
+              - Indian: collections/indian.md
+              - Italian: collections/italian.md
+              - Japanese: collections/japanese.md
+              - Mediterranean: collections/mediterranean.md
+              - Mexican: collections/mexican.md
+              - Mexican Starters: collections/mexican-starters.md
+              - Pop Up: collections/pop-up.md
+              - Pop up: collections/pop-up.md
+              - Seafood: collections/seafood.md
+              - Steakhouses: collections/steakhouses.md
+              - Vegan: collections/vegan.md
+              - Vegan & Vegetarian: collections/vegan-vegetarian.md
       - Microscopic:
           - Microscopic Overview: categories/microscopic.md
           - Actin:
@@ -243,24 +272,25 @@ nav:
               - Trypanosoma: collections/trypanosoma.md
               - Trypanosoma Brucei: collections/trypanosoma-brucei.md
               - Worm: collections/worm.md
+              - Worms: collections/worms.md
           - Pollen:
               - Pollen Overview: subcategories/pollen.md
               - Dandelion: collections/dandelion.md
-              - Grass  Mesh Structure: collections/grass-mesh-structure.md
+              - Grass Mesh Structure: collections/grass-mesh-structure.md
               - Lavender: collections/lavender.md
-              - Lavender  Dreamy Coating: collections/lavender-dreamy-coating.md
-              - Lotus  Fluorescent Starbur st: collections/lotus-fluorescent-starbur-st.md
-              - Lotus  Fluorescent Starburst: collections/lotus-fluorescent-starburst.md
+              - Lavender Dreamy Coating: collections/lavender-dreamy-coating.md
+              - Lotus Fluorescent Starbur st: collections/lotus-fluorescent-starbur-st.md
+              - Lotus Fluorescent Starburst: collections/lotus-fluorescent-starburst.md
               - Lotus Starburst: collections/lotus-starburst.md
               - Orchid Pollinium: collections/orchid-pollinium.md
               - Orchid Pollinium Smooth Shine: collections/orchid-pollinium-smooth-shine.md
               - Peanut Hex Surface: collections/peanut-hex-surface.md
-              - Pine  Winged Form: collections/pine-winged-form.md
               - Pine Winged: collections/pine-winged.md
+              - Pine Winged Form: collections/pine-winged-form.md
               - Pollen: collections/pollen.md
               - Ragweed: collections/ragweed.md
-              - Ragweed  Spiky Details: collections/ragweed-spiky-details.md
-              - Spherical Grass  Grain: collections/spherical-grass-grain.md
+              - Ragweed Spiky Details: collections/ragweed-spiky-details.md
+              - Spherical Grass Grain: collections/spherical-grass-grain.md
               - Sunflower: collections/sunflower.md
           - Protozoa:
               - Protozoa Overview: subcategories/protozoa.md
@@ -373,17 +403,22 @@ nav:
       - Breast Cancer Guide: blog/breast-cancer-showcase.md
       - Brown Guide: blog/brown-showcase.md
       - Brown Algae Guide: blog/brown-algae-showcase.md
+      - Brunch Guide: blog/brunch-showcase.md
+      - Buffet Guide: blog/buffet-showcase.md
       - Burgers Guide: blog/burgers-showcase.md
       - Buritos Guide: blog/buritos-showcase.md
       - Butter Chiken Guide: blog/butter-chiken-showcase.md
       - C. Elegans Guide: blog/c-elegans-showcase.md
       - Caenorhabditis Elegans Guide: blog/caenorhabditis-elegans-showcase.md
       - Cancer Cell Guide: blog/cancer-cell-showcase.md
+      - Casual Dining Guide: blog/casual-dining-showcase.md
+      - Casual dining Guide: blog/casual-dining-showcase.md
       - Cellular Guide: blog/cellular-showcase.md
       - Cervical Cells Guide: blog/cervical-cells-showcase.md
       - Chemotherapy Guide: blog/chemotherapy-showcase.md
       - Chicken Dinner Guide: blog/chicken-dinner-showcase.md
       - Chicken Fry Guide: blog/chicken-fry-showcase.md
+      - Chinese Guide: blog/chinese-showcase.md
       - Ciliat Guide: blog/ciliat-showcase.md
       - Ciliated Guide: blog/ciliated-showcase.md
       - Close up Guide: blog/close-up-showcase.md
@@ -416,21 +451,31 @@ nav:
       - Eukaryotic Cell Guide: blog/eukaryotic-cell-showcase.md
       - Eukaryotic cell under Guide: blog/eukaryotic-cell-under-showcase.md
       - Extreme Close Guide: blog/extreme-close-showcase.md
+      - Family Style Guide: blog/family-style-showcase.md
+      - Family style Guide: blog/family-style-showcase.md
+      - Fast Casual Guide: blog/fast-casual-showcase.md
+      - Fast casual Guide: blog/fast-casual-showcase.md
+      - Fast food Guide: blog/fast-food-showcase.md
       - Filaments Guide: blog/filaments-showcase.md
+      - Fine Dining Guide: blog/fine-dining-showcase.md
+      - Fine dining Guide: blog/fine-dining-showcase.md
       - Fish Dinner Guide: blog/fish-dinner-showcase.md
       - Flatworm Larae Guide: blog/flatworm-larae-showcase.md
       - Flatworm Larvae Guide: blog/flatworm-larvae-showcase.md
       - Flatworms Guide: blog/flatworms-showcase.md
       - Fluorescence Guide: blog/fluorescence-showcase.md
       - Food Fungi Guide: blog/food-fungi-showcase.md
+      - French Guide: blog/french-showcase.md
       - Fungal Guide: blog/fungal-showcase.md
       - Fungal Ecosystem Guide: blog/fungal-ecosystem-showcase.md
       - Fungal Penetration Guide: blog/fungal-penetration-showcase.md
       - Fungal ecosystem Guide: blog/fungal-ecosystem-showcase.md
       - Fungi Guide: blog/fungi-showcase.md
+      - Fusion Cuisine Guide: blog/fusion-cuisine-showcase.md
+      - Fusion cuisine Guide: blog/fusion-cuisine-showcase.md
       - Giardia Lamblia Guide: blog/giardia-lamblia-showcase.md
       - Glioblastoma Guide: blog/glioblastoma-showcase.md
-      - Grass  Mesh Structure Guide: blog/grass-mesh-structure-showcase.md
+      - Grass Mesh Structure Guide: blog/grass-mesh-structure-showcase.md
       - Green Guide: blog/green-showcase.md
       - Green Algae Guide: blog/green-algae-showcase.md
       - Healthy Cells Guide: blog/healthy-cells-showcase.md
@@ -441,26 +486,32 @@ nav:
       - Idly Vada Guide: blog/idly-vada-showcase.md
       - Immune Guide: blog/immune-showcase.md
       - In Compost Guide: blog/in-compost-showcase.md
+      - Indian Guide: blog/indian-showcase.md
       - Intracellular Guide: blog/intracellular-showcase.md
       - Iron deficieny Guide: blog/iron-deficieny-showcase.md
+      - Italian Guide: blog/italian-showcase.md
+      - Japanese Guide: blog/japanese-showcase.md
       - Juvenile Plankton Guide: blog/juvenile-plankton-showcase.md
       - Kidney Guide: blog/kidney-showcase.md
       - Lavender Guide: blog/lavender-showcase.md
-      - Lavender  Dreamy Coating Guide: blog/lavender-dreamy-coating-showcase.md
+      - Lavender Dreamy Coating Guide: blog/lavender-dreamy-coating-showcase.md
       - Leishmania Guide: blog/leishmania-showcase.md
       - Leukemia Guide: blog/leukemia-showcase.md
       - Lichen Guide: blog/lichen-showcase.md
       - Liver Cirrhosis Guide: blog/liver-cirrhosis-showcase.md
-      - Lotus  Fluorescent Starbur st Guide: blog/lotus-fluorescent-starbur-st-showcase.md
-      - Lotus  Fluorescent Starburst Guide: blog/lotus-fluorescent-starburst-showcase.md
+      - Lotus Fluorescent Starbur st Guide: blog/lotus-fluorescent-starbur-st-showcase.md
+      - Lotus Fluorescent Starburst Guide: blog/lotus-fluorescent-starburst-showcase.md
       - Lotus Starburst Guide: blog/lotus-starburst-showcase.md
       - Lung Tissue Guide: blog/lung-tissue-showcase.md
       - Lysosom Guide: blog/lysosom-showcase.md
       - Lysosomes Guide: blog/lysosomes-showcase.md
       - Marine Plankton Guide: blog/marine-plankton-showcase.md
+      - Mediterranean Guide: blog/mediterranean-showcase.md
       - Melanoma Guide: blog/melanoma-showcase.md
       - Membrane Guide: blog/membrane-showcase.md
       - Metastatic Guide: blog/metastatic-showcase.md
+      - Mexican Guide: blog/mexican-showcase.md
+      - Mexican Starters Guide: blog/mexican-starters-showcase.md
       - Micro Guide: blog/micro-showcase.md
       - Mitochondria Guide: blog/mitochondria-showcase.md
       - Mold Growth Guide: blog/mold-growth-showcase.md
@@ -491,20 +542,22 @@ nav:
       - Peanut Hex Surface Guide: blog/peanut-hex-surface-showcase.md
       - Penicillium Guide: blog/penicillium-showcase.md
       - Penicillium mold Guide: blog/penicillium-mold-showcase.md
-      - Pine  Winged Form Guide: blog/pine-winged-form-showcase.md
       - Pine Winged Guide: blog/pine-winged-showcase.md
+      - Pine Winged Form Guide: blog/pine-winged-form-showcase.md
       - Pizza Guide: blog/pizza-showcase.md
       - Plankton Guide: blog/plankton-showcase.md
       - Planktonic Guide: blog/planktonic-showcase.md
       - Plant Cell Guide: blog/plant-cell-showcase.md
       - Plasmodium Guide: blog/plasmodium-showcase.md
       - Pollen Guide: blog/pollen-showcase.md
+      - Pop Up Guide: blog/pop-up-showcase.md
+      - Pop up Guide: blog/pop-up-showcase.md
       - Prostate Guide: blog/prostate-showcase.md
       - Protozoa Guide: blog/protozoa-showcase.md
       - Protozoa And Algae Guide: blog/protozoa-and-algae-showcase.md
       - Psoriatic Guide: blog/psoriatic-showcase.md
       - Ragweed Guide: blog/ragweed-showcase.md
-      - Ragweed  Spiky Details Guide: blog/ragweed-spiky-details-showcase.md
+      - Ragweed Spiky Details Guide: blog/ragweed-spiky-details-showcase.md
       - Red Guide: blog/red-showcase.md
       - Red Algae Guide: blog/red-algae-showcase.md
       - Red And White Guide: blog/red-and-white-showcase.md
@@ -517,12 +570,13 @@ nav:
       - Rotifers Guide: blog/rotifers-showcase.md
       - Sandwich Guide: blog/sandwich-showcase.md
       - Schistosoma Guide: blog/schistosoma-showcase.md
+      - Seafood Guide: blog/seafood-showcase.md
       - Seawater Droplet Guide: blog/seawater-droplet-showcase.md
       - Sickle Cell Guide: blog/sickle-cell-showcase.md
       - Single Celled Guide: blog/single-celled-showcase.md
       - Single Celled Organisms Guide: blog/single-celled-organisms-showcase.md
       - Single-Celled Guide: blog/single-celled-showcase.md
-      - Spherical Grass  Grain Guide: blog/spherical-grass-grain-showcase.md
+      - Spherical Grass Grain Guide: blog/spherical-grass-grain-showcase.md
       - Spherical Nucleus Guide: blog/spherical-nucleus-showcase.md
       - Spinal Cord Guide: blog/spinal-cord-showcase.md
       - SpinalCord Guide: blog/spinalcord-showcase.md
@@ -531,6 +585,7 @@ nav:
       - Sporangia Guide: blog/sporangia-showcase.md
       - Squamous Guide: blog/squamous-showcase.md
       - Stake Guide: blog/stake-showcase.md
+      - Steakhouses Guide: blog/steakhouses-showcase.md
       - Sunflower Guide: blog/sunflower-showcase.md
       - Suzhi Guide: blog/suzhi-showcase.md
       - TEM Virus Guide: blog/tem-virus-showcase.md
@@ -547,12 +602,15 @@ nav:
       - Tuberculosis Guide: blog/tuberculosis-showcase.md
       - Tumor Guide: blog/tumor-showcase.md
       - Turbellarians Guide: blog/turbellarians-showcase.md
+      - Vegan Guide: blog/vegan-showcase.md
+      - Vegan & Vegetarian Guide: blog/vegan-vegetarian-showcase.md
       - Viruses Guide: blog/viruses-showcase.md
       - Vitiligo Guide: blog/vitiligo-showcase.md
       - Vs Healthy Cells Guide: blog/vs-healthy-cells-showcase.md
       - Waterborne Guide: blog/waterborne-showcase.md
       - Worm Guide: blog/worm-showcase.md
       - Worm Crawls Guide: blog/worm-crawls-showcase.md
+      - Worms Guide: blog/worms-showcase.md
       - Yeast And Mold Guide: blog/yeast-and-mold-showcase.md
       - Yeast Cells Guide: blog/yeast-cells-showcase.md
       - Yeast cells Guide: blog/yeast-cells-showcase.md

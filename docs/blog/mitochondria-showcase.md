@@ -7,7 +7,9 @@ description: "**Mitochondria** visuals bring the invisible world to life — ide
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Mitochondria**
 
-[Browse the Mitochondria Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Mitochondria){ .md-button .md-button--primary }---
+[Browse the Mitochondria Collection](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Mitochondria){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

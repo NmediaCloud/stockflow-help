@@ -7,7 +7,9 @@ description: "Download 10 professional Tetani assets — 4K MP4 video and 8K JPE
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Tetani**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Tetani){ .md-button .md-button--primary }This collection contains **10 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Tetani){ .md-button .md-button--primary }
+
+This collection contains **10 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

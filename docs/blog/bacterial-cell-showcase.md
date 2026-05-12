@@ -7,7 +7,9 @@ description: "**Bacterial cell** visuals bring the invisible world to life — i
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Bacterial cell**
 
-[Browse the Bacterial cell Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Bacterial+cell){ .md-button .md-button--primary }---
+[Browse the Bacterial cell Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Bacterial+cell){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

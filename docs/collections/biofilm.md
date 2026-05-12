@@ -7,7 +7,9 @@ description: "Download 17 professional Biofilm assets — 4K MP4 video and 8K JP
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Biofilm**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Biofilm){ .md-button .md-button--primary }This collection contains **17 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Biofilm){ .md-button .md-button--primary }
+
+This collection contains **17 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

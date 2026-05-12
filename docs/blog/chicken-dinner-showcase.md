@@ -7,7 +7,9 @@ description: "**Chicken Dinner** footage captures food at its most cinematic —
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Chicken Dinner**
 
-[Browse the Chicken Dinner Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Chicken+Dinner){ .md-button .md-button--primary }---
+[Browse the Chicken Dinner Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Chicken+Dinner){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

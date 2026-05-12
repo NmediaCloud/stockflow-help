@@ -7,7 +7,9 @@ description: "**Algae** visuals bring the invisible world to life — ideal for 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Algae**
 
-[Browse the Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Algae){ .md-button .md-button--primary }---
+[Browse the Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Algae){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

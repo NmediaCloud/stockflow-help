@@ -7,7 +7,9 @@ description: "**Algae Bloom** visuals bring the invisible world to life — idea
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Algae Bloom**
 
-[Browse the Algae Bloom Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Algae+Bloom){ .md-button .md-button--primary }---
+[Browse the Algae Bloom Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Algae+Bloom){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

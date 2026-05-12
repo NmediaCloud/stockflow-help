@@ -7,7 +7,9 @@ description: "**Red Algae** visuals bring the invisible world to life — ideal 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Red Algae**
 
-[Browse the Red Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Red+Algae){ .md-button .md-button--primary }---
+[Browse the Red Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Red+Algae){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

@@ -7,7 +7,9 @@ description: "**Spirochete** visuals bring the invisible world to life — ideal
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Spirochete**
 
-[Browse the Spirochete Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Spirochete){ .md-button .md-button--primary }---
+[Browse the Spirochete Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Spirochete){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

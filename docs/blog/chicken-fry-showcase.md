@@ -7,7 +7,9 @@ description: "**Chicken Fry** footage captures food at its most cinematic — id
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Chicken Fry**
 
-[Browse the Chicken Fry Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Chicken+Fry){ .md-button .md-button--primary }---
+[Browse the Chicken Fry Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Chicken+Fry){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

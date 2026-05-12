@@ -7,7 +7,9 @@ description: "**Spirogyra** visuals bring the invisible world to life — ideal 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Spirogyra**
 
-[Browse the Spirogyra Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Spirogyra){ .md-button .md-button--primary }---
+[Browse the Spirogyra Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Spirogyra){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

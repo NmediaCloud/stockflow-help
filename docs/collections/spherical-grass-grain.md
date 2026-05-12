@@ -1,13 +1,13 @@
 ---
-title: "Spherical Grass  Grain Stock Footage and Images | Pollen | Stockflow.media"
-description: "Download 2 professional Spherical Grass  Grain assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
+title: "Spherical Grass Grain Stock Footage and Images | Pollen | Stockflow.media"
+description: "Download 2 professional Spherical Grass Grain assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
 ---
 
-# Spherical Grass  Grain
+# Spherical Grass Grain
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Spherical Grass  Grain**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Spherical Grass Grain**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Spherical+Grass++Grain){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Spherical+Grass+Grain){ .md-button .md-button--primary }
 
 This collection contains **2 assets** available in multiple resolutions and aspect ratios.
 

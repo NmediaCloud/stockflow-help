@@ -7,7 +7,9 @@ description: "**Suzhi** footage captures food at its most cinematic — ideal fo
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Suzhi**
 
-[Browse the Suzhi Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Suzhi){ .md-button .md-button--primary }---
+[Browse the Suzhi Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Suzhi){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

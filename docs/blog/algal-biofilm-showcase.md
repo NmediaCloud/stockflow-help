@@ -7,7 +7,9 @@ description: "**Algal Biofilm** visuals bring the invisible world to life — id
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Algal Biofilm**
 
-[Browse the Algal Biofilm Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Algal+Biofilm){ .md-button .md-button--primary }---
+[Browse the Algal Biofilm Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Algal+Biofilm){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

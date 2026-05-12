@@ -7,7 +7,9 @@ description: "**E. Coli** visuals bring the invisible world to life — ideal fo
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **E. Coli**
 
-[Browse the E. Coli Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=E.+Coli){ .md-button .md-button--primary }---
+[Browse the E. Coli Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=E.+Coli){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

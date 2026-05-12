@@ -7,7 +7,9 @@ description: "Download 4 professional Green assets — 4K MP4 video and 8K JPEG 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Green**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Green){ .md-button .md-button--primary }This collection contains **4 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Green){ .md-button .md-button--primary }
+
+This collection contains **4 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

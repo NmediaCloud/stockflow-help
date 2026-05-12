@@ -7,7 +7,9 @@ description: "**Biofilm** visuals bring the invisible world to life — ideal fo
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Bacteria](../subcategories/bacteria.md) / **Biofilm**
 
-[Browse the Biofilm Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Biofilm){ .md-button .md-button--primary }---
+[Browse the Biofilm Collection](https://stockflow.media/?cat=Microscopic&sub=Bacteria&collection=Biofilm){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

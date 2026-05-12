@@ -7,7 +7,9 @@ description: "Download 33 professional Pathogenic assets — 4K MP4 video and 8K
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Pathogenic**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Pathogenic){ .md-button .md-button--primary }This collection contains **33 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Pathogenic){ .md-button .md-button--primary }
+
+This collection contains **33 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

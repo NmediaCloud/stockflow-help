@@ -1,13 +1,13 @@
 ---
-title: "Pine  Winged Form Stock Footage and Images | Pollen | Stockflow.media"
-description: "Download 3 professional Pine  Winged Form assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
+title: "Pine Winged Form Stock Footage and Images | Pollen | Stockflow.media"
+description: "Download 3 professional Pine Winged Form assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Pollen collection."
 ---
 
-# Pine  Winged Form
+# Pine Winged Form
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Pine  Winged Form**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Pollen](../subcategories/pollen.md) / **Pine Winged Form**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Pine++Winged+Form){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Pollen&collection=Pine+Winged+Form){ .md-button .md-button--primary }
 
 This collection contains **3 assets** available in multiple resolutions and aspect ratios.
 

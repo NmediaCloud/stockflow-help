@@ -7,7 +7,9 @@ description: "Download 4 professional Red And White assets — 4K MP4 video and 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Red And White**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Red+And+White){ .md-button .md-button--primary }This collection contains **4 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Red+And+White){ .md-button .md-button--primary }
+
+This collection contains **4 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

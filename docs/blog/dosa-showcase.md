@@ -7,7 +7,9 @@ description: "**Dosa** footage captures food at its most cinematic — ideal for
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Dosa**
 
-[Browse the Dosa Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Dosa){ .md-button .md-button--primary }---
+[Browse the Dosa Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Dosa){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

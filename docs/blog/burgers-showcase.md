@@ -7,7 +7,9 @@ description: "**Burgers** footage captures food at its most cinematic — ideal 
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Burgers**
 
-[Browse the Burgers Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Burgers){ .md-button .md-button--primary }---
+[Browse the Burgers Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Burgers){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

@@ -7,7 +7,9 @@ description: "**Colonial Algae** visuals bring the invisible world to life — i
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Algae](../subcategories/algae.md) / **Colonial Algae**
 
-[Browse the Colonial Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Colonial+Algae){ .md-button .md-button--primary }---
+[Browse the Colonial Algae Collection](https://stockflow.media/?cat=Microscopic&sub=Algae&collection=Colonial+Algae){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

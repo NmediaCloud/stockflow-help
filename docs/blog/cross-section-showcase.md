@@ -7,7 +7,9 @@ description: "**Cross-Section** visuals bring the invisible world to life — id
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Cross-Section**
 
-[Browse the Cross-Section Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-Section){ .md-button .md-button--primary }---
+[Browse the Cross-Section Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-Section){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 

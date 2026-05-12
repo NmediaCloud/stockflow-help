@@ -7,7 +7,9 @@ description: "Download 57 professional Thai Curry assets — 4K MP4 video and 8K
 
 [Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Food Menu](../subcategories/food-menu.md) / **Thai Curry**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Thai+Curry){ .md-button .md-button--primary }This collection contains **57 assets** available in multiple resolutions and aspect ratios.
+[Browse on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Food+Menu&collection=Thai+Curry){ .md-button .md-button--primary }
+
+This collection contains **57 assets** available in multiple resolutions and aspect ratios.
 
 ---
 

@@ -7,7 +7,9 @@ description: "**Eukaryotic Cell** visuals bring the invisible world to life — 
 
 [Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Eukaryotic Cell**
 
-[Browse the Eukaryotic Cell Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Eukaryotic+Cell){ .md-button .md-button--primary }---
+[Browse the Eukaryotic Cell Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Eukaryotic+Cell){ .md-button .md-button--primary }
+
+---
 
 ## Introduction
 
