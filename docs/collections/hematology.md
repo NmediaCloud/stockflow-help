@@ -16,7 +16,7 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 ## 04 Pathology
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1015_01_Micro_12_Pathology_Blood_Hematology_Viron_Defici_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1015_01_Micro_12_Pathology_Blood_Hematology_Viron_Defici_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A peripheral blood smear displaying numerous pink, discoid red blood cells and s
 ## 05 Pathology
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1016_01_Micro_12V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1016_01_Micro_12V1_W_Mp4_preview.mp4">Preview video</a>
 </video>

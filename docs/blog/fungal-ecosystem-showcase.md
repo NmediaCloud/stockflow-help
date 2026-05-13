@@ -1,21 +1,21 @@
 ---
-title: "How to Use Fungal ecosystem Footage in Creative Projects | Stockflow.media"
-description: "**Fungal ecosystem** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Fungal Ecosystem Footage in Creative Projects | Stockflow.media"
+description: "**Fungal Ecosystem** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Fungal ecosystem Visuals in Your Creative Projects
+# How to Use Fungal Ecosystem Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Fungal ecosystem**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Fungal Ecosystem**
 
-[Browse the Fungal ecosystem Collection](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Fungal+ecosystem){ .md-button .md-button--primary }
+[Browse the Fungal Ecosystem Collection](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Fungal+Ecosystem){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Fungal ecosystem** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Fungal Ecosystem** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Fungal ecosystem** collection — 8 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Fungal Ecosystem** collection — 20 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -34,11 +34,11 @@ Microbial view of a wood surface covered with diverse fungi and spores forming a
 
 Close-up of a fungal ecosystem in decaying wood, showing hyphae, spores, and tiny fruiting bodies.
 
-## Why Fungal ecosystem Visuals Are in Demand
+## Why Fungal Ecosystem Visuals Are in Demand
 
 High-quality fungal ecosystem footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **8 assets** in this collection are:
+All **20 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Fungal+ecosystem)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Fungal+Ecosystem)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -84,9 +84,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Fungal ecosystem Collection
+## Explore the Full Fungal Ecosystem Collection
 
-Ready to add **Fungal ecosystem** visuals to your next project?
+Ready to add **Fungal Ecosystem** visuals to your next project?
 
-[Browse Fungal ecosystem on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Fungal+ecosystem){ .md-button .md-button--primary }
+[Browse Fungal Ecosystem on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Fungal+Ecosystem){ .md-button .md-button--primary }
 [View Collection Details](../collections/fungal-ecosystem.md){ .md-button }

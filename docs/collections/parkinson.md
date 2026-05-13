@@ -16,7 +16,7 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 ## 04 Neuropathology
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1083_01_Micro_26_Neuropathology_Parkinson_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1083_01_Micro_26_Neuropathology_Parkinson_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Micrograph depicts neural tissue with Parkinson-related pathology, showing aggre
 ## 05 Neuropathology
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1084_01_Micro_26_Neuropathology_Parkinson_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1084_01_Micro_26_Neuropathology_Parkinson_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A high-magnification view of brain tissue showing neuron networks, fibrous exten
 ## 06 Neuropathology
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1085_01_Micro_26_Neuropathology_Parkinson_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1085_01_Micro_26_Neuropathology_Parkinson_V_Mp4_preview.mp4">Preview video</a>
 </video>

@@ -52,7 +52,7 @@ Micro image of fungi penetrating food tissue, showing branched hyphae invading t
 ## 01 Fungal Penetration
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0644_01_Micro_04_Food_Fungi_07_Fungal_Penetration_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0644_01_Micro_04_Food_Fungi_07_Fungal_Penetration_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Close-up illustration of fungal filaments penetrating plant tissue, where yellow
 ## 02 Fungal Penetration
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0645_01_Micro_04_Food_Fungi_07_Fungal_Penetration_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0645_01_Micro_04_Food_Fungi_07_Fungal_Penetration_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Macro illustration of fungal hyphae penetrating a layered tissue, with bright or
 ## 03 Fungal Penetration
 **Resolution:**  | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0646_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V1_W_3840_201_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0646_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V1_W_3840_201_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A detailed cross-section of a blood vessel showing dense red tissue and a networ
 ## 04 Fungal Penetration
 **Resolution:**  | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0647_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V2_W_3840_202_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0647_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V2_W_3840_202_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ High fidelity micrograph of human skin cross-section highlighting epidermis, der
 ## 05 Fungal Penetration
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0648_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0648_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A highly detailed cross-section of a plant stem showing red vascular tissue with
 ## 06 Fungal Penetration
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0649_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0649_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A vivid microscopic view reveals branching cellular networks and clustered spher
 ## 07 Fungal Penetration
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0650_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0650_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A high-detail microscopic cross-section shows fungal networks penetrating tissue
 ## 08 Fungal Penetration
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0651_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0651_01_Micro_04_Food_Fungi_07_Fungal_Penetration_V_Mp4_preview.mp4">Preview video</a>
 </video>

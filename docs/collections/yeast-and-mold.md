@@ -1,15 +1,15 @@
 ---
-title: "yeast and mold Stock Footage and Images | Food Fungi | Stockflow.media"
-description: "Download 16 professional yeast and mold assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Fungi collection."
+title: "Yeast And Mold Stock Footage and Images | Food Fungi | Stockflow.media"
+description: "Download 22 professional Yeast And Mold assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Fungi collection."
 ---
 
-# yeast and mold
+# Yeast And Mold
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **yeast and mold**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Yeast And Mold**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=yeast+and+mold){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Yeast+And+Mold){ .md-button .md-button--primary }
 
-This collection contains **16 assets** available in multiple resolutions and aspect ratios.
+This collection contains **22 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -154,6 +154,78 @@ Macro shot of food mold growth showing fuzzy blue-green mold with round spores o
 ![8 Micro 04 Food Fungi 09 Mold Growth](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0359_01_Micro_04_Food_Fungi_09_mold_growth_W_02_Previews.webp)
 
 Mold growth on food: circular fuzzy blue-green colonies with white rims in a liquid surface among yellow pasta.
+
+---
+
+## 01 Yeast And Mold
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0652_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0652_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Macro shot of rod-shaped microbes clustered together, covered in powdery green filaments and spore-like particles, resting on a dark surface with scattered orange crumbs, suggesting a chaotic, textured microbial landscape.
+
+---
+
+## 02 Yeast And Mold
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0653_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0653_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Colorful clusters of mold colonies spread across a wooden surface, forming fuzzy, textured mats in red, orange, green hues with tiny spores and delicate filaments.
+
+---
+
+## 03 Yeast And Mold
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0654_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0654_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Macro photograph of vibrant mold colonies growing on a dark surface, displaying green and gray fuzzy filaments, clustered shapes, tiny granules, and scattered crumbs, with droplets adding contrast.
+
+---
+
+## 04 Yeast And Mold
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0655_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_V2_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0655_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_V2_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of vibrant microbial colonies growing on a surface, featuring orange and turquoise fuzzy textures, with tiny stalks and spores spreading across a damp, organic crust.
+
+---
+
+## 05 Yeast And Mold
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0656_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0656_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A macro shot of vibrant orange fungi colonies dotted with mint-green spores, showing textured surfaces and evolving mold growth on a decaying fruit, with tiny stalks and spores.
+
+---
+
+## 06 Yeast And Mold
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0657_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0657_01_Micro_04_Food_Fungi_08_Yeast_And_Mold_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Macro photograph of vibrant green fungal colonies spreading across a dark surface, revealing spongy textures, filaments, and powdery spores clustered at the base in dim lighting.
 
 ---
 

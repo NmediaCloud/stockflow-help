@@ -88,7 +88,7 @@ Histology of infectious tuberculosis with granulomatous inflammation, caseating 
 ## 01 Infectious
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1065_01_Micro_20_Infectious_Tuberculosis_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1065_01_Micro_20_Infectious_Tuberculosis_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Tuberculosis-related granulomatous tissue section showing scattered macrophages,
 ## 02 Infectious
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1066_01_Micro_20_Infectious_Tuberculosis_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1066_01_Micro_20_Infectious_Tuberculosis_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Histological view of a granulomatous lesion with central necrosis, surrounded by
 ## 03 Infectious
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1067_01_Micro_20_Infectious_Tuberculosis_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1067_01_Micro_20_Infectious_Tuberculosis_V_Mp4_preview.mp4">Preview video</a>
 </video>

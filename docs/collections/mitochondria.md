@@ -70,7 +70,7 @@ Micro-scale cellular mitochondrion with interconnected cristae glowing orange.
 ## 01 Mitochondria
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0167_01_Micro_01_Biological_Creatures_05_Mitochondria2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0167_01_Micro_01_Biological_Creatures_05_Mitochondria2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -82,7 +82,7 @@ A vivid 3D render of a mitochondrion showing stacked cristae and glowing interna
 ## 02 Mitochondria
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0168_01_Micro_01_Biological_Creatures_05_Mitochondria_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0168_01_Micro_01_Biological_Creatures_05_Mitochondria_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -94,7 +94,7 @@ A high-resolution, artistic cross-section of a mitochondrion, revealing the wrin
 ## 03 Mitochondria
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0169_01_Micro_01_Biological_Creatures_05_Mitochondria_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0169_01_Micro_01_Biological_Creatures_05_Mitochondria_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -106,7 +106,7 @@ A stunning 3D visualization of a coiled cellular power organelle, with blue spir
 ## 04 Mitochondria
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0170_01_Micro_01_Biological_Creatures_05_Mitochondria_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0170_01_Micro_01_Biological_Creatures_05_Mitochondria_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -118,7 +118,7 @@ A vibrant magnified view of a mitochondrion glowing with fiery inner membranes, 
 ## 05 Mitochondria
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0171_01_Micro_01_Biological_Creatures_05_Mitochondria_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0171_01_Micro_01_Biological_Creatures_05_Mitochondria_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -130,7 +130,7 @@ A highly detailed 3D rendering of a mitochondrion, showcasing its double membran
 ## 06 Mitochondria
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0172_01_Micro_01_Biological_Creatures_05_Mitochondria_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0172_01_Micro_01_Biological_Creatures_05_Mitochondria_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -142,7 +142,7 @@ Vibrant 3D depiction of a coiled mitochondrial-like structure, its blue membrane
 ## 07 Mitochondria
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0173_01_Micro_01_Biological_Creatures_05_Mitochondria_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0173_01_Micro_01_Biological_Creatures_05_Mitochondria_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -154,7 +154,7 @@ A vivid, glowing mitochondrion with stacked inner membranes, showcasing the cell
 ## 08 Mitochondria
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0174_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0174_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -166,7 +166,7 @@ A high-magnification view of blue, spiraling tubular filaments intertwined aroun
 ## 09 Mitochondria
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0175_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0175_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -178,7 +178,7 @@ A vivid 3D depiction of a mitochondrion, its folded inner membrane glowing orang
 ## 10 Mitochondria
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0176_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0176_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -190,7 +190,7 @@ A vivid micrographic scene showing a row of translucent, finger-like structures 
 ## 11 Mitochondria
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0177_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0177_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -202,7 +202,7 @@ A vivid, high-detail view of a mitochondrion, revealing the folded inner membran
 ## 12 Mitochondria
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0178_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0178_01_Micro_01_Biological_Creatures_05_Mitochondria_V_Mp4_preview.mp4">Preview video</a>
 </video>

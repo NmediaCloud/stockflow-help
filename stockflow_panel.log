@@ -1,4 +1,11 @@
-error: pathspec 'Stockflow' did not match any file(s) known to git
-error: pathspec 'help' did not match any file(s) known to git
-error: pathspec 'update"' did not match any file(s) known to git
-^C
+warning: in the working copy of 'overrides/main.html', LF will be replaced by CRLF the next time Git touches it
+error: RPC failed; HTTP 500 curl 22 The requested URL returned error: 500
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+'ns' is not recognized as an internal or external command,
+operable program or batch file.
+error: RPC failed; HTTP 500 curl 22 The requested URL returned error: 500
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date

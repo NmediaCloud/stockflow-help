@@ -16,7 +16,7 @@ This collection contains **12 assets** available in multiple resolutions and asp
 ## 01 Rhizopus Sporangia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0612_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0612_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Microscopic view of moldy food showing rhizopus sporangia rising on slender stal
 ## 02 Rhizopus Sporangia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0613_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0613_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Close-up of mold on food, displaying black sporangia atop slender stalks radiati
 ## 03 Rhizopus Sporangia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0614_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0614_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A close-up of a black mold colony with spherical sporangia connected by fine hyp
 ## 04 Rhizopus Sporangia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0615_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0615_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Close-up of a fuzzy fungal fruiting body with dark, spherical sporangia on slend
 ## 05 Rhizopus Sporangia
 **Resolution:**  | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0616_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V1_W_3840_192_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0616_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V1_W_3840_192_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Macro shot of Rhizopus sporangia—black spherical fruiting bodies atop slender 
 ## 06 Rhizopus Sporangia
 **Resolution:**  | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0617_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V2_W_3840_193_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0617_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V2_W_3840_193_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Macro view of fungal sporangia from Rhizopus on a food substrate, showing delica
 ## 07 Rhizopus Sporangia
 **Resolution:**  | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0618_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V3_W_3840_194_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0618_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V3_W_3840_194_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Close-up of Rhizopus mold with dense clusters of black sporangia atop a network 
 ## 08 Rhizopus Sporangia
 **Resolution:**  | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0619_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V4_W_3840_195_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0619_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V4_W_3840_195_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Close-up of Rhizopus sporangia on a mold fruiting body, featuring fuzzy hyphae a
 ## 09 Rhizopus Sporangia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0620_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0620_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A close-up of mold on food reveals Rhizopus sporangia in a delicate network of h
 ## 10 Rhizopus Sporangia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0621_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0621_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Macro shot of Rhizopus mold on food, revealing black sporangia on slender stalks
 ## 11 Rhizopus Sporangia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0622_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0622_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A close-up of black, bead-like sporangia and tangled hyphae of Rhizopus mold, fo
 ## 12 Rhizopus Sporangia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0623_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0623_01_Micro_04_Food_Fungi_04_Rhizopus_Sporangia_V_Mp4_preview.mp4">Preview video</a>
 </video>

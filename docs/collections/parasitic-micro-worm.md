@@ -16,7 +16,7 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 ## 01 Parasitic Micro Worm
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0690_01_Micro_05_Worms_02_Parasitic_Micro_Worm_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0690_01_Micro_05_Worms_02_Parasitic_Micro_Worm_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Microscopic view of a parasitic micro-worm, showing a coiled, segmented circular
 ## 02 Parasitic Micro Worm
 **Resolution:** 3840x21 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0691_01_Micro_05_Worms_02_Parasitic_Micro_Worm_V1_W_60_213_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0691_01_Micro_05_Worms_02_Parasitic_Micro_Worm_V1_W_60_213_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A high-fidelity micrograph of a parasitic worm cross-section embedded in host ti
 ## 03 Parasitic Micro Worm
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0692_01_Micro_05_Worms_02_Parasitic_Micro_Worm_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0692_01_Micro_05_Worms_02_Parasitic_Micro_Worm_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Histological image of a coiled parasitic worm in host tissue, showing segmented 
 ## 04 Parasitic Micro Worm
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0693_01_Micro_05_Worms_02_Parasitic_Micro_Worm_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0693_01_Micro_05_Worms_02_Parasitic_Micro_Worm_V_Mp4_preview.mp4">Preview video</a>
 </video>

@@ -79,7 +79,7 @@ Micro waterborne diatom viewed under magnification.
 ## 01 Diatom
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0328_01_Micro_02_Waterborne_07_Diatom2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0328_01_Micro_02_Waterborne_07_Diatom2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -91,7 +91,7 @@ A highly detailed, magnified image of a diatom, a tiny silica-shelled microalga,
 ## 02 Diatom
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0329_01_Micro_02_Waterborne_07_Diatom_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0329_01_Micro_02_Waterborne_07_Diatom_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -103,7 +103,7 @@ A micro sized diatom with a intricate ribbed silica shell visible under magnific
 ## 03 Diatom
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0330_01_Micro_02_Waterborne_07_Diatom_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0330_01_Micro_02_Waterborne_07_Diatom_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -115,7 +115,7 @@ A highly detailed diatom micrograph revealing its intricate, lattice-like frustu
 ## 04 Diatom
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0331_01_Micro_02_Waterborne_07_Diatom_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0331_01_Micro_02_Waterborne_07_Diatom_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -127,7 +127,7 @@ A close-up of a micro waterborne diatom, showcasing its intricate golden silica 
 ## 05 Diatom
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0332_01_Micro_02_Waterborne_07_Diatom_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0332_01_Micro_02_Waterborne_07_Diatom_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -139,7 +139,7 @@ Close-up view of a diatom, a tiny freshwater microorganism with ornate silica sh
 ## 06 Diatom
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0333_01_Micro_02_Waterborne_07_Diatom_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0333_01_Micro_02_Waterborne_07_Diatom_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -151,7 +151,7 @@ A highly detailed micrograph of a diatom, a waterborne algae cell, showcasing it
 ## 07 Diatom
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0334_01_Micro_02_Waterborne_07_Diatom_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0334_01_Micro_02_Waterborne_07_Diatom_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -163,7 +163,7 @@ A highly detailed close-up of a diatom, featuring a patterned silica shell with 
 ## 08 Diatom
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0335_01_Micro_02_Waterborne_07_Diatom_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0335_01_Micro_02_Waterborne_07_Diatom_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -175,7 +175,7 @@ A close-up of a diatom, a microalga with an ornate silica shell, suspended in wa
 ## 09 Diatom
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0336_01_Micro_02_Waterborne_07_Diatom_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0336_01_Micro_02_Waterborne_07_Diatom_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -187,7 +187,7 @@ A detailed close-up view of a green diatom, a microscopic aquatic algae, with in
 ## 10 Diatom
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0337_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0337_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -199,7 +199,7 @@ Intricate diatom under magnification, a microscopic waterborne algae with a gold
 ## 11 Diatom
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0338_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0338_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -211,7 +211,7 @@ A close-up of a diatom, revealing intricate, lattice-like silica shells and micr
 ## 12 Diatom
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0339_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0339_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -223,7 +223,7 @@ A close-up of a waterborne diatom, revealing its ornate silica shell with lattic
 ## 13 Diatom
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0340_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0340_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -235,7 +235,7 @@ Micro waterborne diatoms showcase intricate honeycomb-like silica shells, with v
 ## 14 Diatom
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0341_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0341_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -247,7 +247,7 @@ Macro image of a green, intricately patterned diatom gliding through a blue micr
 ## 15 Diatom
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0342_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0342_01_Micro_02_Waterborne_07_Diatom_V_Mp4_preview.mp4">Preview video</a>
 </video>

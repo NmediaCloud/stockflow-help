@@ -124,7 +124,7 @@ White mycelium threads spreading across decaying wood, forming a delicate, web-l
 ## 01 Mycelium
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0826_01_Micro_08_Fungi_04_Mycelium_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0826_01_Micro_08_Fungi_04_Mycelium_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A close-up of delicate, white mycelial networks weaving beneath cracked bark, wi
 ## 02 Mycelium
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0827_01_Micro_08_Fungi_04_Mycelium_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0827_01_Micro_08_Fungi_04_Mycelium_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A delicate white fungal mycelium forms a lace-like network weaving through dark 
 ## 03 Mycelium
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0828_01_Micro_08_Fungi_04_Mycelium_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0828_01_Micro_08_Fungi_04_Mycelium_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Delicate white mycelial networks weave through dark, decaying bark, forming lace
 ## 04 Mycelium
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0829_01_Micro_08_Fungi_04_Mycelium_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0829_01_Micro_08_Fungi_04_Mycelium_V_Mp4_preview.mp4">Preview video</a>
 </video>

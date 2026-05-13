@@ -16,7 +16,7 @@ This collection contains **7 assets** available in multiple resolutions and aspe
 ## 01 Eukaryotic Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0191_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0191_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A vivid cross-section of a eukaryotic cell reveals colored organelles like mitoc
 ## 02 Eukaryotic Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0192_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0192_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A high-detail visualization of a eukaryotic cell, featuring a glowing nucleus, o
 ## 03 Eukaryotic Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0193_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0193_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A neon, cross-section illustration of a eukaryotic cell, showcasing vivid organe
 ## 04 Eukaryotic Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0194_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0194_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Vivid micro-scale illustration of a eukaryotic cell, showcasing intricate organe
 ## 05 Eukaryotic Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0195_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0195_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A highly detailed, colorized image of a cellular landscape featuring a glowing c
 ## 06 Eukaryotic Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0196_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0196_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A vibrant microscopic scene depicting a glowing central cell surrounded by layer
 ## 07 Eukaryotic Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0197_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0197_01_Micro_01_Biological_Creatures_07_Eukaryotic_Cell_Under_V_Mp4_preview.mp4">Preview video</a>
 </video>

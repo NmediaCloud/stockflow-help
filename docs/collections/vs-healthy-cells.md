@@ -16,7 +16,7 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 ## 03 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0910_01_Micro_10_Cancer_Cell_01_Vs_Healthy_Cells_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0910_01_Micro_10_Cancer_Cell_01_Vs_Healthy_Cells_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Micrograph comparison shows healthy pink cells contrasted with invasive cancer c
 ## 04 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0911_01_Micro_10_Cancer_Cell_01_Vs_Healthy_Cells_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0911_01_Micro_10_Cancer_Cell_01_Vs_Healthy_Cells_V_Mp4_preview.mp4">Preview video</a>
 </video>

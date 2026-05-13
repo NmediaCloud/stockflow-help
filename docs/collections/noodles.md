@@ -16,7 +16,7 @@ This collection contains **23 assets** available in multiple resolutions and asp
 ## 15 Shops Noodle 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000410_15_Shops_Noodle_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000410_15_Shops_Noodle_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Steaming bowl of shrimp noodle stir-fry with colorful vegetables and greens.
 ## 15 Shops Noodle 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000411_15_Shops_Noodle_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000411_15_Shops_Noodle_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A steaming bowl of noodle stir-fry with shrimp, red and yellow peppers, and gree
 ## 15 Shops Noodle 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000412_15_Shops_Noodle_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000412_15_Shops_Noodle_S_03_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Delicious bowl of noodles with shrimp and colorful vegetables, steam rising for 
 ## 15 Shops Noodle 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000413_15_Shops_Noodle_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000413_15_Shops_Noodle_S_04_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Delicious stir-fried noodle bowl with shrimp, peppers, and greens.
 ## 15 Shops Noodle 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000414_15_Shops_Noodle_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000414_15_Shops_Noodle_V_01_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ High-quality image of a shrimp noodle dish with colorful peppers, greens, and st
 ## 15 Shops Noodle 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000415_15_Shops_Noodle_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000415_15_Shops_Noodle_V_02_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A sizzling shrimp noodle dish with vibrant vegetables in a dark bowl, steam risi
 ## 15 Shops Noodle 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000416_15_Shops_Noodle_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000416_15_Shops_Noodle_V_03_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A vibrant bowl of stir-fried noodles with shrimp, colorful peppers and green oni
 ## 15 Shops Noodle 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000417_15_Shops_Noodle_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000417_15_Shops_Noodle_V_04_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Delicious shrimp noodle dish with colorful peppers and greens.
 ## 15 Shops Noodle 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000418_15_Shops_Noodle_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000418_15_Shops_Noodle_W_01_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Sizzling noodles held by chopsticks, glossy with sauce and loaded with vegetable
 ## 15 Shops Noodle 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000419_15_Shops_Noodle_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000419_15_Shops_Noodle_W_02_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Close-up of glossy stir-fried noodles with sesame seeds and vegetables, lifted b
 ## 15 Shops Noodle 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000420_15_Shops_Noodle_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000420_15_Shops_Noodle_W_03_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A glossy stir-fried noodle dish with peppers, onions and sesame seeds, lifted by
 ## 15 Shops Noodle 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000421_15_Shops_Noodle_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000421_15_Shops_Noodle_W_04_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A glossy stir-fried noodle dish with sesame seeds, vegetables, and chopsticks.
 ## 15 Shops Noodle 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000422_15_Shops_Noodle_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000422_15_Shops_Noodle_W_05_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A steaming bowl of noodle soup with meatballs, fresh herbs, bean sprouts, and li
 ## 15 Shops Noodle 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000423_15_Shops_Noodle_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000423_15_Shops_Noodle_W_06_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A steaming bowl of noodle soup with meatballs, fresh herbs, lime, and crushed pe
 ## 15 Shops Noodle 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000424_15_Shops_Noodle_W_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000424_15_Shops_Noodle_W_07_preview.mp4">Preview video</a>
 </video>

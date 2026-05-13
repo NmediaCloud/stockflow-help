@@ -16,7 +16,7 @@ This collection contains **5 assets** available in multiple resolutions and aspe
 ## 27 Pollen
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1001_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1001_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Macro close-up of lavender buds covered in a dreamy dew coating, sparkling with 
 ## 28 Pollen
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1002_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1002_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Macro close-up of lavender pollen coated buds, dew drops sparkling on tiny purpl
 ## 29 Pollen
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1003_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1003_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A close-up macro of purple lavender buds, glistening with dew droplets, highligh
 ## 30 Pollen
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1004_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1004_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Macro close-up of lavender buds coated with shimmering dew droplets, capturing a
 ## 31 Pollen
 **Resolution:** 4096x2304 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1005_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_V_1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1005_01_Micro_11_Pollen_09_Lavender_Pollen_Dreamy_Coating_V_1_W_Mp4_preview.mp4">Preview video</a>
 </video>

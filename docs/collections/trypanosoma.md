@@ -124,7 +124,7 @@ Color-enhanced illustration of a Trypanosoma parasite swimming through a blood v
 ## 01 Trypanosoma
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0890_01_Micro_09_Parasite_08_Trypanosoma_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0890_01_Micro_09_Parasite_08_Trypanosoma_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Close-up illustration of a trypanosome parasite within a blood vessel, highlight
 ## 02 Trypanosoma
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0891_01_Micro_09_Parasite_08_Trypanosoma_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0891_01_Micro_09_Parasite_08_Trypanosoma_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Illustration of a slender parasite trypanosome swimming through a blood vessel, 
 ## 03 Trypanosoma
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0892_01_Micro_09_Parasite_08_Trypanosoma_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0892_01_Micro_09_Parasite_08_Trypanosoma_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A vivid cross-section of a red blood vessel reveals a twisting parasitic organis
 ## 04 Trypanosoma
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0893_01_Micro_09_Parasite_08_Trypanosoma_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0893_01_Micro_09_Parasite_08_Trypanosoma_V_Mp4_preview.mp4">Preview video</a>
 </video>

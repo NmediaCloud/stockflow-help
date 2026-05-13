@@ -88,7 +88,7 @@ Histopathology image of cervical squamous cells showing koilocytosis and HPV-ass
 ## 04 Histopathology
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1046_01_Micro_14_Histopathology_Cervical_Cells_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1046_01_Micro_14_Histopathology_Cervical_Cells_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Histopathology image of cervical cells at micro level, displaying numerous purpl
 ## 5 Histopathology
 **Resolution:** 3840x21 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1047_01_Micro_14_Histopathology_Cervical_Cells_V1_W_60_326_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1047_01_Micro_14_Histopathology_Cervical_Cells_V1_W_60_326_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Histopathology micrograph of cervical cells showing scattered nuclei and pink-st
 ## 6 Histopathology
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1048_01_Micro_14_Histopathology_Cervical_Cells_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1048_01_Micro_14_Histopathology_Cervical_Cells_V_Mp4_preview.mp4">Preview video</a>
 </video>

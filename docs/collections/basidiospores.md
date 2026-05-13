@@ -124,7 +124,7 @@ Close-up of a mushroom underside with droplets hanging from the gills, highlight
 ## 01 Basidiospores
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0822_01_Micro_08_Fungi_03_Basidiospores_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0822_01_Micro_08_Fungi_03_Basidiospores_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A close-up of a mushroom underside releasing shimmering basidiospores, capturing
 ## 02 Basidiospores
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0823_01_Micro_08_Fungi_03_Basidiospores_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0823_01_Micro_08_Fungi_03_Basidiospores_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A close-up of a mushroom cap releasing countless tiny basidiospores into the air
 ## 03 Basidiospores
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0824_01_Micro_08_Fungi_03_Basidiospores_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0824_01_Micro_08_Fungi_03_Basidiospores_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Two brown leather shoes pressed together, captured in macro detail, with water d
 ## 04 Basidiospores
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0825_01_Micro_08_Fungi_03_Basidiospores_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0825_01_Micro_08_Fungi_03_Basidiospores_V_Mp4_preview.mp4">Preview video</a>
 </video>

@@ -16,7 +16,7 @@ This collection contains **44 assets** available in multiple resolutions and asp
 ## 14 Shops Chiken Fry 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000385_14_Shops_Chiken_Fry_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000385_14_Shops_Chiken_Fry_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Crispy fried chicken pieces in a basket with a side of slaw.
 ## 14 Shops Chiken Fry 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000386_14_Shops_Chiken_Fry_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000386_14_Shops_Chiken_Fry_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Crispy fried chicken pieces with a crunchy, seasoned coating, served on parchmen
 ## 14 Shops Chiken Fry 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000387_14_Shops_Chiken_Fry_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000387_14_Shops_Chiken_Fry_S_03_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Crispy fried chicken pieces arranged in a basket with shredded coleslaw.
 ## 14 Shops Chiken Fry 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000388_14_Shops_Chiken_Fry_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000388_14_Shops_Chiken_Fry_S_04_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Crispy fried chicken pieces served with a tangy slaw in a rustic presentation.
 ## 14 Shops Chiken Fry 05
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000389_14_Shops_Chiken_Fry_S_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000389_14_Shops_Chiken_Fry_S_05_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Crispy fried chicken tenders with a side of fries in a basket, a small dipping s
 ## 14 Shops Chiken Fry 06
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000390_14_Shops_Chiken_Fry_S_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000390_14_Shops_Chiken_Fry_S_06_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Crispy fried chicken bites with a side of fries and a dipping sauce, served on a
 ## 14 Shops Chiken Fry 07
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000391_14_Shops_Chiken_Fry_S_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000391_14_Shops_Chiken_Fry_S_07_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Crispy fried chicken bites stacked on a plate, garnished with microgreens and se
 ## 14 Shops Chiken Fry 08
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000392_14_Shops_Chiken_Fry_S_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000392_14_Shops_Chiken_Fry_S_08_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Crispy sesame-coated fried chicken bites piled high on a plate.
 ## 14 Shops Chiken Fry 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000393_14_Shops_Chiken_Fry_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000393_14_Shops_Chiken_Fry_V_01_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Crispy fried chicken pieces piled in a basket with a side of shredded slaw in th
 ## 14 Shops Chiken Fry 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000394_14_Shops_Chiken_Fry_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000394_14_Shops_Chiken_Fry_V_02_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Golden, crispy fried chicken bites served with vibrant coleslaw on the side.
 ## 14 Shops Chiken Fry 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000395_14_Shops_Chiken_Fry_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000395_14_Shops_Chiken_Fry_V_03_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Crispy fried chicken pieces piled in a basket with a side of colorful slaw in th
 ## 14 Shops Chiken Fry 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000396_14_Shops_Chiken_Fry_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000396_14_Shops_Chiken_Fry_V_04_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Crispy fried chicken pieces arranged in a basket with a side of coleslaw.
 ## 14 Shops Chiken Fry 05
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000397_14_Shops_Chiken_Fry_V_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000397_14_Shops_Chiken_Fry_V_05_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Cripsy fried chicken bites served in a metal basket with a side dipping sauce an
 ## 14 Shops Chiken Fry 06
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000398_14_Shops_Chiken_Fry_V_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000398_14_Shops_Chiken_Fry_V_06_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Plate of seasoned french fries topped with microgreens, paired with a plate of c
 ## 14 Shops Chiken Fry 07
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000399_14_Shops_Chiken_Fry_V_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000399_14_Shops_Chiken_Fry_V_07_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Crispy gourmet fried chicken bites on a white plate with a dipping sauce and fre
 ## 14 Shops Chiken Fry 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000400_14_Shops_Chiken_Fry_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000400_14_Shops_Chiken_Fry_W_01_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ Crispy fried chicken served with fries and dipping sauces on a rustic wooden tab
 ## 14 Shops Chiken Fry 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000401_14_Shops_Chiken_Fry_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000401_14_Shops_Chiken_Fry_W_02_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ High-quality image of crispy fried chicken served in a basket.
 ## 14 Shops Chiken Fry 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000402_14_Shops_Chiken_Fry_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000402_14_Shops_Chiken_Fry_W_03_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ Delicious plate of crispy fried chicken bites with fries, dipping sauces, and a 
 ## 14 Shops Chiken Fry 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000403_14_Shops_Chiken_Fry_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000403_14_Shops_Chiken_Fry_W_04_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ Crispy fried chicken pieces on a dark plate with a small dipping sauce, garnishe
 ## 14 Shops Chiken Fry 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000404_14_Shops_Chiken_Fry_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000404_14_Shops_Chiken_Fry_W_05_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Golden fried chicken with French fries served in a paper cup, crispy, indulgent 
 ## 14 Shops Chiken Fry 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000405_14_Shops_Chiken_Fry_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000405_14_Shops_Chiken_Fry_W_06_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ Crispy fried chicken pieces in a wire basket with parchment, ready to eat.
 ## 14 Shops Chiken Fry 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000406_14_Shops_Chiken_Fry_W_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000406_14_Shops_Chiken_Fry_W_07_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Crispy fried chicken strips stacked on a dark plate with a creamy dipping sauce 
 ## 14 Shops Chiken Fry 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000407_14_Shops_Chiken_Fry_W_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000407_14_Shops_Chiken_Fry_W_08_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ High-quality image of crispy fried chicken with fries and greens on a dark plate
 ## 14 Shops Chiken Fry 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000408_14_Shops_Chiken_Fry_W_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000408_14_Shops_Chiken_Fry_W_09_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ Delicious fried chicken bites served with a basket of crispy fries, two dipping 
 ## 14 Shops Chiken Fry 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000409_14_Shops_Chiken_Fry_W_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000409_14_Shops_Chiken_Fry_W_10_preview.mp4">Preview video</a>
 </video>

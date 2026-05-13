@@ -124,7 +124,7 @@ Close-up of parasitic worms entwined around a plant stem and root tissue.
 ## 01 Parasitic Worms
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0704_01_Micro_05_Worms_06_Parasitic_Worms_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0704_01_Micro_05_Worms_06_Parasitic_Worms_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Macro illustration of microscopic parasitic worms tangled within host tissue, hi
 ## 02 Parasitic Worms
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0705_01_Micro_05_Worms_06_Parasitic_Worms_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0705_01_Micro_05_Worms_06_Parasitic_Worms_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Detailed 3D illustration of parasitic worms entwined around a nerve or tissue, h
 ## 03 Parasitic Worms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0706_01_Micro_05_Worms_06_Parasitic_Worms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0706_01_Micro_05_Worms_06_Parasitic_Worms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Cross-section view reveals purple parasitic worms weaving through beige tissue, 
 ## 04 Parasitic Worms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0707_01_Micro_05_Worms_06_Parasitic_Worms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0707_01_Micro_05_Worms_06_Parasitic_Worms_V_Mp4_preview.mp4">Preview video</a>
 </video>

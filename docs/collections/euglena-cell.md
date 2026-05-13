@@ -1,13 +1,13 @@
 ---
-title: "Euglena cell Stock Footage and Images | Waterborne | Stockflow.media"
-description: "Download 9 professional Euglena cell assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Waterborne collection."
+title: "Euglena Cell Stock Footage and Images | Waterborne | Stockflow.media"
+description: "Download 9 professional Euglena Cell assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Waterborne collection."
 ---
 
-# Euglena cell
+# Euglena Cell
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Euglena cell**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Euglena Cell**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Euglena+cell){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Euglena+Cell){ .md-button .md-button--primary }
 
 This collection contains **9 assets** available in multiple resolutions and aspect ratios.
 

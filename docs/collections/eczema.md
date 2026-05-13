@@ -88,7 +88,7 @@ Skin biopsy showing epidermal spongiosis with inflammatory infiltrate consistent
 ## 01 Dermatopathology
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0969_01_Micro_10_Dermatopathology_Eczema_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0969_01_Micro_10_Dermatopathology_Eczema_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Histopathologic image of dermal inflammation showing eosinophils and lymphocytes
 ## 02 Dermatopathology
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0970_01_Micro_10_Dermatopathology_Eczema_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0970_01_Micro_10_Dermatopathology_Eczema_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Dermatopathology slide showing inflammatory infiltrate in dermis with dispersed 
 ## 03 Dermatopathology
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0971_01_Micro_10_Dermatopathology_Eczema_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0971_01_Micro_10_Dermatopathology_Eczema_V_Mp4_preview.mp4">Preview video</a>
 </video>

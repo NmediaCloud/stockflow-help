@@ -16,7 +16,7 @@ This collection contains **59 assets** available in multiple resolutions and asp
 ## 17 Stake 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000425_17_Stake_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000425_17_Stake_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Grilled steak with crosshatch marks, topped with blue cheese butter, salt flakes
 ## 17 Stake 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000426_17_Stake_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000426_17_Stake_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Gourmet steak dinner featuring a perfectly seared beef fillet, rosemary garnish,
 ## 17 Stake 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000427_17_Stake_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000427_17_Stake_S_03_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Juicy grilled steak slices topped with herb butter and a rosemary sprig, finishe
 ## 17 Stake 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000428_17_Stake_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000428_17_Stake_S_04_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A succulent steak with herb butter and glossy sauce, paired with roasted potatoe
 ## 17 Stake 05
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000429_17_Stake_S_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000429_17_Stake_S_05_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A succulent seared steak on a glossy sauce, garnished with rosemary, accompanied
 ## 17 Stake 06
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000430_17_Stake_S_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000430_17_Stake_S_06_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Juicy grilled steak topped with blue cheese butter and fresh rosemary on a woode
 ## 17 Stake 07
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000431_17_Stake_S_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000431_17_Stake_S_07_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A premium steak topped with rosemary, accompanied by roasted vegetables on a dar
 ## 17 Stake 08
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000432_17_Stake_S_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000432_17_Stake_S_08_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Juicy grilled steak with charred grill marks, topped with herb butter and a spri
 ## 17 Stake 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000433_17_Stake_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000433_17_Stake_V_01_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Juicy grilled steak topped with blue cheese herb butter on a wooden board, seaso
 ## 17 Stake 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000434_17_Stake_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000434_17_Stake_V_02_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Juicy steak on a wooden board, topped with herb butter and a rosemary garnish, w
 ## 17 Stake 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000435_17_Stake_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000435_17_Stake_V_03_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Juicy grilled steak on a rustic board, topped with blue cheese, rosemary, and a 
 ## 17 Stake 04
 **Resolution:** 2128x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000436_17_Stake_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000436_17_Stake_V_04_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A beautifully plated steak with rosemary garnish, colorful roasted vegetables, m
 ## 17 Stake 05
 **Resolution:** 2128x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000437_17_Stake_V_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000437_17_Stake_V_05_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A perfectly seared steak with rosemary, roasted potatoes, and greens on a dark p
 ## 17 Stake 06
 **Resolution:** 2128x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000438_17_Stake_V_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000438_17_Stake_V_06_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A perfectly seared steak plated with sauces and herbs, accompanied by roasted ve
 ## 17 Stake 07
 **Resolution:** 2128x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000439_17_Stake_V_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000439_17_Stake_V_07_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ A premium plated steak with roasted vegetables and rosemary garnish, paired with
 ## 17 Stake 08
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000440_17_Stake_V_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000440_17_Stake_V_08_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A thick, grilled steak topped with herb butter and a sprig of rosemary on a wood
 ## 17 Stake 01
 **Resolution:** 3896x2120 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000441_17_Stake_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000441_17_Stake_W_01_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ A perfectly seared steak on a slate plate with grilled cherry tomatoes, rosemary
 ## 17 Stake 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000442_17_Stake_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000442_17_Stake_W_02_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ A perfectly seared steak on a wooden board, garnished with butter and rosemary, 
 ## 17 Stake 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000443_17_Stake_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000443_17_Stake_W_03_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ Juicy grilled steak on a wooden board, topped with butter and rosemary, with roa
 ## 17 Stake 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000444_17_Stake_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000444_17_Stake_W_04_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Juicy grilled steak on a wooden board with roasted potatoes, garlic, and fresh r
 ## 17 Stake 05
 **Resolution:** 3896x2120 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000445_17_Stake_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000445_17_Stake_W_05_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ A plated steak with rich sauce and rosemary garnish, accompanied by roasted vege
 ## 17 Stake 06
 **Resolution:** 3896x2128 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000446_17_Stake_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000446_17_Stake_W_06_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Juicy steak with a rosemary garnish, accompanied by roasted vegetables and a ric
 ## 17 Stake 07
 **Resolution:** 3896x2120 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000447_17_Stake_W_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000447_17_Stake_W_07_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ A succulent grilled steak finished with herbs, served with a rich sauce and a si
 ## 17 Stake 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000448_17_Stake_W_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000448_17_Stake_W_08_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ Juicy grilled steak on a wooden board with roasted potatoes, garlic, and fresh r
 ## 17 Stake 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000449_17_Stake_W_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000449_17_Stake_W_09_preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ Succulent grilled steak on a wooden board, topped with butter and rosemary, with
 ## 17 Stake 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000450_17_Stake_W_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000450_17_Stake_W_10_preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ A perfectly seared steak resting on a wooden board, topped with butter and rosem
 ## 17 Stake 11
 **Resolution:** 3896x2120 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000451_17_Stake_W_11_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000451_17_Stake_W_11_preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ A perfectly cooked steak with a herb garnish, plated with roasted vegetables and
 ## 17 Stake 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000452_17_Stake_W_12_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000452_17_Stake_W_12_preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ A high-quality plated steak with rosemary garnish, accompanied by roasted potato
 ## 17 Stake 13
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000453_17_Stake_W_13_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000453_17_Stake_W_13_preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ Juicy grilled steak with rosemary, paired with roasted vegetables and a rich sau
 ## 17 Stake 14
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000454_17_Stake_W_14_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000454_17_Stake_W_14_preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ Succulent grilled steak topped with butter and fresh rosemary, served with roast
 ## 17 Stake 15
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000455_17_Stake_W_15_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000455_17_Stake_W_15_preview.mp4">Preview video</a>
 </video>

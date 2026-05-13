@@ -1,23 +1,23 @@
 ---
-title: "How to Use Single-Celled Footage in Creative Projects | Stockflow.media"
-description: "**Single-Celled** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Single-celled Footage in Creative Projects | Stockflow.media"
+description: "**Single-celled** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Single-Celled Visuals in Your Creative Projects
+# How to Use Single-celled Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **Single-Celled**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **Single-celled**
 
-[Browse the Single-Celled Collection](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Single-Celled){ .md-button .md-button--primary }
+[Browse the Single-celled Collection](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Single-celled){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Single-Celled** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Single-celled** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Single-Celled** collection — 16 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Single-celled** collection — 16 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Single-Celled Visuals Are in Demand
+## Why Single-celled Visuals Are in Demand
 
 High-quality single-celled footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
@@ -43,7 +43,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Single-Celled)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Single-celled)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +67,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Single-Celled Collection
+## Explore the Full Single-celled Collection
 
-Ready to add **Single-Celled** visuals to your next project?
+Ready to add **Single-celled** visuals to your next project?
 
-[Browse Single-Celled on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Single-Celled){ .md-button .md-button--primary }
+[Browse Single-celled on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Single-celled){ .md-button .md-button--primary }
 [View Collection Details](../collections/single-celled.md){ .md-button }

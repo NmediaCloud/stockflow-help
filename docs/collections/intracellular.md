@@ -88,7 +88,7 @@ Colorful microscopic scene of the intracellular environment with orange bacteria
 ## 01 Intracellular Environment
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0138_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0138_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A vivid microscopic scene inside a cell shows a green, elongated organism with i
 ## 02 Intracellular Environment
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0139_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0139_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A detailed close-up of a mitochondrion inside a cell, with wavy inner membranes 
 ## 03 Intracellular Environment
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0140_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0140_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A vibrant microscopic scene shows a tubular cell filled with blue organelles, su
 ## 04 Intracellular Environment
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0141_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0141_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A vibrant 3D microscopic landscape reveals glowing cellular structures and organ
 ## 05 Intracellular Environment
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0142_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0142_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A vivid microscopic scene shows colorful bacteria and cellular structures drifti
 ## 06 Intracellular Environment
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0143_01_Micro_01_Biological_Creatures_03_Intracellular_Environment2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0143_01_Micro_01_Biological_Creatures_03_Intracellular_Environment2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A vivid illustration of an intracellular organelle with spiraling DNA inside a m
 ## 07 Intracellular Environment
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0144_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0144_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A detailed 3D rendering shows mitochondria arranged along a filament inside a gr
 ## 08 Intracellular Environment
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0145_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0145_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A vivid microscopic view of a cell's mitochondrion with internal folds and surro
 ## 09 Intracellular Environment
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0146_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0146_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ A vivid microscopic scene shows a single, elongated cell filled with blue vesicl
 ## 10 Intracellular Environment
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0147_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0147_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ Colorful, high-detail view of an intracellular landscape: dynamic membranes, mit
 ## 11 Intracellular Environment
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0148_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0148_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Artistically rendered microscopic scene showing tiny biological creatures in a c
 ## 12 Intracellular Environment
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0149_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0149_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ An elongated, translucent cell holds a cluster of blue spheres, drifting among v
 ## 13 Intracellular Environment
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0150_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0150_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A vivid microscopic scene showcasing colorful cellular structures and organelles
 ## 14 Intracellular Environment
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0151_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0151_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ A vivid microcosm of cellular life, showcasing curled blue mitochondria and glow
 ## 15 Intracellular Environment
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0152_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0152_01_Micro_01_Biological_Creatures_03_Intracellular_Environment_V_Mp4_preview.mp4">Preview video</a>
 </video>

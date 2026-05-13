@@ -1,21 +1,21 @@
 ---
-title: "How to Use yeast and mold Footage in Creative Projects | Stockflow.media"
-description: "**yeast and mold** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Yeast And Mold Footage in Creative Projects | Stockflow.media"
+description: "**Yeast And Mold** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use yeast and mold Visuals in Your Creative Projects
+# How to Use Yeast And Mold Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **yeast and mold**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Yeast And Mold**
 
-[Browse the yeast and mold Collection](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=yeast+and+mold){ .md-button .md-button--primary }
+[Browse the Yeast And Mold Collection](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Yeast+And+Mold){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**yeast and mold** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Yeast And Mold** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **yeast and mold** collection — 16 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Yeast And Mold** collection — 22 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -34,11 +34,11 @@ Close-up of colorful mold colonies (green, orange, yellow) growing on a food sur
 
 Close-up of green and white yeast and mold colonies powdering a wooden surface.
 
-## Why yeast and mold Visuals Are in Demand
+## Why Yeast And Mold Visuals Are in Demand
 
 High-quality yeast and mold footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **16 assets** in this collection are:
+All **22 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=yeast+and+mold)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Yeast+And+Mold)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -84,9 +84,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full yeast and mold Collection
+## Explore the Full Yeast And Mold Collection
 
-Ready to add **yeast and mold** visuals to your next project?
+Ready to add **Yeast And Mold** visuals to your next project?
 
-[Browse yeast and mold on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=yeast+and+mold){ .md-button .md-button--primary }
+[Browse Yeast And Mold on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Yeast+And+Mold){ .md-button .md-button--primary }
 [View Collection Details](../collections/yeast-and-mold.md){ .md-button }

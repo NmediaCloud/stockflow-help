@@ -16,7 +16,7 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 ## 18 Cellular
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1037_01_Micro_14_Cellular_15_Lysosomes_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1037_01_Micro_14_Cellular_15_Lysosomes_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A detailed micro view of a cell interior highlighting the lysosome and surroundi
 ## 19 Cellular
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1038_01_Micro_14_Cellular_15_Lysosomes_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1038_01_Micro_14_Cellular_15_Lysosomes_W_Mp4_preview.mp4">Preview video</a>
 </video>

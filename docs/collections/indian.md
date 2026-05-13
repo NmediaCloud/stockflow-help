@@ -295,7 +295,7 @@ interior of a vibrant restaurant with ornate decor and warm lighting
 ## 11 Indian 01
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00211_11_Indian_S_01_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00211_11_Indian_S_01_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -307,7 +307,7 @@ luxurious restaurant interior with ornate blue decor and ambient lighting
 ## 11 Indian 02
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00212_11_Indian_S_02_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00212_11_Indian_S_02_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -319,7 +319,7 @@ interior of a vibrant restaurant with ornate decor and warm lighting
 ## 11 Indian 03
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00213_11_Indian_S_03_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00213_11_Indian_S_03_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -331,7 +331,7 @@ interior of a vibrant moroccan restaurant with ornate decor and warm lighting
 ## 11 Indian 04
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00214_11_Indian_S_04_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00214_11_Indian_S_04_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -343,7 +343,7 @@ a beautifully arranged table of various Indian dishes in an elegant restaurant s
 ## 11 Indian 05
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00215_11_Indian_S_05_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00215_11_Indian_S_05_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -355,7 +355,7 @@ elegantly decorated restaurant interior with ornate arches and ambient lighting
 ## 11 Indian 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00216_11_Indian_V_01_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00216_11_Indian_V_01_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -367,7 +367,7 @@ interior of a vibrant restaurant with ornate decor and colorful lighting
 ## 11 Indian 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00217_11_Indian_V_02_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00217_11_Indian_V_02_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -379,7 +379,7 @@ interior view of a vibrant restaurant with ornate decor and warm lighting
 ## 11 Indian 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00218_11_Indian_V_03_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00218_11_Indian_V_03_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -391,7 +391,7 @@ interior view of a beautifully designed restaurant with ornate arches and warm l
 ## 11 Indian 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00219_11_Indian_V_04_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00219_11_Indian_V_04_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -403,7 +403,7 @@ interior view of an ornate restaurant with traditional decor and dining tables
 ## 11 Indian 05
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00220_11_Indian_V_05_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00220_11_Indian_V_05_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -415,7 +415,7 @@ interior view of a Moroccan restaurant with ornate decor and warm lighting
 ## 11 Indian 06
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00221_11_Indian_V_06_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00221_11_Indian_V_06_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -427,7 +427,7 @@ interior view of a vibrant restaurant with ornate arches and warm lighting
 ## 11 Indian 07
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00222_11_Indian_V_07_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00222_11_Indian_V_07_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -439,7 +439,7 @@ interior of a stylish restaurant with ornate decor and ambient lighting
 ## 11 Indian 08
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00223_11_Indian_V_08_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00223_11_Indian_V_08_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -451,7 +451,7 @@ interior view of a beautifully decorated Moroccan restaurant with arches and war
 ## 11 Indian 09
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00224_11_Indian_V_09_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00224_11_Indian_V_09_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -463,7 +463,7 @@ Interior view of a Moroccan restaurant with ornate decor and warm lighting
 ## 11 Indian 10
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00225_11_Indian_V_10_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00225_11_Indian_V_10_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -475,7 +475,7 @@ interior view of an elegant restaurant with ornate decor and warm lighting
 ## 11 Indian 11
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00226_11_Indian_V_11_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00226_11_Indian_V_11_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -487,7 +487,7 @@ interior of a cozy restaurant with warm orange walls and decorative arches
 ## 11 Indian 12
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00227_11_Indian_V_12_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00227_11_Indian_V_12_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -499,7 +499,7 @@ elegantly designed restaurant interior with ornate arches and warm lighting
 ## 11 Indian 13
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00228_11_Indian_V_13_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00228_11_Indian_V_13_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -511,7 +511,7 @@ interior view of a vibrant restaurant with ornate decor and warm lighting
 ## 11 Indian 14
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00229_11_Indian_V_14_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00229_11_Indian_V_14_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -523,7 +523,7 @@ a beautifully arranged table with various Indian dishes and wine glasses
 ## 11 Indian 15
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00230_11_Indian_V_15_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00230_11_Indian_V_15_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -535,7 +535,7 @@ variety of traditional indian dishes served on a table
 ## 11 Indian 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00231_11_Indian_W_01_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00231_11_Indian_W_01_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -547,7 +547,7 @@ interior view of a vibrant restaurant with intricate decor and warm lighting
 ## 11 Indian 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00232_11_Indian_W_02_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00232_11_Indian_W_02_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -559,7 +559,7 @@ luxurious restaurant interior with intricate designs and warm lighting
 ## 11 Indian 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00233_11_Indian_W_03_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00233_11_Indian_W_03_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -571,7 +571,7 @@ interior of a vibrant restaurant with ornate decorations and warm lighting
 ## 11 Indian 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00234_11_Indian_W_04_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00234_11_Indian_W_04_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -583,7 +583,7 @@ elegantly designed restaurant interior with intricate decor and warm lighting
 ## 11 Indian 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00235_11_Indian_W_05_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00235_11_Indian_W_05_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -595,7 +595,7 @@ an assortment of traditional Indian dishes served on a wooden table
 ## 11 Indian 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00236_11_Indian_W_06_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00236_11_Indian_W_06_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -607,7 +607,7 @@ interior of a vibrant moroccan restaurant with ornate decor and warm lighting
 ## 11 Indian 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00237_11_Indian_W_07_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00237_11_Indian_W_07_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -619,7 +619,7 @@ interior of an ornate restaurant with colorful walls and traditional decor
 ## 11 Indian 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00238_11_Indian_W_08_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00238_11_Indian_W_08_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -631,7 +631,7 @@ elegantly designed restaurant interior with intricate decor and warm lighting
 ## 11 Indian 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00239_11_Indian_W_09_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00239_11_Indian_W_09_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -643,7 +643,7 @@ an overhead view of various traditional Indian dishes with spices and naan bread
 ## 11 Indian 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00240_11_Indian_W_10_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00240_11_Indian_W_10_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -655,7 +655,7 @@ a vibrant spread of traditional Indian dishes in an ornate restaurant setting
 ## 11 Indian 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00241_11_Indian_W_11_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00241_11_Indian_W_11_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -667,7 +667,7 @@ variety of Indian dishes served in copper pots on a dark wooden table
 ## 11 Indian 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00242_11_Indian_W_12_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00242_11_Indian_W_12_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>

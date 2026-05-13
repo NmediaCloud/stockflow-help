@@ -16,7 +16,7 @@ This collection contains **8 assets** available in multiple resolutions and aspe
 ## 01 Neural Signals
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0367_01_Micro_02_Waterborne_10_Neural_Signals_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0367_01_Micro_02_Waterborne_10_Neural_Signals_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Vivid microscopic illustration of a neuron with glowing orange electrical impuls
 ## 02 Neural Signals
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0368_01_Micro_02_Waterborne_10_Neural_Signals_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0368_01_Micro_02_Waterborne_10_Neural_Signals_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A vivid, close-up depiction of neural signals traveling along nerve-like fibers,
 ## 03 Neural Signals
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0369_01_Micro_02_Waterborne_10_Neural_Signals_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0369_01_Micro_02_Waterborne_10_Neural_Signals_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A vivid depiction of a nerve cell transmitting electrical impulses along a myeli
 ## 04 Neural Signals
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0370_01_Micro_02_Waterborne_10_Neural_Signals_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0370_01_Micro_02_Waterborne_10_Neural_Signals_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A vivid, neon-blue illustration of a neuron with branching dendrites and a conne
 ## 05 Neural Signals
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0371_01_Micro_02_Waterborne_10_Neural_Signals_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0371_01_Micro_02_Waterborne_10_Neural_Signals_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A 3D depiction of a neuron transmitting neural signals along myelinated axons, h
 ## 06 Neural Signals
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0372_01_Micro_02_Waterborne_10_Neural_Signals_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0372_01_Micro_02_Waterborne_10_Neural_Signals_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A high-resolution depiction of neural signals transmitting along a neuron, glowi
 ## 07 Neural Signals
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0373_01_Micro_02_Waterborne_10_Neural_Signals_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0373_01_Micro_02_Waterborne_10_Neural_Signals_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A vivid illustration of neural transmission: a neuron fires, electrical impulses
 ## 08 Neural Signals
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0374_01_Micro_02_Waterborne_10_Neural_Signals_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0374_01_Micro_02_Waterborne_10_Neural_Signals_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>

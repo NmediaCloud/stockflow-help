@@ -169,7 +169,7 @@ Microfungal hyphae among fibrous plant tissue.
 ## 01 Hyphae
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0249_01_Micro_01_Hyphae_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0249_01_Micro_01_Hyphae_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -181,7 +181,7 @@ Close-up of fungal filaments weaving through a rugged debris of plant fibers, di
 ## 02 Hyphae
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0250_01_Micro_01_Hyphae_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0250_01_Micro_01_Hyphae_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -193,7 +193,7 @@ Close-up view of translucent fungal hyphae interwoven with brown plant fibers, r
 ## 03 Hyphae
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0251_01_Micro_01_Hyphae_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0251_01_Micro_01_Hyphae_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -205,7 +205,7 @@ A high-fidelity microscopic view showing green fungal hyphae weaving through bro
 ## 04 Hyphae
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0252_01_Micro_01_Hyphae_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0252_01_Micro_01_Hyphae_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -217,7 +217,7 @@ Close-up of a dense network of brown plant fibers intertwined with translucent h
 ## 05 Hyphae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0253_01_Micro_01_Hyphae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0253_01_Micro_01_Hyphae_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -229,7 +229,7 @@ A highly magnified view reveals intertwined fungal hyphae and budding spores, di
 ## 06 Hyphae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0254_01_Micro_01_Hyphae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0254_01_Micro_01_Hyphae_V_Mp4_preview.mp4">Preview video</a>
 </video>

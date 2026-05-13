@@ -11,10 +11,10 @@ Explore the subcategories below:
 * **[Blood Hematology](../subcategories/blood-hematology.md)** - Contains 5 collections.
 * **[Cancer Cell](../subcategories/cancer-cell.md)** - Contains 15 collections.
 * **[Cellular](../subcategories/cellular.md)** - Contains 14 collections.
-* **[Cross-Section](../subcategories/cross-section.md)** - Contains 1 collections.
+* **[Cross-section](../subcategories/cross-section.md)** - Contains 1 collections.
 * **[Dermatopathology](../subcategories/dermatopathology.md)** - Contains 5 collections.
 * **[Dna](../subcategories/dna.md)** - Contains 1 collections.
-* **[Food Fungi](../subcategories/food-fungi.md)** - Contains 20 collections.
+* **[Food Fungi](../subcategories/food-fungi.md)** - Contains 17 collections.
 * **[Fungi](../subcategories/fungi.md)** - Contains 12 collections.
 * **[Hematology](../subcategories/hematology.md)** - Contains 3 collections.
 * **[Histopathology](../subcategories/histopathology.md)** - Contains 10 collections.
@@ -27,7 +27,7 @@ Explore the subcategories below:
 * **[Parasite](../subcategories/parasite.md)** - Contains 16 collections.
 * **[Pollen](../subcategories/pollen.md)** - Contains 17 collections.
 * **[Protozoa](../subcategories/protozoa.md)** - Contains 1 collections.
-* **[Underwater](../subcategories/underwater.md)** - Contains 15 collections.
+* **[Underwater](../subcategories/underwater.md)** - Contains 14 collections.
 * **[Virus](../subcategories/virus.md)** - Contains 1 collections.
-* **[Waterborne](../subcategories/waterborne.md)** - Contains 16 collections.
+* **[Waterborne](../subcategories/waterborne.md)** - Contains 15 collections.
 * **[Worms](../subcategories/worms.md)** - Contains 16 collections.

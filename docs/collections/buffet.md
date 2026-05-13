@@ -106,7 +106,7 @@ buffet table filled with various colorful dishes in a restaurant setting
 ## 02 Buffet 02
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00026_02_Buffet_S_02_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00026_02_Buffet_S_02_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -127,7 +127,7 @@ a buffet table filled with various colorful dishes and fresh vegetables
 ## 02 Buffet 03
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00027_02_Buffet_S_03_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00027_02_Buffet_S_03_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ a buffet restaurant with various dishes displayed under warm lighting
 ## 02 Buffet 04
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00028_02_Buffet_S_04_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00028_02_Buffet_S_04_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -169,7 +169,7 @@ buffet spread featuring various meats and side dishes in a restaurant setting
 ## 02 Buffet 05
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00029_02_Buffet_S_05_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00029_02_Buffet_S_05_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -190,7 +190,7 @@ buffet table with various dishes in a dimly lit restaurant setting
 ## 02 Buffet 06
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00030_02_Buffet_S_06_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00030_02_Buffet_S_06_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -211,7 +211,7 @@ buffet table with various dishes and meats in a restaurant setting
 ## 02 Buffet 07
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00031_02_Buffet_S_07_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00031_02_Buffet_S_07_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ buffet table with various dishes and meats under warm lighting
 ## 02 Buffet 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00032_02_Buffet_V_01_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00032_02_Buffet_V_01_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ a well-lit buffet table filled with various colorful dishes and salads
 ## 02 Buffet 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00033_02_Buffet_V_02_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00033_02_Buffet_V_02_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ a well-stocked buffet with various dishes and fresh ingredients
 ## 02 Buffet 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00034_02_Buffet_V_03_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00034_02_Buffet_V_03_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ buffet table filled with various dishes in a warmly lit restaurant
 ## 02 Buffet 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00035_02_Buffet_V_04_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00035_02_Buffet_V_04_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ buffet table with various dishes in a modern restaurant setting
 ## 02 Buffet 06
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00036_02_Buffet_V_06_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00036_02_Buffet_V_06_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ buffet table filled with various dishes in a well-lit restaurant
 ## 02 Buffet 07
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00037_02_Buffet_V_07_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00037_02_Buffet_V_07_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ buffet table filled with a variety of colorful dishes and salads
 ## 02 Buffet 08
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00038_02_Buffet_V_08_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00038_02_Buffet_V_08_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ buffet table filled with various dishes in a modern restaurant setting
 ## 02 Buffet 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00039_02_Buffet_W_01_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00039_02_Buffet_W_01_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ buffet table with various dishes in a modern restaurant setting
 ## 02 Buffet 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00040_02_Buffet_W_02_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00040_02_Buffet_W_02_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ buffet table filled with various dishes in a dimly lit restaurant
 ## 02 Buffet 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00041_02_Buffet_W_03_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00041_02_Buffet_W_03_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ a buffet display featuring various meats and vegetables in a modern restaurant s
 ## 02 Buffet 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00042_02_Buffet_W_04_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00042_02_Buffet_W_04_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ a buffet display featuring various dishes and meats under warm lighting
 ## 02 Buffet 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00043_02_Buffet_W_05_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00043_02_Buffet_W_05_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ buffet table filled with various fresh salads and dishes in a restaurant
 ## 02 Buffet 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00044_02_Buffet_W_07_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00044_02_Buffet_W_07_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -388,7 +388,7 @@ buffet table filled with various dishes in a modern restaurant setting
 ## 02 Buffet 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00045_02_Buffet_W_08_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00045_02_Buffet_W_08_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>

@@ -88,7 +88,7 @@ Histology of intestinal mucosa showing Schistosoma infection with an egg-contain
 ## 10 Infectious
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1074_01_Micro_23_Infectious_Schistosoma_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1074_01_Micro_23_Infectious_Schistosoma_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A microscopic view of schistosoma-related tissue infection, showing intestinal e
 ## 11 Infectious
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1075_01_Micro_23_Infectious_Schistosoma_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1075_01_Micro_23_Infectious_Schistosoma_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Histological section of intestinal tissue with a schistosome egg surrounded by a
 ## 12 Infectious
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1076_01_Micro_23_Infectious_Schistosoma_V_Mp4_ups_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1076_01_Micro_23_Infectious_Schistosoma_V_Mp4_ups_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Microscopic image of schistosoma infection in intestinal tissue, showing parasit
 ## 13 Infectious
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1076_01_Micro_23_Infectious_Schistosoma_V_Mp4_ups_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1076_01_Micro_23_Infectious_Schistosoma_V_Mp4_ups_preview.mp4">Preview video</a>
 </video>

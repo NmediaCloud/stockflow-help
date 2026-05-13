@@ -16,7 +16,7 @@ This collection contains **21 assets** available in multiple resolutions and asp
 ## 01 Euglena Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0303_01_Micro_02_Waterborne_05_Euglena_Cell2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0303_01_Micro_02_Waterborne_05_Euglena_Cell2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A vivid micrograph of a single-celled, waterborne organism with long flagella an
 ## 02 Euglena Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0304_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0304_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A micro, waterborne Euglena cell shown in vivid green, with dense chloroplasts a
 ## 03 Euglena Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0305_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0305_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A micro waterborne Euglena cell under magnification reveals vibrant green chloro
 ## 04 Euglena Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0306_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0306_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A microscopic waterborne Euglena cell containing green chloroplasts and a nucleu
 ## 05 Euglena Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0307_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0307_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A vivid green single-celled organism with a long tail-like flagellum swimming th
 ## 06 Euglena Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0308_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0308_01_Micro_02_Waterborne_05_Euglena_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A micro, waterborne preview of a single Euglena cell under magnification, highli
 ## 07 Euglena Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0309_01_Micro_02_Waterborne_05_Euglena_Cell_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0309_01_Micro_02_Waterborne_05_Euglena_Cell_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Macro view of a waterborne Euglena cell under a microscope: vibrant green chloro
 ## 08 Euglena Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0310_01_Micro_02_Waterborne_05_Euglena_Cell_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0310_01_Micro_02_Waterborne_05_Euglena_Cell_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A vibrant microscopic organism swimming through a blue-green field, featuring a 
 ## 09 Euglena Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0311_01_Micro_02_Waterborne_05_Euglena_Cell_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0311_01_Micro_02_Waterborne_05_Euglena_Cell_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A microscopic waterborne cell containing green clusters and a purple nucleus, fe
 ## 10 Euglena Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0312_01_Micro_02_Waterborne_05_Euglena_Cell_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0312_01_Micro_02_Waterborne_05_Euglena_Cell_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A high-detail microscopic view of a green waterborne Euglena cell, showcasing it
 ## 11 Euglena Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0313_01_Micro_02_Waterborne_05_Euglena_Cell_V5_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0313_01_Micro_02_Waterborne_05_Euglena_Cell_V5_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A detailed micrograph of a waterborne single-celled organism, likely a Euglena, 
 ## 12 Euglena Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0314_01_Micro_02_Waterborne_05_Euglena_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0314_01_Micro_02_Waterborne_05_Euglena_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A vivid green single-celled organism with a visible nucleus and numerous interna
 ## 13 Euglena Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0315_01_Micro_02_Waterborne_05_Euglena_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0315_01_Micro_02_Waterborne_05_Euglena_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A highly detailed illustration of a waterborne Euglena cell, showing its green c
 ## 14 Euglena Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0316_01_Micro_02_Waterborne_05_Euglena_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0316_01_Micro_02_Waterborne_05_Euglena_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A vibrant neon-green single-celled organism with a long, whip-like flagellum, su
 ## 15 Euglena Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0317_01_Micro_02_Waterborne_05_Euglena_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0317_01_Micro_02_Waterborne_05_Euglena_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ A close-up of a waterborne Euglena cell, glowing green with internal organelles,
 ## 01 Euglena And Green Algae
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0481_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0481_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A vibrant underwater scene showcasing green filamentous algae and oval red proto
 ## 02 Euglena And Green Algae
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0482_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0482_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ A vivid green microscopic scene reveals rod-shaped bacteria and clusters of tiny
 ## 03 Euglena And Green Algae
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0483_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0483_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ A vivid underwater scene of green filamentous algae and red micro-organisms sway
 ## 04 Euglena And Green Algae
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0484_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0484_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A vivid green microscopic scene showing countless rod-shaped bacteria surroundin
 ## 05 Euglena And Green Algae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0485_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0485_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Underwater scene showcasing green algae and Euglena-like microorganisms clustere
 ## 06 Euglena And Green Algae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0486_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0486_01_Micro_03_Underwater_06_Euglena_And_Green_Algae_V_Mp4_preview.mp4">Preview video</a>
 </video>

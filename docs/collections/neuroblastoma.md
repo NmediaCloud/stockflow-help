@@ -70,7 +70,7 @@ Histology of neuroblastoma showing densely packed neuroblastic cells with hyperc
 ## 13 Neuropathology
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1092_01_Micro_29_Neuropathology_Neuroblastoma_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1092_01_Micro_29_Neuropathology_Neuroblastoma_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -82,7 +82,7 @@ Histology image of neuroblastoma with small round blue tumor cells, brown immuno
 ## 14 Neuropathology
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1093_01_Micro_29_Neuropathology_Neuroblastoma_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1093_01_Micro_29_Neuropathology_Neuroblastoma_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -94,7 +94,7 @@ Histopathology image of neuroblastoma with densely packed tumor cells, prominent
 ## 15 Neuropathology
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1094_01_Micro_29_Neuropathology_Neuroblastoma_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1094_01_Micro_29_Neuropathology_Neuroblastoma_V_Mp4_preview.mp4">Preview video</a>
 </video>

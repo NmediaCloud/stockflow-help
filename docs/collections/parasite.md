@@ -88,7 +88,7 @@ Illustration of a red blood cell containing a segmented blue parasite with surro
 ## 01 Blood Hematology
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0682_01_Micro_05_Blood_Hematology_Parasite_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0682_01_Micro_05_Blood_Hematology_Parasite_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Colorful illustration of a red blood cell infected by a parasite, showing the in
 ## 02 Blood Hematology
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0683_01_Micro_05_Blood_Hematology_Parasite_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0683_01_Micro_05_Blood_Hematology_Parasite_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Micrograph of blood under hematology view illustrating a parasite within a red b
 ## 03 Blood Hematology
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0684_01_Micro_05_Blood_Hematology_Parasite_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0684_01_Micro_05_Blood_Hematology_Parasite_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Close-up of a red blood cell with an invading purple immune cell bearing a paras
 ## 01 Parasite
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0898_01_Micro_09_Parasite_A_Microscopic_Iew_Reveals_Pla_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0898_01_Micro_09_Parasite_A_Microscopic_Iew_Reveals_Pla_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A highly magnified microscopic cross-section reveals a parasite inside a host ce
 ## 02 Parasite
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0899_01_Micro_09_Parasite_A_microscopic_v_iew_reveals_Plasm_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0899_01_Micro_09_Parasite_A_microscopic_v_iew_reveals_Plasm_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A microscopic view reveals a parasite inside a host cell, showcasing internal or
 ## 05 Parasite
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0902_01_Micro_09_Parasite_Generated_Id_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0902_01_Micro_09_Parasite_Generated_Id_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A golden-hued microscopic rotifer with translucent body, internal organs visible
 ## 06 Parasite
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0903_01_Micro_09_Parasite_Generated_Video_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0903_01_Micro_09_Parasite_Generated_Video_W_Mp4_preview.mp4">Preview video</a>
 </video>

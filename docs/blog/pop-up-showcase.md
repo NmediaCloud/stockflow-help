@@ -1,27 +1,44 @@
 ---
-title: "How to Use Pop up Footage in Creative Projects | Stockflow.media"
-description: "**Pop up** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
+title: "How to Use Pop Up Footage in Creative Projects | Stockflow.media"
+description: "**Pop Up** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
 ---
 
-# How to Use Pop up Visuals in Your Creative Projects
+# How to Use Pop Up Visuals in Your Creative Projects
 
-[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Pop up**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Pop Up**
 
-[Browse the Pop up Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Pop+up){ .md-button .md-button--primary }
+[Browse the Pop Up Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Pop+Up){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Pop up** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
+**Pop Up** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-This guide explores how to use the **Pop up** collection — 18 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Pop Up** collection — 26 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Pop up Visuals Are in Demand
+## Visual Highlights
+
+### 16 Pop Up 01
+![16 Pop Up 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00348_16_Pop-Up_W_01_7680x4320_jpeg__preview.webp)
+
+a plate of fresh salad on a wooden table with blurred people in the background
+
+### 16 Pop Up 02
+![16 Pop Up 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00349_16_Pop-Up_W_02_7680x4320_jpeg__preview.webp)
+
+gourmet tacos served at a lively social event with warm lighting
+
+### 16 Pop Up 03
+![16 Pop Up 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00350_16_Pop-Up_W_03_7680x4320_jpeg__preview.webp)
+
+person holding a plate of food at a lively market event
+
+## Why Pop Up Visuals Are in Demand
 
 High-quality pop up footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **18 assets** in this collection are:
+All **26 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -43,7 +60,7 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Pop+up)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Pop+Up)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +84,9 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Pop up Collection
+## Explore the Full Pop Up Collection
 
-Ready to add **Pop up** visuals to your next project?
+Ready to add **Pop Up** visuals to your next project?
 
-[Browse Pop up on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Pop+up){ .md-button .md-button--primary }
+[Browse Pop Up on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Pop+Up){ .md-button .md-button--primary }
 [View Collection Details](../collections/pop-up.md){ .md-button }

@@ -1,21 +1,21 @@
 ---
-title: "How to Use Aspergillus fungi Footage in Creative Projects | Stockflow.media"
-description: "**Aspergillus fungi** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Aspergillus Fungi Footage in Creative Projects | Stockflow.media"
+description: "**Aspergillus Fungi** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Aspergillus fungi Visuals in Your Creative Projects
+# How to Use Aspergillus Fungi Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Aspergillus fungi**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Aspergillus Fungi**
 
-[Browse the Aspergillus fungi Collection](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+fungi){ .md-button .md-button--primary }
+[Browse the Aspergillus Fungi Collection](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+Fungi){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Aspergillus fungi** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Aspergillus Fungi** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Aspergillus fungi** collection — 8 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Aspergillus Fungi** collection — 8 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -34,7 +34,7 @@ Close-up of Aspergillus fungi with green, threadlike hyphae and spherical conidi
 
 Close-up of mold filaments with finger-like conidiophores on a food surface.
 
-## Why Aspergillus fungi Visuals Are in Demand
+## Why Aspergillus Fungi Visuals Are in Demand
 
 High-quality aspergillus fungi footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+fungi)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+Fungi)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -84,9 +84,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Aspergillus fungi Collection
+## Explore the Full Aspergillus Fungi Collection
 
-Ready to add **Aspergillus fungi** visuals to your next project?
+Ready to add **Aspergillus Fungi** visuals to your next project?
 
-[Browse Aspergillus fungi on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+fungi){ .md-button .md-button--primary }
+[Browse Aspergillus Fungi on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+Fungi){ .md-button .md-button--primary }
 [View Collection Details](../collections/aspergillus-fungi.md){ .md-button }

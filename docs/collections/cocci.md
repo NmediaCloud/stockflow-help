@@ -133,7 +133,7 @@ Golden-orange magnified view of bacteria, showing round cocci clusters and rod-s
 ## 01 Cocci
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0769_01_Micro_07_Bacteria_02_Cocci_01_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0769_01_Micro_07_Bacteria_02_Cocci_01_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -145,7 +145,7 @@ Close-up view of chain-forming cocci bacteria, showing round, golden-colored cel
 ## 02 Cocci
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0770_01_Micro_07_Bacteria_02_Cocci_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0770_01_Micro_07_Bacteria_02_Cocci_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -157,7 +157,7 @@ Microscopic view of orange-brown cocci bacteria forming long chains, with numero
 ## 03 Cocci
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0771_01_Micro_07_Bacteria_02_Cocci_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0771_01_Micro_07_Bacteria_02_Cocci_V_Mp4_preview.mp4">Preview video</a>
 </video>

@@ -1,21 +1,21 @@
 ---
-title: "How to Use Algae cells Footage in Creative Projects | Stockflow.media"
-description: "**Algae cells** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Algae Cells Footage in Creative Projects | Stockflow.media"
+description: "**Algae Cells** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Algae cells Visuals in Your Creative Projects
+# How to Use Algae Cells Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Algae cells**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Algae Cells**
 
-[Browse the Algae cells Collection](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Algae+cells){ .md-button .md-button--primary }
+[Browse the Algae Cells Collection](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Algae+Cells){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Algae cells** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Algae Cells** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Algae cells** collection — 6 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Algae Cells** collection — 6 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -34,7 +34,7 @@ Close-up of a green waterborne algae cell cluster viewed under a microscope.
 
 Waterborne microalgae colony with bright green spherical cells.
 
-## Why Algae cells Visuals Are in Demand
+## Why Algae Cells Visuals Are in Demand
 
 High-quality algae cells footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Algae+cells)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Algae+Cells)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -84,9 +84,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Algae cells Collection
+## Explore the Full Algae Cells Collection
 
-Ready to add **Algae cells** visuals to your next project?
+Ready to add **Algae Cells** visuals to your next project?
 
-[Browse Algae cells on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Algae+cells){ .md-button .md-button--primary }
+[Browse Algae Cells on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Algae+Cells){ .md-button .md-button--primary }
 [View Collection Details](../collections/algae-cells.md){ .md-button }

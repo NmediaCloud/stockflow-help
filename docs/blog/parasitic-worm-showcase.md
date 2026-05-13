@@ -1,21 +1,21 @@
 ---
-title: "How to Use Parasitic worm Footage in Creative Projects | Stockflow.media"
-description: "**Parasitic worm** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Parasitic Worm Footage in Creative Projects | Stockflow.media"
+description: "**Parasitic Worm** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Parasitic worm Visuals in Your Creative Projects
+# How to Use Parasitic Worm Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Worms](../subcategories/worms.md) / **Parasitic worm**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Parasite](../subcategories/parasite.md) / **Parasitic Worm**
 
-[Browse the Parasitic worm Collection](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Parasitic+worm){ .md-button .md-button--primary }
+[Browse the Parasitic Worm Collection](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Parasitic+Worm){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Parasitic worm** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Parasitic Worm** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Parasitic worm** collection — 21 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Parasitic Worm** collection — 24 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -34,11 +34,11 @@ Parasitic micro-worm inside host tissue.
 
 Cross-section of a parasitic micro-worm (likely a nematode) within tissue, showing its cuticle and internal organ structures.
 
-## Why Parasitic worm Visuals Are in Demand
+## Why Parasitic Worm Visuals Are in Demand
 
 High-quality parasitic worm footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **21 assets** in this collection are:
+All **24 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Parasitic+worm)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Parasitic+Worm)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -84,9 +84,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Parasitic worm Collection
+## Explore the Full Parasitic Worm Collection
 
-Ready to add **Parasitic worm** visuals to your next project?
+Ready to add **Parasitic Worm** visuals to your next project?
 
-[Browse Parasitic worm on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Parasitic+worm){ .md-button .md-button--primary }
+[Browse Parasitic Worm on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Parasitic+Worm){ .md-button .md-button--primary }
 [View Collection Details](../collections/parasitic-worm.md){ .md-button }

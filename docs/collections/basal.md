@@ -88,7 +88,7 @@ Basal cell carcinoma of the skin (dermatopathology).
 ## 01 Dermatopathology Basal
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0766_01_Micro_06_Dermatopathology_Basal_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0766_01_Micro_06_Dermatopathology_Basal_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Histology slide of skin showing basal layer abnormalities with nests of round ce
 ## 02 Dermatopathology Basal
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0767_01_Micro_06_Dermatopathology_Basal_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0767_01_Micro_06_Dermatopathology_Basal_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Microscopic view of skin tissue showing basal cell proliferation with nests with
 ## 03 Dermatopathology Basal
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0768_01_Micro_06_Dermatopathology_Basal_V_Mp4_ups_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0768_01_Micro_06_Dermatopathology_Basal_V_Mp4_ups_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Micrograph from dermatopathology highlighting basal layer structures in skin, sh
 ## 04 Dermatopathology Basal
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0768_01_Micro_06_Dermatopathology_Basal_V_Mp4_ups_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0768_01_Micro_06_Dermatopathology_Basal_V_Mp4_ups_preview.mp4">Preview video</a>
 </video>

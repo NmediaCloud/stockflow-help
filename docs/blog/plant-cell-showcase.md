@@ -5,9 +5,9 @@ description: "**Plant Cell** visuals bring the invisible world to life — ideal
 
 # How to Use Plant Cell Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cross-Section](../subcategories/cross-section.md) / **Plant Cell**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cross-section](../subcategories/cross-section.md) / **Plant Cell**
 
-[Browse the Plant Cell Collection](https://stockflow.media/?cat=Microscopic&sub=Cross-Section&collection=Plant+Cell){ .md-button .md-button--primary }
+[Browse the Plant Cell Collection](https://stockflow.media/?cat=Microscopic&sub=Cross-section&collection=Plant+Cell){ .md-button .md-button--primary }
 
 ---
 
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cross-Section&collection=Plant+Cell)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cross-section&collection=Plant+Cell)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -88,5 +88,5 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 Ready to add **Plant Cell** visuals to your next project?
 
-[Browse Plant Cell on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cross-Section&collection=Plant+Cell){ .md-button .md-button--primary }
+[Browse Plant Cell on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cross-section&collection=Plant+Cell){ .md-button .md-button--primary }
 [View Collection Details](../collections/plant-cell.md){ .md-button }

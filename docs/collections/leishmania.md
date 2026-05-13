@@ -124,7 +124,7 @@ Fluorescent micrograph of a host cell harboring Leishmania parasites, with a pin
 ## 01 Leishmania
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0885_01_Micro_09_Parasite_07_Leishmania_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0885_01_Micro_09_Parasite_07_Leishmania_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Fluorescent microscopy image of a cell with bright green structures and red dots
 ## 02 Leishmania
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0886_01_Micro_09_Parasite_07_Leishmania_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0886_01_Micro_09_Parasite_07_Leishmania_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Color-enhanced micrograph shows a host cell with a green-stained parasite encirc
 ## 03 Leishmania
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0887_01_Micro_09_Parasite_07_Leishmania_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0887_01_Micro_09_Parasite_07_Leishmania_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Fluorescent microscopy shows Leishmania parasites inside host cells, highlighted
 ## 04 Leishmania
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0888_01_Micro_09_Parasite_07_Leishmania_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0888_01_Micro_09_Parasite_07_Leishmania_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Micrograph highlights Leishmania parasites inside host cells, with green-stained
 ## 05 Leishmania
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0889_01_Micro_09_Parasite_07_Leishmania_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0889_01_Micro_09_Parasite_07_Leishmania_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Fluorescently stained two-cell organism showing divided cells with vivid green m
 ## 07 Parasite
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0904_01_Micro_09_Parasite_Leishmania_parasites_wriggle_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0904_01_Micro_09_Parasite_Leishmania_parasites_wriggle_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Microscopic view of wriggling parasites within host cells, highlighting Leishman
 ## 08 Parasite
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0905_01_Micro_09_Parasite_Leishmania_Parasites_Wrigg_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0905_01_Micro_09_Parasite_Leishmania_Parasites_Wrigg_S_Mp4_preview.mp4">Preview video</a>
 </video>

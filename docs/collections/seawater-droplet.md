@@ -160,7 +160,7 @@ Close-up of a seawater microbe scene: yellow rod-shaped bacteria and bubbly clus
 ## 01 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0535_01_Micro_03_Underwater_09_Seawater_Micro_Droplet2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0535_01_Micro_03_Underwater_09_Seawater_Micro_Droplet2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A highly magnified view of a microbial community in seawater, showing clusters o
 ## 02 Seawater Micro Droplet
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0536_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0536_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A highly magnified view reveals a dense community of microorganisms in a seawate
 ## 03 Seawater Micro Droplet
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0537_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0537_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ A highly magnified view of seawater microdroplets and organic particulates clust
 ## 04 Seawater Micro Droplet
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0538_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0538_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A high-magnification view reveals orange rod-shaped bacteria clustered among a g
 ## 05 Seawater Micro Droplet
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0539_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0539_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Close-up micrograph of underwater seawater droplets and textured filaments, show
 ## 06 Seawater Micro Droplet
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0540_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0540_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ A micro-scale, underwater scene of seawater droplets teeming with rod-shaped bac
 ## 07 Seawater Micro Droplet
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0541_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0541_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A high-magnification view shows rod-shaped bacteria embedded in a dense biofilm,
 ## 08 Seawater Micro Droplet
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0542_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0542_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ A highly detailed micrograph shows a dense microbial ecosystem with rod-shaped y
 ## 09 Seawater Micro Droplet
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0543_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0543_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ Micro underwater scene showing tiny droplets and fibrous structures, revealing d
 ## 10 Seawater Micro Droplet
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0544_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0544_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Micro underwater droplet reveals a dense colony of bacteria and fibrous structur
 ## 11 Seawater Micro Droplet
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0545_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0545_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ A highly detailed close-up reveals a diverse microbial community inside a tiny d
 ## 12 Seawater Micro Droplet
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0546_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0546_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ High fidelity microscopic view of a cell interior crowded with bacteria and orga
 ## 13 Seawater Micro Droplet
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0547_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0547_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ Close-up of a single cell enveloped by a textured surround of rod-shaped bacteri
 ## 14 Seawater Micro Droplet
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0548_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V5_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0548_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V5_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ Microscopic view reveals a dense field of rod-shaped bacteria amid amorphous min
 ## 15 Seawater Micro Droplet
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0549_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V6_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0549_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V6_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ Close-up of a dense bacterial colony of rod-shaped microbes encrusted with parti
 ## 16 Seawater Micro Droplet
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0550_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V7_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0550_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V7_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ Color-enhanced micrograph shows a dense colony of rod-shaped bacteria amid fibro
 ## 17 Seawater Micro Droplet
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0551_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V8_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0551_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V8_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ High magnification view shows a dense microbial biofilm with rod-shaped bacteria
 ## 18 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0552_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0552_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ Micrograph of a complex mineral-organic tumble, showing crystalline shards, roun
 ## 19 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0553_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0553_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -388,7 +388,7 @@ A highly magnified view of tiny marine particles and microbes suspended in seawa
 ## 20 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0554_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0554_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -400,7 +400,7 @@ Close-up of microscopic, bead-like cells and filamentous structures forming a ta
 ## 21 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0555_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0555_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -412,7 +412,7 @@ A highly magnified view of tiny aquatic microbes in a droplet, revealing spheric
 ## 22 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0556_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0556_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -424,7 +424,7 @@ Close-up view of microscopic bacteria and crystalline droplets embedded in a fib
 ## 23 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0557_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0557_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -436,7 +436,7 @@ Close-up micrograph of rod-shaped bacteria densely populated among a spherical c
 ## 24 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0558_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0558_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -448,7 +448,7 @@ A highly magnified view of a cell surrounded by smaller particles, with a vibran
 ## 25 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0559_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0559_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -460,7 +460,7 @@ A microscopic scene of bacterial rods in seawater droplets, with clumps of miner
 ## 26 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0560_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0560_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -472,7 +472,7 @@ Close-up view of rod-shaped bacteria among clustered cellular debris on a rough 
 ## 27 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0561_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0561_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -484,7 +484,7 @@ Micro-scale view of seawater shows yellow rod-shaped bacteria coated with partic
 ## 28 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0562_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0562_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -496,7 +496,7 @@ Close-up view of microscopic marine life in seawater, showing rod-shaped bacteri
 ## 29 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0563_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0563_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -508,7 +508,7 @@ Ultrastructural micrograph of rod-shaped bacteria in seawater, revealing tangled
 ## 30 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0564_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0564_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -520,7 +520,7 @@ Macro view of microscopic bacteria and particles in seawater, showing rod-shaped
 ## 31 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0565_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0565_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -532,7 +532,7 @@ Micro-scale view of seawater microorganisms and biofilm fragments, revealing rod
 ## 32 Seawater Micro Droplet
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0566_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0566_01_Micro_03_Underwater_09_Seawater_Micro_Droplet_V_Mp4_preview.mp4">Preview video</a>
 </video>

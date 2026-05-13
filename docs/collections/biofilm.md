@@ -124,7 +124,7 @@ Colorful high-magnification image of bacteria forming a biofilm on a porous surf
 ## 01 Biofilm
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0778_01_Micro_07_Bacteria_05_Biofilm_01_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0778_01_Micro_07_Bacteria_05_Biofilm_01_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Colorful bacteria forming a dense biofilm on a surface, blue and orange rod-shap
 ## 02 Biofilm
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0779_01_Micro_07_Bacteria_05_Biofilm_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0779_01_Micro_07_Bacteria_05_Biofilm_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Colorized electron micrograph showing bacteria embedded in a biofilm, orange and
 ## 03 Biofilm
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0780_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0780_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Color-enhanced micrograph shows rod-shaped bacteria organized in a dense biofilm
 ## 04 Biofilm
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0781_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0781_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A dense pink biofilm of rod-shaped bacteria forms a complex microbial community 
 ## 05 Biofilm
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0782_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0782_01_Micro_07_Bacteria_05_Biofilm_V_Mp4_preview.mp4">Preview video</a>
 </video>

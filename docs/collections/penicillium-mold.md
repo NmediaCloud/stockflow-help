@@ -1,13 +1,13 @@
 ---
-title: "Penicillium mold Stock Footage and Images | Food Fungi | Stockflow.media"
-description: "Download 8 professional Penicillium mold assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Fungi collection."
+title: "Penicillium Mold Stock Footage and Images | Food Fungi | Stockflow.media"
+description: "Download 8 professional Penicillium Mold assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Fungi collection."
 ---
 
-# Penicillium mold
+# Penicillium Mold
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Penicillium mold**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Penicillium Mold**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Penicillium+mold){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Penicillium+Mold){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

@@ -1,44 +1,44 @@
 ---
-title: "How to Use tardigrade Footage in Creative Projects | Stockflow.media"
-description: "**tardigrade** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Tardigrade Footage in Creative Projects | Stockflow.media"
+description: "**Tardigrade** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use tardigrade Visuals in Your Creative Projects
+# How to Use Tardigrade Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **tardigrade**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **Tardigrade**
 
-[Browse the tardigrade Collection](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=tardigrade){ .md-button .md-button--primary }
+[Browse the Tardigrade Collection](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Tardigrade){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**tardigrade** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Tardigrade** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **tardigrade** collection — 3 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Tardigrade** collection — 29 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
-### 1 Micro Images 03 Underwater 07 Tardigrade
-![1 Micro Images 03 Underwater 07 Tardigrade](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1495_01_Micro_Images_upload_03_Underwater_07_tardigrade_v4_W_01__Previews.webp)
+### 46 Micro 01 Biological Creatures
+![46 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0104_01_Micro_01_Biological_Creatures_08_Microscopic_tardigrade__Previews.webp)
 
-Tardigrade strolling through vibrant moss with colorful mushrooms.
+Glowing blue tardigrade curled inside a clear bubble.
 
-### 2 Micro Images 03 Underwater 07 Tardigrade
-![2 Micro Images 03 Underwater 07 Tardigrade](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1496_01_Micro_Images_upload_03_Underwater_07_tardigrade_W_01__Previews.webp)
+### 47 Micro 01 Biological Creatures
+![47 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0105_01_Micro_01_Biological_Creatures_08_Microscopic_tardigrade__Previews.webp)
 
-Macro image of a tardigrade crawling on moss in an underwater-like microhabitat.
+A glowing, translucent tardigrade encased in a bubble, with neon blue and green highlights against a dark background.
 
-### 3 Micro Images 03 Underwater 07 Tardigrade
-![3 Micro Images 03 Underwater 07 Tardigrade](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1497_01_Micro_Images_upload_03_Underwater_07_tardigrade_W_01_Previews.webp)
+### 48 Micro 01 Biological Creatures
+![48 Micro 01 Biological Creatures](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0106_01_Micro_01_Biological_Creatures_08_Microscopic_tardigrade_Previews.webp)
 
-Close-up macro of a tardigrade (water bear) navigating a lush mossy underwater scene.
+A glowing blue microscopic tardigrade enclosed in a transparent bubble.
 
-## Why tardigrade Visuals Are in Demand
+## Why Tardigrade Visuals Are in Demand
 
 High-quality tardigrade footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **3 assets** in this collection are:
+All **29 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=tardigrade)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Tardigrade)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -84,9 +84,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full tardigrade Collection
+## Explore the Full Tardigrade Collection
 
-Ready to add **tardigrade** visuals to your next project?
+Ready to add **Tardigrade** visuals to your next project?
 
-[Browse tardigrade on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=tardigrade){ .md-button .md-button--primary }
+[Browse Tardigrade on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Tardigrade){ .md-button .md-button--primary }
 [View Collection Details](../collections/tardigrade.md){ .md-button }

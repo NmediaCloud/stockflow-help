@@ -1,13 +1,13 @@
 ---
-title: "Bacterial cell Stock Footage and Images | Biological Creatures | Stockflow.media"
-description: "Download 6 professional Bacterial cell assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Biological Creatures collection."
+title: "Bacterial Cell Stock Footage and Images | Biological Creatures | Stockflow.media"
+description: "Download 6 professional Bacterial Cell assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Biological Creatures collection."
 ---
 
-# Bacterial cell
+# Bacterial Cell
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Bacterial cell**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Bacterial Cell**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Bacterial+cell){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Bacterial+Cell){ .md-button .md-button--primary }
 
 This collection contains **6 assets** available in multiple resolutions and aspect ratios.
 

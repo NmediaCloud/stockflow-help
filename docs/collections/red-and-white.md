@@ -16,7 +16,7 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 ## 01 Blood Cells
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0211_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0211_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Inside a blood vessel, red blood cells swirl past, while white blood cells and p
 ## 2 Blood Cells
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0212_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0212_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Inside a blood vessel, numerous red blood cells flow alongside white blood cells
 ## 3 Blood Cells
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0213_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0213_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A detailed cross-section of a blood vessel shows red and white blood cells in mo
 ## 4 Blood Cells
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0214_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0214_01_Micro_01_Biological_Creatures_09_Red_And_White_Blood_Cells_S_Mp4_preview.mp4">Preview video</a>
 </video>

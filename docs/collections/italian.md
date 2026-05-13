@@ -475,7 +475,7 @@ plate of spaghetti with cheese on a checkered tablecloth in a rustic setting
 ## 12 Italian 01
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00243_12_Italian_S_01_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00243_12_Italian_S_01_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -487,7 +487,7 @@ cozy rustic restaurant interior with checkered tablecloths and brick walls
 ## 12 Italian 02
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00244_12_Italian_S_02_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00244_12_Italian_S_02_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -499,7 +499,7 @@ cozy rustic restaurant interior with checkered tablecloths and wood-fired oven
 ## 12 Italian 03
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00245_12_Italian_S_03_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00245_12_Italian_S_03_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -511,7 +511,7 @@ cozy restaurant interior with checkered tablecloths and wine bottles
 ## 12 Italian 04
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00246_12_Italian_S_04_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00246_12_Italian_S_04_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -523,7 +523,7 @@ cozy rustic restaurant interior with wooden tables and brick walls
 ## 12 Italian 05
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00247_12_Italian_S_05_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00247_12_Italian_S_05_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -535,7 +535,7 @@ elegantly set dining tables in a restaurant with a chef preparing food
 ## 12 Italian 06
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00248_12_Italian_S_06_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00248_12_Italian_S_06_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -547,7 +547,7 @@ two plates of pasta with fresh ingredients in a restaurant kitchen
 ## 12 Italian 07
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00249_12_Italian_S_07_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00249_12_Italian_S_07_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -559,7 +559,7 @@ chef preparing food in a modern restaurant kitchen with elegant dining area
 ## 12 Italian 08
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00250_12_Italian_S_08_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00250_12_Italian_S_08_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -571,7 +571,7 @@ A chef preparing pasta in a cozy restaurant setting with elegant tableware
 ## 12 Italian 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00251_12_Italian_V_01_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00251_12_Italian_V_01_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -583,7 +583,7 @@ cozy restaurant interior with a wood-fired oven and checkered tablecloths
 ## 12 Italian 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00252_12_Italian_V_02_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00252_12_Italian_V_02_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -595,7 +595,7 @@ cozy restaurant interior with wooden shelves and checkered tablecloths
 ## 12 Italian 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00253_12_Italian_V_03_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00253_12_Italian_V_03_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -607,7 +607,7 @@ cozy restaurant interior with wooden shelves and warm lighting
 ## 12 Italian 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00254_12_Italian_V_04_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00254_12_Italian_V_04_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -619,7 +619,7 @@ cozy rustic restaurant interior with checkered tablecloths and warm lighting
 ## 12 Italian 05
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00255_12_Italian_V_05_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00255_12_Italian_V_05_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -631,7 +631,7 @@ cozy restaurant interior with wooden tables and wine bottles on shelves
 ## 12 Italian 06
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00256_12_Italian_V_06_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00256_12_Italian_V_06_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -643,7 +643,7 @@ cozy restaurant interior with candlelit tables and wine bottles
 ## 12 Italian 07
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00257_12_Italian_V_07_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00257_12_Italian_V_07_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -655,7 +655,7 @@ cozy restaurant interior with dim lighting and checkered tablecloths
 ## 12 Italian 08
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00258_12_Italian_V_08_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00258_12_Italian_V_08_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -667,7 +667,7 @@ cozy restaurant interior with checkered tablecloths and warm lighting
 ## 12 Italian 09
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00259_12_Italian_V_09_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00259_12_Italian_V_09_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -679,7 +679,7 @@ cozy rustic restaurant interior with wooden tables and brick walls
 ## 12 Italian 10
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00260_12_Italian_V_10_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00260_12_Italian_V_10_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -691,7 +691,7 @@ cozy rustic restaurant interior with checkered tablecloths and warm lighting
 ## 12 Italian 12
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00261_12_Italian_V_12_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00261_12_Italian_V_12_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -703,7 +703,7 @@ cozy rustic restaurant interior with wine bottles and brick walls
 ## 12 Italian 13
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00262_12_Italian_V_13_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00262_12_Italian_V_13_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -715,7 +715,7 @@ Chef plating pasta dishes in a warm restaurant setting
 ## 12 Italian 14
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00263_12_Italian_V_14_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00263_12_Italian_V_14_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -727,7 +727,7 @@ chef plating pasta dishes in an elegant restaurant setting
 ## 12 Italian 15
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00264_12_Italian_V_15_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00264_12_Italian_V_15_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -739,7 +739,7 @@ chef plating pasta in a cozy restaurant setting with warm lighting
 ## 12 Italian 16
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00265_12_Italian_V_16_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00265_12_Italian_V_16_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -751,7 +751,7 @@ chef preparing a gourmet dish in an elegant restaurant setting
 ## 12 Italian 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00266_12_Italian_W_01_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00266_12_Italian_W_01_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -763,7 +763,7 @@ plate of pasta with cheese on a rustic table setting with candles
 ## 12 Italian 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00267_12_Italian_W_02_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00267_12_Italian_W_02_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -775,7 +775,7 @@ cozy rustic restaurant interior with wooden tables and candlelight
 ## 12 Italian 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00268_12_Italian_W_03_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00268_12_Italian_W_03_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -787,7 +787,7 @@ cozy rustic bar interior with wooden furniture and shelves of liquor bottles
 ## 12 Italian 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00269_12_Italian_W_04_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00269_12_Italian_W_04_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -799,7 +799,7 @@ cozy restaurant interior with wooden tables and candlelight
 ## 12 Italian 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00270_12_Italian_W_05_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00270_12_Italian_W_05_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -811,7 +811,7 @@ rustic kitchen interior with wooden furniture and stone oven
 ## 12 Italian 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00271_12_Italian_W_06_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00271_12_Italian_W_06_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -823,7 +823,7 @@ cozy rustic restaurant interior with checkered tablecloths and warm lighting
 ## 12 Italian 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00272_12_Italian_W_07_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00272_12_Italian_W_07_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -835,7 +835,7 @@ cozy rustic restaurant interior with checkered tablecloths and warm lighting
 ## 12 Italian 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00273_12_Italian_W_08_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00273_12_Italian_W_08_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -847,7 +847,7 @@ a table set with wine, cheese, and bread in a cobblestone street
 ## 12 Italian 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00274_12_Italian_W_09_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00274_12_Italian_W_09_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -859,7 +859,7 @@ a table set with cheese, bread, and wine on a cobblestone street
 ## 12 Italian 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00275_12_Italian_W_10_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00275_12_Italian_W_10_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -871,7 +871,7 @@ a rustic outdoor table set with bread, cheese, wine, and glasses in a charming s
 ## 12 Italian 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00276_12_Italian_W_11_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00276_12_Italian_W_11_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -883,7 +883,7 @@ people enjoying drinks and food at an outdoor cafe in a charming street
 ## 12 Italian 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00277_12_Italian_W_12_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00277_12_Italian_W_12_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -895,7 +895,7 @@ a rustic outdoor dining setup with wine, cheese, and bread on a cobblestone stre
 ## 12 Italian 13
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00278_12_Italian_W_13_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00278_12_Italian_W_13_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -907,7 +907,7 @@ a rustic table set with bread, cheese, and wine in a charming alley
 ## 12 Italian 14
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00279_12_Italian_W_14_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00279_12_Italian_W_14_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -919,7 +919,7 @@ a rustic table setting with bread, cheese, and a glass of red wine
 ## 12 Italian 15
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00280_12_Italian_W_15_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00280_12_Italian_W_15_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -931,7 +931,7 @@ people enjoying a communal meal at a rustic wooden table
 ## 12 Italian 16
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00281_12_Italian_W_16_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00281_12_Italian_W_16_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -943,7 +943,7 @@ a rustic outdoor dining setting with bread, cheese, and wine
 ## 12 Italian 17
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00282_12_Italian_W_17_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00282_12_Italian_W_17_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -955,7 +955,7 @@ people sharing a meal at a wooden table with warm lighting
 ## 12 Italian 19
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00283_12_Italian_W_19_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00283_12_Italian_W_19_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -967,7 +967,7 @@ a plate of creamy pasta with cheese and herbs on a rustic table
 ## 12 Italian 20
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00284_12_Italian_W_20_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00284_12_Italian_W_20_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -979,7 +979,7 @@ plate of spaghetti with cheese in a rustic restaurant setting
 ## 12 Italian 22
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00285_12_Italian_W_22_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00285_12_Italian_W_22_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -991,7 +991,7 @@ plate of pasta with sauce and cheese in a cozy restaurant setting
 ## 12 Italian 23
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00286_12_Italian_W_23_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00286_12_Italian_W_23_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -1003,7 +1003,7 @@ people enjoying a communal meal at a rustic wooden table
 ## 12 Italian 25
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00287_12_Italian_W_25_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00287_12_Italian_W_25_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -1015,7 +1015,7 @@ plate of pasta with wine and candles on a checkered tablecloth
 ## 12 Italian 26
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00288_12_Italian_W_26_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00288_12_Italian_W_26_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -1027,7 +1027,7 @@ a group of people enjoying a festive meal at a wooden table
 ## 12 Italian 27
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00289_12_Italian_W_27_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00289_12_Italian_W_27_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -1039,7 +1039,7 @@ plate of spaghetti with cheese and bacon in a rustic setting
 ## 12 Italian 28
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00290_12_Italian_W_28_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00290_12_Italian_W_28_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>

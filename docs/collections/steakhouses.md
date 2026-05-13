@@ -358,7 +358,7 @@ a gourmet steak served on a white plate with red sauce in a dimly lit restaurant
 ## 18 Steakhouses 01
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00436_18_Steakhouses_S_01_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00436_18_Steakhouses_S_01_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -370,7 +370,7 @@ a beautifully plated steak with steam rising in an elegant restaurant setting
 ## 18 Steakhouses 02
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00437_18_Steakhouses_S_02_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00437_18_Steakhouses_S_02_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -382,7 +382,7 @@ a beautifully plated steak on a wooden table in an elegant restaurant setting
 ## 18 Steakhouses 03
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00438_18_Steakhouses_S_03_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00438_18_Steakhouses_S_03_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -394,7 +394,7 @@ a beautifully plated grilled steak on a white tablecloth in an elegant restauran
 ## 18 Steakhouses 04
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00439_18_Steakhouses_S_04_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00439_18_Steakhouses_S_04_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -406,7 +406,7 @@ a beautifully plated steak dinner in an elegant restaurant setting
 ## 18 Steakhouses 05
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00440_18_Steakhouses_S_05_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00440_18_Steakhouses_S_05_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -418,7 +418,7 @@ luxurious restaurant interior with leather seating and elegant decor
 ## 18 Steakhouses 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00441_18_Steakhouses_V_01_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00441_18_Steakhouses_V_01_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -430,7 +430,7 @@ a beautifully plated steak dinner in an elegant restaurant setting
 ## 18 Steakhouses 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00442_18_Steakhouses_V_02_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00442_18_Steakhouses_V_02_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -442,7 +442,7 @@ a beautifully arranged steak dinner in an elegant restaurant setting
 ## 18 Steakhouses 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00443_18_Steakhouses_V_03_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00443_18_Steakhouses_V_03_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -454,7 +454,7 @@ a beautifully plated steak dinner in an elegant restaurant setting
 ## 18 Steakhouses 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00444_18_Steakhouses_V_04_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00444_18_Steakhouses_V_04_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -466,7 +466,7 @@ grilled steak on a white plate in an elegant restaurant setting
 ## 18 Steakhouses 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00445_18_Steakhouses_W_01_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00445_18_Steakhouses_W_01_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -478,7 +478,7 @@ a gourmet steak dish served on a white plate with red sauce
 ## 18 Steakhouses 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00446_18_Steakhouses_W_02_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00446_18_Steakhouses_W_02_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -490,7 +490,7 @@ a perfectly cooked steak on a white plate in an elegant restaurant setting
 ## 18 Steakhouses 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00447_18_Steakhouses_W_03_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00447_18_Steakhouses_W_03_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -502,7 +502,7 @@ a beautifully plated steak on a table set for fine dining
 ## 18 Steakhouses 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00448_18_Steakhouses_W_04_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00448_18_Steakhouses_W_04_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -514,7 +514,7 @@ a perfectly grilled steak on a white plate in an elegant restaurant setting
 ## 18 Steakhouses 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00449_18_Steakhouses_W_06_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00449_18_Steakhouses_W_06_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -526,7 +526,7 @@ elegantly arranged dining area in a luxurious restaurant with wooden decor
 ## 18 Steakhouses 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00450_18_Steakhouses_W_07_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00450_18_Steakhouses_W_07_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -538,7 +538,7 @@ elegantly set dining tables in a luxurious restaurant interior
 ## 18 Steakhouses 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00451_18_Steakhouses_W_08_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00451_18_Steakhouses_W_08_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -550,7 +550,7 @@ elegantly set dining table in a luxurious restaurant with wooden decor
 ## 18 Steakhouses 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00452_18_Steakhouses_W_09_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00452_18_Steakhouses_W_09_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -562,7 +562,7 @@ a beautifully arranged steak dinner with whiskey in a cozy restaurant setting
 ## 18 Steakhouses 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00453_18_Steakhouses_W_10_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00453_18_Steakhouses_W_10_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -574,7 +574,7 @@ a beautifully plated steak dinner with candles and elegant glassware
 ## 18 Steakhouses 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00454_18_Steakhouses_W_11_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00454_18_Steakhouses_W_11_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -586,7 +586,7 @@ luxurious restaurant interior with leather seating and elegant decor
 ## 18 Steakhouses 13
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00455_18_Steakhouses_W_13_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00455_18_Steakhouses_W_13_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -598,7 +598,7 @@ elegantly set dining table in a luxurious restaurant interior
 ## 18 Steakhouses 14
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00456_18_Steakhouses_W_14_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00456_18_Steakhouses_W_14_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -610,7 +610,7 @@ elegantly set dining table in a luxurious restaurant with vintage decor
 ## 18 Steakhouses 15
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00457_18_Steakhouses_W_15_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00457_18_Steakhouses_W_15_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -622,7 +622,7 @@ elegant dining area with leather seating and soft lighting
 ## 18 Steakhouses 16
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00458_18_Steakhouses_W_16_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00458_18_Steakhouses_W_16_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -634,7 +634,7 @@ a beautifully arranged steak dinner in an upscale restaurant setting
 ## 18 Steakhouses 17
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00459_18_Steakhouses_W_17_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00459_18_Steakhouses_W_17_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -646,7 +646,7 @@ elegantly set dining table in a luxurious restaurant with dark wood decor
 ## 18 Steakhouses 18
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00460_18_Steakhouses_W_18_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00460_18_Steakhouses_W_18_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -658,7 +658,7 @@ a beautifully arranged steak dinner with asparagus in a dimly lit restaurant
 ## 18 Steakhouses 19
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00461_18_Steakhouses_W_19_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00461_18_Steakhouses_W_19_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -670,7 +670,7 @@ elegant restaurant interior with dark wood paneling and leather seating
 ## 18 Steakhouses 20
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00462_18_Steakhouses_W_20_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00462_18_Steakhouses_W_20_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -682,7 +682,7 @@ a beautifully plated steak with asparagus on a wooden table in a dimly lit resta
 ## 18 Steakhouses 21
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00463_18_Steakhouses_W_21_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00463_18_Steakhouses_W_21_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -694,7 +694,7 @@ elegantly plated gourmet dishes on a wooden table in a fine dining restaurant
 ## 18 Steakhouses 22
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00464_18_Steakhouses_W_22_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00464_18_Steakhouses_W_22_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -706,7 +706,7 @@ a beautifully arranged table setting with a steak and wine glasses in a dimly li
 ## 18 Steakhouses 23
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00465_18_Steakhouses_W_23_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00465_18_Steakhouses_W_23_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -718,7 +718,7 @@ a beautifully plated steak with asparagus in a dimly lit restaurant
 ## 18 Steakhouses 24
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00466_18_Steakhouses_W_24_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00466_18_Steakhouses_W_24_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -730,7 +730,7 @@ elegantly plated gourmet dish on a fine dining table with candles
 ## 18 Steakhouses 25
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00467_18_Steakhouses_W_25_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00467_18_Steakhouses_W_25_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -742,7 +742,7 @@ elegantly plated gourmet dishes on a wooden restaurant table
 ## 18 Steakhouses 26
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00468_18_Steakhouses_W_26_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00468_18_Steakhouses_W_26_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -754,7 +754,7 @@ elegantly designed restaurant interior with leather seating and artwork
 ## 18 Steakhouses 27
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00469_18_Steakhouses_W_27_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00469_18_Steakhouses_W_27_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -766,7 +766,7 @@ elegantly designed restaurant interior with leather seating and wine display
 ## 18 Steakhouses 28
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00470_18_Steakhouses_W_28_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00470_18_Steakhouses_W_28_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -778,7 +778,7 @@ luxurious restaurant interior with leather seating and dim lighting
 ## 18 Steakhouses 29
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00471_18_Steakhouses_W_29_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00471_18_Steakhouses_W_29_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -790,7 +790,7 @@ a beautifully plated steak with asparagus on a wooden table in a dimly lit resta
 ## 18 Steakhouses 30
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00472_18_Steakhouses_W_30_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00472_18_Steakhouses_W_30_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -802,7 +802,7 @@ a perfectly cooked steak with asparagus on a black plate in a dimly lit restaura
 ## 18 Steakhouses 31
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00473_18_Steakhouses_W_31_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00473_18_Steakhouses_W_31_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -814,7 +814,7 @@ a perfectly cooked steak with asparagus and whiskey in a dimly lit restaurant bo
 ## 18 Steakhouses 32
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00474_18_Steakhouses_W_32_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00474_18_Steakhouses_W_32_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -826,7 +826,7 @@ a beautifully plated steak with asparagus in a dimly lit restaurant
 ## 18 Steakhouses 33
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00475_18_Steakhouses_W_33_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00475_18_Steakhouses_W_33_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -838,7 +838,7 @@ a beautifully plated steak with asparagus and a glass of whiskey in a dimly lit 
 ## 18 Steakhouses 34
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00476_18_Steakhouses_W_34_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00476_18_Steakhouses_W_34_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -850,7 +850,7 @@ a beautifully arranged steak dinner with whiskey and asparagus in a cozy restaur
 ## 18 Steakhouses 35
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00477_18_Steakhouses_W_35_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00477_18_Steakhouses_W_35_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -862,7 +862,7 @@ a beautifully plated steak with asparagus in a dimly lit restaurant
 ## 18 Steakhouses 36
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00478_18_Steakhouses_W_36_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00478_18_Steakhouses_W_36_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -874,7 +874,7 @@ a sizzling steak with asparagus and whiskey on a wooden table
 ## 18 Steakhouses 37
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00479_18_Steakhouses_W_37_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00479_18_Steakhouses_W_37_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -886,7 +886,7 @@ a beautifully plated steak dinner with elegant table setting and candlelight
 ## 18 Steakhouses 38
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00480_18_Steakhouses_W_38_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00480_18_Steakhouses_W_38_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -898,7 +898,7 @@ a gourmet steak served on a white plate with red sauce in an elegant dining sett
 ## 18 Steakhouses 39
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00481_18_Steakhouses_W_39_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00481_18_Steakhouses_W_39_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>

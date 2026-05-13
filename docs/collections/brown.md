@@ -16,7 +16,7 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 ## 01 Brown Algae
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0748_01_Micro_06_Algae_08_Brown_Algae_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0748_01_Micro_06_Algae_08_Brown_Algae_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Underwater forest of golden brown algae sways with ocean currents, painting a vi
 ## 02 Brown Algae
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0749_01_Micro_06_Algae_08_Brown_Algae_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0749_01_Micro_06_Algae_08_Brown_Algae_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A vivid underwater scene of golden brown algae swaying between rocky outcrops as
 ## 03 Brown Algae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0750_01_Micro_06_Algae_08_Brown_Algae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0750_01_Micro_06_Algae_08_Brown_Algae_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Underwater scene of golden brown algae swaying around rocky outcrops, sunlight f
 ## 04 Brown Algae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0751_01_Micro_06_Algae_08_Brown_Algae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0751_01_Micro_06_Algae_08_Brown_Algae_V_Mp4_preview.mp4">Preview video</a>
 </video>

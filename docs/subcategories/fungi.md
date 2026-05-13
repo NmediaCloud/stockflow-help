@@ -1,6 +1,6 @@
 ---
 title: "Fungi Stock Footage and Images | Stockflow.media"
-description: "Browse 240 professional 4K/8K Fungi assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+description: "Browse 248 professional 4K/8K Fungi assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
 ---
 
 # Fungi
@@ -21,5 +21,5 @@ Explore the **12 collections** in this subcategory:
 * **[Mycelium](../collections/mycelium.md)** — 16 assets
 * **[Pathogenic](../collections/pathogenic.md)** — 33 assets
 * **[Sporangia](../collections/sporangia.md)** — 24 assets
-* **[Yeast Cells](../collections/yeast-cells.md)** — 18 assets
+* **[Yeast Cells](../collections/yeast-cells.md)** — 26 assets
 * **[Zygomycete](../collections/zygomycete.md)** — 9 assets

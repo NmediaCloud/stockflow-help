@@ -1,13 +1,13 @@
 ---
-title: "red and white blood cells Stock Footage and Images | Cellular | Stockflow.media"
-description: "Download 8 professional red and white blood cells assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cellular collection."
+title: "Red And White Blood Cells Stock Footage and Images | Cellular | Stockflow.media"
+description: "Download 8 professional Red And White Blood Cells assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cellular collection."
 ---
 
-# red and white blood cells
+# Red And White Blood Cells
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **red and white blood cells**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cellular](../subcategories/cellular.md) / **Red And White Blood Cells**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=red+and+white+blood+cells){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cellular&collection=Red+And+White+Blood+Cells){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

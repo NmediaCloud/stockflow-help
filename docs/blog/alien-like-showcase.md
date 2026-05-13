@@ -1,23 +1,23 @@
 ---
-title: "How to Use Alien-Like Footage in Creative Projects | Stockflow.media"
-description: "**Alien-Like** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Alien-like Footage in Creative Projects | Stockflow.media"
+description: "**Alien-like** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Alien-Like Visuals in Your Creative Projects
+# How to Use Alien-like Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Organism](../subcategories/organism.md) / **Alien-Like**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Organism](../subcategories/organism.md) / **Alien-like**
 
-[Browse the Alien-Like Collection](https://stockflow.media/?cat=Microscopic&sub=Organism&collection=Alien-Like){ .md-button .md-button--primary }
+[Browse the Alien-like Collection](https://stockflow.media/?cat=Microscopic&sub=Organism&collection=Alien-like){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Alien-Like** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Alien-like** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Alien-Like** collection — 12 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Alien-like** collection — 12 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Alien-Like Visuals Are in Demand
+## Why Alien-like Visuals Are in Demand
 
 High-quality alien-like footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
@@ -43,7 +43,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Organism&collection=Alien-Like)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Organism&collection=Alien-like)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +67,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Alien-Like Collection
+## Explore the Full Alien-like Collection
 
-Ready to add **Alien-Like** visuals to your next project?
+Ready to add **Alien-like** visuals to your next project?
 
-[Browse Alien-Like on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Organism&collection=Alien-Like){ .md-button .md-button--primary }
+[Browse Alien-like on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Organism&collection=Alien-like){ .md-button .md-button--primary }
 [View Collection Details](../collections/alien-like.md){ .md-button }

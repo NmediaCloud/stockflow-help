@@ -16,7 +16,7 @@ This collection contains **9 assets** available in multiple resolutions and aspe
 ## 01 Actin Filaments
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0099_01_Micro_01_Actin_Filaments_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0099_01_Micro_01_Actin_Filaments_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Fluorescent image of a cell showing extensive actin filament networks radiating 
 ## 02 Actin Filaments
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0100_01_Micro_01_Actin_Filaments_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0100_01_Micro_01_Actin_Filaments_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ High fidelity micrograph of actin filaments (red) intertwined with cellular stru
 ## 03 Actin Filaments
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0101_01_Micro_01_Actin_Filaments_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0101_01_Micro_01_Actin_Filaments_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A fluorescent microscopic image reveals a dense green network radiating from a c
 ## 04 Actin Filaments
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0102_01_Micro_01_Actin_Filaments_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0102_01_Micro_01_Actin_Filaments_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A high-contrast fluorescence image of a cell highlighting actin filaments in red
 ## 05 Actin Filaments
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0103_01_Micro_01_Actin_Filaments_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0103_01_Micro_01_Actin_Filaments_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Fluorescent image shows interconnected actin filaments (red) spanning between bl
 ## 06 Actin Filaments
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0104_01_Micro_01_Actin_Filaments_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0104_01_Micro_01_Actin_Filaments_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Fluorescent visualization of a single cell showing green actin filaments radiati
 ## 07 Actin Filaments
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0105_01_Micro_01_Actin_Filaments_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0105_01_Micro_01_Actin_Filaments_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Fluorescent image of a single cell revealing a dynamic cytoskeleton: red actin f
 ## 08 Actin Filaments
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0106_01_Micro_01_Actin_Filaments_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0106_01_Micro_01_Actin_Filaments_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Fluorescent micrograph of actin filaments (orange) spanning across blue-nucleate
 ## 09 Actin Filaments
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0107_01_Micro_01_Actin_Filaments_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0107_01_Micro_01_Actin_Filaments_V_Mp4_preview.mp4">Preview video</a>
 </video>

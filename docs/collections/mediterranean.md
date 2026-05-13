@@ -268,7 +268,7 @@ close-up of a burrito filled with rice, beans, and meat topped with salsa
 ## 14 Mediterranean 01
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00333_14_Mediterranean_S_01_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00333_14_Mediterranean_S_01_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ a plate of seafood paella served in a cozy restaurant setting
 ## 14 Mediterranean 02
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00334_14_Mediterranean_S_02_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00334_14_Mediterranean_S_02_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ a beautifully arranged table with octopus and various dishes in a restaurant set
 ## 14 Mediterranean 03
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00335_14_Mediterranean_S_03_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00335_14_Mediterranean_S_03_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ Bright and airy restaurant interior with blue accents and olive tree centerpiece
 ## 14 Mediterranean 04
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00336_14_Mediterranean_S_04_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00336_14_Mediterranean_S_04_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ a table set with various Mediterranean dishes and a glass of red wine
 ## 14 Mediterranean 05
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00337_14_Mediterranean_S_05_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00337_14_Mediterranean_S_05_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ bright and airy restaurant interior with blue windows and olive trees
 ## 14 Mediterranean 06
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00338_14_Mediterranean_S_06_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00338_14_Mediterranean_S_06_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ Bright and airy restaurant interior with blue accents and wooden furniture
 ## 14 Mediterranean 07
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00339_14_Mediterranean_S_07_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00339_14_Mediterranean_S_07_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ cozy seaside restaurant with blue accents and natural light
 ## 14 Mediterranean 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00340_14_Mediterranean_V_01_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00340_14_Mediterranean_V_01_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ a vibrant restaurant interior with beautifully arranged dishes and elegant decor
 ## 14 Mediterranean 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00341_14_Mediterranean_V_02_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00341_14_Mediterranean_V_02_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ interior of a restaurant with traditional decor and a variety of dishes on the t
 ## 14 Mediterranean 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00342_14_Mediterranean_V_03_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00342_14_Mediterranean_V_03_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -388,7 +388,7 @@ interior of a bright restaurant with blue accents and wooden tables
 ## 14 Mediterranean 05
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00343_14_Mediterranean_V_05_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00343_14_Mediterranean_V_05_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -400,7 +400,7 @@ interior of a bright restaurant with wooden tables and blue accents
 ## 14 Mediterranean 06
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00344_14_Mediterranean_V_06_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00344_14_Mediterranean_V_06_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -412,7 +412,7 @@ interior of a bright restaurant with blue accents and wooden furniture
 ## 14 Mediterranean 07
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00345_14_Mediterranean_V_07_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00345_14_Mediterranean_V_07_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -424,7 +424,7 @@ bright restaurant interior with blue chairs and large windows overlooking the se
 ## 14 Mediterranean 08
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00346_14_Mediterranean_V_08_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00346_14_Mediterranean_V_08_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -436,7 +436,7 @@ bright and airy restaurant interior with blue accents and olive tree
 ## 14 Mediterranean 09
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00347_14_Mediterranean_V_09_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00347_14_Mediterranean_V_09_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -448,7 +448,7 @@ bright and airy restaurant interior with blue accents and wooden beams
 ## 14 Mediterranean 10
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00348_14_Mediterranean_V_10_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00348_14_Mediterranean_V_10_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -460,7 +460,7 @@ bright and airy restaurant interior with blue accents and natural light
 ## 14 Mediterranean 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00349_14_Mediterranean_W_01_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00349_14_Mediterranean_W_01_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -472,7 +472,7 @@ a beautifully arranged table of Mediterranean dishes in a vibrant restaurant set
 ## 14 Mediterranean 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00350_14_Mediterranean_W_02_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00350_14_Mediterranean_W_02_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -484,7 +484,7 @@ a cozy restaurant interior with traditional dishes displayed on wooden tables
 ## 14 Mediterranean 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00351_14_Mediterranean_W_03_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00351_14_Mediterranean_W_03_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -496,7 +496,7 @@ colorful restaurant interior with traditional Mexican dishes and drinks on the t
 ## 14 Mediterranean 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00352_14_Mediterranean_W_04_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00352_14_Mediterranean_W_04_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -508,7 +508,7 @@ five delicious burritos filled with fresh ingredients on a wooden table
 ## 14 Mediterranean 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00353_14_Mediterranean_W_05_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00353_14_Mediterranean_W_05_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -520,7 +520,7 @@ a close-up of several grilled burritos filled with meat and vegetables
 ## 14 Mediterranean 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00354_14_Mediterranean_W_06_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00354_14_Mediterranean_W_06_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -532,7 +532,7 @@ charming outdoor cafe with blue accents and rustic decor
 ## 14 Mediterranean 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00355_14_Mediterranean_W_07_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00355_14_Mediterranean_W_07_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -544,7 +544,7 @@ interior of a mediterranean restaurant with blue accents and wooden furniture
 ## 14 Mediterranean 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00356_14_Mediterranean_W_08_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00356_14_Mediterranean_W_08_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -556,7 +556,7 @@ a bright outdoor cafe with blue accents and fresh produce displays
 ## 14 Mediterranean 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00357_14_Mediterranean_W_09_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00357_14_Mediterranean_W_09_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -568,7 +568,7 @@ bright and airy restaurant interior with blue accents and olive trees
 ## 14 Mediterranean 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00358_14_Mediterranean_W_10_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00358_14_Mediterranean_W_10_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -580,7 +580,7 @@ bright and airy restaurant interior with blue accents and wooden furniture
 ## 14 Mediterranean 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00359_14_Mediterranean_W_11_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00359_14_Mediterranean_W_11_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -592,7 +592,7 @@ bright and airy restaurant interior with blue accents and olive trees
 ## 14 Mediterranean 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00360_14_Mediterranean_W_12_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00360_14_Mediterranean_W_12_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>

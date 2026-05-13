@@ -133,7 +133,7 @@ Giardia lamblia parasite, a pear-shaped protozoan with multiple flagella and int
 ## 01 Giardia Lamblia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0862_01_Micro_09_Parasite_02_Giardia_Lamblia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0862_01_Micro_09_Parasite_02_Giardia_Lamblia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -145,7 +145,7 @@ A magnified view of a rotifer-like microorganism with a shielded body, segmented
 ## 02 Giardia Lamblia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0863_01_Micro_09_Parasite_02_Giardia_Lamblia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0863_01_Micro_09_Parasite_02_Giardia_Lamblia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -157,7 +157,7 @@ A Giardia lamblia trophozoite under the microscope, displaying a pear-shaped bod
 ## 03 Giardia Lamblia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0864_01_Micro_09_Parasite_02_Giardia_Lamblia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0864_01_Micro_09_Parasite_02_Giardia_Lamblia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -169,7 +169,7 @@ A microscopic image of Giardia lamblia, a flagellated parasite, showing its oval
 ## 04 Giardia Lamblia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0865_01_Micro_09_Parasite_02_Giardia_Lamblia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0865_01_Micro_09_Parasite_02_Giardia_Lamblia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -181,7 +181,7 @@ Microscopic image of Giardia lamblia, a flagellated protozoan parasite. The orga
 ## 05 Giardia Lamblia
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0866_01_Micro_09_Parasite_02_Giardia_Lamblia_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0866_01_Micro_09_Parasite_02_Giardia_Lamblia_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -193,7 +193,7 @@ A microscopic aquatic crustacean displaying an elongated body, segmented abdomen
 ## 06 Giardia Lamblia
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0867_01_Micro_09_Parasite_02_Giardia_Lamblia_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0867_01_Micro_09_Parasite_02_Giardia_Lamblia_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -205,7 +205,7 @@ A microscopic Giardia lamblia trophozoite, a flagellated parasite, displayed wit
 ## 07 Giardia Lamblia
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0868_01_Micro_09_Parasite_02_Giardia_Lamblia_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0868_01_Micro_09_Parasite_02_Giardia_Lamblia_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -217,7 +217,7 @@ Microscopic view of Giardia lamblia, a parasitic protozoan, displaying its oval 
 ## 08 Giardia Lamblia
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0869_01_Micro_09_Parasite_02_Giardia_Lamblia_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0869_01_Micro_09_Parasite_02_Giardia_Lamblia_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -229,7 +229,7 @@ Micro video of Giardia lamblia, a parasite protozoan, displaying its pear-shaped
 ## 09 Giardia Lamblia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0870_01_Micro_09_Parasite_02_Giardia_Lamblia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0870_01_Micro_09_Parasite_02_Giardia_Lamblia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -241,7 +241,7 @@ Microscopic view of Giardia lamblia, a flagellated parasite. The pear-shaped org
 ## 10 Giardia Lamblia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0871_01_Micro_09_Parasite_02_Giardia_Lamblia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0871_01_Micro_09_Parasite_02_Giardia_Lamblia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -253,7 +253,7 @@ Microscopic image of Giardia lamblia, a flagellated parasite, showing its pear-s
 ## 11 Giardia Lamblia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0872_01_Micro_09_Parasite_02_Giardia_Lamblia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0872_01_Micro_09_Parasite_02_Giardia_Lamblia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -265,7 +265,7 @@ Under the microscope, a translucent, elongated aquatic protozoan with multiple t
 ## 12 Giardia Lamblia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0873_01_Micro_09_Parasite_02_Giardia_Lamblia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0873_01_Micro_09_Parasite_02_Giardia_Lamblia_V_Mp4_preview.mp4">Preview video</a>
 </video>

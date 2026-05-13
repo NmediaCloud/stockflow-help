@@ -12,5 +12,5 @@ description: "Browse 15 professional 4K/8K Hematology assets from the Microscopi
 Explore the **3 collections** in this subcategory:
 
 * **[Hematology](../collections/hematology.md)** — 2 assets
-* **[Iron deficieny](../collections/iron-deficieny.md)** — 1 assets
+* **[Iron Deficieny](../collections/iron-deficieny.md)** — 1 assets
 * **[Sickle Cell](../collections/sickle-cell.md)** — 12 assets

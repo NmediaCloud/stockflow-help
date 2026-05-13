@@ -1,21 +1,21 @@
 ---
-title: "How to Use Yeast cells Footage in Creative Projects | Stockflow.media"
-description: "**Yeast cells** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Yeast Cells Footage in Creative Projects | Stockflow.media"
+description: "**Yeast Cells** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Yeast cells Visuals in Your Creative Projects
+# How to Use Yeast Cells Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Yeast cells**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Fungi](../subcategories/fungi.md) / **Yeast Cells**
 
-[Browse the Yeast cells Collection](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Yeast+cells){ .md-button .md-button--primary }
+[Browse the Yeast Cells Collection](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Yeast+Cells){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Yeast cells** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Yeast Cells** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Yeast cells** collection — 8 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Yeast Cells** collection — 26 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -34,11 +34,11 @@ SEM image of yeast cells (food fungi) on a textured surface.
 
 SEM image of yeast cells (food fungi) on a textured surface.
 
-## Why Yeast cells Visuals Are in Demand
+## Why Yeast Cells Visuals Are in Demand
 
 High-quality yeast cells footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **8 assets** in this collection are:
+All **26 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Yeast+cells)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Yeast+Cells)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -84,9 +84,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Yeast cells Collection
+## Explore the Full Yeast Cells Collection
 
-Ready to add **Yeast cells** visuals to your next project?
+Ready to add **Yeast Cells** visuals to your next project?
 
-[Browse Yeast cells on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Yeast+cells){ .md-button .md-button--primary }
+[Browse Yeast Cells on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Fungi&collection=Yeast+Cells){ .md-button .md-button--primary }
 [View Collection Details](../collections/yeast-cells.md){ .md-button }

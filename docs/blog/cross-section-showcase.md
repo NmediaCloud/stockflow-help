@@ -1,23 +1,23 @@
 ---
-title: "How to Use Cross-Section Footage in Creative Projects | Stockflow.media"
-description: "**Cross-Section** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Cross-section Footage in Creative Projects | Stockflow.media"
+description: "**Cross-section** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Cross-Section Visuals in Your Creative Projects
+# How to Use Cross-section Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Cross-Section**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Cross-section**
 
-[Browse the Cross-Section Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-Section){ .md-button .md-button--primary }
+[Browse the Cross-section Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-section){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Cross-Section** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Cross-section** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Cross-Section** collection — 14 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Cross-section** collection — 14 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Cross-Section Visuals Are in Demand
+## Why Cross-section Visuals Are in Demand
 
 High-quality cross-section footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
@@ -43,7 +43,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-Section)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-section)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +67,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Cross-Section Collection
+## Explore the Full Cross-section Collection
 
-Ready to add **Cross-Section** visuals to your next project?
+Ready to add **Cross-section** visuals to your next project?
 
-[Browse Cross-Section on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-Section){ .md-button .md-button--primary }
+[Browse Cross-section on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-section){ .md-button .md-button--primary }
 [View Collection Details](../collections/cross-section.md){ .md-button }

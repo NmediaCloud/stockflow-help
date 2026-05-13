@@ -1,13 +1,13 @@
 ---
-title: "Rhizopus sporangia Stock Footage and Images | Food Fungi | Stockflow.media"
-description: "Download 8 professional Rhizopus sporangia assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Fungi collection."
+title: "Rhizopus Sporangia Stock Footage and Images | Food Fungi | Stockflow.media"
+description: "Download 8 professional Rhizopus Sporangia assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Fungi collection."
 ---
 
-# Rhizopus sporangia
+# Rhizopus Sporangia
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Rhizopus sporangia**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Rhizopus Sporangia**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Rhizopus+sporangia){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Rhizopus+Sporangia){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

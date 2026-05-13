@@ -79,7 +79,7 @@ Blue-stained rod-shaped bacteria arranged in short chains.
 ## 01 Tetani
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0791_01_Micro_07_Bacteria_09_Tetani_01_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0791_01_Micro_07_Bacteria_09_Tetani_01_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -91,7 +91,7 @@ Blue-tinted microscopic scene shows a chain of rod-shaped bacteria with small ro
 ## 02 Tetani
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0792_01_Micro_07_Bacteria_09_Tetani_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0792_01_Micro_07_Bacteria_09_Tetani_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -103,7 +103,7 @@ A magnified view of blue-toned bacterial cells arranged in a linked chain, highl
 ## 03 Tetani
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0793_01_Micro_07_Bacteria_09_Tetani_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0793_01_Micro_07_Bacteria_09_Tetani_V_Mp4_preview.mp4">Preview video</a>
 </video>

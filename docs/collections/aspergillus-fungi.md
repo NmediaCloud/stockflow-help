@@ -1,13 +1,13 @@
 ---
-title: "Aspergillus fungi Stock Footage and Images | Food Fungi | Stockflow.media"
-description: "Download 8 professional Aspergillus fungi assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Fungi collection."
+title: "Aspergillus Fungi Stock Footage and Images | Food Fungi | Stockflow.media"
+description: "Download 8 professional Aspergillus Fungi assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Food Fungi collection."
 ---
 
-# Aspergillus fungi
+# Aspergillus Fungi
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Aspergillus fungi**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Food Fungi](../subcategories/food-fungi.md) / **Aspergillus Fungi**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+fungi){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Food+Fungi&collection=Aspergillus+Fungi){ .md-button .md-button--primary }
 
 This collection contains **8 assets** available in multiple resolutions and aspect ratios.
 

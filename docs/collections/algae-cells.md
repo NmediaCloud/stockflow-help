@@ -1,13 +1,13 @@
 ---
-title: "Algae cells Stock Footage and Images | Waterborne | Stockflow.media"
-description: "Download 6 professional Algae cells assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Waterborne collection."
+title: "Algae Cells Stock Footage and Images | Waterborne | Stockflow.media"
+description: "Download 6 professional Algae Cells assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Waterborne collection."
 ---
 
-# Algae cells
+# Algae Cells
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Algae cells**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Waterborne](../subcategories/waterborne.md) / **Algae Cells**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Algae+cells){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Waterborne&collection=Algae+Cells){ .md-button .md-button--primary }
 
 This collection contains **6 assets** available in multiple resolutions and aspect ratios.
 

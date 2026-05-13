@@ -16,7 +16,7 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 ## 08 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0915_01_Micro_10_Cancer_Cell_03_(Tem)_Of_Viruses_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0915_01_Micro_10_Cancer_Cell_03_(Tem)_Of_Viruses_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A microscopic scene depicting cancer cells and surrounding viruses amid a dark b
 ## 09 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0916_01_Micro_10_Cancer_Cell_03_(Tem)_Of_Viruses_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0916_01_Micro_10_Cancer_Cell_03_(Tem)_Of_Viruses_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A vibrant microscopic scene showing diverse microorganisms—spherical, spiky vi
 ## 10 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0917_01_Micro_10_Cancer_Cell_03_(Tem)_Of_Viruses_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0917_01_Micro_10_Cancer_Cell_03_(Tem)_Of_Viruses_V_Mp4_preview.mp4">Preview video</a>
 </video>

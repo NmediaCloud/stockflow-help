@@ -1,13 +1,13 @@
 ---
-title: "Plant Cell Stock Footage and Images | Cross-Section | Stockflow.media"
-description: "Download 12 professional Plant Cell assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cross-Section collection."
+title: "Plant Cell Stock Footage and Images | Cross-section | Stockflow.media"
+description: "Download 12 professional Plant Cell assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Cross-section collection."
 ---
 
 # Plant Cell
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cross-Section](../subcategories/cross-section.md) / **Plant Cell**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Cross-section](../subcategories/cross-section.md) / **Plant Cell**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cross-Section&collection=Plant+Cell){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Cross-section&collection=Plant+Cell){ .md-button .md-button--primary }
 
 This collection contains **12 assets** available in multiple resolutions and aspect ratios.
 
@@ -88,7 +88,7 @@ Cross-section of a plant cell, showing a thick cell wall and numerous internal o
 ## 01 Plant Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0570_01_Micro_04_Cross-Section_Of_A_Plant_Cell_3_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0570_01_Micro_04_Cross-Section_Of_A_Plant_Cell_3_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A green cross-sectional view of plant tissue reveals internal cells and organell
 ## 02 Plant Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0571_01_Micro_04_Cross-Section_Of_A_Plant_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0571_01_Micro_04_Cross-Section_Of_A_Plant_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A highly detailed, green micrograph-style cross-section of a plant cell reveals 
 ## 03 Plant Cell
 **Resolution:** 3840x21 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0572_01_Micro_04_Cross-Section_Of_A_Plant_Cell_V2_W_60_180_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0572_01_Micro_04_Cross-Section_Of_A_Plant_Cell_V2_W_60_180_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Cross-section view of a plant cell reveals layered chloroplasts, a central vacuo
 ## 04 Plant Cell
 **Resolution:**  | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0573_01_Micro_04_Cross-Section_Of_A_Plant_Cell_V3_V2_W_3840_181_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0573_01_Micro_04_Cross-Section_Of_A_Plant_Cell_V3_V2_W_3840_181_Mp4_preview.mp4">Preview video</a>
 </video>

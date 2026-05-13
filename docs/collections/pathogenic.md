@@ -241,7 +241,7 @@ Color-enhanced micrograph of pathogenic fungi in tissue, showing yellow filament
 ## 01 Pathogenic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0783_01_Micro_07_Bacteria_06_Pathogenic_01_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0783_01_Micro_07_Bacteria_06_Pathogenic_01_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -253,7 +253,7 @@ A high-resolution microscopic view reveals blue rod-shaped bacteria within a cir
 ## 02 Pathogenic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0784_01_Micro_07_Bacteria_06_Pathogenic_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0784_01_Micro_07_Bacteria_06_Pathogenic_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -265,7 +265,7 @@ Color-enhanced micrograph of a eukaryotic cell showing blue rod-shaped bacteria 
 ## 03 Pathogenic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0785_01_Micro_07_Bacteria_06_Pathogenic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0785_01_Micro_07_Bacteria_06_Pathogenic_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -277,7 +277,7 @@ Color-enhanced micrograph showing pathogenic bacteria (blue rods) inside a host 
 ## 04 Pathogenic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0786_01_Micro_07_Bacteria_06_Pathogenic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0786_01_Micro_07_Bacteria_06_Pathogenic_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -289,7 +289,7 @@ Color-enhanced micrograph of a blood vessel showing pink rod-shaped bacteria wit
 ## 01 Pathogenic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0833_01_Micro_08_Fungi_06_Pathogenic_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0833_01_Micro_08_Fungi_06_Pathogenic_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -301,7 +301,7 @@ A high-resolution micrograph of pathogenic fungi interacting with tissue, displa
 ## 02 Pathogenic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0834_01_Micro_08_Fungi_06_Pathogenic_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0834_01_Micro_08_Fungi_06_Pathogenic_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -313,7 +313,7 @@ Colorized electron micrograph illustrating fungal pathogens invading a host surf
 ## 03 Pathogenic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0835_01_Micro_08_Fungi_06_Pathogenic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0835_01_Micro_08_Fungi_06_Pathogenic_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -325,7 +325,7 @@ Micrograph of pathogenic fungi at a tissue interface, showing blue spores and ye
 ## 04 Pathogenic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0836_01_Micro_08_Fungi_06_Pathogenic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0836_01_Micro_08_Fungi_06_Pathogenic_V_Mp4_preview.mp4">Preview video</a>
 </video>

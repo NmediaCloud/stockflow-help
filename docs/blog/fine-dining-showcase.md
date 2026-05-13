@@ -1,27 +1,44 @@
 ---
-title: "How to Use Fine dining Footage in Creative Projects | Stockflow.media"
-description: "**Fine dining** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
+title: "How to Use Fine Dining Footage in Creative Projects | Stockflow.media"
+description: "**Fine Dining** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
 ---
 
-# How to Use Fine dining Visuals in Your Creative Projects
+# How to Use Fine Dining Visuals in Your Creative Projects
 
-[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Fine dining**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Fine Dining**
 
-[Browse the Fine dining Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fine+dining){ .md-button .md-button--primary }
+[Browse the Fine Dining Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fine+Dining){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Fine dining** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
+**Fine Dining** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-This guide explores how to use the **Fine dining** collection — 28 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Fine Dining** collection — 44 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Fine dining Visuals Are in Demand
+## Visual Highlights
+
+### 08 Fine Dining 05
+![08 Fine Dining 05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00094_08_Fine_Dining_S_05_5760x5760_jpeg__preview.webp)
+
+elegantly set dining table with crystal glassware and candlelight ambiance
+
+### 08 Fine Dining 06
+![08 Fine Dining 06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00095_08_Fine_Dining_S_06_5760x5760_jpeg__preview.webp)
+
+elegantly set dining table with crystal glassware and soft ambient lighting
+
+### 08 Fine Dining 07
+![08 Fine Dining 07](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00096_08_Fine_Dining_S_07_5760x5760_jpeg__preview.webp)
+
+elegantly set dining table with crystal glasses and soft bokeh lighting
+
+## Why Fine Dining Visuals Are in Demand
 
 High-quality fine dining footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **28 assets** in this collection are:
+All **44 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -43,7 +60,7 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fine+dining)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fine+Dining)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +84,9 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Fine dining Collection
+## Explore the Full Fine Dining Collection
 
-Ready to add **Fine dining** visuals to your next project?
+Ready to add **Fine Dining** visuals to your next project?
 
-[Browse Fine dining on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fine+dining){ .md-button .md-button--primary }
+[Browse Fine Dining on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fine+Dining){ .md-button .md-button--primary }
 [View Collection Details](../collections/fine-dining.md){ .md-button }

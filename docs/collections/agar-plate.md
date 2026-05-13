@@ -70,7 +70,7 @@ Vibrant rainbow circular pattern resembling bacterial growth on an agar plate wi
 ## 01 Agar Plate
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0794_01_Micro_07_Bacteria_10_Agar_Plate_01_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0794_01_Micro_07_Bacteria_10_Agar_Plate_01_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -82,7 +82,7 @@ Vibrant microscopic view of bacteria radiating from a central point, forming bri
 ## 02 Agar Plate
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0795_01_Micro_07_Bacteria_10_Agar_Plate_02_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0795_01_Micro_07_Bacteria_10_Agar_Plate_02_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -94,7 +94,7 @@ A vivid rainbow-hued cross-section of a circular culture, revealing layered ring
 ## 03 Agar Plate
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0796_01_Micro_07_Bacteria_10_Agar_Plate_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0796_01_Micro_07_Bacteria_10_Agar_Plate_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -106,7 +106,7 @@ A vivid microscopic depiction of bacterial growth radiating outward from a brigh
 ## 04 Agar Plate
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0797_01_Micro_07_Bacteria_10_Agar_Plate_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0797_01_Micro_07_Bacteria_10_Agar_Plate_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -118,7 +118,7 @@ A vibrant rainbow-lit cross-section resembling a microscopic view of bacterial c
 ## 05 Agar Plate
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0798_01_Micro_07_Bacteria_10_Agar_Plate_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0798_01_Micro_07_Bacteria_10_Agar_Plate_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -130,7 +130,7 @@ A vivid yellow starburst of tiny droplets radiates from a bright center, forming
 ## 06 Agar Plate
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0799_01_Micro_07_Bacteria_10_Agar_Plate_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0799_01_Micro_07_Bacteria_10_Agar_Plate_V_Mp4_preview.mp4">Preview video</a>
 </video>

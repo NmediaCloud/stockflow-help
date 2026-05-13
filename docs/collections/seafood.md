@@ -286,7 +286,7 @@ modern restaurant interior with wooden decor and aquarium
 ## 17 Seafood 02
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00405_17_Seafood_S_02_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00405_17_Seafood_S_02_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -298,7 +298,7 @@ a luxurious seafood platter featuring lobster and oysters in an elegant restaura
 ## 17 Seafood 03
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00406_17_Seafood_S_03_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00406_17_Seafood_S_03_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -310,7 +310,7 @@ a luxurious seafood platter featuring lobster, oysters, and sashimi in an elegan
 ## 17 Seafood 04
 **Resolution:** 3840x3840 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00407_17_Seafood_S_04_3840x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00407_17_Seafood_S_04_3840x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -322,7 +322,7 @@ a luxurious seafood platter featuring lobster, oysters, and caviar in an elegant
 ## 17 Seafood 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00408_17_Seafood_V_01_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00408_17_Seafood_V_01_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -334,7 +334,7 @@ a plate of fresh seafood including lobster and oysters in an elegant restaurant 
 ## 17 Seafood 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00409_17_Seafood_V_02_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00409_17_Seafood_V_02_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -346,7 +346,7 @@ a beautifully arranged seafood platter with lobster and oysters on ice
 ## 17 Seafood 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00410_17_Seafood_V_03_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00410_17_Seafood_V_03_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -358,7 +358,7 @@ a beautifully arranged seafood platter featuring oysters and lobster in a modern
 ## 17 Seafood 05
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00411_17_Seafood_V_05_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00411_17_Seafood_V_05_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -370,7 +370,7 @@ interior view of a modern seafood restaurant with blue accents and wooden decor
 ## 17 Seafood 06
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00412_17_Seafood_V_06_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00412_17_Seafood_V_06_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -382,7 +382,7 @@ interior of a seafood restaurant with a blue booth and glass display
 ## 17 Seafood 07
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00413_17_Seafood_V_07_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00413_17_Seafood_V_07_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -394,7 +394,7 @@ interior of a modern seafood restaurant with blue leather seating
 ## 17 Seafood 08
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00414_17_Seafood_V_08_2160x3840_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00414_17_Seafood_V_08_2160x3840_mp4__preview.mp4">Preview video</a>
 </video>
@@ -406,7 +406,7 @@ Interior view of a modern restaurant with aquarium and cozy seating
 ## 17 Seafood 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00415_17_Seafood_W_01_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00415_17_Seafood_W_01_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -418,7 +418,7 @@ outdoor dining table set with Mediterranean dishes by the sea
 ## 17 Seafood 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00416_17_Seafood_W_02_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00416_17_Seafood_W_02_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -430,7 +430,7 @@ a seafood platter featuring oysters, lobster, and shrimp on ice
 ## 17 Seafood 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00417_17_Seafood_W_03_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00417_17_Seafood_W_03_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -442,7 +442,7 @@ a platter of fresh seafood including lobster, oysters, and lemon slices
 ## 17 Seafood 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00418_17_Seafood_W_04_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00418_17_Seafood_W_04_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -454,7 +454,7 @@ a platter of lobster and oysters served with lemon on ice
 ## 17 Seafood 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00419_17_Seafood_W_05_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00419_17_Seafood_W_05_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -466,7 +466,7 @@ a beautifully arranged seafood platter featuring lobster and oysters on a marble
 ## 17 Seafood 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00420_17_Seafood_W_06_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00420_17_Seafood_W_06_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -478,7 +478,7 @@ a beautifully arranged seafood platter featuring lobster and oysters in an elega
 ## 17 Seafood 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00421_17_Seafood_W_08_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00421_17_Seafood_W_08_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -490,7 +490,7 @@ a beautifully arranged table with Mediterranean dishes by the sea
 ## 17 Seafood 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00422_17_Seafood_W_09_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00422_17_Seafood_W_09_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -502,7 +502,7 @@ a beautifully arranged seafood meal on a terrace overlooking the sea
 ## 17 Seafood 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00423_17_Seafood_W_10_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00423_17_Seafood_W_10_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -514,7 +514,7 @@ a beautifully arranged outdoor dining table with seafood and salad overlooking t
 ## 17 Seafood 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00424_17_Seafood_W_11_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00424_17_Seafood_W_11_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -526,7 +526,7 @@ a table set with various Mediterranean dishes overlooking a scenic ocean view
 ## 17 Seafood 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00425_17_Seafood_W_12_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00425_17_Seafood_W_12_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -538,7 +538,7 @@ interior of a rustic seafood restaurant with an aquarium and wooden decor
 ## 17 Seafood 13
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00426_17_Seafood_W_13_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00426_17_Seafood_W_13_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -550,7 +550,7 @@ modern restaurant interior with wooden decor and aquarium
 ## 17 Seafood 14
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00427_17_Seafood_W_14_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00427_17_Seafood_W_14_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -562,7 +562,7 @@ interior of a rustic seafood restaurant with blue booths and aquarium
 ## 17 Seafood 15
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00428_17_Seafood_W_15_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00428_17_Seafood_W_15_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -574,7 +574,7 @@ Modern restaurant interior with a coral reef aquarium and cozy seating
 ## 17 Seafood 16
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00429_17_Seafood_W_16_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00429_17_Seafood_W_16_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -586,7 +586,7 @@ grilled fish fillet with lemon and vegetables on a white plate
 ## 17 Seafood 17
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00430_17_Seafood_W_17_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00430_17_Seafood_W_17_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -598,7 +598,7 @@ a plate of grilled fish with asparagus and cherry tomatoes in soft lighting
 ## 17 Seafood 18
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00431_17_Seafood_W_18_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00431_17_Seafood_W_18_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -610,7 +610,7 @@ grilled fish fillet with asparagus and cherry tomatoes on a plate
 ## 17 Seafood 19
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00432_17_Seafood_W_19_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00432_17_Seafood_W_19_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -622,7 +622,7 @@ a close-up of a seafood platter featuring oysters, lobster, and garnishes on ice
 ## 17 Seafood 20
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00433_17_Seafood_W_20_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00433_17_Seafood_W_20_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -634,7 +634,7 @@ a platter of fresh seafood including lobster and oysters on ice
 ## 17 Seafood 21
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00434_17_Seafood_W_21_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00434_17_Seafood_W_21_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>
@@ -646,7 +646,7 @@ a seafood platter with lobster, oysters, and lemon on ice
 ## 17 Seafood 22
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00435_17_Seafood_W_22_3840x2160_mp4__preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Mp4/20260511_00435_17_Seafood_W_22_3840x2160_mp4__preview.mp4">Preview video</a>
 </video>

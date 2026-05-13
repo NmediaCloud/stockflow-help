@@ -1,27 +1,44 @@
 ---
-title: "How to Use Casual dining Footage in Creative Projects | Stockflow.media"
-description: "**Casual dining** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
+title: "How to Use Casual Dining Footage in Creative Projects | Stockflow.media"
+description: "**Casual Dining** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
 ---
 
-# How to Use Casual dining Visuals in Your Creative Projects
+# How to Use Casual Dining Visuals in Your Creative Projects
 
-[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Casual dining**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Casual Dining**
 
-[Browse the Casual dining Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Casual+dining){ .md-button .md-button--primary }
+[Browse the Casual Dining Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Casual+Dining){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Casual dining** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
+**Casual Dining** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-This guide explores how to use the **Casual dining** collection — 28 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Casual Dining** collection — 41 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Casual dining Visuals Are in Demand
+## Visual Highlights
+
+### 03 Casual Dining 01
+![03 Casual Dining 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00033_03_Casual_Dining_S_01_5760x5760_jpeg__preview.webp)
+
+cozy restaurant interior with leather seating and warm lighting
+
+### 03 Casual Dining 02
+![03 Casual Dining 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00034_03_Casual_Dining_S_02_5760x5760_jpeg__preview.webp)
+
+cozy restaurant interior with burgers and fries on wooden tables
+
+### 03 Casual Dining 03
+![03 Casual Dining 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00035_03_Casual_Dining_S_03_5760x5760_jpeg__preview.webp)
+
+cozy restaurant interior with leather booths and hanging lights
+
+## Why Casual Dining Visuals Are in Demand
 
 High-quality casual dining footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **28 assets** in this collection are:
+All **41 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -43,7 +60,7 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Casual+dining)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Casual+Dining)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +84,9 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Casual dining Collection
+## Explore the Full Casual Dining Collection
 
-Ready to add **Casual dining** visuals to your next project?
+Ready to add **Casual Dining** visuals to your next project?
 
-[Browse Casual dining on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Casual+dining){ .md-button .md-button--primary }
+[Browse Casual Dining on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Casual+Dining){ .md-button .md-button--primary }
 [View Collection Details](../collections/casual-dining.md){ .md-button }

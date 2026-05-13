@@ -1,15 +1,15 @@
 ---
-title: "Parasitic worm Stock Footage and Images | Worms | Stockflow.media"
-description: "Download 21 professional Parasitic worm assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Worms collection."
+title: "Parasitic Worm Stock Footage and Images | Parasite | Stockflow.media"
+description: "Download 24 professional Parasitic Worm assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Parasite collection."
 ---
 
-# Parasitic worm
+# Parasitic Worm
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Worms](../subcategories/worms.md) / **Parasitic worm**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Parasite](../subcategories/parasite.md) / **Parasitic Worm**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Parasitic+worm){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Parasitic+Worm){ .md-button .md-button--primary }
 
-This collection contains **21 assets** available in multiple resolutions and aspect ratios.
+This collection contains **24 assets** available in multiple resolutions and aspect ratios.
 
 ---
 
@@ -199,6 +199,42 @@ Parasitic micro-worm (nematode) within tissue, histology cross-section.
 ![21 Micro 05 Worms 02 Parasitic Micro Worm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0420_01_Micro_05_Worms_02_Parasitic_micro_worm_W_12__Previews.webp)
 
 Parasitic micro-worm (roundworm) in tissue, shown as a cross-section with surrounding host cells.
+
+---
+
+## 02 Parasitic Worm
+**Resolution:** 2160x2160 | **Format:** 1:1
+
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0895_01_Micro_09_Parasite_09_Parasitic_Worm_S_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0895_01_Micro_09_Parasite_09_Parasitic_Worm_S_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of a parasitic organism under micrograph, showing a textured, mosaic-like exterior of two connected spherical eggs, illustrating intricate cellular patterns and the tiny scale of parasitic life forms.
+
+---
+
+## 03 Parasitic Worm
+**Resolution:** 3840x2160 | **Format:** 16:9
+
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0896_01_Micro_09_Parasite_09_Parasitic_Worm_V1_W_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0896_01_Micro_09_Parasite_09_Parasitic_Worm_V1_W_Mp4_preview.mp4">Preview video</a>
+</video>
+
+A highly magnified view of a parasitic worm egg, its textured, mosaic-like shell split along a fissure, revealing compact cellular patterns characteristic of early embryogenesis.
+
+---
+
+## 04 Parasitic Worm
+**Resolution:** 2160x3840 | **Format:** 9:16
+
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
+  <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0897_01_Micro_09_Parasite_09_Parasitic_Worm_V_Mp4_preview.mp4" type="video/mp4">
+  <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0897_01_Micro_09_Parasite_09_Parasitic_Worm_V_Mp4_preview.mp4">Preview video</a>
+</video>
+
+Close-up of a textured, segmented microscopic organism with honeycomb-like surface, showcasing two connected bulges, likely a developing parasite specimen observed under high magnification in scanning electron microscope.
 
 ---
 

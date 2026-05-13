@@ -88,7 +88,7 @@ Colorful microscopic scene of a cancer cell with a DNA double helix and surround
 ## 35 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0941_01_Micro_10_Cancer_Cell_08_Mutations_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0941_01_Micro_10_Cancer_Cell_08_Mutations_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Vivid illustration of a cancer cell, with colorful DNA strands intersecting a ce
 ## 36 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0942_01_Micro_10_Cancer_Cell_08_Mutations_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0942_01_Micro_10_Cancer_Cell_08_Mutations_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Vibrant close-up of intertwined DNA double helices, showcasing genetic code in b
 ## 37 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0943_01_Micro_10_Cancer_Cell_08_Mutations_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0943_01_Micro_10_Cancer_Cell_08_Mutations_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A vivid molecular scene shows a cancer cell at the center, with colorful DNA str
 ## 38 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0944_01_Micro_10_Cancer_Cell_08_Mutations_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0944_01_Micro_10_Cancer_Cell_08_Mutations_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A vivid 3D visualization of DNA strands spiraling in vibrant colors, illustratin
 ## 39 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0945_01_Micro_10_Cancer_Cell_08_Mutations_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0945_01_Micro_10_Cancer_Cell_08_Mutations_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A vivid, neon-tinted depiction of DNA strands wrapping around a dynamic cell, il
 ## 40 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0946_01_Micro_10_Cancer_Cell_08_Mutations_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0946_01_Micro_10_Cancer_Cell_08_Mutations_V_Mp4_preview.mp4">Preview video</a>
 </video>

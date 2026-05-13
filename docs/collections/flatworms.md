@@ -124,7 +124,7 @@ Glowing microscopic flatworms swimming in a dark blue aquatic world.
 ## 01 Flatworms
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0708_01_Micro_05_Worms_07_Flatworms_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0708_01_Micro_05_Worms_07_Flatworms_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Micro-worms, flatworms glide through emerald algae, showcasing delicate, wavy ed
 ## 02 Flatworms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0709_01_Micro_05_Worms_07_Flatworms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0709_01_Micro_05_Worms_07_Flatworms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Tiny translucent flatworms glide through green aquatic plants, showing dotted pa
 ## 03 Flatworms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0710_01_Micro_05_Worms_07_Flatworms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0710_01_Micro_05_Worms_07_Flatworms_V_Mp4_preview.mp4">Preview video</a>
 </video>

@@ -16,7 +16,7 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 ## 5 Food Fungi
 **Resolution:** 840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1110_01_Micro_Foodfungi_Macro_Extreme_Close_Up_Dimly_L_W_3_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1110_01_Micro_Foodfungi_Macro_Extreme_Close_Up_Dimly_L_W_3_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Close-up view of turquoise fungal-like filaments and spherical spores spread acr
 ## 6 Food Fungi
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1111_01_Micro_Foodfungi_Macro_Extreme_Close_Up_Dimly_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1111_01_Micro_Foodfungi_Macro_Extreme_Close_Up_Dimly_S_Mp4_preview.mp4">Preview video</a>
 </video>

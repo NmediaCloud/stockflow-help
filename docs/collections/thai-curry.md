@@ -16,7 +16,7 @@ This collection contains **57 assets** available in multiple resolutions and asp
 ## 19 Thai Curry 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000479_19_Thai_Curry_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000479_19_Thai_Curry_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Thai green curry with chicken, vegetables, and fresh herbs in a coconut milk bro
 ## 19 Thai Curry 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000480_19_Thai_Curry_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000480_19_Thai_Curry_S_03_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Thai curry with chicken and vegetables in a creamy coconut sauce, garnished with
 ## 19 Thai Curry 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000481_19_Thai_Curry_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000481_19_Thai_Curry_S_04_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Creamy Thai green curry with vegetables and chunks of chicken, garnished with fr
 ## 19 Thai Curry 05
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000482_19_Thai_Curry_S_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000482_19_Thai_Curry_S_05_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Creamy Thai green curry with chicken, coconut milk, fresh basil, and bright red 
 ## 19 Thai Curry 06
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000483_19_Thai_Curry_S_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000483_19_Thai_Curry_S_06_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A vibrant Thai green curry with chicken, coconut milk, fresh basil, sliced red c
 ## 19 Thai Curry 07
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000484_19_Thai_Curry_S_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000484_19_Thai_Curry_S_07_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Thai Curry dish with tender meat, chilies, and fresh herbs in a creamy sauce pla
 ## 19 Thai Curry 08
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000485_19_Thai_Curry_S_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000485_19_Thai_Curry_S_08_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Thai curry with tender chicken, vegetables, and herbs in a rich coconut sauce.
 ## 19 Thai Curry 09
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000486_19_Thai_Curry_S_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000486_19_Thai_Curry_S_09_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Thai curry with tender chicken, red and green chilies, and fresh basil in a crea
 ## 19 Thai Curry 10
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000487_19_Thai_Curry_S_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000487_19_Thai_Curry_S_10_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Steaming Thai green curry with tender chicken, bamboo shoots, fresh herbs and re
 ## 19 Thai Curry 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000488_19_Thai_Curry_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000488_19_Thai_Curry_V_01_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Thai green curry with chicken and vegetables, topped with red chilies and fresh 
 ## 19 Thai Curry 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000489_19_Thai_Curry_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000489_19_Thai_Curry_V_02_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Creamy Thai green curry with chicken and bamboo shoots, topped with red chilies 
 ## 19 Thai Curry 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000490_19_Thai_Curry_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000490_19_Thai_Curry_V_03_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Thai green curry with vegetables and herbs, served with steamed rice in a blue p
 ## 19 Thai Curry 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000491_19_Thai_Curry_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000491_19_Thai_Curry_V_04_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Thai green curry with chicken, bamboo shoots, and fresh basil in a creamy coconu
 ## 19 Thai Curry 05
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000492_19_Thai_Curry_V_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000492_19_Thai_Curry_V_05_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ High-quality image of Thai chicken curry with vegetables in a creamy orange-red 
 ## 19 Thai Curry 07
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000493_19_Thai_Curry_V_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000493_19_Thai_Curry_V_07_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Thai curry dish featuring tender meat, red and green chilies, peppers, and fresh
 ## 19 Thai Curry 08
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000494_19_Thai_Curry_V_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000494_19_Thai_Curry_V_08_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A rich Thai curry featuring tender meat, vibrant vegetables, and a creamy coconu
 ## 19 Thai Curry 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000495_19_Thai_Curry_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000495_19_Thai_Curry_W_01_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Rich Thai beef curry with creamy coconut milk, tender meat, onions, and peppers,
 ## 19 Thai Curry 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000496_19_Thai_Curry_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000496_19_Thai_Curry_W_02_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ High-quality spread of Thai curry and noodle dishes presented in a chic, modern 
 ## 19 Thai Curry 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000497_19_Thai_Curry_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000497_19_Thai_Curry_W_03_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A selection of Thai curries and noodle dishes artfully arranged on a dining tabl
 ## 19 Thai Curry 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000498_19_Thai_Curry_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000498_19_Thai_Curry_W_04_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Creamy Thai curry with tender chicken, peppers, and fresh basil in a vibrant ora
 ## 19 Thai Curry 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000499_19_Thai_Curry_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000499_19_Thai_Curry_W_05_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ A high-quality spread of Thai curries and elegantly plated dishes served in a so
 ## 19 Thai Curry 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000500_19_Thai_Curry_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000500_19_Thai_Curry_W_06_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Elegant fine-dining setup featuring an array of Thai curry dishes on a round tab
 ## 19 Thai Curry 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000501_19_Thai_Curry_W_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000501_19_Thai_Curry_W_07_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ A plated Thai curry in a brown ceramic bowl on a white plate, surrounded by othe
 ## 19 Thai Curry 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000502_19_Thai_Curry_W_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000502_19_Thai_Curry_W_08_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ Thai curry with chicken and vegetables in a creamy coconut sauce, vibrant orange
 ## 19 Thai Curry 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000503_19_Thai_Curry_W_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000503_19_Thai_Curry_W_09_preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ A rich Thai curry with tender beef, coconut milk, bell peppers, onions, and fres
 ## 19 Thai Curry 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000504_19_Thai_Curry_W_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000504_19_Thai_Curry_W_10_preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ A rich Thai curry dish with chicken, bell peppers, and green beans in a creamy o
 ## 19 Thai Curry 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000505_19_Thai_Curry_W_11_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000505_19_Thai_Curry_W_11_preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ A rich Thai curry in a dark bowl with vibrant orange sauce, chunks of meat, red 
 ## 19 Thai Curry 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000506_19_Thai_Curry_W_12_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000506_19_Thai_Curry_W_12_preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ A fragrant Thai curry noodle soup topped with shrimp, fresh cilantro, bean sprou
 ## 19 Thai Curry 13
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000507_19_Thai_Curry_W_13_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000507_19_Thai_Curry_W_13_preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ Thai curry with tender meat, potatoes, green beans and peppers in a creamy orang
 ## 19 Thai Curry 14
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000508_19_Thai_Curry_W_14_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000508_19_Thai_Curry_W_14_preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ Thai curry noodle soup with sliced pork, bean sprouts, carrots, greens, and fres
 ## 19 Thai Curry 15
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000509_19_Thai_Curry_W_15_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000509_19_Thai_Curry_W_15_preview.mp4">Preview video</a>
 </video>
@@ -388,7 +388,7 @@ Thai curry with chicken and vegetables in a rich coconut sauce, garnished with b
 ## 19 Thai Curry 16
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000510_19_Thai_Curry_W_16_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000510_19_Thai_Curry_W_16_preview.mp4">Preview video</a>
 </video>
@@ -400,7 +400,7 @@ A hearty Thai green curry with beef and vegetables served in a clay bowl at a co
 ## 19 Thai Curry 17
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000511_19_Thai_Curry_W_17_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000511_19_Thai_Curry_W_17_preview.mp4">Preview video</a>
 </video>

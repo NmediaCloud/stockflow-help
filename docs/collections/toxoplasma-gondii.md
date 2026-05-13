@@ -124,7 +124,7 @@ Tissue section showing crescent-shaped parasites (Toxoplasma gondii) among host 
 ## 01 Toxoplasma Gondii
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0874_01_Micro_09_Parasite_03_Toxoplasma_Gondii_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0874_01_Micro_09_Parasite_03_Toxoplasma_Gondii_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A high-fidelity microscopic image shows a curled parasite among host cells, illu
 ## 02 Toxoplasma Gondii
 **Resolution:** 3840x21 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0875_01_Micro_09_Parasite_03_Toxoplasma_Gondii_V1_W_60_272_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0875_01_Micro_09_Parasite_03_Toxoplasma_Gondii_V1_W_60_272_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ High magnification micrograph reveals a circular parasite structure amid host ce
 ## 03 Toxoplasma Gondii
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0876_01_Micro_09_Parasite_03_Toxoplasma_Gondii_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0876_01_Micro_09_Parasite_03_Toxoplasma_Gondii_V_Mp4_preview.mp4">Preview video</a>
 </video>

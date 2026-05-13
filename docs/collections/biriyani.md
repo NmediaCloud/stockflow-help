@@ -16,7 +16,7 @@ This collection contains **44 assets** available in multiple resolutions and asp
 ## 04 Indian Biriyani 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000090_04_Indian_Biriyani_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000090_04_Indian_Biriyani_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A fragrant clay bowl of Indian chicken biryani with basmati rice, tender spiced 
 ## 04 Indian Biriyani 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000091_04_Indian_Biriyani_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000091_04_Indian_Biriyani_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Delicious Indian chicken biryani in a rustic clay pot, saffron-tinted rice with 
 ## 04 Indian Biriyani 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000092_04_Indian_Biriyani_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000092_04_Indian_Biriyani_S_03_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A clay pot biryani with fragrant saffron rice, juicy meat, crispy fried onions, 
 ## 04 Indian Biriyani 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000093_04_Indian_Biriyani_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000093_04_Indian_Biriyani_S_04_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Aromatic Indian biryani with tender meat, fluffy saffron rice, fried onions, and
 ## 04 Indian Biriyani 05
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000094_04_Indian_Biriyani_S_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000094_04_Indian_Biriyani_S_05_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A sumptuous Indian biryani served in a traditional copper pot, topped with tende
 ## 04 Indian Biriyani 06
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000095_04_Indian_Biriyani_S_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000095_04_Indian_Biriyani_S_06_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ High-quality image of Indian biriyani with spiced meat atop fluffy saffron rice,
 ## 04 Indian Biriyani 07
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000096_04_Indian_Biriyani_S_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000096_04_Indian_Biriyani_S_07_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A fragrant Indian biriyani served in a copper pot, topped with herbs and fried o
 ## 04 Indian Biriyani 08
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000097_04_Indian_Biriyani_S_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000097_04_Indian_Biriyani_S_08_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A copper pot of flavorful Indian biryani, topped with crispy fried onions and ci
 ## 04 Indian Biriyani 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000098_04_Indian_Biriyani_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000098_04_Indian_Biriyani_V_01_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A rich biryani served in a copper pot, featuring saffron-yellow and white basmat
 ## 04 Indian Biriyani 02
 **Resolution:** 2128x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000099_04_Indian_Biriyani_V_02 _preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000099_04_Indian_Biriyani_V_02 _preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A copper pot reveals fragrant Indian biriyani: layered basmati rice with tender 
 ## 04 Indian Biriyani 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000100_04_Indian_Biriyani_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000100_04_Indian_Biriyani_V_03_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A copper pot of fragrant biryani with tender meat and saffron-tinted rice, garni
 ## 04 Indian Biriyani 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000101_04_Indian_Biriyani_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000101_04_Indian_Biriyani_V_04_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Fragrant Indian biryani with saffron-infused rice, tender chicken, caramelized o
 ## 04 Indian Biriyani 06
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000102_04_Indian_Biriyani_V_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000102_04_Indian_Biriyani_V_06_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A copper serving pot of fragrant biryani with saffron rice topped by spiced meat
 ## 04 Indian Biriyani 07
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000103_04_Indian_Biriyani_V_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000103_04_Indian_Biriyani_V_07_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A rich Indian biryani with fragrant saffron rice and tender meat, topped with ca
 ## 04 Indian Biriyani 08
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000104_04_Indian_Biriyani_V_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000104_04_Indian_Biriyani_V_08_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ A bowl of Indian biryani featuring fragrant, fluffy rice with tender chicken, to
 ## 04 Indian Biriyani 09
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000105_04_Indian_Biriyani_V_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000105_04_Indian_Biriyani_V_09_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A bowl of fragrant Indian chicken biryani garnished with mint, served in a clay 
 ## 04 Indian Biriyani 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000106_04_Indian_Biriyani_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000106_04_Indian_Biriyani_W_01_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ A rich Indian biryani served in a hammered copper pot, featuring saffron-infused
 ## 04 Indian Biriyani 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000107_04_Indian_Biriyani_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000107_04_Indian_Biriyani_W_02_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ Fragrant Indian biryani with spiced rice and tender meat, garnished with fried o
 ## 04 Indian Biriyani 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000108_04_Indian_Biriyani_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000108_04_Indian_Biriyani_W_03_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ Fragrant Indian biryani served in a hammered copper pot, featuring saffron-tinte
 ## 04 Indian Biriyani 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000109_04_Indian_Biriyani_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000109_04_Indian_Biriyani_W_04_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Fragrant Indian biriyani served in a copper pot with saffron rice, tender meat, 
 ## 04 Indian Biriyani 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000110_04_Indian_Biriyani_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000110_04_Indian_Biriyani_W_06_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ Fragrant Indian biryani in a clay pot, saffron-tinted rice with tender chicken, 
 ## 04 Indian Biriyani 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000111_04_Indian_Biriyani_W_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000111_04_Indian_Biriyani_W_07_preview.mp4">Preview video</a>
 </video>

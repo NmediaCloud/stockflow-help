@@ -16,7 +16,7 @@ This collection contains **16 assets** available in multiple resolutions and asp
 ## 01 Aspergillus Fungi
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0589_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0589_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Close-up view of blue-green fungal filaments spreading across a brown surface, s
 ## 02 Aspergillus Fungi
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0590_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0590_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A vivid close-up reveals teal, elongated fungal hyphae and spores intertwining o
 ## 03 Aspergillus Fungi
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0591_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0591_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Close-up of greenish fungal filaments and spherical spores growing on a brown su
 ## 04 Aspergillus Fungi
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0592_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0592_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Micrograph of Aspergillus fungi growing in decaying food, showing slender hyphae
 ## 05 Aspergillus Fungi
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0593_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0593_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Close-up of Aspergillus mold on a food surface, showing yellow-green spore-beari
 ## 06 Aspergillus Fungi
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0594_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0594_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A close-up, high-magnification view of Aspergillus fungi on organic matter, show
 ## 07 Aspergillus Fungi
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0595_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0595_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A vivid micrograph showing densely packed fungal hyphae interwoven with spores i
 ## 08 Aspergillus Fungi
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0596_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0596_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Micrograph shows a filamentous fungal network with blue-green spores and branchi
 ## 09 Aspergillus Fungi
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0597_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0597_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Close-up view of Aspergillus mold hyphae colonizing a surface, with slender, bra
 ## 10 Aspergillus Fungi
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0598_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0598_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Close-up of fungal hyphae with chain-like conidia, showing branching filaments a
 ## 11 Aspergillus Fungi
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0599_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0599_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Close-up view of filamentous fungi (Aspergillus) growing within a microenvironme
 ## 12 Aspergillus Fungi
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0600_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0600_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Close-up view shows blue-green fungal filaments colonizing a crusty surface, wit
 ## 13 Aspergillus Fungi
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0601_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0601_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Close-up of mold mycelium and blue spores infiltrating decaying food, revealing 
 ## 14 Aspergillus Fungi
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0602_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0602_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Close up of fungal hyphae and spherical conidia growing on a decaying substrate,
 ## 15 Aspergillus Fungi
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0603_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0603_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Close-up of Aspergillus-like mold on a food surface, with yellow-green spore-bea
 ## 16 Aspergillus Fungi
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0604_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0604_01_Micro_04_Food_Fungi_02_Aspergillus_Fungi_V_Mp4_preview.mp4">Preview video</a>
 </video>

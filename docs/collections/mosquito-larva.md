@@ -16,7 +16,7 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 ## 01 Mosquito Larva
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0215_01_Micro_01_Biological_Creatures_10_Mosquito_Larva_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0215_01_Micro_01_Biological_Creatures_10_Mosquito_Larva_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Macro shot of a slender, yellow-brown larva covered in long bristles, arching th
 ## 02 Mosquito Larva
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0216_01_Micro_01_Biological_Creatures_10_Mosquito_Larva_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0216_01_Micro_01_Biological_Creatures_10_Mosquito_Larva_V_Mp4_preview.mp4">Preview video</a>
 </video>

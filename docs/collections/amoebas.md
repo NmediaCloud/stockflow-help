@@ -88,7 +88,7 @@ Blue microscopic scene of waterborne amoebas floating in the ocean-like environm
 ## 01 Amoebas
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0318_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0318_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A tranquil blue underwater landscape filled with translucent, jellyfish-like cre
 ## 02 Amoebas
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0319_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0319_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Microbes swarm in a blue underwater scene, tiny rod-shaped bacteria with threadl
 ## 03 Amoebas
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0320_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0320_01_Micro_02_Waterborne_06_Amoebas_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Micro waterborne amoebas drift through a blue underwater world, glimmering with 
 ## 04 Amoebas
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0321_01_Micro_02_Waterborne_06_Amoebas_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0321_01_Micro_02_Waterborne_06_Amoebas_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Vivid microscopic scene of aquatic single-celled organisms with glowing turquois
 ## 05 Amoebas
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0322_01_Micro_02_Waterborne_06_Amoebas_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0322_01_Micro_02_Waterborne_06_Amoebas_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A vivid underwater scene featuring glowing micro jellyfish-like organisms drifti
 ## 06 Amoebas
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0323_01_Micro_02_Waterborne_06_Amoebas_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0323_01_Micro_02_Waterborne_06_Amoebas_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Micro underwater scene shows vibrant, motile bacteria drifting in a water-filled
 ## 07 Amoebas
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0324_01_Micro_02_Waterborne_06_Amoebas_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0324_01_Micro_02_Waterborne_06_Amoebas_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Underwater scene of glowing jellyfish-like creatures drifting through a deep blu
 ## 08 Amoebas
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0325_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0325_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A micro underwater scene of translucent jellyfish-like creatures drifting throug
 ## 09 Amoebas
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0326_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0326_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Close-up of microscopic aquatic life shows shimmering amoebas with delicate, thr
 ## 10 Amoebas
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0327_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0327_01_Micro_02_Waterborne_06_Amoebas_V_Mp4_preview.mp4">Preview video</a>
 </video>

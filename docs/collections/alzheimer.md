@@ -133,7 +133,7 @@ Parkinson’s disease neuropathology in brain tissue.
 ## 01 Neuropathology
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1080_01_Micro_25_Neuropathology_Alzheimer_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1080_01_Micro_25_Neuropathology_Alzheimer_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -145,7 +145,7 @@ Histological image of brain tissue showing amyloid plaques and neurofibrillary t
 ## 02 Neuropathology
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1081_01_Micro_25_Neuropathology_Alzheimer_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1081_01_Micro_25_Neuropathology_Alzheimer_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -157,7 +157,7 @@ Micrograph shows Alzheimer’s disease-related neuropathology with clustered ext
 ## 03 Neuropathology
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1082_01_Micro_25_Neuropathology_Alzheimer_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1082_01_Micro_25_Neuropathology_Alzheimer_V_Mp4_preview.mp4">Preview video</a>
 </video>

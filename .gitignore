@@ -30,6 +30,8 @@ Marketing content/watermark/*.webp
 Marketing content/youtube_credentials.json
 Marketing content/youtube_token.json
 Marketing content/Stockflow-social/
+Marketing content/Social_Upload/
+Marketing content/00_Preview_Clips_Social-feed/
 
 # Credentials & API keys (never commit these)
 tools/.feedhive_key

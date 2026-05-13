@@ -16,7 +16,7 @@ This collection contains **41 assets** available in multiple resolutions and asp
 ## 02 Chicken Tikka Masala 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000037_02_Chicken_Tikka_Masala_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000037_02_Chicken_Tikka_Masala_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Chicken tikka masala in a creamy tomato sauce, garnished with cream swirls and c
 ## 02 Chicken Tikka Masala 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000038_02_Chicken_Tikka_Masala_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000038_02_Chicken_Tikka_Masala_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Chicken Tikka Masala in a glossy tomato sauce, studded with tender chicken and t
 ## 02 Chicken Tikka Masala 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000039_02_Chicken_Tikka_Masala_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000039_02_Chicken_Tikka_Masala_S_03_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A rich, creamy tomato-based chicken tikka masala in a metal bowl, garnished with
 ## 02 Chicken Tikka Masala 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000040_02_Chicken_Tikka_Masala_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000040_02_Chicken_Tikka_Masala_S_04_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Rich, creamy tomato-based Chicken Tikka Masala with tender chicken pieces in a s
 ## 02 Chicken Tikka Masala 05
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000041_02_Chicken_Tikka_Masala_S_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000041_02_Chicken_Tikka_Masala_S_05_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Premium Chicken Tikka Masala with a creamy tomato sauce and fresh herbs.
 ## 02 Chicken Tikka Masala 06
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000042_02_Chicken_Tikka_Masala_S_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000042_02_Chicken_Tikka_Masala_S_06_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Rich chicken tikka masala served in a copper pot with naan bread and a side of s
 ## 02 Chicken Tikka Masala 07
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000043_02_Chicken_Tikka_Masala_S_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000043_02_Chicken_Tikka_Masala_S_07_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Creamy tomato-based chicken tikka masala with tender chunks, swirled with cream 
 ## 02 Chicken Tikka Masala 08
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000044_02_Chicken_Tikka_Masala_S_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000044_02_Chicken_Tikka_Masala_S_08_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Creamy chicken tikka masala simmered in a rich, spiced tomato sauce, garnished w
 ## 02 Chicken Tikka Masala 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000045_02_Chicken_Tikka_Masala_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000045_02_Chicken_Tikka_Masala_V_01_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Creamy tomato-based chicken tikka masala with cilantro garnish, served with fluf
 ## 02 Chicken Tikka Masala 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000046_02_Chicken_Tikka_Masala_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000046_02_Chicken_Tikka_Masala_V_02_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Creamy tomato-based chicken tikka masala with tender chunks, garnished with fres
 ## 02 Chicken Tikka Masala 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000047_02_Chicken_Tikka_Masala_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000047_02_Chicken_Tikka_Masala_V_03_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A rich, tomato-based Chicken Tikka Masala simmering in a copper pot, topped with
 ## 02 Chicken Tikka Masala 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000048_02_Chicken_Tikka_Masala_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000048_02_Chicken_Tikka_Masala_V_04_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Creamy tomato-based chicken curry with tender chunks of chicken, garnished with 
 ## 02 Chicken Tikka Masala 05
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000049_02_Chicken_Tikka_Masala_V_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000049_02_Chicken_Tikka_Masala_V_05_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Chicken tikka masala in a copper pot with a creamy swirl and cilantro, served wi
 ## 02 Chicken Tikka Masala 06
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000050_02_Chicken_Tikka_Masala_V_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000050_02_Chicken_Tikka_Masala_V_06_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Rich chicken tikka masala in a creamy, spiced tomato sauce, garnished with cilan
 ## 02 Chicken Tikka Masala 07
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000051_02_Chicken_Tikka_Masala_V_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000051_02_Chicken_Tikka_Masala_V_07_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Creamy tomato-based chicken tikka masala garnished with cilantro, served with na
 ## 02 Chicken Tikka Masala 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000052_02_Chicken_Tikka_Masala_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000052_02_Chicken_Tikka_Masala_W_01_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A rich chicken tikka masala in a copper serving bowl, tender chunks in a creamy 
 ## 02 Chicken Tikka Masala 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000053_02_Chicken_Tikka_Masala_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000053_02_Chicken_Tikka_Masala_W_02_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Chicken Tikka Masala in a rich tomato cream sauce, garnished with cilantro and a
 ## 02 Chicken Tikka Masala 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000054_02_Chicken_Tikka_Masala_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000054_02_Chicken_Tikka_Masala_W_03_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ Creamy tomato-based chicken tikka masala with tender chicken chunks, finished wi
 ## 02 Chicken Tikka Masala 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000055_02_Chicken_Tikka_Masala_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000055_02_Chicken_Tikka_Masala_W_04_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A rich chicken tikka masala served in a metal bowl with a swirl of cream, garnis
 ## 02 Chicken Tikka Masala 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000056_02_Chicken_Tikka_Masala_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000056_02_Chicken_Tikka_Masala_W_05_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Two bite-sized sushi rolls in a rich tomato curry, garnished with cilantro.
 ## 02 Chicken Tikka Masala 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000057_02_Chicken_Tikka_Masala_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000057_02_Chicken_Tikka_Masala_W_06_preview.mp4">Preview video</a>
 </video>

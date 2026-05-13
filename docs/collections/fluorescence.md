@@ -124,7 +124,7 @@ Fluorescent micrograph of a cancer cell with pink membrane, blue nuclei, and gre
 ## 29 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0935_01_Micro_10_Cancer_Cell_07_Fluorescence_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0935_01_Micro_10_Cancer_Cell_07_Fluorescence_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Colorful fluorescence micrograph showing a single cancer cell with bright blue n
 ## 30 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0936_01_Micro_10_Cancer_Cell_07_Fluorescence_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0936_01_Micro_10_Cancer_Cell_07_Fluorescence_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Fluorescence microscopy reveals blue-stained nuclei, orange actin filaments, and
 ## 31 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0937_01_Micro_10_Cancer_Cell_07_Fluorescence_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0937_01_Micro_10_Cancer_Cell_07_Fluorescence_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Colorful fluorescence image of a cultured cell showing blue nuclei, purple-muchs
 ## 32 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0938_01_Micro_10_Cancer_Cell_07_Fluorescence_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0938_01_Micro_10_Cancer_Cell_07_Fluorescence_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ High resolution fluorescence image showing a cellular network: blue-stained nucl
 ## 33 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0939_01_Micro_10_Cancer_Cell_07_Fluorescence_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0939_01_Micro_10_Cancer_Cell_07_Fluorescence_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Colorful fluorescence image of a single cell highlighting cytoskeleton, nucleus,
 ## 34 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0940_01_Micro_10_Cancer_Cell_07_Fluorescence_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0940_01_Micro_10_Cancer_Cell_07_Fluorescence_V_Mp4_preview.mp4">Preview video</a>
 </video>

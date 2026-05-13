@@ -88,7 +88,7 @@ Close-up micro image of cancer cells with purple nuclei, showing an aggressive t
 ## 05 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0912_01_Micro_10_Cancer_Cell_02_Aggressive_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0912_01_Micro_10_Cancer_Cell_02_Aggressive_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A high-fidelity microscopic view of cancer cells within a vascular environment, 
 ## 06 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0913_01_Micro_10_Cancer_Cell_02_Aggressive_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0913_01_Micro_10_Cancer_Cell_02_Aggressive_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Close-up of a cellular scene showing immune-like cells and cancerous activity wi
 ## 07 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0914_01_Micro_10_Cancer_Cell_02_Aggressive_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0914_01_Micro_10_Cancer_Cell_02_Aggressive_V_Mp4_preview.mp4">Preview video</a>
 </video>

@@ -16,7 +16,7 @@ This collection contains **15 assets** available in multiple resolutions and asp
 ## 01 Penicillium Mold
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0574_01_Micro_04_Food_Fungi_01_Penicillium_Mold2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0574_01_Micro_04_Food_Fungi_01_Penicillium_Mold2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Close up of mold on a food surface showing gray hyphae with spherical conidia an
 ## 02 Penicillium Mold
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0575_01_Micro_04_Food_Fungi_01_Penicillium_Mold_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0575_01_Micro_04_Food_Fungi_01_Penicillium_Mold_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Close-up of a mold colony showing branching hyphae and round spores, likely Peni
 ## 03 Penicillium Mold
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0576_01_Micro_04_Food_Fungi_01_Penicillium_Mold_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0576_01_Micro_04_Food_Fungi_01_Penicillium_Mold_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Close-up view of translucent fungal hyphae with green, round spores interwoven i
 ## 04 Penicillium Mold
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0577_01_Micro_04_Food_Fungi_01_Penicillium_Mold_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0577_01_Micro_04_Food_Fungi_01_Penicillium_Mold_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Close-up micrograph of blue mold and penicillium-like filaments weaving through 
 ## 05 Penicillium Mold
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0578_01_Micro_04_Food_Fungi_01_Penicillium_Mold_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0578_01_Micro_04_Food_Fungi_01_Penicillium_Mold_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Close-up view of mold on food reveals Penicillium-like blue spores on green hyph
 ## 06 Penicillium Mold
 **Resolution:** 3840x2 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0579_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V1_W_160_182_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0579_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V1_W_160_182_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Micrograph reveals Penicillium mold on a food substrate, with branching hyphae a
 ## 07 Penicillium Mold
 **Resolution:** 3840x2 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0580_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V2_W_160_183_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0580_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V2_W_160_183_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Close-up view of fungal mold filaments with green spherical spores, likely Penic
 ## 08 Penicillium Mold
 **Resolution:** 3840x2 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0581_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V3_W_160_184_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0581_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V3_W_160_184_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Close-up of blue fungal spores and greenish hyphae forming a delicate mold colon
 ## 09 Penicillium Mold
 **Resolution:** 3840x2 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0582_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V4_W_160_185_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0582_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V4_W_160_185_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A micro-scale view of mold growing on food, featuring green hyphae adorned with 
 ## 10 Penicillium Mold
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0583_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0583_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Close-up view of green fungal spores forming on translucent hyphae, revealing a 
 ## 11 Penicillium Mold
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0584_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0584_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Close-up of mold filaments and green spherical spores spreading through a food m
 ## 12 Penicillium Mold
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0585_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0585_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Close-up of Penicillium mold hyphae spreading across a surface, with round conid
 ## 13 Penicillium Mold
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0586_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0586_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Close-up of delicate blue fungal structures attached to a branching green networ
 ## 14 Penicillium Mold
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0587_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0587_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Close-up microscopy reveals blue spherical spores on green fungal hyphae entwine
 ## 15 Penicillium Mold
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0588_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0588_01_Micro_04_Food_Fungi_01_Penicillium_Mold_V_Mp4_preview.mp4">Preview video</a>
 </video>

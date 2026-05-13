@@ -16,7 +16,7 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 ## 01 Spherical Nucleus
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1123_01_Micro_Spherical_Nucleus_With_C_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1123_01_Micro_Spherical_Nucleus_With_C_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A micro, spherical cell zooms in to reveal a bright nucleus, surrounded by a glo
 ## 2 Spherical Nucleus
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1124_01_Micro_Spherical_Nucleus_With_Chromat_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1124_01_Micro_Spherical_Nucleus_With_Chromat_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Micro view of a spherical nucleus at the center, surrounded by a radiant chromat
 ## 3 Spherical Nucleus
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1125_01_Micro_Spherical_Nucleus_With_Chromati_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1125_01_Micro_Spherical_Nucleus_With_Chromati_W_Mp4_preview.mp4">Preview video</a>
 </video>

@@ -16,7 +16,7 @@ This collection contains **1 assets** available in multiple resolutions and aspe
 ## 17 Cellular
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1036_01_Micro_14_Cellular_15_Lysosom_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1036_01_Micro_14_Cellular_15_Lysosom_S_Mp4_preview.mp4">Preview video</a>
 </video>

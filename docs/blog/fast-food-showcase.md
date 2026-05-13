@@ -1,23 +1,23 @@
 ---
-title: "How to Use Fast food Footage in Creative Projects | Stockflow.media"
-description: "**Fast food** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
+title: "How to Use Fast Food Footage in Creative Projects | Stockflow.media"
+description: "**Fast Food** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
 ---
 
-# How to Use Fast food Visuals in Your Creative Projects
+# How to Use Fast Food Visuals in Your Creative Projects
 
-[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Fast food**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Fast Food**
 
-[Browse the Fast food Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+food){ .md-button .md-button--primary }
+[Browse the Fast Food Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+Food){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Fast food** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
+**Fast Food** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-This guide explores how to use the **Fast food** collection — 8 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Fast Food** collection — 8 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Fast food Visuals Are in Demand
+## Why Fast Food Visuals Are in Demand
 
 High-quality fast food footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
@@ -43,7 +43,7 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+food)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+Food)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +67,9 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Fast food Collection
+## Explore the Full Fast Food Collection
 
-Ready to add **Fast food** visuals to your next project?
+Ready to add **Fast Food** visuals to your next project?
 
-[Browse Fast food on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+food){ .md-button .md-button--primary }
+[Browse Fast Food on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+Food){ .md-button .md-button--primary }
 [View Collection Details](../collections/fast-food.md){ .md-button }

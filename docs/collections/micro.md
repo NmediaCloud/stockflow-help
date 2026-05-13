@@ -16,7 +16,7 @@ This collection contains **18 assets** available in multiple resolutions and asp
 ## 22 Histopathology
 **Resolution:** 1408x1408 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1064_01_Micro_2025_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1064_01_Micro_2025_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A highly detailed, colored cross-section of a cell, showcasing a blue mitochondr
 ## 01 Microscopic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1095_01_Micro_3D_anim_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1095_01_Micro_3D_anim_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Macro view of vibrant aquatic micro-world: translucent, oval cells with internal
 ## 02 Microscopic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1096_01_Micro_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1096_01_Micro_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Micro video still of a cellular tissue showing two large purple nuclei within a 
 ## 03 Microscopic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1097_01_Micro_B_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1097_01_Micro_B_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Close-up illustration of virus particles binding to a cell surface, with spike p
 ## 04 Microscopic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1098_01_Micro_Cell1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1098_01_Micro_Cell1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A high magnification view of a vivid purple cell, exposing internal organelles a
 ## 05 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1100_01_Micro_Cinematic_Microscopic_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1100_01_Micro_Cinematic_Microscopic_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A vivid close-up inside a blood vessel showing circulating blood cells, with a g
 ## 01 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1112_01_Micro_Generate_A_Dynamic_Animation_Of_2_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1112_01_Micro_Generate_A_Dynamic_Animation_Of_2_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A highly detailed microscopic view of a rod-shaped bacterium with hair-like flag
 ## 2 Microscopic
 **Resolution:** 3840x21 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1113_01_Micro_Generate_A_Dynamic_Animation_Of_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1113_01_Micro_Generate_A_Dynamic_Animation_Of_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A high-resolution microscopic view of a rod-shaped bacterium with multiple tail-
 ## 3 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1114_01_Micro_Generated_Ide_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1114_01_Micro_Generated_Ide_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A vivid close-up of an orange cellular environment featuring a bright, glowing n
 ## 4 Microscopic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1115_01_Micro_Generated_Video_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1115_01_Micro_Generated_Video_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A vivid micrographic style scene of a glowing cell with a bright nucleus, surrou
 ## 5 Microscopic
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1116_01_Micro_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1116_01_Micro_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Microscopic blood smear showing multiple neutrophils with segmented nuclei among
 ## 6 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1117_01_Micro_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1117_01_Micro_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Close-up of a animal cell showing vibrant mitochondria and surrounding cytoplasm
 ## 7 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1118_01_Micro_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1118_01_Micro_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Micrograph of stained tissue revealing rounded purple cells with dark nuclei emb
 ## 8 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1119_01_Micro_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1119_01_Micro_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A close-up micrographic scene shows virus-like particles with spike projections 
 ## 9 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1120_01_Micro_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1120_01_Micro_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Vibrant microscopic artwork depicts a circular central cell surrounded by irregu
 ## 10 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1121_01_Micro_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1121_01_Micro_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ Micrograph of green aquatic algae showing transparent cells with chloroplasts, s
 ## 11 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1122_01_Micro_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1122_01_Micro_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ A high magnification scene of a cell membrane with a blue nucleus-like particle,
 ## 12 Microscopic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1126_01_Micro_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1126_01_Micro_W_Mp4_preview.mp4">Preview video</a>
 </video>

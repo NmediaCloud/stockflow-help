@@ -88,7 +88,7 @@ Close-up illustration of a molecular structure interacting with a cancer cell su
 ## 48 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0954_01_Micro_10_Cancer_Cell_10_Chemotherapy_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0954_01_Micro_10_Cancer_Cell_10_Chemotherapy_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A vivid 3D scene shows a ruptured spherical nucleus surrounded by a spiky, orang
 ## 49 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0955_01_Micro_10_Cancer_Cell_10_Chemotherapy_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0955_01_Micro_10_Cancer_Cell_10_Chemotherapy_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A highly detailed 3D rendering shows a malignant mass with long, finger-like ext
 ## 50 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0956_01_Micro_10_Cancer_Cell_10_Chemotherapy_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0956_01_Micro_10_Cancer_Cell_10_Chemotherapy_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A vivid 3D depiction of a cell membrane with a complex molecular scaffold attach
 ## 51 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0957_01_Micro_10_Cancer_Cell_10_Chemotherapy_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0957_01_Micro_10_Cancer_Cell_10_Chemotherapy_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A detailed 3D depiction of a cancer cell on a blue surface being targeted by a c
 ## 52 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0958_01_Micro_10_Cancer_Cell_10_Chemotherapy_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0958_01_Micro_10_Cancer_Cell_10_Chemotherapy_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A high-fidelity microscopic scene showing a cancer cell at the edge of a membran
 ## 53 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0959_01_Micro_10_Cancer_Cell_10_Chemotherapy_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0959_01_Micro_10_Cancer_Cell_10_Chemotherapy_V_Mp4_preview.mp4">Preview video</a>
 </video>

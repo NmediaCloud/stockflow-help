@@ -133,7 +133,7 @@ Close-up of Spirogyra algae showing spiraling chloroplasts in vivid green.
 ## 01 Spirogyra Algae
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0728_01_Micro_06_Algae_02_Spirogyra_Algae_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0728_01_Micro_06_Algae_02_Spirogyra_Algae_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -145,7 +145,7 @@ Close-up of spirogyra algae filaments showing bright green chloroplasts and intr
 ## 02 Spirogyra Algae
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0729_01_Micro_06_Algae_02_Spirogyra_Algae_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0729_01_Micro_06_Algae_02_Spirogyra_Algae_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -157,7 +157,7 @@ Macro shot of vivid green algal filaments (Spirogyra) weaving across each other,
 ## 03 Spirogyra Algae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0730_01_Micro_06_Algae_02_Spirogyra_Algae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0730_01_Micro_06_Algae_02_Spirogyra_Algae_V_Mp4_preview.mp4">Preview video</a>
 </video>

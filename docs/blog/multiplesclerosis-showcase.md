@@ -1,23 +1,23 @@
 ---
-title: "How to Use MultipleSclerosis Footage in Creative Projects | Stockflow.media"
-description: "**MultipleSclerosis** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Multiplesclerosis Footage in Creative Projects | Stockflow.media"
+description: "**Multiplesclerosis** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use MultipleSclerosis Visuals in Your Creative Projects
+# How to Use Multiplesclerosis Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Neuropathology](../subcategories/neuropathology.md) / **MultipleSclerosis**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Neuropathology](../subcategories/neuropathology.md) / **Multiplesclerosis**
 
-[Browse the MultipleSclerosis Collection](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=MultipleSclerosis){ .md-button .md-button--primary }
+[Browse the Multiplesclerosis Collection](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=Multiplesclerosis){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**MultipleSclerosis** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Multiplesclerosis** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **MultipleSclerosis** collection — 3 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Multiplesclerosis** collection — 3 premium assets available in 4K/8K — across real creative workflows.
 
-## Why MultipleSclerosis Visuals Are in Demand
+## Why Multiplesclerosis Visuals Are in Demand
 
 High-quality multiplesclerosis footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
@@ -43,7 +43,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=MultipleSclerosis)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=Multiplesclerosis)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +67,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full MultipleSclerosis Collection
+## Explore the Full Multiplesclerosis Collection
 
-Ready to add **MultipleSclerosis** visuals to your next project?
+Ready to add **Multiplesclerosis** visuals to your next project?
 
-[Browse MultipleSclerosis on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=MultipleSclerosis){ .md-button .md-button--primary }
+[Browse Multiplesclerosis on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Neuropathology&collection=Multiplesclerosis){ .md-button .md-button--primary }
 [View Collection Details](../collections/multiplesclerosis.md){ .md-button }

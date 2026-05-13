@@ -16,7 +16,7 @@ This collection contains **8 assets** available in multiple resolutions and aspe
 ## 01 Aquatic Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0359_01_Micro_02_Waterborne_09_Aquatic_Organisms2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0359_01_Micro_02_Waterborne_09_Aquatic_Organisms2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A vivid microscopic scene featuring diverse aquatic microorganisms swimming insi
 ## 02 Aquatic Organisms
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0360_01_Micro_02_Waterborne_09_Aquatic_Organisms_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0360_01_Micro_02_Waterborne_09_Aquatic_Organisms_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Micrograph shows vibrant aquatic organisms, single-celled protists with chloropl
 ## 03 Aquatic Organisms
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0361_01_Micro_02_Waterborne_09_Aquatic_Organisms_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0361_01_Micro_02_Waterborne_09_Aquatic_Organisms_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A magnified water droplet reveals diverse aquatic organisms and bacteria, showin
 ## 04 Aquatic Organisms
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0362_01_Micro_02_Waterborne_09_Aquatic_Organisms_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0362_01_Micro_02_Waterborne_09_Aquatic_Organisms_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Micro waterborne aquatic organisms swirl in a microscope view, revealing diverse
 ## 05 Aquatic Organisms
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0363_01_Micro_02_Waterborne_09_Aquatic_Organisms_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0363_01_Micro_02_Waterborne_09_Aquatic_Organisms_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Macro view of microscopic aquatic organisms inside a tiny droplet, revealing vib
 ## 06 Aquatic Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0364_01_Micro_02_Waterborne_09_Aquatic_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0364_01_Micro_02_Waterborne_09_Aquatic_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A close-up view of aquatic microorganisms in a droplet, revealing elongated cell
 ## 07 Aquatic Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0365_01_Micro_02_Waterborne_09_Aquatic_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0365_01_Micro_02_Waterborne_09_Aquatic_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A vibrant close-up of a bubble containing numerous tiny aquatic organisms, revea
 ## 08 Aquatic Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0366_01_Micro_02_Waterborne_09_Aquatic_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0366_01_Micro_02_Waterborne_09_Aquatic_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>

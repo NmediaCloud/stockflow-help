@@ -15,7 +15,7 @@ Explore the **17 collections** in this subcategory:
 * **[Grass Mesh Structure](../collections/grass-mesh-structure.md)** — 3 assets
 * **[Lavender](../collections/lavender.md)** — 6 assets
 * **[Lavender Dreamy Coating](../collections/lavender-dreamy-coating.md)** — 5 assets
-* **[Lotus Fluorescent Starbur st](../collections/lotus-fluorescent-starbur-st.md)** — 1 assets
+* **[Lotus Fluorescent Starbur St](../collections/lotus-fluorescent-starbur-st.md)** — 1 assets
 * **[Lotus Fluorescent Starburst](../collections/lotus-fluorescent-starburst.md)** — 3 assets
 * **[Lotus Starburst](../collections/lotus-starburst.md)** — 12 assets
 * **[Orchid Pollinium](../collections/orchid-pollinium.md)** — 12 assets

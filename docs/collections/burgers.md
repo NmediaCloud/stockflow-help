@@ -16,7 +16,7 @@ This collection contains **56 assets** available in multiple resolutions and asp
 ## 12 Shops Burgers 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000339_12_Shops_Bergers_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000339_12_Shops_Bergers_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ High-quality burger with melted cheese, fresh lettuce and tomato on a toasted bu
 ## 12 Shops Burgers 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000340_12_Shops_Bergers_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000340_12_Shops_Bergers_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Juicy cheeseburger featuring melty cheddar, crisp lettuce, tomato, and red onion
 ## 12 Shops Burgers 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000341_12_Shops_Bergers_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000341_12_Shops_Bergers_S_03_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ High-quality burger image featuring a juicy patty with melted cheese, tomato, re
 ## 12 Shops Burgers 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000342_12_Shops_Bergers_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000342_12_Shops_Bergers_S_04_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Juicy cheeseburger with melted cheddar, fresh greens, and red onions on a sesame
 ## 12 Shops Burgers 05
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000343_12_Shops_Bergers_S_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000343_12_Shops_Bergers_S_05_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A juicy burger stacked with lettuce, tomato, cheese, onion, and pickles on a glo
 ## 12 Shops Burgers 06
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000344_12_Shops_Bergers_S_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000344_12_Shops_Bergers_S_06_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ High-quality image of a juicy cheeseburger with melted cheddar, tomato, red onio
 ## 12 Shops Burgers 07
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000345_12_Shops_Bergers_S_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000345_12_Shops_Bergers_S_07_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A juicy cheeseburger with lettuce, tomato, red onion, pickles and melted cheddar
 ## 12 Shops Burgers 08
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000346_12_Shops_Bergers_S_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000346_12_Shops_Bergers_S_08_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A juicy cheeseburger stacked with fresh lettuce, tomato, red onion, and melted c
 ## 12 Shops Burgers 01
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000347_12_Shops_Bergers_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000347_12_Shops_Bergers_V_01_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Cheeseburger with lettuce, tomato and melted cheese on a toasted bun, presented 
 ## 12 Shops Burgers 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000348_12_Shops_Bergers_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000348_12_Shops_Bergers_V_02_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A juicy cheeseburger stacked with a beef patty, melted cheddar, red onion, tomat
 ## 12 Shops Burgers 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000349_12_Shops_Bergers_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000349_12_Shops_Bergers_V_03_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A juicy cheeseburger with melted cheddar, red onion, tomato and crisp lettuce on
 ## 12 Shops Burgers 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000350_12_Shops_Bergers_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000350_12_Shops_Bergers_V_04_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Juicy cheeseburger with melted cheddar, fresh greens, tomato, red onion, and car
 ## 12 Shops Burgers 05
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000351_12_Shops_Bergers_V_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000351_12_Shops_Bergers_V_05_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A juicy cheeseburger topped with melted cheddar, red onion, tomato, and lettuce 
 ## 12 Shops Burgers 06
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000352_12_Shops_Bergers_V_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000352_12_Shops_Bergers_V_06_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ High-quality image of a cheeseburger with lettuce, tomato and melted cheese on a
 ## 12 Shops Burgers 07
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000353_12_Shops_Bergers_V_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000353_12_Shops_Bergers_V_07_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ A juicy cheeseburger with melted cheese, crisp lettuce and pickles on a sesame b
 ## 12 Shops Burgers 08
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000354_12_Shops_Bergers_V_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000354_12_Shops_Bergers_V_08_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ Juicy cheeseburger with melted cheddar, fresh lettuce and tomato on a glossy toa
 ## 12 Shops Burgers 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000355_12_Shops_Bergers_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000355_12_Shops_Bergers_W_01_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ A tall, juicy cheeseburger stacked with tomato, cheese, lettuce and a beef patty
 ## 12 Shops Burgers 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000356_12_Shops_Bergers_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000356_12_Shops_Bergers_W_02_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ A juicy cheeseburger with melted cheese and sesame bun, accompanied by crispy fr
 ## 12 Shops Burgers 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000357_12_Shops_Bergers_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000357_12_Shops_Bergers_W_03_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A juicy double-cheese burger with a sesame bun, crispy fries, and a cola in a ne
 ## 12 Shops Burgers 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000358_12_Shops_Bergers_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000358_12_Shops_Bergers_W_04_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ High-quality shot of a double cheeseburger with melted cheese on a sesame bun, p
 ## 12 Shops Burgers 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000359_12_Shops_Bergers_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000359_12_Shops_Bergers_W_05_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ Mouthwatering burger with fries and a beer on a wooden table in a lively burger 
 ## 12 Shops Burgers 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000360_12_Shops_Bergers_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000360_12_Shops_Bergers_W_06_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Juicy cheeseburger stacked with melted cheddar, beef patty, tomato, red onion, l
 ## 12 Shops Burgers 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000361_12_Shops_Bergers_W_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000361_12_Shops_Bergers_W_07_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ A mouthwatering cheeseburger with a juicy grilled patty, melted cheddar, crisp r
 ## 12 Shops Burgers 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000362_12_Shops_Bergers_W_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000362_12_Shops_Bergers_W_08_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ A gourmet cheeseburger with a glossy brioche bun, melted cheddar, fresh greens, 
 ## 12 Shops Burgers 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000363_12_Shops_Bergers_W_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000363_12_Shops_Bergers_W_09_preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ Juicy cheeseburger with sesame bun, cheddar, lettuce, tomato, red onion, and gri
 ## 12 Shops Burgers 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000364_12_Shops_Bergers_W_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000364_12_Shops_Bergers_W_10_preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ A premium cheeseburger with a juicy patty, melted cheddar, fresh greens, tomato,
 ## 12 Shops Burgers 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000365_12_Shops_Bergers_W_11_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000365_12_Shops_Bergers_W_11_preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ Juicy cheeseburger with melted cheddar, sesame bun, onions, and pickles, paired 
 ## 12 Shops Burgers 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000366_12_Shops_Bergers_W_12_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000366_12_Shops_Bergers_W_12_preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ High-quality scene of a casual burger restaurant with fries, a burger, sauce, an
 ## 12 Shops Burgers 13
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000367_12_Shops_Bergers_W_13_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000367_12_Shops_Bergers_W_13_preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ Promo-style: A tasty burger with cheese and toppings on a toasted bun, beside fr
 ## 12 Shops Burgers 14
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000368_12_Shops_Bergers_W_14_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000368_12_Shops_Bergers_W_14_preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ A juicy cheeseburger with lettuce, tomato, and melted cheddar on a sesame bun, w
 ## 12 Shops Burgers 15
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000369_12_Shops_Bergers_W_15_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000369_12_Shops_Bergers_W_15_preview.mp4">Preview video</a>
 </video>
@@ -388,7 +388,7 @@ A cozy bar scene with a juicy burger on a plate, a glass of beer, fries, and war
 ## 12 Shops Burgers 16
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000370_12_Shops_Bergers_W_16_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000370_12_Shops_Bergers_W_16_preview.mp4">Preview video</a>
 </video>
@@ -400,7 +400,7 @@ A mouth-watering double cheeseburger with melted cheese and a sesame bun, paired
 ## 12 Shops Burgers 17
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000371_12_Shops_Bergers_W_17_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000371_12_Shops_Bergers_W_17_preview.mp4">Preview video</a>
 </video>
@@ -412,7 +412,7 @@ High-quality photo of a burger with fries on a metal tray and a glass of beer in
 ## 12 Shops Burgers 18
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000372_12_Shops_Bergers_W_18_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000372_12_Shops_Bergers_W_18_preview.mp4">Preview video</a>
 </video>
@@ -424,7 +424,7 @@ High-quality image of a burger with fries and a beer on a wooden board in a busy
 ## 12 Shops Burgers 19
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000373_12_Shops_Bergers_W_19_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000373_12_Shops_Bergers_W_19_preview.mp4">Preview video</a>
 </video>
@@ -436,7 +436,7 @@ A mouthwatering gourmet cheeseburger with melted cheese and a sesame bun, accomp
 ## 12 Shops Burgers 20
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000374_12_Shops_Bergers_W_20_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000374_12_Shops_Bergers_W_20_preview.mp4">Preview video</a>
 </video>
@@ -448,7 +448,7 @@ Juicy cheeseburger with lettuce and cheese, served with fries and a beer on a wo
 ## 12 Shops Burgers 21
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000375_12_Shops_Bergers_W_21_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000375_12_Shops_Bergers_W_21_preview.mp4">Preview video</a>
 </video>
@@ -460,7 +460,7 @@ A cozy bar scene with a juicy burger, fries, and a cold beer on a wooden counter
 ## 12 Shops Burgers 22
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000376_12_Shops_Bergers_W_22_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000376_12_Shops_Bergers_W_22_preview.mp4">Preview video</a>
 </video>
@@ -472,7 +472,7 @@ A high-quality image of a cheeseburger with lettuce, tomato, and melted cheese o
 ## 12 Shops Burgers 23
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000377_12_Shops_Bergers_W_23_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000377_12_Shops_Bergers_W_23_preview.mp4">Preview video</a>
 </video>
@@ -484,7 +484,7 @@ A hamburger with fries and a drink on a wooden table inside a cozy burger joint.
 ## 12 Shops Burgers 24
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000378_12_Shops_Bergers_W_24_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000378_12_Shops_Bergers_W_24_preview.mp4">Preview video</a>
 </video>

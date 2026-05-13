@@ -16,7 +16,7 @@ This collection contains **170 assets** available in multiple resolutions and as
 ## 05 Indian Butter Chiken 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000112_05_Indian_Butter_Chiken_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000112_05_Indian_Butter_Chiken_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A rich, creamy butter chicken served with fluffy basmati rice and naan.
 ## 05 Indian Butter Chiken 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000113_05_Indian_Butter_Chiken_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000113_05_Indian_Butter_Chiken_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Creamy butter chicken served with rice and warm naan, garnished with fresh cilan
 ## 05 Indian Butter Chiken 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000114_05_Indian_Butter_Chiken_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000114_05_Indian_Butter_Chiken_S_03_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ High-quality image of Indian Butter Chicken served with rice and naan, featuring
 ## 05 Indian Butter Chiken 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000115_05_Indian_Butter_Chiken_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000115_05_Indian_Butter_Chiken_S_04_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A rich Indian butter chicken curry with tender chunks simmered in a creamy tomat
 ## 05 Indian Butter Chiken 05
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000116_05_Indian_Butter_Chiken_S_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000116_05_Indian_Butter_Chiken_S_05_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Creamy butter chicken simmered in a rich tomato gravy with tender chicken chunks
 ## 05 Indian Butter Chiken 06
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000117_05_Indian_Butter_Chiken_S_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000117_05_Indian_Butter_Chiken_S_06_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Creamy butter chicken curry slowly simmering in a traditional pan, accented with
 ## 05 Indian Butter Chiken 07
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000118_05_Indian_Butter_Chiken_S_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000118_05_Indian_Butter_Chiken_S_07_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A rich, creamy Indian butter chicken curry with tender chicken pieces served in 
 ## 05 Indian Butter Chiken 08
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000119_05_Indian_Butter_Chiken_S_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000119_05_Indian_Butter_Chiken_S_08_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Creamy Indian butter chicken with tender pieces in a rich orange sauce, served w
 ## 05 Indian Butter Chiken 09
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000120_05_Indian_Butter_Chiken_S_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000120_05_Indian_Butter_Chiken_S_09_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A plate of Indian butter chicken in rich orange gravy, served with white rice, s
 ## 05 Indian Butter Chiken 10
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000121_05_Indian_Butter_Chiken_S_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000121_05_Indian_Butter_Chiken_S_10_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Creamy Indian butter chicken served over basmati rice with naan in the backgroun
 ## 05 Indian Butter Chiken 11
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000122_05_Indian_Butter_Chiken_S_11_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000122_05_Indian_Butter_Chiken_S_11_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Delicious Indian butter chicken in a creamy tomato sauce, paired with basmati ri
 ## 05 Indian Butter Chiken 12
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000123_05_Indian_Butter_Chiken_S_12_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000123_05_Indian_Butter_Chiken_S_12_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Creamy Indian butter chicken with tender chunks in an orange sauce, served with 
 ## 05 Indian Butter Chiken 13
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000124_05_Indian_Butter_Chiken_S_13_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000124_05_Indian_Butter_Chiken_S_13_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Creamy Indian butter chicken served with basmati rice and naan, finished with a 
 ## 05 Indian Butter Chiken 14
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000125_05_Indian_Butter_Chiken_S_14_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000125_05_Indian_Butter_Chiken_S_14_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ High-quality street-food shot featuring crispy fried bites served in a rich Indi
 ## 05 Indian Butter Chiken 15
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000126_05_Indian_Butter_Chiken_S_15_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000126_05_Indian_Butter_Chiken_S_15_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Butter chicken served on a banana leaf with rich, creamy sauce, in a vibrant str
 ## 05 Indian Butter Chiken 16
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000127_05_Indian_Butter_Chiken_S_16_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000127_05_Indian_Butter_Chiken_S_16_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ Indian butter chicken in a rustic cast-iron pan, tender chicken bathed in a rich
 ## 05 Indian Butter Chiken 17
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000128_05_Indian_Butter_Chiken_S_17_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000128_05_Indian_Butter_Chiken_S_17_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Creamy Indian butter chicken in a rich spiced tomato gravy, topped with a swirl 
 ## 05 Indian Butter Chiken 19
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000129_05_Indian_Butter_Chiken_S_19_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000129_05_Indian_Butter_Chiken_S_19_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ Creamy tomato-based Indian butter chicken with tender chicken chunks in a rich, 
 ## 05 Indian Butter Chiken 20
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000130_05_Indian_Butter_Chiken_S_20_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000130_05_Indian_Butter_Chiken_S_20_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ Creamy Indian butter chicken with tender chicken chunks in a rich tomato-cream s
 ## 05 Indian Butter Chiken 21
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000131_05_Indian_Butter_Chiken_S_21_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000131_05_Indian_Butter_Chiken_S_21_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Creamy Indian butter chicken in a white bowl, topped with herbs and a final garn
 ## 05 Indian Butter Chiken 22
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000132_05_Indian_Butter_Chiken_S_22_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000132_05_Indian_Butter_Chiken_S_22_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ High-quality image of creamy Indian butter chicken garnished with fresh cilantro
 ## 05 Indian Butter Chiken 23
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000133_05_Indian_Butter_Chiken_S_23_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000133_05_Indian_Butter_Chiken_S_23_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Creamy Indian butter chicken in a white bowl with vibrant orange sauce, garnishe
 ## 05 Indian Butter Chiken 24
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000134_05_Indian_Butter_Chiken_S_24_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000134_05_Indian_Butter_Chiken_S_24_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ Creamy Indian butter chicken in a white bowl, topped with fresh herbs.
 ## 05 Indian Butter Chiken 25
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000135_05_Indian_Butter_Chiken_S_25_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000135_05_Indian_Butter_Chiken_S_25_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ Creamy Indian butter chicken plated with fluffy basmati rice and warm naan, fini
 ## 05 Indian Butter Chiken 26
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000136_05_Indian_Butter_Chiken_S_26_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000136_05_Indian_Butter_Chiken_S_26_preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ Rich Indian butter chicken in a creamy tomato sauce, garnished with herbs, serve
 ## 05 Indian Butter Chiken 27
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000137_05_Indian_Butter_Chiken_S_27_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000137_05_Indian_Butter_Chiken_S_27_preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ Creamy Indian butter chicken in a copper bowl, finished with cream and cilantro,
 ## 05 Indian Butter Chiken 28
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000138_05_Indian_Butter_Chiken_S_28_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000138_05_Indian_Butter_Chiken_S_28_preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ Creamy, rich butter chicken curry served with naan and a side of fluffy basmati 
 ## 05 Indian Butter Chiken 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000139_05_Indian_Butter_Chiken_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000139_05_Indian_Butter_Chiken_V_01_preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ A rich, creamy Indian butter chicken curry with tender chicken in a spiced tomat
 ## 05 Indian Butter Chiken 02
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000140_05_Indian_Butter_Chiken_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000140_05_Indian_Butter_Chiken_V_02_preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ Butter chicken in a rustic skillet, tender chicken in a creamy tomato gravy, gar
 ## 05 Indian Butter Chiken 03
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000141_05_Indian_Butter_Chiken_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000141_05_Indian_Butter_Chiken_V_03_preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ A rich, creamy Indian butter chicken simmered in a spiced tomato gravy with tend
 ## 05 Indian Butter Chiken 04
 **Resolution:** 2128x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000142_05_Indian_Butter_Chiken_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000142_05_Indian_Butter_Chiken_V_04_preview.mp4">Preview video</a>
 </video>
@@ -388,7 +388,7 @@ Butter chicken with a rich orange curry, served with a mound of white rice and a
 ## 05 Indian Butter Chiken 05
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000143_05_Indian_Butter_Chiken_V_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000143_05_Indian_Butter_Chiken_V_05_preview.mp4">Preview video</a>
 </video>
@@ -400,7 +400,7 @@ A rich Indian butter chicken in a creamy tomato sauce, garnished with cilantro, 
 ## 05 Indian Butter Chiken 06
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000144_05_Indian_Butter_Chiken_V_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000144_05_Indian_Butter_Chiken_V_06_preview.mp4">Preview video</a>
 </video>
@@ -412,7 +412,7 @@ Creamy butter chicken with basmati rice and naan, garnished with fresh herbs.
 ## 05 Indian Butter Chiken 07
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000145_05_Indian_Butter_Chiken_V_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000145_05_Indian_Butter_Chiken_V_07_preview.mp4">Preview video</a>
 </video>
@@ -424,7 +424,7 @@ Creamy butter chicken with tender pieces in a rich orange sauce, served with flu
 ## 05 Indian Butter Chiken 09
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000146_05_Indian_Butter_Chiken_V_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000146_05_Indian_Butter_Chiken_V_09_preview.mp4">Preview video</a>
 </video>
@@ -436,7 +436,7 @@ A steaming bowl of rich, spiced Indian butter chicken served in a foil bowl, hel
 ## 05 Indian Butter Chiken 10
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000147_05_Indian_Butter_Chiken_V_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000147_05_Indian_Butter_Chiken_V_10_preview.mp4">Preview video</a>
 </video>
@@ -448,7 +448,7 @@ Creamy Indian butter chicken served in a rustic basket with banana leaf, set aga
 ## 05 Indian Butter Chiken 11
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000148_05_Indian_Butter_Chiken_V_11_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000148_05_Indian_Butter_Chiken_V_11_preview.mp4">Preview video</a>
 </video>
@@ -460,7 +460,7 @@ A rich butter chicken curry with tender chunks in a red tomato-based sauce, garn
 ## 05 Indian Butter Chiken 12
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000149_05_Indian_Butter_Chiken_V_12_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000149_05_Indian_Butter_Chiken_V_12_preview.mp4">Preview video</a>
 </video>
@@ -472,7 +472,7 @@ Close-up of creamy Indian butter chicken curry in vibrant orange sauce, with a s
 ## 05 Indian Butter Chiken 13
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000150_05_Indian_Butter_Chiken_V_13_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000150_05_Indian_Butter_Chiken_V_13_preview.mp4">Preview video</a>
 </video>
@@ -484,7 +484,7 @@ Creamy Indian Butter Chicken with tender chicken pieces in a rich, orange tomato
 ## 05 Indian Butter Chiken 14
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000151_05_Indian_Butter_Chiken_V_14_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000151_05_Indian_Butter_Chiken_V_14_preview.mp4">Preview video</a>
 </video>
@@ -496,7 +496,7 @@ Indian Butter Chicken: tender chicken in a silky tomato-cream gravy with rich, v
 ## 05 Indian Butter Chiken 15
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000152_05_Indian_Butter_Chiken_V_15_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000152_05_Indian_Butter_Chiken_V_15_preview.mp4">Preview video</a>
 </video>
@@ -508,7 +508,7 @@ Mouthwatering Indian Butter Chicken in a rich tomato-cream sauce with a swirl of
 ## 05 Indian Butter Chiken 16
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000153_05_Indian_Butter_Chiken_V_16_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000153_05_Indian_Butter_Chiken_V_16_preview.mp4">Preview video</a>
 </video>
@@ -520,7 +520,7 @@ Creamy Indian butter chicken in a lush tomato-based gravy, topped with cilantro 
 ## 05 Indian Butter Chiken 17
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000154_05_Indian_Butter_Chiken_V_17_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000154_05_Indian_Butter_Chiken_V_17_preview.mp4">Preview video</a>
 </video>
@@ -532,7 +532,7 @@ Creamy tomato-based Indian butter chicken in a white bowl, garnished with cilant
 ## 05 Indian Butter Chiken 18
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000155_05_Indian_Butter_Chiken_V_18_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000155_05_Indian_Butter_Chiken_V_18_preview.mp4">Preview video</a>
 </video>
@@ -544,7 +544,7 @@ Creamy Indian butter chicken in a white bowl with bright orange sauce, garnished
 ## 05 Indian Butter Chiken 19
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000156_05_Indian_Butter_Chiken_V_19_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000156_05_Indian_Butter_Chiken_V_19_preview.mp4">Preview video</a>
 </video>
@@ -556,7 +556,7 @@ Creamy orange butter chicken curry served in a white bowl, garnished with a pars
 ## 05 Indian Butter Chiken 20
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000157_05_Indian_Butter_Chiken_V_20_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000157_05_Indian_Butter_Chiken_V_20_preview.mp4">Preview video</a>
 </video>
@@ -568,7 +568,7 @@ Creamy Indian butter chicken with basmati rice, garnished with cilantro and serv
 ## 05 Indian Butter Chiken 21
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000158_05_Indian_Butter_Chiken_V_21_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000158_05_Indian_Butter_Chiken_V_21_preview.mp4">Preview video</a>
 </video>
@@ -580,7 +580,7 @@ Butter chicken served in a ornate pan with naan and a side of white rice, featur
 ## 05 Indian Butter Chiken 22
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000159_05_Indian_Butter_Chiken_V_22_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000159_05_Indian_Butter_Chiken_V_22_preview.mp4">Preview video</a>
 </video>
@@ -592,7 +592,7 @@ A rich bowl of Indian butter chicken topped with cream and parsley, served with 
 ## 05 Indian Butter Chiken 23
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000160_05_Indian_Butter_Chiken_V_23_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000160_05_Indian_Butter_Chiken_V_23_preview.mp4">Preview video</a>
 </video>
@@ -604,7 +604,7 @@ Creamy butter chicken in a rich tomato sauce, garnished with cilantro, served wi
 ## 05 Indian Butter Chiken 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000161_05_Indian_Butter_Chiken_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000161_05_Indian_Butter_Chiken_W_01_preview.mp4">Preview video</a>
 </video>
@@ -616,7 +616,7 @@ Creamy Indian butter chicken in a rich tomato sauce with herbs, served in a bras
 ## 05 Indian Butter Chiken 02
 **Resolution:** 4096x2304 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000162_05_Indian_Butter_Chiken_W_02_preview_.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000162_05_Indian_Butter_Chiken_W_02_preview_.mp4">Preview video</a>
 </video>
@@ -628,7 +628,7 @@ Creamy butter chicken in a rich tomato-spice sauce, topped with cilantro and a l
 ## 05 Indian Butter Chiken 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000163_05_Indian_Butter_Chiken_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000163_05_Indian_Butter_Chiken_W_03_preview.mp4">Preview video</a>
 </video>
@@ -640,7 +640,7 @@ Creamy Indian butter chicken in a spiced tomato sauce, garnished with fresh herb
 ## 05 Indian Butter Chiken 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000164_05_Indian_Butter_Chiken_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000164_05_Indian_Butter_Chiken_W_04_preview.mp4">Preview video</a>
 </video>
@@ -652,7 +652,7 @@ Creamy Indian butter chicken in a rich tomato-based sauce, topped with cream and
 ## 05 Indian Butter Chiken 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000165_05_Indian_Butter_Chiken_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000165_05_Indian_Butter_Chiken_W_05_preview.mp4">Preview video</a>
 </video>
@@ -664,7 +664,7 @@ Creamy Indian butter chicken in a rich orange sauce, garnished with cilantro and
 ## 05 Indian Butter Chiken 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000166_05_Indian_Butter_Chiken_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000166_05_Indian_Butter_Chiken_W_06_preview.mp4">Preview video</a>
 </video>
@@ -676,7 +676,7 @@ Creamy Indian butter chicken in a rich tomato sauce, finished with a swirl of cr
 ## 05 Indian Butter Chiken 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000167_05_Indian_Butter_Chiken_W_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000167_05_Indian_Butter_Chiken_W_07_preview.mp4">Preview video</a>
 </video>
@@ -688,7 +688,7 @@ Butter chicken in a silky tomato-based gravy, finished with cream drizzle and fr
 ## 05 Indian Butter Chiken 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000168_05_Indian_Butter_Chiken_W_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000168_05_Indian_Butter_Chiken_W_08_preview.mp4">Preview video</a>
 </video>
@@ -700,7 +700,7 @@ Delicious Indian butter chicken in a rich creamy tomato sauce, served with fluff
 ## 05 Indian Butter Chiken 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000169_05_Indian_Butter_Chiken_W_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000169_05_Indian_Butter_Chiken_W_09_preview.mp4">Preview video</a>
 </video>
@@ -712,7 +712,7 @@ Creamy, rich butter chicken in a spiced tomato gravy, garnished with cilantro an
 ## 05 Indian Butter Chiken 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000170_05_Indian_Butter_Chiken_W_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000170_05_Indian_Butter_Chiken_W_10_preview.mp4">Preview video</a>
 </video>
@@ -724,7 +724,7 @@ Premium plate of creamy butter chicken with cilantro garnish, paired with fluffy
 ## 05 Indian Butter Chiken 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000171_05_Indian_Butter_Chiken_W_11_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000171_05_Indian_Butter_Chiken_W_11_preview.mp4">Preview video</a>
 </video>
@@ -736,7 +736,7 @@ Creamy butter chicken in a spiced tomato sauce, served steaming in a dark bowl w
 ## 05 Indian Butter Chiken 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000172_05_Indian_Butter_Chiken_W_12_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000172_05_Indian_Butter_Chiken_W_12_preview.mp4">Preview video</a>
 </video>
@@ -748,7 +748,7 @@ Creamy butter chicken in a copper bowl with fluffy naan in the background.
 ## 05 Indian Butter Chiken 13
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000173_05_Indian_Butter_Chiken_W_13_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000173_05_Indian_Butter_Chiken_W_13_preview.mp4">Preview video</a>
 </video>
@@ -760,7 +760,7 @@ Creamy Indian butter chicken in a spiced tomato gravy, garnished with cilantro, 
 ## 05 Indian Butter Chiken 14
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000174_05_Indian_Butter_Chiken_W_14_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000174_05_Indian_Butter_Chiken_W_14_preview.mp4">Preview video</a>
 </video>
@@ -772,7 +772,7 @@ Creamy Indian butter chicken served in a metal bowl, tender chunks soaked in ric
 ## 05 Indian Butter Chiken 15
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000175_05_Indian_Butter_Chiken_W_15_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000175_05_Indian_Butter_Chiken_W_15_preview.mp4">Preview video</a>
 </video>
@@ -784,7 +784,7 @@ Creamy Indian butter chicken: succulent chicken simmered in a rich, spiced tomat
 ## 05 Indian Butter Chiken 16
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000176_05_Indian_Butter_Chiken_W_16_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000176_05_Indian_Butter_Chiken_W_16_preview.mp4">Preview video</a>
 </video>
@@ -796,7 +796,7 @@ High-quality image of Indian butter chicken in a creamy tomato sauce, garnished 
 ## 05 Indian Butter Chiken 17
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000177_05_Indian_Butter_Chiken_W_17_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000177_05_Indian_Butter_Chiken_W_17_preview.mp4">Preview video</a>
 </video>
@@ -808,7 +808,7 @@ A rustic scene featuring a bowl of butter chicken chunks, surrounded by scattere
 ## 05 Indian Butter Chiken 18
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000178_05_Indian_Butter_Chiken_W_18_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000178_05_Indian_Butter_Chiken_W_18_preview.mp4">Preview video</a>
 </video>
@@ -820,7 +820,7 @@ Premium Butter Chicken: tender chicken simmered in a creamy tomato sauce with ri
 ## 05 Indian Butter Chiken 19
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000179_05_Indian_Butter_Chiken_W_19_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000179_05_Indian_Butter_Chiken_W_19_preview.mp4">Preview video</a>
 </video>
@@ -832,7 +832,7 @@ Butter chicken in creamy tomato gravy served in a banana leaf, with sauce being 
 ## 05 Indian Butter Chiken 20
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000180_05_Indian_Butter_Chiken_W_20_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000180_05_Indian_Butter_Chiken_W_20_preview.mp4">Preview video</a>
 </video>
@@ -844,7 +844,7 @@ Creamy Indian butter chicken in a rich tomato sauce, served steaming in a rustic
 ## 05 Indian Butter Chiken 21
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000181_05_Indian_Butter_Chiken_W_21_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000181_05_Indian_Butter_Chiken_W_21_preview.mp4">Preview video</a>
 </video>
@@ -856,7 +856,7 @@ Street-style Indian butter chicken served in a banana leaf bowl, richly glazed a
 ## 05 Indian Butter Chiken 22
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000182_05_Indian_Butter_Chiken_W_22_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000182_05_Indian_Butter_Chiken_W_22_preview.mp4">Preview video</a>
 </video>
@@ -868,7 +868,7 @@ Creamy Indian butter chicken curry with tender chicken chunks in a rich tomato-b
 ## 05 Indian Butter Chiken 23
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000183_05_Indian_Butter_Chiken_W_23_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000183_05_Indian_Butter_Chiken_W_23_preview.mp4">Preview video</a>
 </video>
@@ -880,7 +880,7 @@ Rich, creamy butter chicken with tender chunks in a velvety tomato gravy, finish
 ## 05 Indian Butter Chiken 24
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000184_05_Indian_Butter_Chiken_W_24_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000184_05_Indian_Butter_Chiken_W_24_preview.mp4">Preview video</a>
 </video>
@@ -892,7 +892,7 @@ Premium Indian butter chicken in a velvety tomato-cream sauce with tender chicke
 ## 05 Indian Butter Chiken 25
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000185_05_Indian_Butter_Chiken_W_25_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000185_05_Indian_Butter_Chiken_W_25_preview.mp4">Preview video</a>
 </video>
@@ -904,7 +904,7 @@ Rich and creamy Indian butter chicken curry with tender pieces of chicken in a v
 ## 05 Indian Butter Chiken 26
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000186_05_Indian_Butter_Chiken_W_26_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000186_05_Indian_Butter_Chiken_W_26_preview.mp4">Preview video</a>
 </video>
@@ -916,7 +916,7 @@ Creamy tomato-based Indian butter chicken in a white bowl, garnished with fresh 
 ## 05 Indian Butter Chiken 27
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000187_05_Indian_Butter_Chiken_W_27_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000187_05_Indian_Butter_Chiken_W_27_preview.mp4">Preview video</a>
 </video>
@@ -928,7 +928,7 @@ Creamy, rich butter chicken in a tomato-based gravy, garnished with fresh cilant
 ## 05 Indian Butter Chiken 28
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000188_05_Indian_Butter_Chiken_W_28_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000188_05_Indian_Butter_Chiken_W_28_preview.mp4">Preview video</a>
 </video>
@@ -940,7 +940,7 @@ Creamy Indian Butter Chicken in a velvety tomato sauce, garnished with fresh her
 ## 05 Indian Butter Chiken 29
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000189_05_Indian_Butter_Chiken_W_29_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000189_05_Indian_Butter_Chiken_W_29_preview.mp4">Preview video</a>
 </video>
@@ -952,7 +952,7 @@ Creamy tomato-based Indian butter chicken with tender chunks in a rich orange sa
 ## 05 Indian Butter Chiken 30
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000190_05_Indian_Butter_Chiken_W_30_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000190_05_Indian_Butter_Chiken_W_30_preview.mp4">Preview video</a>
 </video>
@@ -964,7 +964,7 @@ A rich butter chicken in a copper pot with cream and herbs, served with naan and
 ## 05 Indian Butter Chiken 31
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000191_05_Indian_Butter_Chiken_W_31_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000191_05_Indian_Butter_Chiken_W_31_preview.mp4">Preview video</a>
 </video>
@@ -976,7 +976,7 @@ Creamy, rich Indian Butter Chicken with tender chicken in a tomato-based sauce, 
 ## 05 Indian Butter Chiken 32
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000192_05_Indian_Butter_Chiken_W_32_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000192_05_Indian_Butter_Chiken_W_32_preview.mp4">Preview video</a>
 </video>
@@ -988,7 +988,7 @@ Indian Butter Chicken – a rich, creamy tomato-based curry with tender chicken,
 ## 05 Indian Butter Chiken 33
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000193_05_Indian_Butter_Chiken_W_33_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000193_05_Indian_Butter_Chiken_W_33_preview.mp4">Preview video</a>
 </video>
@@ -1000,7 +1000,7 @@ Creamy Indian Butter Chicken served with fluffy basmati rice and warm naan, fini
 ## 05 Indian Butter Chiken 34
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000194_05_Indian_Butter_Chiken_W_34_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000194_05_Indian_Butter_Chiken_W_34_preview.mp4">Preview video</a>
 </video>

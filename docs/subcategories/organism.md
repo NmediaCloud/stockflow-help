@@ -11,4 +11,4 @@ description: "Browse 12 professional 4K/8K Organism assets from the Microscopic 
 
 Explore the **1 collections** in this subcategory:
 
-* **[Alien-Like](../collections/alien-like.md)** — 12 assets
+* **[Alien-like](../collections/alien-like.md)** — 12 assets

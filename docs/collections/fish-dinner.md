@@ -16,7 +16,7 @@ This collection contains **71 assets** available in multiple resolutions and asp
 ## 03 Fish Dinner 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000058_03_Fish_Dinner_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000058_03_Fish_Dinner_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A perfectly seared fish fillet topped with a creamy herb sauce, served over tend
 ## 03 Fish Dinner 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000059_03_Fish_Dinner_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000059_03_Fish_Dinner_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Seared fish fillet with lemon and herb butter, garnished with dill, served with 
 ## 03 Fish Dinner 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000060_03_Fish_Dinner_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000060_03_Fish_Dinner_S_04_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Elegant plated fish dish with a savory sauce and fresh greens, complemented by s
 ## 03 Fish Dinner 06
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000061_03_Fish_Dinner_S_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000061_03_Fish_Dinner_S_06_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A plated white fish fillet topped with microgreens and herbs, accompanied by col
 ## 03 Fish Dinner 07
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000062_03_Fish_Dinner_S_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000062_03_Fish_Dinner_S_07_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Crispy pan-seared fish fillet topped with blistered cherry tomatoes and fresh he
 ## 03 Fish Dinner 08
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000063_03_Fish_Dinner_S_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000063_03_Fish_Dinner_S_08_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A whole fish plated on a white dish with colorful dollops of sauce, cherry tomat
 ## 03 Fish Dinner 09
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000064_03_Fish_Dinner_S_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000064_03_Fish_Dinner_S_09_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Seared fish fillet on a bed of asparagus and cherry tomatoes, finished with a le
 ## 03 Fish Dinner 10
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000065_03_Fish_Dinner_S_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000065_03_Fish_Dinner_S_10_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A plated fish dish with vibrant sauce and greens, accompanied by small vegetable
 ## 03 Fish Dinner 01
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000066_03_Fish_Dinner_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000066_03_Fish_Dinner_V_01_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Elegant plated fish dinner: seared fillet atop greens with citrus butter drizzle
 ## 03 Fish Dinner 02
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000067_03_Fish_Dinner_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000067_03_Fish_Dinner_V_02_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Plated fish fillet with greens and vegetables, garnished with herbs, on a white 
 ## 03 Fish Dinner 03
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000068_03_Fish_Dinner_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000068_03_Fish_Dinner_V_03_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Plated whole fish with vibrant green sauce, fresh herbs, and colorful vegetables
 ## 03 Fish Dinner 04
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000069_03_Fish_Dinner_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000069_03_Fish_Dinner_V_04_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Elegant fish dinner: a seared fillet atop a vibrant green sauce with delicate ve
 ## 03 Fish Dinner 05
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000070_03_Fish_Dinner_V_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000070_03_Fish_Dinner_V_05_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Herb-seared fish fillet topped with lemon, surrounded by asparagus and roasted c
 ## 03 Fish Dinner 06
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000071_03_Fish_Dinner_V_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000071_03_Fish_Dinner_V_06_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Seared fish fillet with a caramelized crust, garnished with lemon and herbs, pla
 ## 03 Fish Dinner 07
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000072_03_Fish_Dinner_V_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000072_03_Fish_Dinner_V_07_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Seared fish fillet topped with lemon and herbs, served with roasted tomatoes and
 ## 03 Fish Dinner 08
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000073_03_Fish_Dinner_V_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000073_03_Fish_Dinner_V_08_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ Elegant plated fish with greens, colorful vegetables, and dollops of vibrant ora
 ## 03 Fish Dinner 09
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000074_03_Fish_Dinner_V_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000074_03_Fish_Dinner_V_09_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Seared fish fillet with herbs, nestled on asparagus and cherry tomatoes, finishe
 ## 03 Fish Dinner 10
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000075_03_Fish_Dinner_V_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000075_03_Fish_Dinner_V_10_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ Seared fish fillet with a herb garnish, paired with cherry tomatoes and asparagu
 ## 03 Fish Dinner 11
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000076_03_Fish_Dinner_V_11_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000076_03_Fish_Dinner_V_11_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A beautifully plated fish fillet with crispy garnish, surrounded by vegetables a
 ## 03 Fish Dinner 12
 **Resolution:** 1918x3412 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000077_03_Fish_Dinner_V_12_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000077_03_Fish_Dinner_V_12_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Gourmet white fish fillet adorned with fresh herbs and crisp vegetables, finishe
 ## 03 Fish Dinner 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000078_03_Fish_Dinner_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000078_03_Fish_Dinner_W_01_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ Elegant fish dinner: a white fillet atop a bed of colorful vegetables, finished 
 ## 03 Fish Dinner 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000079_03_Fish_Dinner_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000079_03_Fish_Dinner_W_02_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Refined fish dinner with a delicate fillet, crispy garnish, and a colorful medle
 ## 03 Fish Dinner 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000080_03_Fish_Dinner_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000080_03_Fish_Dinner_W_03_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ A tender white fish fillet glazed and plated with roasted cherry tomatoes and as
 ## 03 Fish Dinner 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000081_03_Fish_Dinner_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000081_03_Fish_Dinner_W_04_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ High-quality image of a herb-crusted fish fillet topped with lemon, surrounded b
 ## 03 Fish Dinner 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000082_03_Fish_Dinner_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000082_03_Fish_Dinner_W_05_preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ Seared fish fillet topped with a bright herb relish, served with asparagus and r
 ## 03 Fish Dinner 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000083_03_Fish_Dinner_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000083_03_Fish_Dinner_W_06_preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ Seared white fish over asparagus with cherry tomatoes, finished with a herb butt
 ## 03 Fish Dinner 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000084_03_Fish_Dinner_W_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000084_03_Fish_Dinner_W_08_preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ High‑quality image of a plated fish dinner with greens and sauce, accompanied 
 ## 03 Fish Dinner 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000085_03_Fish_Dinner_W_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000085_03_Fish_Dinner_W_09_preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ Elegant white fish fillet plated over a colorful bed of vegetables, finished wit
 ## 03 Fish Dinner 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000086_03_Fish_Dinner_W_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000086_03_Fish_Dinner_W_10_preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ High-quality image of a plated fish dinner with seared fish atop vegetables, fin
 ## 03 Fish Dinner 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000087_03_Fish_Dinner_W_11_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000087_03_Fish_Dinner_W_11_preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ A refined fish dinner featuring a seared fillet plated over a colorful vegetable
 ## 03 Fish Dinner 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000088_03_Fish_Dinner_W_12_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000088_03_Fish_Dinner_W_12_preview.mp4">Preview video</a>
 </video>
@@ -388,7 +388,7 @@ Elegant fish dish: a white fish fillet topped with microgreens, surrounded by co
 ## 03 Fish Dinner 13
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000089_03_Fish_Dinner_W_13_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000089_03_Fish_Dinner_W_13_preview.mp4">Preview video</a>
 </video>

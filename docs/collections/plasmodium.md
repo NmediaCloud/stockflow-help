@@ -61,7 +61,7 @@ Blood smear showing Plasmodium-infected red blood cell with a developing parasit
 ## 01 Plasmodium
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0859_01_Micro_09_Parasite_01_Plasmodium_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0859_01_Micro_09_Parasite_01_Plasmodium_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -73,7 +73,7 @@ A highly magnified cross-section of a eukaryotic cell showing a prominent nucleu
 ## 02 Plasmodium
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0860_01_Micro_09_Parasite_01_Plasmodium_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0860_01_Micro_09_Parasite_01_Plasmodium_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -85,7 +85,7 @@ Microscopic view of a Plasmodium parasite inside a human blood cell, revealing o
 ## 03 Plasmodium
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0861_01_Micro_09_Parasite_01_Plasmodium_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0861_01_Micro_09_Parasite_01_Plasmodium_V_Mp4_preview.mp4">Preview video</a>
 </video>

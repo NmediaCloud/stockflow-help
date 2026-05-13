@@ -1,27 +1,44 @@
 ---
-title: "How to Use Fast casual Footage in Creative Projects | Stockflow.media"
-description: "**Fast casual** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
+title: "How to Use Fast Casual Footage in Creative Projects | Stockflow.media"
+description: "**Fast Casual** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
 ---
 
-# How to Use Fast casual Visuals in Your Creative Projects
+# How to Use Fast Casual Visuals in Your Creative Projects
 
-[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Fast casual**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Fast Casual**
 
-[Browse the Fast casual Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+casual){ .md-button .md-button--primary }
+[Browse the Fast Casual Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+Casual){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Fast casual** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
+**Fast Casual** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-This guide explores how to use the **Fast casual** collection — 20 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Fast Casual** collection — 35 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Fast casual Visuals Are in Demand
+## Visual Highlights
+
+### 06 Fast Casual  05
+![06 Fast Casual  05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00079_06_Fast_Casual__S_05_5760x5760_jpeg__preview.webp)
+
+modern coffee shop interior with menu displays and seating area
+
+### 06 Fast Casual  06
+![06 Fast Casual  06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00080_06_Fast_Casual__S_06_5760x5760_jpeg__preview.webp)
+
+modern cafe interior with a sleek counter and digital menus
+
+### 06 Fast Casual  10
+![06 Fast Casual  10](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00081_06_Fast_Casual__S_10_5760x5760_jpeg__preview.webp)
+
+vintage diner interior with red booths and neon lights
+
+## Why Fast Casual Visuals Are in Demand
 
 High-quality fast casual footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **20 assets** in this collection are:
+All **35 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -43,7 +60,7 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+casual)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+Casual)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +84,9 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Fast casual Collection
+## Explore the Full Fast Casual Collection
 
-Ready to add **Fast casual** visuals to your next project?
+Ready to add **Fast Casual** visuals to your next project?
 
-[Browse Fast casual on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+casual){ .md-button .md-button--primary }
+[Browse Fast Casual on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Fast+Casual){ .md-button .md-button--primary }
 [View Collection Details](../collections/fast-casual.md){ .md-button }

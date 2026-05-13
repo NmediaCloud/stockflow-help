@@ -42,18 +42,13 @@ nav:
               - Brunch: collections/brunch.md
               - Buffet: collections/buffet.md
               - Casual Dining: collections/casual-dining.md
-              - Casual dining: collections/casual-dining.md
               - Chinese: collections/chinese.md
               - Family Style: collections/family-style.md
-              - Family style: collections/family-style.md
               - Fast Casual: collections/fast-casual.md
-              - Fast casual: collections/fast-casual.md
-              - Fast food: collections/fast-food.md
+              - Fast Food: collections/fast-food.md
               - Fine Dining: collections/fine-dining.md
-              - Fine dining: collections/fine-dining.md
               - French: collections/french.md
               - Fusion Cuisine: collections/fusion-cuisine.md
-              - Fusion cuisine: collections/fusion-cuisine.md
               - Indian: collections/indian.md
               - Italian: collections/italian.md
               - Japanese: collections/japanese.md
@@ -61,7 +56,6 @@ nav:
               - Mexican: collections/mexican.md
               - Mexican Starters: collections/mexican-starters.md
               - Pop Up: collections/pop-up.md
-              - Pop up: collections/pop-up.md
               - Seafood: collections/seafood.md
               - Steakhouses: collections/steakhouses.md
               - Vegan: collections/vegan.md
@@ -106,15 +100,15 @@ nav:
           - Biological Creatures:
               - Biological Creatures Overview: subcategories/biological-creatures.md
               - Alien: collections/alien.md
-              - Alien organism: collections/alien-organism.md
+              - Alien Organism: collections/alien-organism.md
               - Bacteria: collections/bacteria.md
-              - Bacterial cell: collections/bacterial-cell.md
-              - Cross-Section: collections/cross-section.md
+              - Bacterial Cell: collections/bacterial-cell.md
+              - Cross-section: collections/cross-section.md
               - Eukaryotic Cell: collections/eukaryotic-cell.md
               - Intracellular: collections/intracellular.md
               - Mitochondria: collections/mitochondria.md
               - Mosquito Larva: collections/mosquito-larva.md
-              - Nematode worms: collections/nematode-worms.md
+              - Nematode Worms: collections/nematode-worms.md
               - Paramecium: collections/paramecium.md
               - Planktonic: collections/planktonic.md
               - Red And White: collections/red-and-white.md
@@ -149,7 +143,7 @@ nav:
               - Cellular: collections/cellular.md
               - Ciliat: collections/ciliat.md
               - Ciliated: collections/ciliated.md
-              - Eukaryotic cell under: collections/eukaryotic-cell-under.md
+              - Eukaryotic Cell Under: collections/eukaryotic-cell-under.md
               - Intracellular: collections/intracellular.md
               - Lysosom: collections/lysosom.md
               - Lysosomes: collections/lysosomes.md
@@ -157,10 +151,10 @@ nav:
               - Mitochondria: collections/mitochondria.md
               - Planktonic: collections/planktonic.md
               - Plant Cell: collections/plant-cell.md
+              - Red And White Blood Cells: collections/red-and-white-blood-cells.md
               - Ribosomes: collections/ribosomes.md
-              - red and white blood cells: collections/red-and-white-blood-cells.md
-          - Cross-Section:
-              - Cross-Section Overview: subcategories/cross-section.md
+          - Cross-section:
+              - Cross-section Overview: subcategories/cross-section.md
               - Plant Cell: collections/plant-cell.md
           - Dermatopathology:
               - Dermatopathology Overview: subcategories/dermatopathology.md
@@ -175,25 +169,22 @@ nav:
           - Food Fungi:
               - Food Fungi Overview: subcategories/food-fungi.md
               - Aspergillus: collections/aspergillus.md
-              - Aspergillus fungi: collections/aspergillus-fungi.md
+              - Aspergillus Fungi: collections/aspergillus-fungi.md
               - Colonizing: collections/colonizing.md
               - Cross Sectional: collections/cross-sectional.md
               - Extreme Close: collections/extreme-close.md
               - Food Fungi: collections/food-fungi.md
               - Fungal Ecosystem: collections/fungal-ecosystem.md
               - Fungal Penetration: collections/fungal-penetration.md
-              - Fungal ecosystem: collections/fungal-ecosystem.md
               - Fungi: collections/fungi.md
               - Hyphae: collections/hyphae.md
               - Mold Growth: collections/mold-growth.md
               - Penicillium: collections/penicillium.md
-              - Penicillium mold: collections/penicillium-mold.md
+              - Penicillium Mold: collections/penicillium-mold.md
               - Rhizopus: collections/rhizopus.md
-              - Rhizopus sporangia: collections/rhizopus-sporangia.md
+              - Rhizopus Sporangia: collections/rhizopus-sporangia.md
               - Yeast And Mold: collections/yeast-and-mold.md
               - Yeast Cells: collections/yeast-cells.md
-              - Yeast cells: collections/yeast-cells.md
-              - yeast and mold: collections/yeast-and-mold.md
           - Fungi:
               - Fungi Overview: subcategories/fungi.md
               - Algae: collections/algae.md
@@ -211,7 +202,7 @@ nav:
           - Hematology:
               - Hematology Overview: subcategories/hematology.md
               - Hematology: collections/hematology.md
-              - Iron deficieny: collections/iron-deficieny.md
+              - Iron Deficieny: collections/iron-deficieny.md
               - Sickle Cell: collections/sickle-cell.md
           - Histopathology:
               - Histopathology Overview: subcategories/histopathology.md
@@ -242,11 +233,11 @@ nav:
               - Neuropathology Overview: subcategories/neuropathology.md
               - Alzheimer: collections/alzheimer.md
               - Multiple Sclerosis: collections/multiple-sclerosis.md
-              - MultipleSclerosis: collections/multiplesclerosis.md
+              - Multiplesclerosis: collections/multiplesclerosis.md
               - Neuroblastoma: collections/neuroblastoma.md
               - Parkinson: collections/parkinson.md
               - Spinal Cord: collections/spinal-cord.md
-              - SpinalCord: collections/spinalcord.md
+              - Spinalcord: collections/spinalcord.md
           - Nucleus:
               - Nucleus Overview: subcategories/nucleus.md
               - Coronavirus: collections/coronavirus.md
@@ -254,17 +245,17 @@ nav:
               - Spherical Nucleus: collections/spherical-nucleus.md
           - Organism:
               - Organism Overview: subcategories/organism.md
-              - Alien-Like: collections/alien-like.md
+              - Alien-like: collections/alien-like.md
           - Parasite:
               - Parasite Overview: subcategories/parasite.md
-              - Close up: collections/close-up.md
+              - Close Up: collections/close-up.md
               - Cryptosporidium: collections/cryptosporidium.md
               - Flatworm Larae: collections/flatworm-larae.md
               - Flatworm Larvae: collections/flatworm-larvae.md
               - Giardia Lamblia: collections/giardia-lamblia.md
               - Leishmania: collections/leishmania.md
               - Parasite: collections/parasite.md
-              - ParasiteTimeline: collections/parasitetimeline.md
+              - Parasitetimeline: collections/parasitetimeline.md
               - Parasitic Worm: collections/parasitic-worm.md
               - Plasmodium: collections/plasmodium.md
               - Protozoa: collections/protozoa.md
@@ -279,7 +270,7 @@ nav:
               - Grass Mesh Structure: collections/grass-mesh-structure.md
               - Lavender: collections/lavender.md
               - Lavender Dreamy Coating: collections/lavender-dreamy-coating.md
-              - Lotus Fluorescent Starbur st: collections/lotus-fluorescent-starbur-st.md
+              - Lotus Fluorescent Starbur St: collections/lotus-fluorescent-starbur-st.md
               - Lotus Fluorescent Starburst: collections/lotus-fluorescent-starburst.md
               - Lotus Starburst: collections/lotus-starburst.md
               - Orchid Pollinium: collections/orchid-pollinium.md
@@ -294,7 +285,7 @@ nav:
               - Sunflower: collections/sunflower.md
           - Protozoa:
               - Protozoa Overview: subcategories/protozoa.md
-              - protozoa: collections/protozoa.md
+              - Protozoa: collections/protozoa.md
           - Underwater:
               - Underwater Overview: subcategories/underwater.md
               - Bioluminescent: collections/bioluminescent.md
@@ -309,23 +300,21 @@ nav:
               - Rotifers: collections/rotifers.md
               - Seawater Droplet: collections/seawater-droplet.md
               - Single Celled Organisms: collections/single-celled-organisms.md
-              - Single-Celled: collections/single-celled.md
+              - Single-celled: collections/single-celled.md
               - Tardigrade: collections/tardigrade.md
-              - tardigrade: collections/tardigrade.md
           - Virus:
               - Virus Overview: subcategories/virus.md
               - Membrane: collections/membrane.md
           - Waterborne:
               - Waterborne Overview: subcategories/waterborne.md
               - Algae: collections/algae.md
-              - Algae cells: collections/algae-cells.md
+              - Algae Cells: collections/algae-cells.md
               - Amoebas: collections/amoebas.md
               - Aquatic: collections/aquatic.md
               - Diatom: collections/diatom.md
               - Diatom Shell: collections/diatom-shell.md
-              - Diatom shell: collections/diatom-shell.md
               - Euglena: collections/euglena.md
-              - Euglena cell: collections/euglena-cell.md
+              - Euglena Cell: collections/euglena-cell.md
               - Neural Signals: collections/neural-signals.md
               - Organisms: collections/organisms.md
               - Plankton: collections/plankton.md
@@ -346,8 +335,8 @@ nav:
               - Nematode Worms: collections/nematode-worms.md
               - Nmeatode: collections/nmeatode.md
               - Parasitic Micro Worm: collections/parasitic-micro-worm.md
+              - Parasitic Worm: collections/parasitic-worm.md
               - Parasitic Worms: collections/parasitic-worms.md
-              - Parasitic worm: collections/parasitic-worm.md
               - Protozoa: collections/protozoa.md
               - Turbellarians: collections/turbellarians.md
               - Worm Crawls: collections/worm-crawls.md
@@ -376,21 +365,21 @@ nav:
       - Aggressive Guide: blog/aggressive-showcase.md
       - Algae Guide: blog/algae-showcase.md
       - Algae Bloom Guide: blog/algae-bloom-showcase.md
-      - Algae cells Guide: blog/algae-cells-showcase.md
+      - Algae Cells Guide: blog/algae-cells-showcase.md
       - Algal Biofilm Guide: blog/algal-biofilm-showcase.md
       - Algal Cells Guide: blog/algal-cells-showcase.md
       - Alien Guide: blog/alien-showcase.md
-      - Alien organism Guide: blog/alien-organism-showcase.md
-      - Alien-Like Guide: blog/alien-like-showcase.md
+      - Alien Organism Guide: blog/alien-organism-showcase.md
+      - Alien-like Guide: blog/alien-like-showcase.md
       - Alzheimer Guide: blog/alzheimer-showcase.md
       - Amoebas Guide: blog/amoebas-showcase.md
       - Anemia Guide: blog/anemia-showcase.md
       - Aquatic Guide: blog/aquatic-showcase.md
       - Aspergillus Guide: blog/aspergillus-showcase.md
-      - Aspergillus fungi Guide: blog/aspergillus-fungi-showcase.md
+      - Aspergillus Fungi Guide: blog/aspergillus-fungi-showcase.md
       - Bacillus Guide: blog/bacillus-showcase.md
       - Bacteria Guide: blog/bacteria-showcase.md
-      - Bacterial cell Guide: blog/bacterial-cell-showcase.md
+      - Bacterial Cell Guide: blog/bacterial-cell-showcase.md
       - Basal Guide: blog/basal-showcase.md
       - Basidiospores Guide: blog/basidiospores-showcase.md
       - Biofilm Guide: blog/biofilm-showcase.md
@@ -412,7 +401,6 @@ nav:
       - Caenorhabditis Elegans Guide: blog/caenorhabditis-elegans-showcase.md
       - Cancer Cell Guide: blog/cancer-cell-showcase.md
       - Casual Dining Guide: blog/casual-dining-showcase.md
-      - Casual dining Guide: blog/casual-dining-showcase.md
       - Cellular Guide: blog/cellular-showcase.md
       - Cervical Cells Guide: blog/cervical-cells-showcase.md
       - Chemotherapy Guide: blog/chemotherapy-showcase.md
@@ -421,7 +409,7 @@ nav:
       - Chinese Guide: blog/chinese-showcase.md
       - Ciliat Guide: blog/ciliat-showcase.md
       - Ciliated Guide: blog/ciliated-showcase.md
-      - Close up Guide: blog/close-up-showcase.md
+      - Close Up Guide: blog/close-up-showcase.md
       - Cocci Guide: blog/cocci-showcase.md
       - Colon Polyp Guide: blog/colon-polyp-showcase.md
       - Colonial Guide: blog/colonial-showcase.md
@@ -432,7 +420,7 @@ nav:
       - Coronavirus Guide: blog/coronavirus-showcase.md
       - Crawling On Algae Guide: blog/crawling-on-algae-showcase.md
       - Cross Sectional Guide: blog/cross-sectional-showcase.md
-      - Cross-Section Guide: blog/cross-section-showcase.md
+      - Cross-section Guide: blog/cross-section-showcase.md
       - Cryptosporidium Guide: blog/cryptosporidium-showcase.md
       - Cyanobacteria Guide: blog/cyanobacteria-showcase.md
       - Dandelion Guide: blog/dandelion-showcase.md
@@ -440,25 +428,21 @@ nav:
       - Desmids Guide: blog/desmids-showcase.md
       - Diatom Guide: blog/diatom-showcase.md
       - Diatom Shell Guide: blog/diatom-shell-showcase.md
-      - Diatom shell Guide: blog/diatom-shell-showcase.md
       - Diatoms Guide: blog/diatoms-showcase.md
       - Dosa Guide: blog/dosa-showcase.md
       - E. Coli Guide: blog/e-coli-showcase.md
       - Eczema Guide: blog/eczema-showcase.md
       - Euglena Guide: blog/euglena-showcase.md
       - Euglena And Green Algae Guide: blog/euglena-and-green-algae-showcase.md
-      - Euglena cell Guide: blog/euglena-cell-showcase.md
+      - Euglena Cell Guide: blog/euglena-cell-showcase.md
       - Eukaryotic Cell Guide: blog/eukaryotic-cell-showcase.md
-      - Eukaryotic cell under Guide: blog/eukaryotic-cell-under-showcase.md
+      - Eukaryotic Cell Under Guide: blog/eukaryotic-cell-under-showcase.md
       - Extreme Close Guide: blog/extreme-close-showcase.md
       - Family Style Guide: blog/family-style-showcase.md
-      - Family style Guide: blog/family-style-showcase.md
       - Fast Casual Guide: blog/fast-casual-showcase.md
-      - Fast casual Guide: blog/fast-casual-showcase.md
-      - Fast food Guide: blog/fast-food-showcase.md
+      - Fast Food Guide: blog/fast-food-showcase.md
       - Filaments Guide: blog/filaments-showcase.md
       - Fine Dining Guide: blog/fine-dining-showcase.md
-      - Fine dining Guide: blog/fine-dining-showcase.md
       - Fish Dinner Guide: blog/fish-dinner-showcase.md
       - Flatworm Larae Guide: blog/flatworm-larae-showcase.md
       - Flatworm Larvae Guide: blog/flatworm-larvae-showcase.md
@@ -469,10 +453,8 @@ nav:
       - Fungal Guide: blog/fungal-showcase.md
       - Fungal Ecosystem Guide: blog/fungal-ecosystem-showcase.md
       - Fungal Penetration Guide: blog/fungal-penetration-showcase.md
-      - Fungal ecosystem Guide: blog/fungal-ecosystem-showcase.md
       - Fungi Guide: blog/fungi-showcase.md
       - Fusion Cuisine Guide: blog/fusion-cuisine-showcase.md
-      - Fusion cuisine Guide: blog/fusion-cuisine-showcase.md
       - Giardia Lamblia Guide: blog/giardia-lamblia-showcase.md
       - Glioblastoma Guide: blog/glioblastoma-showcase.md
       - Grass Mesh Structure Guide: blog/grass-mesh-structure-showcase.md
@@ -488,7 +470,7 @@ nav:
       - In Compost Guide: blog/in-compost-showcase.md
       - Indian Guide: blog/indian-showcase.md
       - Intracellular Guide: blog/intracellular-showcase.md
-      - Iron deficieny Guide: blog/iron-deficieny-showcase.md
+      - Iron Deficieny Guide: blog/iron-deficieny-showcase.md
       - Italian Guide: blog/italian-showcase.md
       - Japanese Guide: blog/japanese-showcase.md
       - Juvenile Plankton Guide: blog/juvenile-plankton-showcase.md
@@ -499,7 +481,7 @@ nav:
       - Leukemia Guide: blog/leukemia-showcase.md
       - Lichen Guide: blog/lichen-showcase.md
       - Liver Cirrhosis Guide: blog/liver-cirrhosis-showcase.md
-      - Lotus Fluorescent Starbur st Guide: blog/lotus-fluorescent-starbur-st-showcase.md
+      - Lotus Fluorescent Starbur St Guide: blog/lotus-fluorescent-starbur-st-showcase.md
       - Lotus Fluorescent Starburst Guide: blog/lotus-fluorescent-starburst-showcase.md
       - Lotus Starburst Guide: blog/lotus-starburst-showcase.md
       - Lung Tissue Guide: blog/lung-tissue-showcase.md
@@ -517,12 +499,11 @@ nav:
       - Mold Growth Guide: blog/mold-growth-showcase.md
       - Mosquito Larva Guide: blog/mosquito-larva-showcase.md
       - Multiple Sclerosis Guide: blog/multiple-sclerosis-showcase.md
-      - MultipleSclerosis Guide: blog/multiplesclerosis-showcase.md
+      - Multiplesclerosis Guide: blog/multiplesclerosis-showcase.md
       - Mutations Guide: blog/mutations-showcase.md
       - Mycelium Guide: blog/mycelium-showcase.md
       - Nematode Lifecycle Guide: blog/nematode-lifecycle-showcase.md
       - Nematode Worms Guide: blog/nematode-worms-showcase.md
-      - Nematode worms Guide: blog/nematode-worms-showcase.md
       - Neural Signals Guide: blog/neural-signals-showcase.md
       - Neuroblastoma Guide: blog/neuroblastoma-showcase.md
       - Nmeatode Guide: blog/nmeatode-showcase.md
@@ -532,16 +513,15 @@ nav:
       - Organisms Guide: blog/organisms-showcase.md
       - Paramecium Guide: blog/paramecium-showcase.md
       - Parasite Guide: blog/parasite-showcase.md
-      - ParasiteTimeline Guide: blog/parasitetimeline-showcase.md
+      - Parasitetimeline Guide: blog/parasitetimeline-showcase.md
       - Parasitic Micro Worm Guide: blog/parasitic-micro-worm-showcase.md
       - Parasitic Worm Guide: blog/parasitic-worm-showcase.md
       - Parasitic Worms Guide: blog/parasitic-worms-showcase.md
-      - Parasitic worm Guide: blog/parasitic-worm-showcase.md
       - Parkinson Guide: blog/parkinson-showcase.md
       - Pathogenic Guide: blog/pathogenic-showcase.md
       - Peanut Hex Surface Guide: blog/peanut-hex-surface-showcase.md
       - Penicillium Guide: blog/penicillium-showcase.md
-      - Penicillium mold Guide: blog/penicillium-mold-showcase.md
+      - Penicillium Mold Guide: blog/penicillium-mold-showcase.md
       - Pine Winged Guide: blog/pine-winged-showcase.md
       - Pine Winged Form Guide: blog/pine-winged-form-showcase.md
       - Pizza Guide: blog/pizza-showcase.md
@@ -551,7 +531,6 @@ nav:
       - Plasmodium Guide: blog/plasmodium-showcase.md
       - Pollen Guide: blog/pollen-showcase.md
       - Pop Up Guide: blog/pop-up-showcase.md
-      - Pop up Guide: blog/pop-up-showcase.md
       - Prostate Guide: blog/prostate-showcase.md
       - Protozoa Guide: blog/protozoa-showcase.md
       - Protozoa And Algae Guide: blog/protozoa-and-algae-showcase.md
@@ -561,11 +540,12 @@ nav:
       - Red Guide: blog/red-showcase.md
       - Red Algae Guide: blog/red-algae-showcase.md
       - Red And White Guide: blog/red-and-white-showcase.md
+      - Red And White Blood Cells Guide: blog/red-and-white-blood-cells-showcase.md
       - Remen Guide: blog/remen-showcase.md
       - Resistant Guide: blog/resistant-showcase.md
       - Resistant Bacteria Guide: blog/resistant-bacteria-showcase.md
       - Rhizopus Guide: blog/rhizopus-showcase.md
-      - Rhizopus sporangia Guide: blog/rhizopus-sporangia-showcase.md
+      - Rhizopus Sporangia Guide: blog/rhizopus-sporangia-showcase.md
       - Ribosomes Guide: blog/ribosomes-showcase.md
       - Rotifers Guide: blog/rotifers-showcase.md
       - Sandwich Guide: blog/sandwich-showcase.md
@@ -575,11 +555,11 @@ nav:
       - Sickle Cell Guide: blog/sickle-cell-showcase.md
       - Single Celled Guide: blog/single-celled-showcase.md
       - Single Celled Organisms Guide: blog/single-celled-organisms-showcase.md
-      - Single-Celled Guide: blog/single-celled-showcase.md
+      - Single-celled Guide: blog/single-celled-showcase.md
       - Spherical Grass Grain Guide: blog/spherical-grass-grain-showcase.md
       - Spherical Nucleus Guide: blog/spherical-nucleus-showcase.md
       - Spinal Cord Guide: blog/spinal-cord-showcase.md
-      - SpinalCord Guide: blog/spinalcord-showcase.md
+      - Spinalcord Guide: blog/spinalcord-showcase.md
       - Spirochete Guide: blog/spirochete-showcase.md
       - Spirogyra Guide: blog/spirogyra-showcase.md
       - Sporangia Guide: blog/sporangia-showcase.md
@@ -613,9 +593,4 @@ nav:
       - Worms Guide: blog/worms-showcase.md
       - Yeast And Mold Guide: blog/yeast-and-mold-showcase.md
       - Yeast Cells Guide: blog/yeast-cells-showcase.md
-      - Yeast cells Guide: blog/yeast-cells-showcase.md
       - Zygomycete Guide: blog/zygomycete-showcase.md
-      - protozoa Guide: blog/protozoa-showcase.md
-      - red and white blood cells Guide: blog/red-and-white-blood-cells-showcase.md
-      - tardigrade Guide: blog/tardigrade-showcase.md
-      - yeast and mold Guide: blog/yeast-and-mold-showcase.md

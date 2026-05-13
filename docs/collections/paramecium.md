@@ -52,7 +52,7 @@ Close-up of a Paramecium, a microscopic single-celled organism, showing cilia an
 ## 01 Paramecium Close-Up
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0206_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0206_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A vibrant close-up of a paramecium, a microscopic aquatic organism, revealing ci
 ## 02 Paramecium Close-Up
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0207_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0207_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Vivid close-up of a single-celled organism with translucent body, internal organ
 ## 03 Paramecium Close-Up
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0208_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0208_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Colorful, high-detail close-up of a single-celled organism with a pear-shaped bo
 ## 04 Paramecium Close-Up
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0209_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0209_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A micro, close-up view of a paramecium-like ciliate, its cilia radiating around 
 ## 05 Paramecium Close-Up
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0210_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0210_01_Micro_01_Biological_Creatures_09_Paramecium_Close-Up_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A highly detailed close-up of a microscopic biological creature, revealing trans
 ## 01 Paramecium Close-Up
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0217_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0217_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A highly detailed close-up of a transparent aquatic crustacean, a plankton organ
 ## 02 Paramecium Close-Up
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0218_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0218_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A vivid close-up of a microscopic creature, its iridescent green and orange body
 ## 03 Paramecium Close-Up
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0219_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0219_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Close-up of a colorful single-celled organism with intricate internal structures
 ## 04 Paramecium Close-Up
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0220_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0220_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Close-up of a paramecium, a microscopic biological creature, revealing its intri
 ## 05 Paramecium Close-Up
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0221_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V5_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0221_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V5_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Close-up of a spiky aquatic larva curling through a misty micro-world, showing a
 ## 06 Paramecium Close-Up
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0222_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V6_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0222_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_V6_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A microscopic, close-up view of a spiral filament covered with tiny sacs and rou
 ## 07 Paramecium Close-Up
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0223_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0223_01_Micro_01_Biological_Creatures_10_Paramecium_Close-Up_S_Mp4_preview.mp4">Preview video</a>
 </video>

@@ -169,9 +169,16 @@ def main():
         cat_sub = row.get("Catagory_Sub") or row.get("Category_Sub") or "General"
         sub_name = row.get("Sub") or "Misc"
         
-        cat = cat.strip()
-        cat_sub = cat_sub.strip()
-        sub_name = sub_name.strip()
+        # Normalise: trim + title-case so "Casual dining" and "Casual Dining"
+        # collapse to one canonical key (prevents duplicate nav entries for
+        # the same slug). Keep ALL-CAPS short tokens (e.g. "USA", "8K") intact.
+        def _canon(s):
+            s = (s or "").strip()
+            return " ".join(w if (w.isupper() and len(w) <= 4) else w.capitalize()
+                            for w in s.split())
+        cat = _canon(cat)
+        cat_sub = _canon(cat_sub)
+        sub_name = _canon(sub_name)
             
         if cat not in hierarchy:
             hierarchy[cat] = {}
@@ -319,7 +326,7 @@ def main():
             collection_md += f"**Resolution:** {res} | **Format:** {fmt}\n\n"
             if preview_url:
                 if preview_url.lower().endswith(".mp4"):
-                    collection_md += f'<video controls width="100%" style="max-width:720px;">\n'
+                    collection_md += f'<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">\n'
                     collection_md += f'  <source src="{preview_url}" type="video/mp4">\n'
                     collection_md += f'  <a href="{preview_url}">Preview video</a>\n'
                     collection_md += f'</video>\n\n'

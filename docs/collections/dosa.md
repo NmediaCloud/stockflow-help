@@ -16,7 +16,7 @@ This collection contains **64 assets** available in multiple resolutions and asp
 ## 07 Indian South Dosa 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000209_07_Indian_South_Dosa_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000209_07_Indian_South_Dosa_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Crispy Indian dosa rolls served with red and yellow chutney, garnished with fres
 ## 07 Indian South Dosa 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000210_07_Indian_South_Dosa_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000210_07_Indian_South_Dosa_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Crispy South Indian dosa served with colorful chutneys.
 ## 07 Indian South Dosa 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000211_07_Indian_South_Dosa_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000211_07_Indian_South_Dosa_S_03_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ South Indian dosa served with an assortment of chutneys.
 ## 07 Indian South Dosa 04
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000212_07_Indian_South_Dosa_S_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000212_07_Indian_South_Dosa_S_04_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ South Indian dosa served on a banana leaf with assorted chutneys and sambar, plu
 ## 07 Indian South Dosa 05
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000213_07_Indian_South_Dosa_S_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000213_07_Indian_South_Dosa_S_05_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ South Indian dosa on a banana leaf with assorted chutneys and sambar.
 ## 07 Indian South Dosa 06
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000214_07_Indian_South_Dosa_S_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000214_07_Indian_South_Dosa_S_06_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ South Indian dosa served on a banana leaf with assorted chutneys and sambar, acc
 ## 07 Indian South Dosa 01
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000215_07_Indian_South_Dosa_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000215_07_Indian_South_Dosa_V_01_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Crispy dosa rolls filled with flavorful potato and spice, plated with chutneys a
 ## 07 Indian South Dosa 02
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000216_07_Indian_South_Dosa_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000216_07_Indian_South_Dosa_V_02_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ South Indian dosa served with coconut chutney, sambar, and accompaniments on a b
 ## 07 Indian South Dosa 03
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000217_07_Indian_South_Dosa_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000217_07_Indian_South_Dosa_V_03_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A large crispy dosa served on a banana leaf with sambar, coconut chutney, and to
 ## 07 Indian South Dosa 04
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000218_07_Indian_South_Dosa_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000218_07_Indian_South_Dosa_V_04_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Crispy South Indian dosa rolled with flavorful filling, served with vibrant chut
 ## 07 Indian South Dosa 05
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000219_07_Indian_South_Dosa_V_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000219_07_Indian_South_Dosa_V_05_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Crispy dosa roll with savory filling, served with vibrant chutneys and spices.
 ## 07 Indian South Dosa 06
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000220_07_Indian_South_Dosa_V_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000220_07_Indian_South_Dosa_V_06_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ High-quality image of a crispy, rolled South Indian dosa accompanied by red, gre
 ## 07 Indian South Dosa 07
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000221_07_Indian_South_Dosa_V_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000221_07_Indian_South_Dosa_V_07_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ South Indian dosa served on a banana leaf with coconut chutney, sambar, and acco
 ## 07 Indian South Dosa 08
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000222_07_Indian_South_Dosa_V_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000222_07_Indian_South_Dosa_V_08_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Crispy Indian dosa served with green, lentil, and tomato chutneys plus steaming 
 ## 07 Indian South Dosa 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000223_07_Indian_South_Dosa_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000223_07_Indian_South_Dosa_W_01_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ South Indian dosa served on a banana leaf with assorted chutneys and sambar, plu
 ## 07 Indian South Dosa 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000224_07_Indian_South_Dosa_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000224_07_Indian_South_Dosa_W_02_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ South Indian dosa served on a banana leaf, a rolled, golden-brown crepe atop a p
 ## 07 Indian South Dosa 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000225_07_Indian_South_Dosa_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000225_07_Indian_South_Dosa_W_03_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Crispy dosa served on a banana leaf with an assortment of chutneys and sambar.
 ## 07 Indian South Dosa 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000226_07_Indian_South_Dosa_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000226_07_Indian_South_Dosa_W_04_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ Crispy South Indian dosas served on a platter with spicy chutneys and sambar.
 ## 07 Indian South Dosa 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000227_07_Indian_South_Dosa_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000227_07_Indian_South_Dosa_W_05_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ South Indian dosa crispy crepe with a variety of chutneys and sambar on a tradit
 ## 07 Indian South Dosa 06
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000228_07_Indian_South_Dosa_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000228_07_Indian_South_Dosa_W_06_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ High-quality image of a South Indian dosa rolled and served with multiple chutne
 ## 07 Indian South Dosa 07
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000229_07_Indian_South_Dosa_W_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000229_07_Indian_South_Dosa_W_07_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ South Indian dosa served on a metal platter with a variety of chutneys and samba
 ## 07 Indian South Dosa 08
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000230_07_Indian_South_Dosa_W_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000230_07_Indian_South_Dosa_W_08_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Crispy Indian dosas rolled into cylinders, served with chutneys and garnish.
 ## 07 Indian South Dosa 09
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000231_07_Indian_South_Dosa_W_09_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000231_07_Indian_South_Dosa_W_09_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ Crispy dosa rolled on a banana leaf with assorted chutneys and sambar on the sid
 ## 07 Indian South Dosa 10
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000232_07_Indian_South_Dosa_W_10_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000232_07_Indian_South_Dosa_W_10_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ Crispy South Indian dosa served with a variety of chutneys and sambar on a banan
 ## 07 Indian South Dosa 11
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000233_07_Indian_South_Dosa_W_11_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000233_07_Indian_South_Dosa_W_11_preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ Premium South Indian dosa on banana leaf with coconut chutney, sambar, and assor
 ## 07 Indian South Dosa 12
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000234_07_Indian_South_Dosa_W_12_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000234_07_Indian_South_Dosa_W_12_preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ Crispy dosa served on a stainless steel plate with coconut chutney, tomato chutn
 ## 07 Indian South Dosa 13
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000235_07_Indian_South_Dosa_W_13_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000235_07_Indian_South_Dosa_W_13_preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ A dosa folded on a metal plate with three chutneys (green, yellow, and red) and 
 ## 07 Indian South Dosa 14
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000236_07_Indian_South_Dosa_W_14_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000236_07_Indian_South_Dosa_W_14_preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ South Indian dosa on a metal platter with assorted chutneys and sambar.
 ## 07 Indian South Dosa 15
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000237_07_Indian_South_Dosa_W_15_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000237_07_Indian_South_Dosa_W_15_preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ Crispy dosa on a stainless plate with an assortment of chutneys and sambar.
 ## 07 Indian South Dosa 16
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000238_07_Indian_South_Dosa_W_16_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000238_07_Indian_South_Dosa_W_16_preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ South Indian dosa served on a metal platter with multiple chutneys and spicy acc
 ## 07 Indian South Dosa 17
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000239_07_Indian_South_Dosa_W_17_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000239_07_Indian_South_Dosa_W_17_preview.mp4">Preview video</a>
 </video>
@@ -388,7 +388,7 @@ South Indian dosa with mixed chutneys and sambar on a round steel plate.
 ## 07 Indian South Dosa 18
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000240_07_Indian_South_Dosa_W_18_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000240_07_Indian_South_Dosa_W_18_preview.mp4">Preview video</a>
 </video>

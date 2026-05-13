@@ -160,7 +160,7 @@ Macro view of underwater micro life: rotifers among green algae, showing translu
 ## 01 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0259_01_Micro_02_Waterborne_01_Rotifers2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0259_01_Micro_02_Waterborne_01_Rotifers2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Close-up micrograph of rotifers in a waterborne environment, revealing circular 
 ## 02 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0260_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0260_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A microscopic waterborne scene featuring rotifers and green algae, revealing int
 ## 03 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0261_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0261_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ A micro waterborne rotifer scene captured up close, revealing circular bodies wi
 ## 04 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0262_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0262_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ Waterborne micro rotifers under magnification, revealing transparent bodies fill
 ## 05 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0263_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0263_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ A micro video frame shows rotifers with bright orange guts and radiating cilia, 
 ## 06 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0264_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0264_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ A lively micrograph of aquatic rotifers and tiny algae, showing ciliated corona 
 ## 07 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0265_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0265_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A micro waterborne scene showing rotifers in a droplet, their transparent bodies
 ## 08 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0266_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0266_01_Micro_02_Waterborne_01_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Microscopic view of waterborne rotifers, transparent, elongated body with intern
 ## 01 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0451_01_Micro_03_Underwater_04_Rotifers2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0451_01_Micro_03_Underwater_04_Rotifers2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ Microscopic view of vivid green filamentous algae interwoven with tiny exposed o
 ## 02 Rotifers
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0452_01_Micro_03_Underwater_04_Rotifers_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0452_01_Micro_03_Underwater_04_Rotifers_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Underwater microcosm reveals a rotifer amid green filamentous algae, detailing i
 ## 03 Rotifers
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0453_01_Micro_03_Underwater_04_Rotifers_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0453_01_Micro_03_Underwater_04_Rotifers_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ Macro view of rotifers in freshwater, swimming among green algae and bubbles; tr
 ## 04 Rotifers
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0454_01_Micro_03_Underwater_04_Rotifers_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0454_01_Micro_03_Underwater_04_Rotifers_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ Close-up of vivid green filamentous algae with numerous round bubbles and tucked
 ## 05 Rotifers
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0455_01_Micro_03_Underwater_04_Rotifers_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0455_01_Micro_03_Underwater_04_Rotifers_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -316,7 +316,7 @@ A close-up of microscopic rotifers in an underwater green pondscape, revealing t
 ## 06 Rotifers
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0456_01_Micro_03_Underwater_04_Rotifers_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0456_01_Micro_03_Underwater_04_Rotifers_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -328,7 +328,7 @@ Microscopic view of freshwater rotifers among green algal filaments, showing tra
 ## 07 Rotifers
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0457_01_Micro_03_Underwater_04_Rotifers_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0457_01_Micro_03_Underwater_04_Rotifers_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -340,7 +340,7 @@ Microscopic rotifers inhabit a vivid green aquatic world, gliding along algae an
 ## 08 Rotifers
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0458_01_Micro_03_Underwater_04_Rotifers_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0458_01_Micro_03_Underwater_04_Rotifers_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -352,7 +352,7 @@ Macro detail of an underwater micro-world: rotifers nestled in translucent sacs 
 ## 09 Rotifers
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0459_01_Micro_03_Underwater_04_Rotifers_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0459_01_Micro_03_Underwater_04_Rotifers_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -364,7 +364,7 @@ Macro view of microscopic rotifers in an underwater freshwater scene, showcasing
 ## 10 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0460_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0460_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -376,7 +376,7 @@ A micro underwater scene showing rotifers among green aquatic filaments, their t
 ## 11 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0461_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0461_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -388,7 +388,7 @@ A micro underwater scene featuring rotifers among aquatic algae, with succulent 
 ## 12 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0462_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0462_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -400,7 +400,7 @@ Underwater micrograph showing rotifers among vibrant green algae, revealing intr
 ## 13 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0463_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0463_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -412,7 +412,7 @@ Micro underwater scene featuring rotifers among green filaments; transparent, be
 ## 14 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0464_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0464_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -424,7 +424,7 @@ Underwater micro-scene reveals translucent rotifers among green algal filaments,
 ## 15 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0465_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0465_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -436,7 +436,7 @@ Close-up of a vivid green freshwater microenvironment showing intertwined algae 
 ## 16 Rotifers
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0466_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0466_01_Micro_03_Underwater_04_Rotifers_V_Mp4_preview.mp4">Preview video</a>
 </video>

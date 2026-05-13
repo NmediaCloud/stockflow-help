@@ -124,7 +124,7 @@ Micrograph of fungi showing branched hyphae bearing multiple sporangia-filled st
 ## 01 Sporangia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0810_01_Micro_08_Fun_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0810_01_Micro_08_Fun_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A vibrant cross-section of decaying wood reveals a rainbow tapestry of fungal my
 ## 02 Sporangia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0811_01_Micro_08_Fungi_02_Sporangia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0811_01_Micro_08_Fungi_02_Sporangia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Macro view of elongated, honeycomb-textured sporangia rising from a mossy surfac
 ## 03 Sporangia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0812_01_Micro_08_Fungi_02_Sporangia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0812_01_Micro_08_Fungi_02_Sporangia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Micrograph of fungal hyphae with sporangia, showing intricate cellular structure
 ## 04 Sporangia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0813_01_Micro_08_Fungi_02_Sporangia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0813_01_Micro_08_Fungi_02_Sporangia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Close-up of fungal sporangia (spore-carrying structures) on slender stalks, disp
 ## 05 Sporangia
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0814_01_Micro_08_Fungi_02_Sporangia_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0814_01_Micro_08_Fungi_02_Sporangia_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A microscopic view reveals fungal sporangia and hyphae clustering on a surface, 
 ## 06 Sporangia
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0815_01_Micro_08_Fungi_02_Sporangia_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0815_01_Micro_08_Fungi_02_Sporangia_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Microview of fungi showing sporangia and filamentous hyphae, revealing cellular 
 ## 07 Sporangia
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0816_01_Micro_08_Fungi_02_Sporangia_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0816_01_Micro_08_Fungi_02_Sporangia_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ Close-up of microfungi sporangia on a textured surface, where slender stalks bea
 ## 08 Sporangia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0817_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0817_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Close-up of fungal hyphae with developing sporangia, microscopic view revealing 
 ## 09 Sporangia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0818_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0818_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ Macro view of fungal sporangia on a textured surface, revealing slender stalks t
 ## 10 Sporangia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0819_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0819_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A high-fidelity microscopic view of fungal sporangia on hyphae, showing clustere
 ## 11 Sporangia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0820_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0820_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ A microscopic view of fungal hyphae with segmented sporangia packed with spores,
 ## 12 Sporangia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0821_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0821_01_Micro_08_Fungi_02_Sporangia_V_Mp4_preview.mp4">Preview video</a>
 </video>

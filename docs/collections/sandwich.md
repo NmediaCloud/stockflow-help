@@ -16,7 +16,7 @@ This collection contains **31 assets** available in multiple resolutions and asp
 ## 09 Italian Sandwich 01
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000292_09_Italian_Sandwich_S_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000292_09_Italian_Sandwich_S_01_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A fresh Italian sandwich on a rustic loaf with mozzarella, basil, and cured meat
 ## 09 Italian Sandwich 02
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000293_09_Italian_Sandwich_S_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000293_09_Italian_Sandwich_S_02_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A fresh Italian sandwich on a baguette with ham, mozzarella, basil, and sun-drie
 ## 09 Italian Sandwich 03
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000294_09_Italian_Sandwich_S_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000294_09_Italian_Sandwich_S_03_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Italian sandwich with mozzarella, prosciutto, sun-dried tomatoes, and fresh basi
 ## 09 Italian Sandwich 01
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000295_09_Italian_Sandwich_V_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000295_09_Italian_Sandwich_V_01_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Italian sandwich on a rustic wooden board, layered with mozzarella, tomato, basi
 ## 09 Italian Sandwich 02
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000296_09_Italian_Sandwich_V_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000296_09_Italian_Sandwich_V_02_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A hearty Italian sandwich with ham, fresh mozzarella, sun-dried tomatoes, and ba
 ## 09 Italian Sandwich 03
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000297_09_Italian_Sandwich_V_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000297_09_Italian_Sandwich_V_03_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Premium Italian sandwich on a crusty roll with fresh mozzarella, tomato, basil, 
 ## 09 Italian Sandwich 04
 **Resolution:** 2120x3896 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000298_09_Italian_Sandwich_V_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000298_09_Italian_Sandwich_V_04_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Italian sandwich with fresh mozzarella, basil, prosciutto, and sun-dried tomatoe
 ## 09 Italian Sandwich 01
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000299_09_Italian_Sandwich_W_01_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000299_09_Italian_Sandwich_W_01_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Italian sandwich with prosciutto, mozzarella, basil, and sun-dried tomatoes on a
 ## 09 Italian Sandwich 02
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000300_09_Italian_Sandwich_W_02_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000300_09_Italian_Sandwich_W_02_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Crusty Italian sandwich layered with arugula, prosciutto, mozzarella and pesto.
 ## 09 Italian Sandwich 03
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000301_09_Italian_Sandwich_W_03_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000301_09_Italian_Sandwich_W_03_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A rustic Italian sandwich with thinly sliced prosciutto, fresh mozzarella, arugu
 ## 09 Italian Sandwich 04
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000302_09_Italian_Sandwich_W_04_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000302_09_Italian_Sandwich_W_04_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A hearty Italian sandwich on crusty bread with prosciutto, mozzarella, onions, g
 ## 09 Italian Sandwich 05
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000303_09_Italian_Sandwich_W_05_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000303_09_Italian_Sandwich_W_05_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A rustic Italian sandwich on crusty bread with prosciutto, melted mozzarella, fr
 ## 09 Italian Sandwich 06
 **Resolution:** 3896x2120 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000304_09_Italian_Sandwich_W_06_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000304_09_Italian_Sandwich_W_06_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Premium Italian sandwich layered with mozzarella, ham, sun-dried tomatoes, and f
 ## 09 Italian Sandwich 07
 **Resolution:** 3896x2120 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000305_09_Italian_Sandwich_W_07_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000305_09_Italian_Sandwich_W_07_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A hearty Italian sandwich on a crusty baguette filled with sliced ham, mozzarell
 ## 09 Italian Sandwich 08
 **Resolution:** 3896x2120 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000306_09_Italian_Sandwich_W_08_preview.mp4" type="video/mp4">
   <a href="https://storage.cloud.google.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Mp4/20260215_000306_09_Italian_Sandwich_W_08_preview.mp4">Preview video</a>
 </video>

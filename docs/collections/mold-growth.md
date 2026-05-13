@@ -16,7 +16,7 @@ This collection contains **12 assets** available in multiple resolutions and asp
 ## 01 Mold Growth
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0658_01_Micro_04_Food_Fungi_09_Mold_Growth2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0658_01_Micro_04_Food_Fungi_09_Mold_Growth2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Macro shot reveals blue-green mold growing on a yellow food item, with wispy fil
 ## 02 Mold Growth
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0659_01_Micro_04_Food_Fungi_09_Mold_Growth_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0659_01_Micro_04_Food_Fungi_09_Mold_Growth_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Close-up of mold growth on decaying food, showing dense blue-green fungal coloni
 ## 03 Mold Growth
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0660_01_Micro_04_Food_Fungi_09_Mold_Growth_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0660_01_Micro_04_Food_Fungi_09_Mold_Growth_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Close-up of blue-green mold growth spreading across a sliced food item, with fil
 ## 04 Mold Growth
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0661_01_Micro_04_Food_Fungi_09_Mold_Growth_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0661_01_Micro_04_Food_Fungi_09_Mold_Growth_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Close-up of moldy food showing bluish-green fungal colonies expanding across a c
 ## 05 Mold Growth
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0662_01_Micro_04_Food_Fungi_09_Mold_Growth_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0662_01_Micro_04_Food_Fungi_09_Mold_Growth_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Close-up of blue-green mold colonies spreading over sticky yellow pasta rings, w
 ## 06 Mold Growth
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0663_01_Micro_04_Food_Fungi_09_Mold_Growth_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0663_01_Micro_04_Food_Fungi_09_Mold_Growth_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Macro view of mold growing on cheese, revealing blue-green spores, filaments and
 ## 07 Mold Growth
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0664_01_Micro_04_Food_Fungi_09_Mold_Growth_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0664_01_Micro_04_Food_Fungi_09_Mold_Growth_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Close-up of pasta in a creamy sauce overtaken by green and white mold colonies, 
 ## 08 Mold Growth
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0665_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0665_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Macro shot of blue-green mold colony spreading across a decomposing food surface
 ## 09 Mold Growth
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0666_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0666_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Close-up of blue-green mold growth spreading across soft fruit flesh, with filam
 ## 10 Mold Growth
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0667_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0667_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Close-up of food mould growth showing blue-green hyphae and round spores spreadi
 ## 11 Mold Growth
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0668_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0668_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A plate of penne pasta swirled in a pale sauce, covered by lush, blue-green mold
 ## 12 Mold Growth
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0669_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0669_01_Micro_04_Food_Fungi_09_Mold_Growth_V_Mp4_preview.mp4">Preview video</a>
 </video>

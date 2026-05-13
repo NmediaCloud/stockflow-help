@@ -1,11 +1,11 @@
 ---
-title: "Cross-Section Stock Footage and Images | Stockflow.media"
-description: "Browse 12 professional 4K/8K Cross-Section assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
+title: "Cross-section Stock Footage and Images | Stockflow.media"
+description: "Browse 12 professional 4K/8K Cross-section assets from the Microscopic library — royalty-free footage and images for creators, educators, and designers."
 ---
 
-# Cross-Section
+# Cross-section
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Cross-Section**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / **Cross-section**
 
 ---
 

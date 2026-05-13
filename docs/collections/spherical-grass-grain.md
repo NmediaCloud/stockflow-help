@@ -16,7 +16,7 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 ## 32 Pollen
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1006_01_Micro_11_Pollen_Spherical_Grass_Pollen_Grain_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1006_01_Micro_11_Pollen_Spherical_Grass_Pollen_Grain_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A microscopic, spiky spherical pollen grain from grass floats in a warm, golden 
 ## 33 Pollen
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1007_01_Micro_11_Pollen_Spherical_grass_pollen_grain_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1007_01_Micro_11_Pollen_Spherical_grass_pollen_grain_W_Mp4_preview.mp4">Preview video</a>
 </video>

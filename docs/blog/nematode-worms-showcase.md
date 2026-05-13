@@ -1,21 +1,21 @@
 ---
-title: "How to Use Nematode worms Footage in Creative Projects | Stockflow.media"
-description: "**Nematode worms** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Nematode Worms Footage in Creative Projects | Stockflow.media"
+description: "**Nematode Worms** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Nematode worms Visuals in Your Creative Projects
+# How to Use Nematode Worms Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Nematode worms**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Worms](../subcategories/worms.md) / **Nematode Worms**
 
-[Browse the Nematode worms Collection](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Nematode+worms){ .md-button .md-button--primary }
+[Browse the Nematode Worms Collection](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Nematode+Worms){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Nematode worms** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Nematode Worms** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Nematode worms** collection — 4 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Nematode Worms** collection — 9 premium assets available in 4K/8K — across real creative workflows.
 
 ## Visual Highlights
 
@@ -34,11 +34,11 @@ Transparent nematode worm with visible internal organs crawling through soil.
 
 Macro image of slim, translucent nematode worms wriggling through moist soil.
 
-## Why Nematode worms Visuals Are in Demand
+## Why Nematode Worms Visuals Are in Demand
 
 High-quality nematode worms footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **4 assets** in this collection are:
+All **9 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -60,7 +60,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Nematode+worms)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Nematode+Worms)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -84,9 +84,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Nematode worms Collection
+## Explore the Full Nematode Worms Collection
 
-Ready to add **Nematode worms** visuals to your next project?
+Ready to add **Nematode Worms** visuals to your next project?
 
-[Browse Nematode worms on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Nematode+worms){ .md-button .md-button--primary }
+[Browse Nematode Worms on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Worms&collection=Nematode+Worms){ .md-button .md-button--primary }
 [View Collection Details](../collections/nematode-worms.md){ .md-button }

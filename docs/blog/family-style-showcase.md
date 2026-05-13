@@ -1,27 +1,44 @@
 ---
-title: "How to Use Family style Footage in Creative Projects | Stockflow.media"
-description: "**Family style** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
+title: "How to Use Family Style Footage in Creative Projects | Stockflow.media"
+description: "**Family Style** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators."
 ---
 
-# How to Use Family style Visuals in Your Creative Projects
+# How to Use Family Style Visuals in Your Creative Projects
 
-[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Family style**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Family Style**
 
-[Browse the Family style Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Family+style){ .md-button .md-button--primary }
+[Browse the Family Style Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Family+Style){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Family style** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
+**Family Style** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-This guide explores how to use the **Family style** collection — 11 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Family Style** collection — 21 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Family style Visuals Are in Demand
+## Visual Highlights
+
+### 05 Family Style 01
+![05 Family Style 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00069_05_Family-Style_S_01_5760x5760_jpeg__preview.webp)
+
+cozy restaurant interior with wooden tables and various dishes
+
+### 05 Family Style 02
+![05 Family Style 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00070_05_Family-Style_S_02_5760x5760_jpeg__preview.webp)
+
+rustic dining table set with various dishes and drinks in a cozy setting
+
+### 05 Family Style 04
+![05 Family Style 04](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/02_Restaurants/Jpeg/20260511_00071_05_Family-Style_S_04_5760x5760_jpeg__preview.webp)
+
+a beautifully arranged dining table with various dishes in a cozy restaurant setting
+
+## Why Family Style Visuals Are in Demand
 
 High-quality family style footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **11 assets** in this collection are:
+All **21 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -43,7 +60,7 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Family+style)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Family+Style)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +84,9 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Family style Collection
+## Explore the Full Family Style Collection
 
-Ready to add **Family style** visuals to your next project?
+Ready to add **Family Style** visuals to your next project?
 
-[Browse Family style on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Family+style){ .md-button .md-button--primary }
+[Browse Family Style on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Family+Style){ .md-button .md-button--primary }
 [View Collection Details](../collections/family-style.md){ .md-button }

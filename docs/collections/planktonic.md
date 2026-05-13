@@ -124,7 +124,7 @@ Color-enhanced micro plankton scene featuring a translucent, spinning cell with 
 ## 01 Planktonic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0126_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0126_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A vibrant, translucent aquatic organism in a surreal, glowing pink-blue scene, r
 ## 02 Planktonic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0127_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0127_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A delicate, transparent planktonic organism glides through an iridescent ocean, 
 ## 03 Planktonic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0128_01_Micro_01_Biological_Creatures_06_Planktonic_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0128_01_Micro_01_Biological_Creatures_06_Planktonic_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A vivid, microscopic planktonic creature glows with iridescent internal structur
 ## 04 Planktonic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0129_01_Micro_01_Biological_Creatures_06_Planktonic_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0129_01_Micro_01_Biological_Creatures_06_Planktonic_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A delicate planktonic organism gliding through the water, its transparent body f
 ## 01 Planktonic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0179_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0179_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A vibrant, micro-scale view of planktonic life, revealing interconnected cellula
 ## 02 Planktonic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0180_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0180_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Color-enhanced microscopic view of planktonic cells drifting in a teal-blue mili
 ## 03 Planktonic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0181_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0181_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A vivid close-up of a transparent planktonic crustacean, revealing vibrant inter
 ## 04 Planktonic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0182_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0182_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Color-enhanced view reveals a micro planktonic organism, showcasing delicate tra
 ## 05 Planktonic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0183_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0183_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ A color-enhanced view of microscopic planktonic organisms, showcasing delicate, 
 ## 06 Planktonic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0184_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0184_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ A color-enhanced microscopic view of planktonic creatures, showcasing transparen
 ## 07 Planktonic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0185_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0185_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ A color-enhanced microscopic view of planktonic creatures, showcasing translucen
 ## 08 Planktonic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0186_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0186_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ A color-enhanced microscopic view of planktonic creatures, revealing translucent
 ## 09 Planktonic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0187_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0187_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Vibrant microscopic plankton bloom reveals delicate, jelly-like organisms connec
 ## 10 Planktonic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0188_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0188_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ A vivid microscopic scene of a single planktonic organism surrounded by colorful
 ## 11 Planktonic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0189_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0189_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -304,7 +304,7 @@ A color-enhanced view of microscopic planktonic creatures, showcasing slender tr
 ## 12 Planktonic
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0190_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0190_01_Micro_01_Biological_Creatures_06_Color-Enhanced_View_Of_Planktonic_V_Mp4_preview.mp4">Preview video</a>
 </video>

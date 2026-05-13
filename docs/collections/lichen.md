@@ -178,7 +178,7 @@ Dermatopathology image of lichen planus.
 ## 04 Dermatopathology
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0807_01_Micro_08_Dermatopathology_Lichen_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0807_01_Micro_08_Dermatopathology_Lichen_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -190,7 +190,7 @@ Histology slide from dermatopathology showing lichen planus features: irregular 
 ## 05 Dermatopathology
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0808_01_Micro_08_Dermatopathology_Lichen_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0808_01_Micro_08_Dermatopathology_Lichen_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -202,7 +202,7 @@ Dermatopathology slide showing lichen planus-like epidermal hyperplasia with saw
 ## 06 Dermatopathology
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0809_01_Micro_08_Dermatopathology_Lichen_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0809_01_Micro_08_Dermatopathology_Lichen_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -214,7 +214,7 @@ Dermatopathology micrograph of skin showing inflammatory changes consistent with
 ## 01 Lichen
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0837_01_Micro_08_Fungi_07_Lichen_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0837_01_Micro_08_Fungi_07_Lichen_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -226,7 +226,7 @@ Macro view of microscopic fungal growth on a substrate, showing threadlike filam
 ## 02 Lichen
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0838_01_Micro_08_Fungi_07_Lichen_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0838_01_Micro_08_Fungi_07_Lichen_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -238,7 +238,7 @@ Macro view of tiny fungi with textured bulbous heads on slender stalks, growing 
 ## 03 Lichen
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0839_01_Micro_08_Fungi_07_Lichen_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0839_01_Micro_08_Fungi_07_Lichen_V_Mp4_preview.mp4">Preview video</a>
 </video>

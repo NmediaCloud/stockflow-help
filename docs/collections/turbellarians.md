@@ -205,7 +205,7 @@ Macro close-up of an aquatic worm (turbellarian) showing a transparent, segmente
 ## 01 Aquatic (Turbellarians)
 **Resolution:**  | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0694_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V1_W_3840_214_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0694_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V1_W_3840_214_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -217,7 +217,7 @@ Microscopic view of an aquatic turbellarian worm showing a translucent, segmente
 ## 02 Aquatic (Turbellarians)
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0695_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0695_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -229,7 +229,7 @@ Close-up of an aquatic Turbellarian worm, a tiny micro-creature with segmented b
 ## 03 Aquatic (Turbellarians)
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0696_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0696_01_Micro_05_Worms_03_Aquatic_(Turbellarians)_V_Mp4_preview.mp4">Preview video</a>
 </video>

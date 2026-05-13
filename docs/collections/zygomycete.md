@@ -52,7 +52,7 @@ Zygomycete fungus with brown spherical sporangia on white stalks.
 ## 01 Zygomycete
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0844_01_Micro_08_Fungi_09_Zygomycete_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0844_01_Micro_08_Fungi_09_Zygomycete_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A close-up of mold fruiting bodies rising from a glossy surface, highlighting sp
 ## 02 Zygomycete
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0845_01_Micro_08_Fungi_09_Zygomycete_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0845_01_Micro_08_Fungi_09_Zygomycete_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Close-up of fungal growth on agar with white stalks and dark spherical heads, hi
 ## 03 Zygomycete
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0846_01_Micro_08_Fungi_09_Zygomycete_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0846_01_Micro_08_Fungi_09_Zygomycete_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Macro shot of zygomycete mold, white slender stalks with black spherical sporang
 ## 04 Zygomycete
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0847_01_Micro_08_Fungi_09_Zygomycete_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0847_01_Micro_08_Fungi_09_Zygomycete_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Macro shot of tiny fungal hyphae with round spore-bearing structures on white st
 ## 05 Zygomycete
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0848_01_Micro_08_Fungi_09_Zygomycete_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0848_01_Micro_08_Fungi_09_Zygomycete_V_Mp4_preview.mp4">Preview video</a>
 </video>

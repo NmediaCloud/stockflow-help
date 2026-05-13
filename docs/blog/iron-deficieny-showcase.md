@@ -1,23 +1,23 @@
 ---
-title: "How to Use Iron deficieny Footage in Creative Projects | Stockflow.media"
-description: "**Iron deficieny** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Iron Deficieny Footage in Creative Projects | Stockflow.media"
+description: "**Iron Deficieny** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Iron deficieny Visuals in Your Creative Projects
+# How to Use Iron Deficieny Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Hematology](../subcategories/hematology.md) / **Iron deficieny**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Hematology](../subcategories/hematology.md) / **Iron Deficieny**
 
-[Browse the Iron deficieny Collection](https://stockflow.media/?cat=Microscopic&sub=Hematology&collection=Iron+deficieny){ .md-button .md-button--primary }
+[Browse the Iron Deficieny Collection](https://stockflow.media/?cat=Microscopic&sub=Hematology&collection=Iron+Deficieny){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Iron deficieny** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Iron Deficieny** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Iron deficieny** collection — 1 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Iron Deficieny** collection — 1 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Iron deficieny Visuals Are in Demand
+## Why Iron Deficieny Visuals Are in Demand
 
 High-quality iron deficieny footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
@@ -43,7 +43,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Hematology&collection=Iron+deficieny)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Hematology&collection=Iron+Deficieny)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +67,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Iron deficieny Collection
+## Explore the Full Iron Deficieny Collection
 
-Ready to add **Iron deficieny** visuals to your next project?
+Ready to add **Iron Deficieny** visuals to your next project?
 
-[Browse Iron deficieny on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Hematology&collection=Iron+deficieny){ .md-button .md-button--primary }
+[Browse Iron Deficieny on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Hematology&collection=Iron+Deficieny){ .md-button .md-button--primary }
 [View Collection Details](../collections/iron-deficieny.md){ .md-button }

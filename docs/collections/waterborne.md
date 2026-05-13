@@ -16,7 +16,7 @@ This collection contains **12 assets** available in multiple resolutions and asp
 ## 01 Waterborne
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0386_01_Micro_02_Water_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0386_01_Micro_02_Water_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A micro underwater scene reveals a circular aquatic organism teeming with green 
 ## 02 Waterborne
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0387_01_Micro_02_Water_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0387_01_Micro_02_Water_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A vibrant microscopic view of a circular cluster of algae and tiny aquatic micro
 ## 07 Waterborne
 **Resolution:** 1024x1024 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0392_01_Micro_02_Water_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0392_01_Micro_02_Water_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A vibrant microscopic view of a single cell, glowing with interior organelles an
 ## 08 Waterborne
 **Resolution:** 1088x1088 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0393_01_Micro_02_Waterborne_Microorganisms_Drift_And_Spin_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0393_01_Micro_02_Waterborne_Microorganisms_Drift_And_Spin_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A mesmerizing underwater scene features translucent jellyfish-like organisms dri
 ## 09 Waterborne
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0394_01_Micro_02_Waterborne_Microorganisms_Drift_And_Spin_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0394_01_Micro_02_Waterborne_Microorganisms_Drift_And_Spin_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A vivid underwater scene showcasing countless waterborne microorganisms drifting
 ## 10 Waterborne
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0395_01_Micro_02_Waterborne_Green_Algae_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0395_01_Micro_02_Waterborne_Green_Algae_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A micrograph reveals a vibrant, green community of aquatic algae swirling within
 ## 11 Waterborne
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0396_01_Micro_02_Waterborne_Green_Algae_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0396_01_Micro_02_Waterborne_Green_Algae_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A close-up of tiny green algae suspended in clear water, revealing cell clusters
 ## 12 Waterborne
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0397_01_Micro_02_Waterborne_Translucent_Aqua_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0397_01_Micro_02_Waterborne_Translucent_Aqua_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Aqua-hued, waterborne microplankton viewed under a microscope, showing transluce
 ## 13 Waterborne
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0398_01_Micro_02_Waterborne_Translucent_Aqua_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0398_01_Micro_02_Waterborne_Translucent_Aqua_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Aqua-tinted microcosm reveals waterborne rotifers and plankton suspended in a tr
 ## 14 Waterborne
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0399_01_Micro_02_Water_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0399_01_Micro_02_Water_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Close-up of pond water micro-life: a circular, radiating organism with bright or
 ## 15 Waterborne
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0400_01_Micro_02_Water_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0400_01_Micro_02_Water_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A high-resolution micrographic scene reveals glowing aquatic cells and bacteria 
 ## 01 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0907_01_Micro_0_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0907_01_Micro_0_S_Mp4_preview.mp4">Preview video</a>
 </video>

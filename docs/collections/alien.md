@@ -16,7 +16,7 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 ## 01 Alien-Like Microscopic Organism
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0123_01_Micro_01_Biological_Creatures_01_Alien-Like_Microscopic_Organism2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0123_01_Micro_01_Biological_Creatures_01_Alien-Like_Microscopic_Organism2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A vibrant microscopic jellyfish-like creature full of glowing cellular spheres, 
 ## 02 Alien-Like Microscopic Organism
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0124_01_Micro_01_Biological_Creatures_01_Alien-Like_Microscopic_Organism_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0124_01_Micro_01_Biological_Creatures_01_Alien-Like_Microscopic_Organism_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A vibrant ultra-translucent aquatic organism reveals glowing cellular spheres an
 ## 03 Alien-Like Microscopic Organism
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0125_01_Micro_01_Biological_Creatures_01_Alien-Like_Microscopic_Organism_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0125_01_Micro_01_Biological_Creatures_01_Alien-Like_Microscopic_Organism_V_Mp4_preview.mp4">Preview video</a>
 </video>

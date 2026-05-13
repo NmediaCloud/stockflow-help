@@ -70,7 +70,7 @@ Microscopic scene of immune cells attacking a cancer cell with a bright, fiery c
 ## 19 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0925_01_Micro_10_Cancer_Cell_05_Breast_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0925_01_Micro_10_Cancer_Cell_05_Breast_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -82,7 +82,7 @@ Color-enhanced microscopic view of cancer cells forming a dense cluster, showcas
 ## 20 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0926_01_Micro_10_Cancer_Cell_05_Breast_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0926_01_Micro_10_Cancer_Cell_05_Breast_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -94,7 +94,7 @@ A high-fidelity microscopic view of breast cancer cells clustering and invading 
 ## 21 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0927_01_Micro_10_Cancer_Cell_05_Breast_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0927_01_Micro_10_Cancer_Cell_05_Breast_V_Mp4_preview.mp4">Preview video</a>
 </video>

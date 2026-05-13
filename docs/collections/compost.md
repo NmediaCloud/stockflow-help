@@ -106,7 +106,7 @@ Close-up of pink earthworms wriggling through dark, rich compost and soil debris
 ## 01 Worms In Compost
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0711_01_Micro_05_Worms_08_Worms_In_Compost_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0711_01_Micro_05_Worms_08_Worms_In_Compost_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -118,7 +118,7 @@ Close-up of pink earthworms wriggling through moist compost, weaving through dec
 ## 02 Worms In Compost
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0712_01_Micro_05_Worms_08_Worms_In_Compost_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0712_01_Micro_05_Worms_08_Worms_In_Compost_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -130,7 +130,7 @@ Close-up view of pink earthworms wriggling through rich compost, showcasing nutr
 ## 03 Worms In Compost
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0713_01_Micro_05_Worms_08_Worms_In_Compost_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0713_01_Micro_05_Worms_08_Worms_In_Compost_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -142,7 +142,7 @@ Close-up of pink earthworms wriggling through rich compost, highlighting microbi
 ## 04 Worms In Compost
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0714_01_Micro_05_Worms_08_Worms_In_Compost_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0714_01_Micro_05_Worms_08_Worms_In_Compost_V_Mp4_preview.mp4">Preview video</a>
 </video>

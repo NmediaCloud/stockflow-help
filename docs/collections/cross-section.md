@@ -1,13 +1,13 @@
 ---
-title: "Cross-Section Stock Footage and Images | Biological Creatures | Stockflow.media"
-description: "Download 14 professional Cross-Section assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Biological Creatures collection."
+title: "Cross-section Stock Footage and Images | Biological Creatures | Stockflow.media"
+description: "Download 14 professional Cross-section assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Biological Creatures collection."
 ---
 
-# Cross-Section
+# Cross-section
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Cross-Section**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Biological Creatures](../subcategories/biological-creatures.md) / **Cross-section**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-Section){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Biological+Creatures&collection=Cross-section){ .md-button .md-button--primary }
 
 This collection contains **14 assets** available in multiple resolutions and aspect ratios.
 
@@ -16,7 +16,7 @@ This collection contains **14 assets** available in multiple resolutions and asp
 ## 01 Plant Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0153_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0153_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ A highly detailed green cross-section of plant tissue, revealing intracellular o
 ## 02 Plant Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0154_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0154_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A detailed, green-toned cross-section of a plant cell reveals organelles like mi
 ## 03 Plant Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0155_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0155_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A micrograph cross-section of a plant cell, revealing internal structures like o
 ## 04 Plant Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0156_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0156_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A vibrant green microscopic view reveals the internal structure of a plant cell,
 ## 05 Plant Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0157_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0157_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A highly detailed green cross-section of a plant stem reveals cellular compartme
 ## 06 Plant Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0158_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0158_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ A microscopic cross-section view reveals plant cell internal structures, includi
 ## 07 Plant Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0159_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0159_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A green, high-fidelity cross-section of a plant cell reveals internal vascular c
 ## 08 Plant Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0160_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0160_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A highly detailed, green cross-section of plant tissue revealing tightly packed 
 ## 09 Plant Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0161_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0161_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A detailed, high-contrast green depiction reveals cell walls, chloroplasts, cyto
 ## 10 Plant Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0162_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0162_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A highly magnified, cross-section view of a plant cell reveals a central nucleus
 ## 11 Plant Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0163_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0163_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A microscopic cross-section of a plant cell reveals a central vacuole, chloropla
 ## 12 Plant Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0164_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0164_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A vivid green micrograph reveals a detailed cross-section of a plant cell, showi
 ## 13 Plant Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0165_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0165_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A vivid micrographic cross-section of a plant cell, revealing internal organelle
 ## 14 Plant Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0166_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0166_01_Micro_01_Biological_Creatures_04_Cross-Section_Of_A_Plant_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>

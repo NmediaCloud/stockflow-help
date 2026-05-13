@@ -1,13 +1,13 @@
 ---
-title: "Single-Celled Stock Footage and Images | Underwater | Stockflow.media"
-description: "Download 16 professional Single-Celled assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Underwater collection."
+title: "Single-celled Stock Footage and Images | Underwater | Stockflow.media"
+description: "Download 16 professional Single-celled assets — 4K MP4 video and 8K JPEG images. Royalty-free, no attribution required. Part of the Underwater collection."
 ---
 
-# Single-Celled
+# Single-celled
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **Single-Celled**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Underwater](../subcategories/underwater.md) / **Single-celled**
 
-[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Single-Celled){ .md-button .md-button--primary }
+[Browse on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Underwater&collection=Single-celled){ .md-button .md-button--primary }
 
 This collection contains **16 assets** available in multiple resolutions and aspect ratios.
 
@@ -16,7 +16,7 @@ This collection contains **16 assets** available in multiple resolutions and asp
 ## 01 Single-Celled Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0403_01_Micro_03_Underwater_01_Single-Celled_Organisms2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0403_01_Micro_03_Underwater_01_Single-Celled_Organisms2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Underwater scene of microscopic, single-celled organisms clustering into a livin
 ## 02 Single-Celled Organisms
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0404_01_Micro_03_Underwater_01_Single-Celled_Organisms_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0404_01_Micro_03_Underwater_01_Single-Celled_Organisms_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Underwater view of vibrant, single-celled microorganisms assembling into a clust
 ## 03 Single-Celled Organisms
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0405_01_Micro_03_Underwater_01_Single-Celled_Organisms_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0405_01_Micro_03_Underwater_01_Single-Celled_Organisms_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ Vivid underwater scene reveals diverse single-celled organisms and tiny bubbles,
 ## 04 Single-Celled Organisms
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0406_01_Micro_03_Underwater_01_Single-Celled_Organisms_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0406_01_Micro_03_Underwater_01_Single-Celled_Organisms_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Underwater micro scene of single-celled diatoms with golden, patterned silica sh
 ## 05 Single-Celled Organisms
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0407_01_Micro_03_Underwater_01_Single-Celled_Organisms_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0407_01_Micro_03_Underwater_01_Single-Celled_Organisms_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Underwater scene of microscopic life: single-celled organisms drift through a bl
 ## 06 Single-Celled Organisms
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0408_01_Micro_03_Underwater_01_Single-Celled_Organisms_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0408_01_Micro_03_Underwater_01_Single-Celled_Organisms_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Underwater scene of microscopic, single-celled organisms forming a glowing colon
 ## 07 Single-Celled Organisms
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0409_01_Micro_03_Underwater_01_Single-Celled_Organisms_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0409_01_Micro_03_Underwater_01_Single-Celled_Organisms_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Micro underwater life showcases diverse single-celled organisms in vibrant color
 ## 08 Single-Celled Organisms
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0410_01_Micro_03_Underwater_01_Single-Celled_Organisms_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0410_01_Micro_03_Underwater_01_Single-Celled_Organisms_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Vivid underwater scene of single-celled organisms drifting in clear blue water, 
 ## 09 Single-Celled Organisms
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0411_01_Micro_03_Underwater_01_Single-Celled_Organisms_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0411_01_Micro_03_Underwater_01_Single-Celled_Organisms_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A vivid, close-up view of microscopic single-celled organisms swimming in a blue
 ## 10 Single-Celled Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0412_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0412_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A vivid underwater scene showing colorful single-celled microorganisms suspended
 ## 11 Single-Celled Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0413_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0413_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Underwater microcosm of single-celled organisms and tiny swimmers, vividly color
 ## 12 Single-Celled Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0414_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0414_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A microscopic underwater colony of single-celled organisms forming a vibrant gre
 ## 13 Single-Celled Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0415_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0415_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Underwater view of single-celled organisms with vibrant internal organelles, dis
 ## 14 Single-Celled Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0416_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0416_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A vivid underwater close-up of a single-celled organism, showcasing orange inter
 ## 15 Single-Celled Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0417_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0417_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ A microscopic underwater scene showing single-celled organisms drifting in a blu
 ## 16 Single-Celled Organisms
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0418_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0418_01_Micro_03_Underwater_01_Single-Celled_Organisms_V_Mp4_preview.mp4">Preview video</a>
 </video>

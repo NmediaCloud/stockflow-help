@@ -16,7 +16,7 @@ This collection contains **16 assets** available in multiple resolutions and asp
 ## 01 Bacterial Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0130_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0130_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ High fidelity micrograph of a two-cell biological creature, showcasing a segment
 ## 02 Bacterial Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0131_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0131_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ A high-fidelity micrograph shows a three-segment chain-like cell cluster with te
 ## 03 Bacterial Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0132_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0132_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A high-fidelity scanning electron image of a three-segment microorganism with de
 ## 04 Bacterial Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0133_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0133_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ A three-segment, bead-like cellular chain with slender, filamentous extensions a
 ## 05 Bacterial Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0134_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0134_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ A high-magnification view of a segmented, spindle-shaped organism with bead-like
 ## 06 Bacterial Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0135_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0135_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Scanning electron micrograph of connected bacterial cells in a chain, showing te
 ## 07 Bacterial Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0136_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0136_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ A rod-shaped bacterium with numerous long flagella extending from both ends, dep
 ## 08 Bacterial Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0137_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0137_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ A high-fidelity scanning electron image reveals a single-celled organism with a 
 ## 01 Bacterial Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0224_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0224_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A high-magnification image of a bacterium, featuring a rounded, textured body co
 ## 02 Bacterial Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0225_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0225_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A high-resolution electron micrograph of a segmented single cell with fine extra
 ## 03 Bacterial Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0226_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0226_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ A single, rod-shaped bacterium shows a textured surface and numerous long flagel
 ## 04 Bacterial Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0227_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V4_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0227_01_Micro_01_Biological_Creatures_02_Bacterial_Cell_V4_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A high-fidelity electron microscope image reveals a tiny, segmented crustacean-l
 ## 01 Bacteria
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0800_01_Micro_07_Bacteria_Color_Enhanced_Microscopic_Ima_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0800_01_Micro_07_Bacteria_Color_Enhanced_Microscopic_Ima_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Color-enhanced microscopic view of a single cell containing a blue nucleus surro
 ## 02 Bacteria
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0801_01_Micro_07_Bacteria_Color_enhanced_microscopic_image_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0801_01_Micro_07_Bacteria_Color_enhanced_microscopic_image_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A color-enhanced microscopic image showing a membrane-bound cell with blue rod-s
 ## 03 Bacteria
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0802_01_Micro_07_Bacteria_Time_Lapse_Inspired_Artistic_R_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0802_01_Micro_07_Bacteria_Time_Lapse_Inspired_Artistic_R_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ A vibrant, macro microscopic view of circular, layered cellular structures, insp
 ## 04 Bacteria
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0803_01_Micro_07_Bacteria_Time_lapse_inspired_artistic_ren_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0803_01_Micro_07_Bacteria_Time_lapse_inspired_artistic_ren_W_Mp4_preview.mp4">Preview video</a>
 </video>

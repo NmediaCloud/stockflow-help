@@ -1,23 +1,23 @@
 ---
-title: "How to Use Close up Footage in Creative Projects | Stockflow.media"
-description: "**Close up** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
+title: "How to Use Close Up Footage in Creative Projects | Stockflow.media"
+description: "**Close Up** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers."
 ---
 
-# How to Use Close up Visuals in Your Creative Projects
+# How to Use Close Up Visuals in Your Creative Projects
 
-[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Parasite](../subcategories/parasite.md) / **Close up**
+[Home](../index.md) / [Microscopic](../categories/microscopic.md) / [Parasite](../subcategories/parasite.md) / **Close Up**
 
-[Browse the Close up Collection](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Close+up){ .md-button .md-button--primary }
+[Browse the Close Up Collection](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Close+Up){ .md-button .md-button--primary }
 
 ---
 
 ## Introduction
 
-**Close up** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
+**Close Up** visuals bring the invisible world to life — ideal for science communicators, educators, documentary makers, and digital designers.
 
-This guide explores how to use the **Close up** collection — 2 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Close Up** collection — 2 premium assets available in 4K/8K — across real creative workflows.
 
-## Why Close up Visuals Are in Demand
+## Why Close Up Visuals Are in Demand
 
 High-quality close up footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
@@ -43,7 +43,7 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Close+up)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Close+Up)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -67,9 +67,9 @@ Import MP4 files directly into **Premiere Pro**, **DaVinci Resolve**, **Final Cu
 | PowerPoint / Google Slides | JPEG | 16:9 |
 | Print (A1 Poster+) | JPEG 8K | Any |
 
-## Explore the Full Close up Collection
+## Explore the Full Close Up Collection
 
-Ready to add **Close up** visuals to your next project?
+Ready to add **Close Up** visuals to your next project?
 
-[Browse Close up on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Close+up){ .md-button .md-button--primary }
+[Browse Close Up on Stockflow.media](https://stockflow.media/?cat=Microscopic&sub=Parasite&collection=Close+Up){ .md-button .md-button--primary }
 [View Collection Details](../collections/close-up.md){ .md-button }

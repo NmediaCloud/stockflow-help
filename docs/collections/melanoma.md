@@ -124,7 +124,7 @@ Melanoma cancer cell in tissue.
 ## 54 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0960_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0960_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ A high-detail cross-sectional illustration of skin showing melanoma cancer invad
 ## 55 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0961_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0961_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Microscopic view of a melanoma cancer cell invading tissue, illustrating cellula
 ## 56 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0962_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0962_01_Micro_10_Cancer_Cell_11_Melanoma_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ A micrographic view of a melanoma cancer cell invading skin tissue, highlighting
 ## 57 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0963_01_Micro_10_Cancer_Cell_11_Melanoma_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0963_01_Micro_10_Cancer_Cell_11_Melanoma_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A highly magnified, color-enhanced illustration of melanoma skin cancer invading
 ## 58 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0964_01_Micro_10_Cancer_Cell_11_Melanoma_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0964_01_Micro_10_Cancer_Cell_11_Melanoma_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ A high-fidelity cross-section of melanoma invading skin, showing a tumor cell br
 ## 59 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0965_01_Micro_10_Cancer_Cell_11_Melanoma_V3_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0965_01_Micro_10_Cancer_Cell_11_Melanoma_V3_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Microscopic view of skin tissue showing melanoma cancer cells invading the epide
 ## 60 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0966_01_Micro_10_Cancer_Cell_11_Melanoma_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0966_01_Micro_10_Cancer_Cell_11_Melanoma_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A detailed cross-section of skin shows invasive melanoma forming a dark tumor wi
 ## 61 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0967_01_Micro_10_Cancer_Cell_11_Melanoma_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0967_01_Micro_10_Cancer_Cell_11_Melanoma_V_Mp4_preview.mp4">Preview video</a>
 </video>

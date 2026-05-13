@@ -16,7 +16,7 @@ This collection contains **24 assets** available in multiple resolutions and asp
 ## 01 Fungi Hyphae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0624_01_Micro_04_Food_Fungi_05_Fungi_Hyphae2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0624_01_Micro_04_Food_Fungi_05_Fungi_Hyphae2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -28,7 +28,7 @@ Color-enhanced micrograph of fungal hyphae weaving through food tissue, blue and
 ## 02 Fungi Hyphae
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0625_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0625_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -40,7 +40,7 @@ Colorized micrograph of fungal hyphae intertwining within decaying plant tissue,
 ## 03 Fungi Hyphae
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0626_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0626_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -52,7 +52,7 @@ A high magnification view shows fungal hyphae weaving through decaying tissue, w
 ## 04 Fungi Hyphae
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0627_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0627_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -64,7 +64,7 @@ Color-enhanced micrograph revealing intertwined fungal hyphae (green and blue) p
 ## 05 Fungi Hyphae
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0628_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0628_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -76,7 +76,7 @@ Color-enhanced micrograph revealing fungal hyphae interwoven through a tissue ma
 ## 06 Fungi Hyphae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0629_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0629_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -88,7 +88,7 @@ Colored microscopic view of fungal hyphae interwoven with plant tissue, showing 
 ## 07 Fungi Hyphae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0630_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0630_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Micrograph reveals fungal hyphae interwoven with cellular debris in a food-relat
 ## 08 Fungi Hyphae
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0631_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0631_01_Micro_04_Food_Fungi_05_Fungi_Hyphae_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Close-up of colorful fungal hyphae weaving through decaying tissue, revealing ti
 ## 01 Fungi Colonizing
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0632_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0632_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ A micro-scale view of fungi colonizing a food surface, showing teal hyphae and s
 ## 02 Fungi Colonizing
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0633_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0633_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -136,7 +136,7 @@ Close up of microscopic green mold spores colonizing a food surface, revealing s
 ## 03 Fungi Colonizing
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0634_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0634_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -148,7 +148,7 @@ Close up view of colorful fungal hyphae colonizing a food surface, showing branc
 ## 04 Fungi Colonizing
 **Resolution:** 3840x2 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0635_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V1_W_160_198_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0635_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V1_W_160_198_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -160,7 +160,7 @@ Close-up view of blue-green mold fungi colonizing a yellow food surface, showcas
 ## 05 Fungi Colonizing
 **Resolution:** 3840x2 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0636_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V2_W_160_199_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0636_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V2_W_160_199_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ Macro view of tiny turquoise fungi resembling spores sprouting from a golden-bro
 ## 06 Fungi Colonizing
 **Resolution:** 3840x2 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0637_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V3_W_160_200_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0637_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V3_W_160_200_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Close up view of a vibrant fungal network spreading across a surface, turquoise 
 ## 07 Fungi Colonizing
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0638_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0638_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Micrograph shows fungi colonizing a golden surface, with turquoise hyphae and sp
 ## 08 Fungi Colonizing
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0639_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0639_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A close-up of turquoise fungal spores standing on slender stalks, forming a deli
 ## 09 Fungi Colonizing
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0640_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0640_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Close-up microscopic view of fungal spores colonizing a textured surface, with t
 ## 10 Fungi Colonizing
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0641_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0641_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ Bright teal fungal spores and slender hyphae spread across a moist surface, reve
 ## 11 Fungi Colonizing
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0642_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0642_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ Close-up micrograph reveals blue-green fungal hyphae colonizing a brown surface,
 ## 12 Fungi Colonizing
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0643_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0643_01_Micro_04_Food_Fungi_06_Fungi_Colonizing_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ Close-up of vibrant fungal hyphae weaving a delicate, glowing network with spher
 ## 01 Fungal spores
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0852_01_Micro_08_Fungi_Fungal_spores_carried_by_wind_cu (2)_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0852_01_Micro_08_Fungi_Fungal_spores_carried_by_wind_cu (2)_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ Macro view of fungal spores dispersing on a textured surface, with slender hypha
 ## 02 Fungal spores
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0853_01_Micro_08_Fungi_Fungal_Spores_Carried_By_Wind_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0853_01_Micro_08_Fungi_Fungal_Spores_Carried_By_Wind_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Close up of fungal spores releasing from tiny fruiting bodies on a decaying surf
 ## 03 Fungal spores
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0854_01_Micro_08_Fungi_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0854_01_Micro_08_Fungi_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -292,7 +292,7 @@ A vivid cross-section of wood reveals vibrant fungal networks, spores, and cellu
 ## 04 Fungal spores
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0855_01_Micro_08_Fungi_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0855_01_Micro_08_Fungi_W_Mp4_preview.mp4">Preview video</a>
 </video>

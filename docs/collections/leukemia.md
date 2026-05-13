@@ -160,7 +160,7 @@ Peripheral blood smear showing leukemic blasts characteristic of blood hematolog
 ## 01 Blood Hematology Leukemia
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0228_01_Micro_01_Blood_Hematology_Leukemia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0228_01_Micro_01_Blood_Hematology_Leukemia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -172,7 +172,7 @@ A micrograph of peripheral blood highlighting several large, dark-stained blasts
 ## 02 Blood Hematology Leukemia
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0229_01_Micro_01_Blood_Hematology_Leukemia_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0229_01_Micro_01_Blood_Hematology_Leukemia_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -184,7 +184,7 @@ Micrograph of a blood smear showing erythrocytes and several multinucleated whit
 ## 03 Blood Hematology Leukemia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0230_01_Micro_01_Blood_Hematology_Leukemia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0230_01_Micro_01_Blood_Hematology_Leukemia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -196,7 +196,7 @@ Blood smear highlighting numerous normal red cells with scattered abnormal white
 ## 04 Blood Hematology Leukemia
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0231_01_Micro_01_Blood_Hematology_Leukemia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0231_01_Micro_01_Blood_Hematology_Leukemia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -208,7 +208,7 @@ A thin blood smear showing scattered large cells with multiple dark nuclei among
 ## 41 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0947_01_Micro_10_Cancer_Cell_09_Leukemia2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0947_01_Micro_10_Cancer_Cell_09_Leukemia2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -220,7 +220,7 @@ Close-up view inside a blood vessel showing red blood cells and large white bloo
 ## 42 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0948_01_Micro_10_Cancer_Cell_09_Leukemia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0948_01_Micro_10_Cancer_Cell_09_Leukemia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -232,7 +232,7 @@ A high-fidelity microscopic blood smear displaying many red blood cells and seve
 ## 43 Cancer Cell
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0949_01_Micro_10_Cancer_Cell_09_Leukemia_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0949_01_Micro_10_Cancer_Cell_09_Leukemia_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -244,7 +244,7 @@ Inside a blood vessel, red blood cells flow past a white blood cell with a purpl
 ## 44 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0950_01_Micro_10_Cancer_Cell_09_Leukemia_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0950_01_Micro_10_Cancer_Cell_09_Leukemia_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -256,7 +256,7 @@ A color-enhanced microscopic view of blood showing numerous red blood cells and 
 ## 45 Cancer Cell
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0951_01_Micro_10_Cancer_Cell_09_Leukemia_V2_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0951_01_Micro_10_Cancer_Cell_09_Leukemia_V2_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -268,7 +268,7 @@ A color-enhanced view inside a blood vessel shows red blood cells and white bloo
 ## 46 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0952_01_Micro_10_Cancer_Cell_09_Leukemia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0952_01_Micro_10_Cancer_Cell_09_Leukemia_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -280,7 +280,7 @@ Color-enhanced microscopic view of circulating blood cells, highlighting white b
 ## 47 Cancer Cell
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0953_01_Micro_10_Cancer_Cell_09_Leukemia_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0953_01_Micro_10_Cancer_Cell_09_Leukemia_V_Mp4_preview.mp4">Preview video</a>
 </video>

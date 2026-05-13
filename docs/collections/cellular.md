@@ -862,7 +862,7 @@ Fluorescent green micrograph of elongated, segmented aquatic microorganisms with
 ## 01 Cellular
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1020_01_Micro_14_Cellul_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1020_01_Micro_14_Cellul_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -874,7 +874,7 @@ A high-detail micrograph-style scene of a cell membrane with twisting protein st
 ## 02 Cellular
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1021_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1021_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -886,7 +886,7 @@ A detailed, micro-scale illustration of nerve cells and myelinated axons forming
 ## 03 Cellular
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1022_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1022_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -898,7 +898,7 @@ A vivid illustration of a neuron with a glowing cell body and a chain of myelina
 ## 04 Cellular
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1023_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1023_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -910,7 +910,7 @@ A vivid micrographic view inside a blood vessel, showing numerous red blood cell
 ## 05 Cellular
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1024_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1024_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -922,7 +922,7 @@ A glowing neuron stretches its axon, with bright cell bodies along the chain and
 ## 06 Cellular
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1025_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1025_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -934,7 +934,7 @@ A vivid view inside a blood vessel shows flowing red blood cells mingling with b
 ## 07 Cellular
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1026_01_Micro_14_Cellular2_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1026_01_Micro_14_Cellular2_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -946,7 +946,7 @@ Vibrant microscopic view of a neuron with glowing myelinated axons transmitting 
 ## 20 Cellular
 **Resolution:** 3840x2176 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1039_01_Micro_14_Cellular_W_323_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1039_01_Micro_14_Cellular_W_323_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -958,7 +958,7 @@ A highly detailed microscopic view of a cell membrane showing colorful proteins 
 ## 21 Cellular
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1040_01_Micro_14_Cellular_Rescence_Microscopy_Of_Act_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1040_01_Micro_14_Cellular_Rescence_Microscopy_Of_Act_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -970,7 +970,7 @@ Fluorescent microscopy of cellular structures revealing blue nuclei, green cytop
 ## 22 Cellular
 **Resolution:** 40x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1041_01_Micro_14_Cellular_rescence_microscopy_of_actin_W_38_325_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1041_01_Micro_14_Cellular_rescence_microscopy_of_actin_W_38_325_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -982,7 +982,7 @@ Fluorescent microscopy image showing two adjacent cells with a vivid actin netwo
 ## 23 Cellular
 **Resolution:** 1088x1088 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1042_01_Micro_14_Cellular_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1042_01_Micro_14_Cellular_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -994,7 +994,7 @@ A high-resolution 3D rendering of a cell membrane showing blue transmembrane pro
 ## 24 Cellular
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1043_01_Micro_14_Cellular_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1043_01_Micro_14_Cellular_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -1006,7 +1006,7 @@ A vivid microscopic view inside a blood vessel, where numerous red blood cells f
 ## 25 Cellular
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1044_01_Micro_14_Cellular_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1044_01_Micro_14_Cellular_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -1018,7 +1018,7 @@ A vivid microscopic view of a blood vessel showing circulating red blood cells a
 ## 26 Cellular
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1045_01_Micro_14_Cellular_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1045_01_Micro_14_Cellular_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -1030,7 +1030,7 @@ A vivid microscopic view of a cell membrane with diverse colorful proteins and m
 ## 06 Microscopic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1101_01_Micro_Create_A_Highly_Realistic_3d_Med_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1101_01_Micro_Create_A_Highly_Realistic_3d_Med_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -1042,7 +1042,7 @@ Close-up view of a virus particle looming over a cell membrane, with colorful mo
 ## 07 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1102_01_Micro_Entering_Cell_Me,_2._S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1102_01_Micro_Entering_Cell_Me,_2._S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -1054,7 +1054,7 @@ A vivid, macro view of cellular activity and microstructures in glowing magenta-
 ## 08 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1103_01_Micro_Entering_Cell_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1103_01_Micro_Entering_Cell_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -1066,7 +1066,7 @@ Entering a micro cell universe: vivid swirling cytoplasm around a glowing nucleu
 ## 09 Microscopic
 **Resolution:** 2160x2160 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1104_01_Micro_Extended_Ide_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1104_01_Micro_Extended_Ide_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -1078,7 +1078,7 @@ Glowing green microscopic organisms float in a dark, watery world, their translu
 ## 10 Microscopic
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1105_01_Micro_Extended_Video_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1105_01_Micro_Extended_Video_W_Mp4_preview.mp4">Preview video</a>
 </video>

@@ -88,7 +88,7 @@ Sickle-shaped red blood cells in a blood sample.
 ## 01 Blood Hematology
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0401_01_Micro_03_Blood_Hematology_Sickle_Cell_V1_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0401_01_Micro_03_Blood_Hematology_Sickle_Cell_V1_W_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -100,7 +100,7 @@ Illustration showing sickle-shaped red blood cells among normal erythrocytes in 
 ## 02 Blood Hematology
 **Resolution:** 2160x3840 | **Format:** 9:16
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0402_01_Micro_03_Blood_Hematology_Sickle_Cell_V_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0402_01_Micro_03_Blood_Hematology_Sickle_Cell_V_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -112,7 +112,7 @@ Illustration of blood components showing sickle-shaped red blood cells amid circ
 ## 02 Pathology
 **Resolution:** 1064x1064 | **Format:** 1:1
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1013_01_Micro_12_Pathology_Blood_Hematology_Sickle_Cell_A_S_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1013_01_Micro_12_Pathology_Blood_Hematology_Sickle_Cell_A_S_Mp4_preview.mp4">Preview video</a>
 </video>
@@ -124,7 +124,7 @@ Sickle-shaped red blood cells circulate among normal erythrocytes in this hemato
 ## 03 Pathology
 **Resolution:** 3840x2160 | **Format:** 16:9
 
-<video controls width="100%" style="max-width:720px;">
+<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">
   <source src="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1014_01_Micro_12_Pathology_Blood_Hematology_Sickle_cell_ane_W_Mp4_preview.mp4" type="video/mp4">
   <a href="https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1014_01_Micro_12_Pathology_Blood_Hematology_Sickle_cell_ane_W_Mp4_preview.mp4">Preview video</a>
 </video>
