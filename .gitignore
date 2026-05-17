@@ -32,6 +32,7 @@ Marketing content/youtube_token.json
 Marketing content/Stockflow-social/
 Marketing content/Social_Upload/
 Marketing content/00_Preview_Clips_Social-feed/
+Marketing content/temp_preview_downloads/
 
 # Credentials & API keys (never commit these)
 tools/.feedhive_key

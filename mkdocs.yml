@@ -15,8 +15,348 @@ nav:
   - Home: index.md
   - Mission: mission.md
   - Categories:
+      - Catering Events:
+          - Catering Events Overview: categories/catering-events.md
+          - Catering Menu:
+              - Catering Menu Overview: subcategories/catering-menu.md
+              - Canapes Bruschetta: collections/canapes-bruschetta.md
+              - Chicken Wings Bites: collections/chicken-wings-bites.md
+              - Coffee Tea Station: collections/coffee-tea-station.md
+              - Cupcakes Pastries: collections/cupcakes-pastries.md
+              - Curries Rice Dish: collections/curries-rice-dish.md
+              - Fruit Platters: collections/fruit-platters.md
+              - Grilled Meats Bbq: collections/grilled-meats-bbq.md
+              - Mini Sandwiches: collections/mini-sandwiches.md
+              - Pasta Noodle Dish: collections/pasta-noodle-dish.md
+              - Pizza Flatbread: collections/pizza-flatbread.md
+              - Salad Starters: collections/salad-starters.md
+              - Samosas Pattis: collections/samosas-pattis.md
+              - Seafood Selection: collections/seafood-selection.md
+              - Signature Cocktails: collections/signature-cocktails.md
+              - Smoothies Specialty: collections/smoothies-specialty.md
+              - Soft Drink Juice: collections/soft-drink-juice.md
+              - Soup Shots Broth: collections/soup-shots-broth.md
+              - Spring Rolls: collections/spring-rolls.md
+              - Stuffed Pastry: collections/stuffed-pastry.md
+              - Tapas Meze Savory: collections/tapas-meze-savory.md
+              - Tiramisu Cheesecake: collections/tiramisu-cheesecake.md
+              - Traditional Sweets: collections/traditional-sweets.md
+              - Veg Vegan Dish: collections/veg-vegan-dish.md
+              - Wedding Cakes: collections/wedding-cakes.md
+              - Wine Champagne: collections/wine-champagne.md
+          - Catering Style:
+              - Catering Style Overview: subcategories/catering-style.md
+              - Buffet Service: collections/buffet-service.md
+              - Family Style: collections/family-style.md
+              - Food Trucks: collections/food-trucks.md
+              - Live Cooking: collections/live-cooking.md
+              - Plated Service: collections/plated-service.md
+          - Event Types:
+              - Event Types Overview: subcategories/event-types.md
+              - Bbq Picnic: collections/bbq-picnic.md
+              - Birthday Party: collections/birthday-party.md
+              - Conference: collections/conference.md
+              - Corporate Event: collections/corporate-event.md
+              - Festival: collections/festival.md
+              - Large Event: collections/large-event.md
+              - Private Home: collections/private-home.md
+              - Private Party: collections/private-party.md
+              - Sports Event: collections/sports-event.md
+              - Wedding Party: collections/wedding-party.md
+          - Wedding Budget:
+              - Wedding Budget Overview: subcategories/wedding-budget.md
+              - Budget Setup: collections/budget-setup.md
+              - Buffet Service: collections/buffet-service.md
+              - Desserts Cookies Brownies: collections/desserts-cookies-brownies.md
+              - Mains Pasta Rice: collections/mains-pasta-rice.md
+              - Mains Pot Meals: collections/mains-pot-meals.md
+              - Self Service: collections/self-service.md
+              - Soft Drinks Water: collections/soft-drinks-water.md
+              - Starters Canapes: collections/starters-canapes.md
+              - Starters Salad Bowls: collections/starters-salad-bowls.md
+              - Wedding Cake: collections/wedding-cake.md
+              - Wine Selection: collections/wine-selection.md
+          - Wedding Chinese:
+              - Wedding Chinese Overview: subcategories/wedding-chinese.md
+              - Beverages Teas: collections/beverages-teas.md
+              - Beverages Wine Sake: collections/beverages-wine-sake.md
+              - Desserts Sesame Balls: collections/desserts-sesame-balls.md
+              - Desserts Sweet Buns: collections/desserts-sweet-buns.md
+              - Event Setup Style: collections/event-setup-style.md
+              - Mains Duck Seafood: collections/mains-duck-seafood.md
+              - Mains Noodles Rice: collections/mains-noodles-rice.md
+              - Service Course Banquet: collections/service-course-banquet.md
+              - Service Sharing Style: collections/service-sharing-style.md
+              - Starters Dim Sum Rolls: collections/starters-dim-sum-rolls.md
+              - Starters Soups Hot Pots: collections/starters-soups-hot-pots.md
+          - Wedding Fusion:
+              - Wedding Fusion Overview: subcategories/wedding-fusion.md
+              - Beverages Fusion Cocktails: collections/beverages-fusion-cocktails.md
+              - Beverages Margaritas Twists: collections/beverages-margaritas-twists.md
+              - Desserts Jamun Cheesecake: collections/desserts-jamun-cheesecake.md
+              - Desserts Matcha Tiramisu: collections/desserts-matcha-tiramisu.md
+              - Events Wedding Fusion: collections/events-wedding-fusion.md
+              - Mains Mexican Biryani: collections/mains-mexican-biryani.md
+              - Mains Pasta Sauces: collections/mains-pasta-sauces.md
+              - Service Buffet Stations: collections/service-buffet-stations.md
+              - Service Plated Tasting: collections/service-plated-tasting.md
+              - Starters Spiced Bruschetta: collections/starters-spiced-bruschetta.md
+              - Starters Sushi Tacos: collections/starters-sushi-tacos.md
+          - Wedding Halal:
+              - Wedding Halal Overview: subcategories/wedding-halal.md
+              - Baklava Basbousa: collections/baklava-basbousa.md
+              - Biryani Grilled Meats: collections/biryani-grilled-meats.md
+              - Cakes Fruit Bowls: collections/cakes-fruit-bowls.md
+              - Family Style Dining: collections/family-style-dining.md
+              - Fruit Punch Juice: collections/fruit-punch-juice.md
+              - Halal Wedding Overview: collections/halal-wedding-overview.md
+              - Kebabs And Samosas: collections/kebabs-and-samosas.md
+              - Mocktails Lemonades: collections/mocktails-lemonades.md
+              - Seafood Curry Options: collections/seafood-curry-options.md
+              - Soups Halal Savories: collections/soups-halal-savories.md
+              - Traditional Buffet: collections/traditional-buffet.md
+          - Wedding Italian:
+              - Wedding Italian Overview: subcategories/wedding-italian.md
+              - Antipasto Plates: collections/antipasto-plates.md
+              - Bruschetta Caprese: collections/bruschetta-caprese.md
+              - Coffee Espresso: collections/coffee-espresso.md
+              - Family Style Dining: collections/family-style-dining.md
+              - Italian Wedding Cake: collections/italian-wedding-cake.md
+              - Meat Dish Herbs: collections/meat-dish-herbs.md
+              - Pasta Selection: collections/pasta-selection.md
+              - Pasta Station Buffet: collections/pasta-station-buffet.md
+              - Seafood Dish Herbs: collections/seafood-dish-herbs.md
+              - Tiramisu Panna Cotta: collections/tiramisu-panna-cotta.md
+              - Wedding Italian Overview: collections/wedding-italian-overview.md
+              - Wine Spritz Drinks: collections/wine-spritz-drinks.md
+          - Wedding Kosher:
+              - Wedding Kosher Overview: subcategories/wedding-kosher.md
+              - Family Sharing Plates: collections/family-sharing-plates.md
+              - Formal Plated Service: collections/formal-plated-service.md
+              - Ice Cream Sorbet: collections/ice-cream-sorbet.md
+              - Non Alcoholic Cocktails: collections/non-alcoholic-cocktails.md
+              - Roast Beef Chicken: collections/roast-beef-chicken.md
+              - Rugelach Babka: collections/rugelach-babka.md
+              - Salmon Blinis Challah: collections/salmon-blinis-challah.md
+              - Soup Salad Starters: collections/soup-salad-starters.md
+              - Vegetarian Dishes: collections/vegetarian-dishes.md
+              - Wedding Kosher Overview: collections/wedding-kosher-overview.md
+              - Wine Juice Drinks: collections/wine-juice-drinks.md
+          - Wedding Regular:
+              - Wedding Regular Overview: subcategories/wedding-regular.md
+              - Buffet Service Style: collections/buffet-service-style.md
+              - Canapes Bruschetta Starters: collections/canapes-bruschetta-starters.md
+              - Coffee Tea Drinks: collections/coffee-tea-drinks.md
+              - Cupcakes Pastries Desserts: collections/cupcakes-pastries-desserts.md
+              - Custom Wedding Cake: collections/custom-wedding-cake.md
+              - Formal Plated Service: collections/formal-plated-service.md
+              - Roast Chicken Beef: collections/roast-chicken-beef.md
+              - Salad Bites Soups: collections/salad-bites-soups.md
+              - Veg Pasta Risotto: collections/veg-pasta-risotto.md
+              - Wedding Regular Overview: collections/wedding-regular-overview.md
+              - Wine Soft Drinks: collections/wine-soft-drinks.md
+          - Wedding Themed:
+              - Wedding Themed Overview: subcategories/wedding-themed.md
+              - Color Coded Starters: collections/color-coded-starters.md
+              - Colorful Cocktails: collections/colorful-cocktails.md
+              - Custom Cocktails: collections/custom-cocktails.md
+              - Custom Plated Service: collections/custom-plated-service.md
+              - Fusion Themed Mains: collections/fusion-themed-mains.md
+              - Interactive Food Station: collections/interactive-food-station.md
+              - Non Alcoholic Specials: collections/non-alcoholic-specials.md
+              - Seasonal Spec Snacks: collections/seasonal-spec-snacks.md
+              - Theme Aligned Mains: collections/theme-aligned-mains.md
+              - Themed Dessert Table: collections/themed-dessert-table.md
+              - Themed Wedding Cake: collections/themed-wedding-cake.md
+              - Wedding Themed Overview: collections/wedding-themed-overview.md
       - Food & Beverage:
           - Food & Beverage Overview: categories/food-beverage.md
+          - Baking:
+              - Baking Overview: subcategories/baking.md
+              - Artisan Bread: collections/artisan-bread.md
+              - Brownies: collections/brownies.md
+              - Cafe Dessert: collections/cafe-dessert.md
+              - Cakes: collections/cakes.md
+              - Celebration Cakes: collections/celebration-cakes.md
+              - Cheesecakes: collections/cheesecakes.md
+              - Churros: collections/churros.md
+              - Cinnamon Rolls: collections/cinnamon-rolls.md
+              - Cream Pies: collections/cream-pies.md
+              - Cream Puffs: collections/cream-puffs.md
+              - Croissants: collections/croissants.md
+              - Cupcakes: collections/cupcakes.md
+              - Custard Tarts: collections/custard-tarts.md
+              - Danish Pastries: collections/danish-pastries.md
+              - Donut Shops: collections/donut-shops.md
+              - Eclairs: collections/eclairs.md
+              - French Pastries: collections/french-pastries.md
+              - Fruit Pies: collections/fruit-pies.md
+              - Fruit Tarts: collections/fruit-tarts.md
+              - Gluten Free Desserts: collections/gluten-free-desserts.md
+              - Layer Cakes: collections/layer-cakes.md
+              - Macarons: collections/macarons.md
+              - Meringues: collections/meringues.md
+              - Muffins: collections/muffins.md
+              - Pain Au Chocolat: collections/pain-au-chocolat.md
+              - Pastry Desserts: collections/pastry-desserts.md
+              - Pastry Twists: collections/pastry-twists.md
+              - Pavlova: collections/pavlova.md
+              - Pies: collections/pies.md
+              - Profiteroles: collections/profiteroles.md
+              - Sponge Cakes: collections/sponge-cakes.md
+              - Strudels: collections/strudels.md
+              - Sweet Pretzels: collections/sweet-pretzels.md
+              - Tarts: collections/tarts.md
+              - Tiramisu: collections/tiramisu.md
+              - Vegan Bake: collections/vegan-bake.md
+              - Wedding Cakes: collections/wedding-cakes.md
+          - Beverages_alc_cocktails:
+              - Beverages_alc_cocktails Overview: subcategories/beverages-alc-cocktails.md
+              - Amaretto Sour: collections/amaretto-sour.md
+              - Aperol Spritz: collections/aperol-spritz.md
+              - Black Russian: collections/black-russian.md
+              - Bloody Mary: collections/bloody-mary.md
+              - Blue Lagoon: collections/blue-lagoon.md
+              - Caipirinha: collections/caipirinha.md
+              - Classic Margarita: collections/classic-margarita.md
+              - Cosmopolitan: collections/cosmopolitan.md
+              - Dark N Stormy: collections/dark-n-stormy.md
+              - Frozen Margarita: collections/frozen-margarita.md
+              - Gin N Tonic: collections/gin-n-tonic.md
+              - Hurricane: collections/hurricane.md
+              - Long Island: collections/long-island.md
+              - Mai Tai: collections/mai-tai.md
+              - Manhattan: collections/manhattan.md
+              - Margarita: collections/margarita.md
+              - Mint Julep: collections/mint-julep.md
+              - Mojito: collections/mojito.md
+              - Moscow Mule: collections/moscow-mule.md
+              - Negroni: collections/negroni.md
+              - Old Fashioned: collections/old-fashioned.md
+              - Paloma: collections/paloma.md
+              - Pina Colada: collections/pina-colada.md
+              - Regulars: collections/regulars.md
+              - Screwdriver: collections/screwdriver.md
+              - Sex On The Beach: collections/sex-on-the-beach.md
+              - Strawberry Margarita: collections/strawberry-margarita.md
+              - Tequila Sunrise: collections/tequila-sunrise.md
+              - Tom Collins: collections/tom-collins.md
+              - Whiskey Sour: collections/whiskey-sour.md
+              - White Russian: collections/white-russian.md
+          - Beverages_alc_spritzes:
+              - Beverages_alc_spritzes Overview: subcategories/beverages-alc-spritzes.md
+              - Beer In Glass: collections/beer-in-glass.md
+              - Beer On Tap: collections/beer-on-tap.md
+              - Kombucha Chai Spice: collections/kombucha-chai-spice.md
+              - Kombucha Chili Mango: collections/kombucha-chili-mango.md
+              - Kombucha Chocolate Orange: collections/kombucha-chocolate-orange.md
+              - Kombucha Cinnamon Apple: collections/kombucha-cinnamon-apple.md
+              - Kombucha Classic Tangy: collections/kombucha-classic-tangy.md
+              - Kombucha Coconut Cream: collections/kombucha-coconut-cream.md
+              - Kombucha Ginger Lemon: collections/kombucha-ginger-lemon.md
+              - Kombucha Green Tea: collections/kombucha-green-tea.md
+              - Kombucha Hibiscus Rose: collections/kombucha-hibiscus-rose.md
+              - Kombucha Jasmine: collections/kombucha-jasmine.md
+              - Kombucha Lavender Chamomile: collections/kombucha-lavender-chamomile.md
+              - Kombucha Lemongrass: collections/kombucha-lemongrass.md
+              - Kombucha Matcha: collections/kombucha-matcha.md
+              - Kombucha Mint Lime: collections/kombucha-mint-lime.md
+              - Kombucha Peach Cobbler: collections/kombucha-peach-cobbler.md
+              - Kombucha Turmeric Ginger: collections/kombucha-turmeric-ginger.md
+              - Kombucha Vanilla Bean: collections/kombucha-vanilla-bean.md
+              - Wine Red: collections/wine-red.md
+              - Wine Sparkling: collections/wine-sparkling.md
+              - Wine White: collections/wine-white.md
+          - Beverages_all_time:
+              - Beverages_all_time Overview: subcategories/beverages-all-time.md
+              - Juice Aloe Vera: collections/juice-aloe-vera.md
+              - Juice Apple: collections/juice-apple.md
+              - Juice Beet Root: collections/juice-beet-root.md
+              - Juice Carrot Ginger: collections/juice-carrot-ginger.md
+              - Juice Coconut Water: collections/juice-coconut-water.md
+              - Juice Cranberry: collections/juice-cranberry.md
+              - Juice Cucumber Mint: collections/juice-cucumber-mint.md
+              - Juice Detox: collections/juice-detox.md
+              - Juice Fruit Punch: collections/juice-fruit-punch.md
+              - Juice Lemonade Classic: collections/juice-lemonade-classic.md
+              - Juice Lemonade Green: collections/juice-lemonade-green.md
+              - Juice Lemonade Mild: collections/juice-lemonade-mild.md
+              - Juice Mango Aam Panna: collections/juice-mango-aam-panna.md
+              - Juice Orange: collections/juice-orange.md
+              - Juice Pineapple: collections/juice-pineapple.md
+              - Juice Pomegranate: collections/juice-pomegranate.md
+              - Mocktail Non Alcoholic: collections/mocktail-non-alcoholic.md
+              - Mocktails Shirley Temple: collections/mocktails-shirley-temple.md
+              - Mocktails Virgin Caesar: collections/mocktails-virgin-caesar.md
+              - Mocktails Virgin Mojito: collections/mocktails-virgin-mojito.md
+              - Slushies: collections/slushies.md
+              - Slushy Blue Raspberry: collections/slushy-blue-raspberry.md
+              - Slushy Cherry: collections/slushy-cherry.md
+              - Slushy Lime: collections/slushy-lime.md
+              - Smoothies Berry Blend: collections/smoothies-berry-blend.md
+              - Smoothies Mango: collections/smoothies-mango.md
+              - Smoothies Protein: collections/smoothies-protein.md
+              - Smoothies Tropical: collections/smoothies-tropical.md
+              - Soda Floats Coke: collections/soda-floats-coke.md
+              - Soda Floats Cream: collections/soda-floats-cream.md
+              - Soda Floats Root Beer: collections/soda-floats-root-beer.md
+              - Soft Drinks: collections/soft-drinks.md
+              - Soft Energy Drinks: collections/soft-energy-drinks.md
+              - Sparkling Water Flavor: collections/sparkling-water-flavor.md
+              - Sparkling Water Infused: collections/sparkling-water-infused.md
+          - Beverages_regular:
+              - Beverages_regular Overview: subcategories/beverages-regular.md
+              - Bubble Tea Fruit: collections/bubble-tea-fruit.md
+              - Bubble Tea Green: collections/bubble-tea-green.md
+              - Bubble Tea Menu: collections/bubble-tea-menu.md
+              - Bubble Tea Milk: collections/bubble-tea-milk.md
+              - Chocolate Classic: collections/chocolate-classic.md
+              - Chocolate Mexican: collections/chocolate-mexican.md
+              - Coffee Americano: collections/coffee-americano.md
+              - Coffee Cappuccino: collections/coffee-cappuccino.md
+              - Coffee Cold Nitro: collections/coffee-cold-nitro.md
+              - Coffee Espresso: collections/coffee-espresso.md
+              - Coffee Flat White: collections/coffee-flat-white.md
+              - Coffee Hazelnut Mocha: collections/coffee-hazelnut-mocha.md
+              - Coffee Iced Cold Brew: collections/coffee-iced-cold-brew.md
+              - Coffee Iced Frap: collections/coffee-iced-frap.md
+              - Coffee Iced Latte: collections/coffee-iced-latte.md
+              - Coffee Latte: collections/coffee-latte.md
+              - Coffee Macchiato: collections/coffee-macchiato.md
+              - Coffee Pumpkin Spice: collections/coffee-pumpkin-spice.md
+              - Falooda Mango: collections/falooda-mango.md
+              - Falooda Pista: collections/falooda-pista.md
+              - Falooda Rose: collections/falooda-rose.md
+              - Kefir Fermented: collections/kefir-fermented.md
+              - Milk Buttermilk Chaas: collections/milk-buttermilk-chaas.md
+              - Milk Shake Chocolate: collections/milk-shake-chocolate.md
+              - Milk Shake Coffee: collections/milk-shake-coffee.md
+              - Milk Shake Orange: collections/milk-shake-orange.md
+              - Milk Shake Strawberry: collections/milk-shake-strawberry.md
+              - Milk Shake Vanilla: collections/milk-shake-vanilla.md
+              - Shake Protein: collections/shake-protein.md
+              - Tea Chamomile: collections/tea-chamomile.md
+              - Tea Ginger Lemon: collections/tea-ginger-lemon.md
+              - Tea Green Tea: collections/tea-green-tea.md
+              - Tea Herbal: collections/tea-herbal.md
+              - Tea Jasmine: collections/tea-jasmine.md
+              - Tea Lavender: collections/tea-lavender.md
+              - Tea Lemongrass: collections/tea-lemongrass.md
+              - Tea Matcha: collections/tea-matcha.md
+              - Tea Peppermint: collections/tea-peppermint.md
+              - Tea Regular: collections/tea-regular.md
+              - Tea Rose: collections/tea-rose.md
+              - Tea Turmeric: collections/tea-turmeric.md
+          - Cafes:
+              - Cafes Overview: subcategories/cafes.md
+              - Bubble Tea: collections/bubble-tea.md
+              - Coffee Shops: collections/coffee-shops.md
+              - Dessert: collections/dessert.md
+              - Garden: collections/garden.md
+              - Ice Cream: collections/ice-cream.md
+              - Organic: collections/organic.md
+              - Tea Houses: collections/tea-houses.md
+              - Vegan: collections/vegan.md
           - Food Menu:
               - Food Menu Overview: subcategories/food-menu.md
               - Biriyani: collections/biriyani.md
@@ -372,75 +712,165 @@ nav:
       - Alien Organism Guide: blog/alien-organism-showcase.md
       - Alien-like Guide: blog/alien-like-showcase.md
       - Alzheimer Guide: blog/alzheimer-showcase.md
+      - Amaretto Sour Guide: blog/amaretto-sour-showcase.md
       - Amoebas Guide: blog/amoebas-showcase.md
       - Anemia Guide: blog/anemia-showcase.md
+      - Antipasto Plates Guide: blog/antipasto-plates-showcase.md
+      - Aperol Spritz Guide: blog/aperol-spritz-showcase.md
       - Aquatic Guide: blog/aquatic-showcase.md
+      - Artisan Bread Guide: blog/artisan-bread-showcase.md
       - Aspergillus Guide: blog/aspergillus-showcase.md
       - Aspergillus Fungi Guide: blog/aspergillus-fungi-showcase.md
       - Bacillus Guide: blog/bacillus-showcase.md
       - Bacteria Guide: blog/bacteria-showcase.md
       - Bacterial Cell Guide: blog/bacterial-cell-showcase.md
+      - Baklava Basbousa Guide: blog/baklava-basbousa-showcase.md
       - Basal Guide: blog/basal-showcase.md
       - Basidiospores Guide: blog/basidiospores-showcase.md
+      - Bbq Picnic Guide: blog/bbq-picnic-showcase.md
+      - Beer In Glass Guide: blog/beer-in-glass-showcase.md
+      - Beer On Tap Guide: blog/beer-on-tap-showcase.md
+      - Beverages Fusion Cocktails Guide: blog/beverages-fusion-cocktails-showcase.md
+      - Beverages Margaritas Twists Guide: blog/beverages-margaritas-twists-showcase.md
+      - Beverages Teas Guide: blog/beverages-teas-showcase.md
+      - Beverages Wine Sake Guide: blog/beverages-wine-sake-showcase.md
       - Biofilm Guide: blog/biofilm-showcase.md
       - Bioluminescent Guide: blog/bioluminescent-showcase.md
       - Biriyani Guide: blog/biriyani-showcase.md
+      - Birthday Party Guide: blog/birthday-party-showcase.md
+      - Biryani Grilled Meats Guide: blog/biryani-grilled-meats-showcase.md
+      - Black Russian Guide: blog/black-russian-showcase.md
+      - Bloody Mary Guide: blog/bloody-mary-showcase.md
       - Bloom Guide: blog/bloom-showcase.md
       - Blue Green Algae Guide: blog/blue-green-algae-showcase.md
+      - Blue Lagoon Guide: blog/blue-lagoon-showcase.md
       - Brain Tissue Guide: blog/brain-tissue-showcase.md
       - Breast Guide: blog/breast-showcase.md
       - Breast Cancer Guide: blog/breast-cancer-showcase.md
       - Brown Guide: blog/brown-showcase.md
       - Brown Algae Guide: blog/brown-algae-showcase.md
+      - Brownies Guide: blog/brownies-showcase.md
       - Brunch Guide: blog/brunch-showcase.md
+      - Bruschetta Caprese Guide: blog/bruschetta-caprese-showcase.md
+      - Bubble Tea Guide: blog/bubble-tea-showcase.md
+      - Bubble Tea Fruit Guide: blog/bubble-tea-fruit-showcase.md
+      - Bubble Tea Green Guide: blog/bubble-tea-green-showcase.md
+      - Bubble Tea Menu Guide: blog/bubble-tea-menu-showcase.md
+      - Bubble Tea Milk Guide: blog/bubble-tea-milk-showcase.md
+      - Budget Setup Guide: blog/budget-setup-showcase.md
       - Buffet Guide: blog/buffet-showcase.md
+      - Buffet Service Guide: blog/buffet-service-showcase.md
+      - Buffet Service Style Guide: blog/buffet-service-style-showcase.md
       - Burgers Guide: blog/burgers-showcase.md
       - Buritos Guide: blog/buritos-showcase.md
       - Butter Chiken Guide: blog/butter-chiken-showcase.md
       - C. Elegans Guide: blog/c-elegans-showcase.md
       - Caenorhabditis Elegans Guide: blog/caenorhabditis-elegans-showcase.md
+      - Cafe Dessert Guide: blog/cafe-dessert-showcase.md
+      - Caipirinha Guide: blog/caipirinha-showcase.md
+      - Cakes Guide: blog/cakes-showcase.md
+      - Cakes Fruit Bowls Guide: blog/cakes-fruit-bowls-showcase.md
+      - Canapes Bruschetta Guide: blog/canapes-bruschetta-showcase.md
+      - Canapes Bruschetta Starters Guide: blog/canapes-bruschetta-starters-showcase.md
       - Cancer Cell Guide: blog/cancer-cell-showcase.md
       - Casual Dining Guide: blog/casual-dining-showcase.md
+      - Celebration Cakes Guide: blog/celebration-cakes-showcase.md
       - Cellular Guide: blog/cellular-showcase.md
       - Cervical Cells Guide: blog/cervical-cells-showcase.md
+      - Cheesecakes Guide: blog/cheesecakes-showcase.md
       - Chemotherapy Guide: blog/chemotherapy-showcase.md
       - Chicken Dinner Guide: blog/chicken-dinner-showcase.md
       - Chicken Fry Guide: blog/chicken-fry-showcase.md
+      - Chicken Wings Bites Guide: blog/chicken-wings-bites-showcase.md
       - Chinese Guide: blog/chinese-showcase.md
+      - Chocolate Classic Guide: blog/chocolate-classic-showcase.md
+      - Chocolate Mexican Guide: blog/chocolate-mexican-showcase.md
+      - Churros Guide: blog/churros-showcase.md
       - Ciliat Guide: blog/ciliat-showcase.md
       - Ciliated Guide: blog/ciliated-showcase.md
+      - Cinnamon Rolls Guide: blog/cinnamon-rolls-showcase.md
+      - Classic Margarita Guide: blog/classic-margarita-showcase.md
       - Close Up Guide: blog/close-up-showcase.md
       - Cocci Guide: blog/cocci-showcase.md
+      - Coffee Americano Guide: blog/coffee-americano-showcase.md
+      - Coffee Cappuccino Guide: blog/coffee-cappuccino-showcase.md
+      - Coffee Cold Nitro Guide: blog/coffee-cold-nitro-showcase.md
+      - Coffee Espresso Guide: blog/coffee-espresso-showcase.md
+      - Coffee Flat White Guide: blog/coffee-flat-white-showcase.md
+      - Coffee Hazelnut Mocha Guide: blog/coffee-hazelnut-mocha-showcase.md
+      - Coffee Iced Cold Brew Guide: blog/coffee-iced-cold-brew-showcase.md
+      - Coffee Iced Frap Guide: blog/coffee-iced-frap-showcase.md
+      - Coffee Iced Latte Guide: blog/coffee-iced-latte-showcase.md
+      - Coffee Latte Guide: blog/coffee-latte-showcase.md
+      - Coffee Macchiato Guide: blog/coffee-macchiato-showcase.md
+      - Coffee Pumpkin Spice Guide: blog/coffee-pumpkin-spice-showcase.md
+      - Coffee Shops Guide: blog/coffee-shops-showcase.md
+      - Coffee Tea Drinks Guide: blog/coffee-tea-drinks-showcase.md
+      - Coffee Tea Station Guide: blog/coffee-tea-station-showcase.md
       - Colon Polyp Guide: blog/colon-polyp-showcase.md
       - Colonial Guide: blog/colonial-showcase.md
       - Colonial Algae Guide: blog/colonial-algae-showcase.md
       - Colonizing Guide: blog/colonizing-showcase.md
+      - Color Coded Starters Guide: blog/color-coded-starters-showcase.md
+      - Colorful Cocktails Guide: blog/colorful-cocktails-showcase.md
       - Compost Guide: blog/compost-showcase.md
+      - Conference Guide: blog/conference-showcase.md
       - Coral Reef Plankton Guide: blog/coral-reef-plankton-showcase.md
       - Coronavirus Guide: blog/coronavirus-showcase.md
+      - Corporate Event Guide: blog/corporate-event-showcase.md
+      - Cosmopolitan Guide: blog/cosmopolitan-showcase.md
       - Crawling On Algae Guide: blog/crawling-on-algae-showcase.md
+      - Cream Pies Guide: blog/cream-pies-showcase.md
+      - Cream Puffs Guide: blog/cream-puffs-showcase.md
+      - Croissants Guide: blog/croissants-showcase.md
       - Cross Sectional Guide: blog/cross-sectional-showcase.md
       - Cross-section Guide: blog/cross-section-showcase.md
       - Cryptosporidium Guide: blog/cryptosporidium-showcase.md
+      - Cupcakes Guide: blog/cupcakes-showcase.md
+      - Cupcakes Pastries Guide: blog/cupcakes-pastries-showcase.md
+      - Cupcakes Pastries Desserts Guide: blog/cupcakes-pastries-desserts-showcase.md
+      - Curries Rice Dish Guide: blog/curries-rice-dish-showcase.md
+      - Custard Tarts Guide: blog/custard-tarts-showcase.md
+      - Custom Cocktails Guide: blog/custom-cocktails-showcase.md
+      - Custom Plated Service Guide: blog/custom-plated-service-showcase.md
+      - Custom Wedding Cake Guide: blog/custom-wedding-cake-showcase.md
       - Cyanobacteria Guide: blog/cyanobacteria-showcase.md
       - Dandelion Guide: blog/dandelion-showcase.md
+      - Danish Pastries Guide: blog/danish-pastries-showcase.md
+      - Dark N Stormy Guide: blog/dark-n-stormy-showcase.md
       - Decay Guide: blog/decay-showcase.md
       - Desmids Guide: blog/desmids-showcase.md
+      - Dessert Guide: blog/dessert-showcase.md
+      - Desserts Cookies Brownies Guide: blog/desserts-cookies-brownies-showcase.md
+      - Desserts Jamun Cheesecake Guide: blog/desserts-jamun-cheesecake-showcase.md
+      - Desserts Matcha Tiramisu Guide: blog/desserts-matcha-tiramisu-showcase.md
+      - Desserts Sesame Balls Guide: blog/desserts-sesame-balls-showcase.md
+      - Desserts Sweet Buns Guide: blog/desserts-sweet-buns-showcase.md
       - Diatom Guide: blog/diatom-showcase.md
       - Diatom Shell Guide: blog/diatom-shell-showcase.md
       - Diatoms Guide: blog/diatoms-showcase.md
+      - Donut Shops Guide: blog/donut-shops-showcase.md
       - Dosa Guide: blog/dosa-showcase.md
       - E. Coli Guide: blog/e-coli-showcase.md
+      - Eclairs Guide: blog/eclairs-showcase.md
       - Eczema Guide: blog/eczema-showcase.md
       - Euglena Guide: blog/euglena-showcase.md
       - Euglena And Green Algae Guide: blog/euglena-and-green-algae-showcase.md
       - Euglena Cell Guide: blog/euglena-cell-showcase.md
       - Eukaryotic Cell Guide: blog/eukaryotic-cell-showcase.md
       - Eukaryotic Cell Under Guide: blog/eukaryotic-cell-under-showcase.md
+      - Event Setup Style Guide: blog/event-setup-style-showcase.md
+      - Events Wedding Fusion Guide: blog/events-wedding-fusion-showcase.md
       - Extreme Close Guide: blog/extreme-close-showcase.md
+      - Falooda Mango Guide: blog/falooda-mango-showcase.md
+      - Falooda Pista Guide: blog/falooda-pista-showcase.md
+      - Falooda Rose Guide: blog/falooda-rose-showcase.md
+      - Family Sharing Plates Guide: blog/family-sharing-plates-showcase.md
       - Family Style Guide: blog/family-style-showcase.md
+      - Family Style Dining Guide: blog/family-style-dining-showcase.md
       - Fast Casual Guide: blog/fast-casual-showcase.md
       - Fast Food Guide: blog/fast-food-showcase.md
+      - Festival Guide: blog/festival-showcase.md
       - Filaments Guide: blog/filaments-showcase.md
       - Fine Dining Guide: blog/fine-dining-showcase.md
       - Fish Dinner Guide: blog/fish-dinner-showcase.md
@@ -449,68 +879,161 @@ nav:
       - Flatworms Guide: blog/flatworms-showcase.md
       - Fluorescence Guide: blog/fluorescence-showcase.md
       - Food Fungi Guide: blog/food-fungi-showcase.md
+      - Food Trucks Guide: blog/food-trucks-showcase.md
+      - Formal Plated Service Guide: blog/formal-plated-service-showcase.md
       - French Guide: blog/french-showcase.md
+      - French Pastries Guide: blog/french-pastries-showcase.md
+      - Frozen Margarita Guide: blog/frozen-margarita-showcase.md
+      - Fruit Pies Guide: blog/fruit-pies-showcase.md
+      - Fruit Platters Guide: blog/fruit-platters-showcase.md
+      - Fruit Punch Juice Guide: blog/fruit-punch-juice-showcase.md
+      - Fruit Tarts Guide: blog/fruit-tarts-showcase.md
       - Fungal Guide: blog/fungal-showcase.md
       - Fungal Ecosystem Guide: blog/fungal-ecosystem-showcase.md
       - Fungal Penetration Guide: blog/fungal-penetration-showcase.md
       - Fungi Guide: blog/fungi-showcase.md
       - Fusion Cuisine Guide: blog/fusion-cuisine-showcase.md
+      - Fusion Themed Mains Guide: blog/fusion-themed-mains-showcase.md
+      - Garden Guide: blog/garden-showcase.md
       - Giardia Lamblia Guide: blog/giardia-lamblia-showcase.md
+      - Gin N Tonic Guide: blog/gin-n-tonic-showcase.md
       - Glioblastoma Guide: blog/glioblastoma-showcase.md
+      - Gluten Free Desserts Guide: blog/gluten-free-desserts-showcase.md
       - Grass Mesh Structure Guide: blog/grass-mesh-structure-showcase.md
       - Green Guide: blog/green-showcase.md
       - Green Algae Guide: blog/green-algae-showcase.md
+      - Grilled Meats Bbq Guide: blog/grilled-meats-bbq-showcase.md
+      - Halal Wedding Overview Guide: blog/halal-wedding-overview-showcase.md
       - Healthy Cells Guide: blog/healthy-cells-showcase.md
       - Helix Guide: blog/helix-showcase.md
       - Hematology Guide: blog/hematology-showcase.md
       - Hepatitis Guide: blog/hepatitis-showcase.md
+      - Hurricane Guide: blog/hurricane-showcase.md
       - Hyphae Guide: blog/hyphae-showcase.md
+      - Ice Cream Guide: blog/ice-cream-showcase.md
+      - Ice Cream Sorbet Guide: blog/ice-cream-sorbet-showcase.md
       - Idly Vada Guide: blog/idly-vada-showcase.md
       - Immune Guide: blog/immune-showcase.md
       - In Compost Guide: blog/in-compost-showcase.md
       - Indian Guide: blog/indian-showcase.md
+      - Interactive Food Station Guide: blog/interactive-food-station-showcase.md
       - Intracellular Guide: blog/intracellular-showcase.md
       - Iron Deficieny Guide: blog/iron-deficieny-showcase.md
       - Italian Guide: blog/italian-showcase.md
+      - Italian Wedding Cake Guide: blog/italian-wedding-cake-showcase.md
       - Japanese Guide: blog/japanese-showcase.md
+      - Juice Aloe Vera Guide: blog/juice-aloe-vera-showcase.md
+      - Juice Apple Guide: blog/juice-apple-showcase.md
+      - Juice Beet Root Guide: blog/juice-beet-root-showcase.md
+      - Juice Carrot Ginger Guide: blog/juice-carrot-ginger-showcase.md
+      - Juice Coconut Water Guide: blog/juice-coconut-water-showcase.md
+      - Juice Cranberry Guide: blog/juice-cranberry-showcase.md
+      - Juice Cucumber Mint Guide: blog/juice-cucumber-mint-showcase.md
+      - Juice Detox Guide: blog/juice-detox-showcase.md
+      - Juice Fruit Punch Guide: blog/juice-fruit-punch-showcase.md
+      - Juice Lemonade Classic Guide: blog/juice-lemonade-classic-showcase.md
+      - Juice Lemonade Green Guide: blog/juice-lemonade-green-showcase.md
+      - Juice Lemonade Mild Guide: blog/juice-lemonade-mild-showcase.md
+      - Juice Mango Aam Panna Guide: blog/juice-mango-aam-panna-showcase.md
+      - Juice Orange Guide: blog/juice-orange-showcase.md
+      - Juice Pineapple Guide: blog/juice-pineapple-showcase.md
+      - Juice Pomegranate Guide: blog/juice-pomegranate-showcase.md
       - Juvenile Plankton Guide: blog/juvenile-plankton-showcase.md
+      - Kebabs And Samosas Guide: blog/kebabs-and-samosas-showcase.md
+      - Kefir Fermented Guide: blog/kefir-fermented-showcase.md
       - Kidney Guide: blog/kidney-showcase.md
+      - Kombucha Chai Spice Guide: blog/kombucha-chai-spice-showcase.md
+      - Kombucha Chili Mango Guide: blog/kombucha-chili-mango-showcase.md
+      - Kombucha Chocolate Orange Guide: blog/kombucha-chocolate-orange-showcase.md
+      - Kombucha Cinnamon Apple Guide: blog/kombucha-cinnamon-apple-showcase.md
+      - Kombucha Classic Tangy Guide: blog/kombucha-classic-tangy-showcase.md
+      - Kombucha Coconut Cream Guide: blog/kombucha-coconut-cream-showcase.md
+      - Kombucha Ginger Lemon Guide: blog/kombucha-ginger-lemon-showcase.md
+      - Kombucha Green Tea Guide: blog/kombucha-green-tea-showcase.md
+      - Kombucha Hibiscus Rose Guide: blog/kombucha-hibiscus-rose-showcase.md
+      - Kombucha Jasmine Guide: blog/kombucha-jasmine-showcase.md
+      - Kombucha Lavender Chamomile Guide: blog/kombucha-lavender-chamomile-showcase.md
+      - Kombucha Lemongrass Guide: blog/kombucha-lemongrass-showcase.md
+      - Kombucha Matcha Guide: blog/kombucha-matcha-showcase.md
+      - Kombucha Mint Lime Guide: blog/kombucha-mint-lime-showcase.md
+      - Kombucha Peach Cobbler Guide: blog/kombucha-peach-cobbler-showcase.md
+      - Kombucha Turmeric Ginger Guide: blog/kombucha-turmeric-ginger-showcase.md
+      - Kombucha Vanilla Bean Guide: blog/kombucha-vanilla-bean-showcase.md
+      - Large Event Guide: blog/large-event-showcase.md
       - Lavender Guide: blog/lavender-showcase.md
       - Lavender Dreamy Coating Guide: blog/lavender-dreamy-coating-showcase.md
+      - Layer Cakes Guide: blog/layer-cakes-showcase.md
       - Leishmania Guide: blog/leishmania-showcase.md
       - Leukemia Guide: blog/leukemia-showcase.md
       - Lichen Guide: blog/lichen-showcase.md
+      - Live Cooking Guide: blog/live-cooking-showcase.md
       - Liver Cirrhosis Guide: blog/liver-cirrhosis-showcase.md
+      - Long Island Guide: blog/long-island-showcase.md
       - Lotus Fluorescent Starbur St Guide: blog/lotus-fluorescent-starbur-st-showcase.md
       - Lotus Fluorescent Starburst Guide: blog/lotus-fluorescent-starburst-showcase.md
       - Lotus Starburst Guide: blog/lotus-starburst-showcase.md
       - Lung Tissue Guide: blog/lung-tissue-showcase.md
       - Lysosom Guide: blog/lysosom-showcase.md
       - Lysosomes Guide: blog/lysosomes-showcase.md
+      - Macarons Guide: blog/macarons-showcase.md
+      - Mai Tai Guide: blog/mai-tai-showcase.md
+      - Mains Duck Seafood Guide: blog/mains-duck-seafood-showcase.md
+      - Mains Mexican Biryani Guide: blog/mains-mexican-biryani-showcase.md
+      - Mains Noodles Rice Guide: blog/mains-noodles-rice-showcase.md
+      - Mains Pasta Rice Guide: blog/mains-pasta-rice-showcase.md
+      - Mains Pasta Sauces Guide: blog/mains-pasta-sauces-showcase.md
+      - Mains Pot Meals Guide: blog/mains-pot-meals-showcase.md
+      - Manhattan Guide: blog/manhattan-showcase.md
+      - Margarita Guide: blog/margarita-showcase.md
       - Marine Plankton Guide: blog/marine-plankton-showcase.md
+      - Meat Dish Herbs Guide: blog/meat-dish-herbs-showcase.md
       - Mediterranean Guide: blog/mediterranean-showcase.md
       - Melanoma Guide: blog/melanoma-showcase.md
       - Membrane Guide: blog/membrane-showcase.md
+      - Meringues Guide: blog/meringues-showcase.md
       - Metastatic Guide: blog/metastatic-showcase.md
       - Mexican Guide: blog/mexican-showcase.md
       - Mexican Starters Guide: blog/mexican-starters-showcase.md
       - Micro Guide: blog/micro-showcase.md
+      - Milk Buttermilk Chaas Guide: blog/milk-buttermilk-chaas-showcase.md
+      - Milk Shake Chocolate Guide: blog/milk-shake-chocolate-showcase.md
+      - Milk Shake Coffee Guide: blog/milk-shake-coffee-showcase.md
+      - Milk Shake Orange Guide: blog/milk-shake-orange-showcase.md
+      - Milk Shake Strawberry Guide: blog/milk-shake-strawberry-showcase.md
+      - Milk Shake Vanilla Guide: blog/milk-shake-vanilla-showcase.md
+      - Mini Sandwiches Guide: blog/mini-sandwiches-showcase.md
+      - Mint Julep Guide: blog/mint-julep-showcase.md
       - Mitochondria Guide: blog/mitochondria-showcase.md
+      - Mocktail Non Alcoholic Guide: blog/mocktail-non-alcoholic-showcase.md
+      - Mocktails Lemonades Guide: blog/mocktails-lemonades-showcase.md
+      - Mocktails Shirley Temple Guide: blog/mocktails-shirley-temple-showcase.md
+      - Mocktails Virgin Caesar Guide: blog/mocktails-virgin-caesar-showcase.md
+      - Mocktails Virgin Mojito Guide: blog/mocktails-virgin-mojito-showcase.md
+      - Mojito Guide: blog/mojito-showcase.md
       - Mold Growth Guide: blog/mold-growth-showcase.md
+      - Moscow Mule Guide: blog/moscow-mule-showcase.md
       - Mosquito Larva Guide: blog/mosquito-larva-showcase.md
+      - Muffins Guide: blog/muffins-showcase.md
       - Multiple Sclerosis Guide: blog/multiple-sclerosis-showcase.md
       - Multiplesclerosis Guide: blog/multiplesclerosis-showcase.md
       - Mutations Guide: blog/mutations-showcase.md
       - Mycelium Guide: blog/mycelium-showcase.md
+      - Negroni Guide: blog/negroni-showcase.md
       - Nematode Lifecycle Guide: blog/nematode-lifecycle-showcase.md
       - Nematode Worms Guide: blog/nematode-worms-showcase.md
       - Neural Signals Guide: blog/neural-signals-showcase.md
       - Neuroblastoma Guide: blog/neuroblastoma-showcase.md
       - Nmeatode Guide: blog/nmeatode-showcase.md
+      - Non Alcoholic Cocktails Guide: blog/non-alcoholic-cocktails-showcase.md
+      - Non Alcoholic Specials Guide: blog/non-alcoholic-specials-showcase.md
       - Noodles Guide: blog/noodles-showcase.md
+      - Old Fashioned Guide: blog/old-fashioned-showcase.md
       - Orchid Pollinium Guide: blog/orchid-pollinium-showcase.md
       - Orchid Pollinium Smooth Shine Guide: blog/orchid-pollinium-smooth-shine-showcase.md
+      - Organic Guide: blog/organic-showcase.md
       - Organisms Guide: blog/organisms-showcase.md
+      - Pain Au Chocolat Guide: blog/pain-au-chocolat-showcase.md
+      - Paloma Guide: blog/paloma-showcase.md
       - Paramecium Guide: blog/paramecium-showcase.md
       - Parasite Guide: blog/parasite-showcase.md
       - Parasitetimeline Guide: blog/parasitetimeline-showcase.md
@@ -518,19 +1041,32 @@ nav:
       - Parasitic Worm Guide: blog/parasitic-worm-showcase.md
       - Parasitic Worms Guide: blog/parasitic-worms-showcase.md
       - Parkinson Guide: blog/parkinson-showcase.md
+      - Pasta Noodle Dish Guide: blog/pasta-noodle-dish-showcase.md
+      - Pasta Selection Guide: blog/pasta-selection-showcase.md
+      - Pasta Station Buffet Guide: blog/pasta-station-buffet-showcase.md
+      - Pastry Desserts Guide: blog/pastry-desserts-showcase.md
+      - Pastry Twists Guide: blog/pastry-twists-showcase.md
       - Pathogenic Guide: blog/pathogenic-showcase.md
+      - Pavlova Guide: blog/pavlova-showcase.md
       - Peanut Hex Surface Guide: blog/peanut-hex-surface-showcase.md
       - Penicillium Guide: blog/penicillium-showcase.md
       - Penicillium Mold Guide: blog/penicillium-mold-showcase.md
+      - Pies Guide: blog/pies-showcase.md
+      - Pina Colada Guide: blog/pina-colada-showcase.md
       - Pine Winged Guide: blog/pine-winged-showcase.md
       - Pine Winged Form Guide: blog/pine-winged-form-showcase.md
       - Pizza Guide: blog/pizza-showcase.md
+      - Pizza Flatbread Guide: blog/pizza-flatbread-showcase.md
       - Plankton Guide: blog/plankton-showcase.md
       - Planktonic Guide: blog/planktonic-showcase.md
       - Plant Cell Guide: blog/plant-cell-showcase.md
       - Plasmodium Guide: blog/plasmodium-showcase.md
+      - Plated Service Guide: blog/plated-service-showcase.md
       - Pollen Guide: blog/pollen-showcase.md
       - Pop Up Guide: blog/pop-up-showcase.md
+      - Private Home Guide: blog/private-home-showcase.md
+      - Private Party Guide: blog/private-party-showcase.md
+      - Profiteroles Guide: blog/profiteroles-showcase.md
       - Prostate Guide: blog/prostate-showcase.md
       - Protozoa Guide: blog/protozoa-showcase.md
       - Protozoa And Algae Guide: blog/protozoa-and-algae-showcase.md
@@ -541,53 +1077,154 @@ nav:
       - Red Algae Guide: blog/red-algae-showcase.md
       - Red And White Guide: blog/red-and-white-showcase.md
       - Red And White Blood Cells Guide: blog/red-and-white-blood-cells-showcase.md
+      - Regulars Guide: blog/regulars-showcase.md
       - Remen Guide: blog/remen-showcase.md
       - Resistant Guide: blog/resistant-showcase.md
       - Resistant Bacteria Guide: blog/resistant-bacteria-showcase.md
       - Rhizopus Guide: blog/rhizopus-showcase.md
       - Rhizopus Sporangia Guide: blog/rhizopus-sporangia-showcase.md
       - Ribosomes Guide: blog/ribosomes-showcase.md
+      - Roast Beef Chicken Guide: blog/roast-beef-chicken-showcase.md
+      - Roast Chicken Beef Guide: blog/roast-chicken-beef-showcase.md
       - Rotifers Guide: blog/rotifers-showcase.md
+      - Rugelach Babka Guide: blog/rugelach-babka-showcase.md
+      - Salad Bites Soups Guide: blog/salad-bites-soups-showcase.md
+      - Salad Starters Guide: blog/salad-starters-showcase.md
+      - Salmon Blinis Challah Guide: blog/salmon-blinis-challah-showcase.md
+      - Samosas Pattis Guide: blog/samosas-pattis-showcase.md
       - Sandwich Guide: blog/sandwich-showcase.md
       - Schistosoma Guide: blog/schistosoma-showcase.md
+      - Screwdriver Guide: blog/screwdriver-showcase.md
       - Seafood Guide: blog/seafood-showcase.md
+      - Seafood Curry Options Guide: blog/seafood-curry-options-showcase.md
+      - Seafood Dish Herbs Guide: blog/seafood-dish-herbs-showcase.md
+      - Seafood Selection Guide: blog/seafood-selection-showcase.md
+      - Seasonal Spec Snacks Guide: blog/seasonal-spec-snacks-showcase.md
       - Seawater Droplet Guide: blog/seawater-droplet-showcase.md
+      - Self Service Guide: blog/self-service-showcase.md
+      - Service Buffet Stations Guide: blog/service-buffet-stations-showcase.md
+      - Service Course Banquet Guide: blog/service-course-banquet-showcase.md
+      - Service Plated Tasting Guide: blog/service-plated-tasting-showcase.md
+      - Service Sharing Style Guide: blog/service-sharing-style-showcase.md
+      - Sex On The Beach Guide: blog/sex-on-the-beach-showcase.md
+      - Shake Protein Guide: blog/shake-protein-showcase.md
       - Sickle Cell Guide: blog/sickle-cell-showcase.md
+      - Signature Cocktails Guide: blog/signature-cocktails-showcase.md
       - Single Celled Guide: blog/single-celled-showcase.md
       - Single Celled Organisms Guide: blog/single-celled-organisms-showcase.md
       - Single-celled Guide: blog/single-celled-showcase.md
+      - Slushies Guide: blog/slushies-showcase.md
+      - Slushy Blue Raspberry Guide: blog/slushy-blue-raspberry-showcase.md
+      - Slushy Cherry Guide: blog/slushy-cherry-showcase.md
+      - Slushy Lime Guide: blog/slushy-lime-showcase.md
+      - Smoothies Berry Blend Guide: blog/smoothies-berry-blend-showcase.md
+      - Smoothies Mango Guide: blog/smoothies-mango-showcase.md
+      - Smoothies Protein Guide: blog/smoothies-protein-showcase.md
+      - Smoothies Specialty Guide: blog/smoothies-specialty-showcase.md
+      - Smoothies Tropical Guide: blog/smoothies-tropical-showcase.md
+      - Soda Floats Coke Guide: blog/soda-floats-coke-showcase.md
+      - Soda Floats Cream Guide: blog/soda-floats-cream-showcase.md
+      - Soda Floats Root Beer Guide: blog/soda-floats-root-beer-showcase.md
+      - Soft Drink Juice Guide: blog/soft-drink-juice-showcase.md
+      - Soft Drinks Guide: blog/soft-drinks-showcase.md
+      - Soft Drinks Water Guide: blog/soft-drinks-water-showcase.md
+      - Soft Energy Drinks Guide: blog/soft-energy-drinks-showcase.md
+      - Soup Salad Starters Guide: blog/soup-salad-starters-showcase.md
+      - Soup Shots Broth Guide: blog/soup-shots-broth-showcase.md
+      - Soups Halal Savories Guide: blog/soups-halal-savories-showcase.md
+      - Sparkling Water Flavor Guide: blog/sparkling-water-flavor-showcase.md
+      - Sparkling Water Infused Guide: blog/sparkling-water-infused-showcase.md
       - Spherical Grass Grain Guide: blog/spherical-grass-grain-showcase.md
       - Spherical Nucleus Guide: blog/spherical-nucleus-showcase.md
       - Spinal Cord Guide: blog/spinal-cord-showcase.md
       - Spinalcord Guide: blog/spinalcord-showcase.md
       - Spirochete Guide: blog/spirochete-showcase.md
       - Spirogyra Guide: blog/spirogyra-showcase.md
+      - Sponge Cakes Guide: blog/sponge-cakes-showcase.md
       - Sporangia Guide: blog/sporangia-showcase.md
+      - Sports Event Guide: blog/sports-event-showcase.md
+      - Spring Rolls Guide: blog/spring-rolls-showcase.md
       - Squamous Guide: blog/squamous-showcase.md
       - Stake Guide: blog/stake-showcase.md
+      - Starters Canapes Guide: blog/starters-canapes-showcase.md
+      - Starters Dim Sum Rolls Guide: blog/starters-dim-sum-rolls-showcase.md
+      - Starters Salad Bowls Guide: blog/starters-salad-bowls-showcase.md
+      - Starters Soups Hot Pots Guide: blog/starters-soups-hot-pots-showcase.md
+      - Starters Spiced Bruschetta Guide: blog/starters-spiced-bruschetta-showcase.md
+      - Starters Sushi Tacos Guide: blog/starters-sushi-tacos-showcase.md
       - Steakhouses Guide: blog/steakhouses-showcase.md
+      - Strawberry Margarita Guide: blog/strawberry-margarita-showcase.md
+      - Strudels Guide: blog/strudels-showcase.md
+      - Stuffed Pastry Guide: blog/stuffed-pastry-showcase.md
       - Sunflower Guide: blog/sunflower-showcase.md
       - Suzhi Guide: blog/suzhi-showcase.md
+      - Sweet Pretzels Guide: blog/sweet-pretzels-showcase.md
       - TEM Virus Guide: blog/tem-virus-showcase.md
+      - Tapas Meze Savory Guide: blog/tapas-meze-savory-showcase.md
       - Tardigrade Guide: blog/tardigrade-showcase.md
+      - Tarts Guide: blog/tarts-showcase.md
+      - Tea Chamomile Guide: blog/tea-chamomile-showcase.md
+      - Tea Ginger Lemon Guide: blog/tea-ginger-lemon-showcase.md
+      - Tea Green Tea Guide: blog/tea-green-tea-showcase.md
+      - Tea Herbal Guide: blog/tea-herbal-showcase.md
+      - Tea Houses Guide: blog/tea-houses-showcase.md
+      - Tea Jasmine Guide: blog/tea-jasmine-showcase.md
+      - Tea Lavender Guide: blog/tea-lavender-showcase.md
+      - Tea Lemongrass Guide: blog/tea-lemongrass-showcase.md
+      - Tea Matcha Guide: blog/tea-matcha-showcase.md
+      - Tea Peppermint Guide: blog/tea-peppermint-showcase.md
+      - Tea Regular Guide: blog/tea-regular-showcase.md
+      - Tea Rose Guide: blog/tea-rose-showcase.md
+      - Tea Turmeric Guide: blog/tea-turmeric-showcase.md
+      - Tequila Sunrise Guide: blog/tequila-sunrise-showcase.md
       - Tetani Guide: blog/tetani-showcase.md
       - Thai Curry Guide: blog/thai-curry-showcase.md
       - Thai Noodle Soup Guide: blog/thai-noodle-soup-showcase.md
+      - Theme Aligned Mains Guide: blog/theme-aligned-mains-showcase.md
+      - Themed Dessert Table Guide: blog/themed-dessert-table-showcase.md
+      - Themed Wedding Cake Guide: blog/themed-wedding-cake-showcase.md
       - Thrombocytopenia Guide: blog/thrombocytopenia-showcase.md
       - Tikka Masala Guide: blog/tikka-masala-showcase.md
+      - Tiramisu Guide: blog/tiramisu-showcase.md
+      - Tiramisu Cheesecake Guide: blog/tiramisu-cheesecake-showcase.md
+      - Tiramisu Panna Cotta Guide: blog/tiramisu-panna-cotta-showcase.md
+      - Tom Collins Guide: blog/tom-collins-showcase.md
       - Toxoplasma Guide: blog/toxoplasma-showcase.md
       - Toxoplasma Gondii Guide: blog/toxoplasma-gondii-showcase.md
+      - Traditional Buffet Guide: blog/traditional-buffet-showcase.md
+      - Traditional Sweets Guide: blog/traditional-sweets-showcase.md
       - Trypanosoma Guide: blog/trypanosoma-showcase.md
       - Trypanosoma Brucei Guide: blog/trypanosoma-brucei-showcase.md
       - Tuberculosis Guide: blog/tuberculosis-showcase.md
       - Tumor Guide: blog/tumor-showcase.md
       - Turbellarians Guide: blog/turbellarians-showcase.md
+      - Veg Pasta Risotto Guide: blog/veg-pasta-risotto-showcase.md
+      - Veg Vegan Dish Guide: blog/veg-vegan-dish-showcase.md
       - Vegan Guide: blog/vegan-showcase.md
       - Vegan & Vegetarian Guide: blog/vegan-vegetarian-showcase.md
+      - Vegan Bake Guide: blog/vegan-bake-showcase.md
+      - Vegetarian Dishes Guide: blog/vegetarian-dishes-showcase.md
       - Viruses Guide: blog/viruses-showcase.md
       - Vitiligo Guide: blog/vitiligo-showcase.md
       - Vs Healthy Cells Guide: blog/vs-healthy-cells-showcase.md
       - Waterborne Guide: blog/waterborne-showcase.md
+      - Wedding Cake Guide: blog/wedding-cake-showcase.md
+      - Wedding Cakes Guide: blog/wedding-cakes-showcase.md
+      - Wedding Italian Overview Guide: blog/wedding-italian-overview-showcase.md
+      - Wedding Kosher Overview Guide: blog/wedding-kosher-overview-showcase.md
+      - Wedding Party Guide: blog/wedding-party-showcase.md
+      - Wedding Regular Overview Guide: blog/wedding-regular-overview-showcase.md
+      - Wedding Themed Overview Guide: blog/wedding-themed-overview-showcase.md
+      - Whiskey Sour Guide: blog/whiskey-sour-showcase.md
+      - White Russian Guide: blog/white-russian-showcase.md
+      - Wine Champagne Guide: blog/wine-champagne-showcase.md
+      - Wine Juice Drinks Guide: blog/wine-juice-drinks-showcase.md
+      - Wine Red Guide: blog/wine-red-showcase.md
+      - Wine Selection Guide: blog/wine-selection-showcase.md
+      - Wine Soft Drinks Guide: blog/wine-soft-drinks-showcase.md
+      - Wine Sparkling Guide: blog/wine-sparkling-showcase.md
+      - Wine Spritz Drinks Guide: blog/wine-spritz-drinks-showcase.md
+      - Wine White Guide: blog/wine-white-showcase.md
       - Worm Guide: blog/worm-showcase.md
       - Worm Crawls Guide: blog/worm-crawls-showcase.md
       - Worms Guide: blog/worms-showcase.md

@@ -5,9 +5,9 @@ description: "**Vegan** footage captures food at its most cinematic — ideal fo
 
 # How to Use Vegan Visuals in Your Creative Projects
 
-[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Restaurants](../subcategories/restaurants.md) / **Vegan**
+[Home](../index.md) / [Food & Beverage](../categories/food-beverage.md) / [Cafes](../subcategories/cafes.md) / **Vegan**
 
-[Browse the Vegan Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Vegan){ .md-button .md-button--primary }
+[Browse the Vegan Collection](https://stockflow.media/?cat=Food+%26+Beverage&sub=Cafes&collection=Vegan){ .md-button .md-button--primary }
 
 ---
 
@@ -15,13 +15,30 @@ description: "**Vegan** footage captures food at its most cinematic — ideal fo
 
 **Vegan** footage captures food at its most cinematic — ideal for restaurant brands, food bloggers, delivery apps, and culinary content creators.
 
-This guide explores how to use the **Vegan** collection — 24 premium assets available in 4K/8K — across real creative workflows.
+This guide explores how to use the **Vegan** collection — 36 premium assets available in 4K/8K — across real creative workflows.
+
+## Visual Highlights
+
+### 09 Vegan 01
+![09 Vegan 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/07_Cafes/Jpeg/20260514_00191_09_Vegan_S_01_5760x5760_jpeg__preview.webp)
+
+a modern plant-based restaurant interior with wooden furniture and neon signage
+
+### 09 Vegan 02
+![09 Vegan 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/07_Cafes/Jpeg/20260514_00192_09_Vegan_S_02_5760x5760_jpeg__preview.webp)
+
+modern plant-based cafe interior with wooden furniture and neon sign
+
+### 09 Vegan 03
+![09 Vegan 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/07_Cafes/Jpeg/20260514_00193_09_Vegan_S_03_5760x5760_jpeg__preview.webp)
+
+a modern kitchen with plant-based bowls on wooden tables
 
 ## Why Vegan Visuals Are in Demand
 
 High-quality vegan footage is notoriously difficult to capture independently. Stock visuals from Stockflow.media give you instant access to professionally shot, royalty-free assets — saving hours of production time and thousands in equipment costs.
 
-All **24 assets** in this collection are:
+All **36 assets** in this collection are:
 
 - Royalty-free — no attribution required
 - Available in multiple aspect ratios (16:9, 9:16, 1:1)
@@ -43,7 +60,7 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 **Recommended workflow:**
 
-1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Vegan)
+1. Download the asset from [Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Cafes&collection=Vegan)
 2. Import into your editing timeline or design canvas
 3. Resize or trim to fit your project format
 4. Add text overlays, voiceover, or music as needed
@@ -71,5 +88,5 @@ Import MP4 footage into **Premiere Pro**, **DaVinci Resolve**, or **iMovie** for
 
 Ready to add **Vegan** visuals to your next project?
 
-[Browse Vegan on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Restaurants&collection=Vegan){ .md-button .md-button--primary }
+[Browse Vegan on Stockflow.media](https://stockflow.media/?cat=Food+%26+Beverage&sub=Cafes&collection=Vegan){ .md-button .md-button--primary }
 [View Collection Details](../collections/vegan.md){ .md-button }
