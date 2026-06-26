@@ -23,6 +23,8 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 
 Micrograph comparison shows healthy pink cells contrasted with invasive cancer cells, highlighting structural differences, mitotic activity, and the tumor environment as healthy tissue interfaces with malignant growth.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0910){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Cancer Cell
@@ -34,6 +36,8 @@ Micrograph comparison shows healthy pink cells contrasted with invasive cancer c
 </video>
 
 A micrographic comparison showing cancer cells (left) and healthy cells (right) at the micro level, highlighting cellular structure, division, and tumor progression, with pink healthy cells contrasting dark malignant ones.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0911){ .md-button .md-button--primary }
 
 ---
 

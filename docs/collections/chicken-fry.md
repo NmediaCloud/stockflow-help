@@ -23,6 +23,8 @@ This collection contains **44 assets** available in multiple resolutions and asp
 
 Crispy fried chicken pieces in a basket with a side of slaw.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000385){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 02
@@ -34,6 +36,8 @@ Crispy fried chicken pieces in a basket with a side of slaw.
 </video>
 
 Crispy fried chicken pieces with a crunchy, seasoned coating, served on parchment paper with a side of shredded cabbage.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000386){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ Crispy fried chicken pieces with a crunchy, seasoned coating, served on parchmen
 
 Crispy fried chicken pieces arranged in a basket with shredded coleslaw.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000387){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 04
@@ -58,6 +64,8 @@ Crispy fried chicken pieces arranged in a basket with shredded coleslaw.
 </video>
 
 Crispy fried chicken pieces served with a tangy slaw in a rustic presentation.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000388){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ Crispy fried chicken pieces served with a tangy slaw in a rustic presentation.
 
 Crispy fried chicken tenders with a side of fries in a basket, a small dipping sauce, and a fresh salad on the plate.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000389){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 06
@@ -82,6 +92,8 @@ Crispy fried chicken tenders with a side of fries in a basket, a small dipping s
 </video>
 
 Crispy fried chicken bites with a side of fries and a dipping sauce, served on a dark plate at a dine-in restaurant.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000390){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +107,8 @@ Crispy fried chicken bites with a side of fries and a dipping sauce, served on a
 
 Crispy fried chicken bites stacked on a plate, garnished with microgreens and served with a dipping sauce on the side.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000391){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 08
@@ -106,6 +120,8 @@ Crispy fried chicken bites stacked on a plate, garnished with microgreens and se
 </video>
 
 Crispy sesame-coated fried chicken bites piled high on a plate.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000392){ .md-button .md-button--primary }
 
 ---
 
@@ -119,6 +135,8 @@ Crispy sesame-coated fried chicken bites piled high on a plate.
 
 Crispy fried chicken pieces piled in a basket with a side of shredded slaw in the background.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000393){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 02
@@ -130,6 +148,8 @@ Crispy fried chicken pieces piled in a basket with a side of shredded slaw in th
 </video>
 
 Golden, crispy fried chicken bites served with vibrant coleslaw on the side.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000394){ .md-button .md-button--primary }
 
 ---
 
@@ -143,6 +163,8 @@ Golden, crispy fried chicken bites served with vibrant coleslaw on the side.
 
 Crispy fried chicken pieces piled in a basket with a side of colorful slaw in the background.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000395){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 04
@@ -154,6 +176,8 @@ Crispy fried chicken pieces piled in a basket with a side of colorful slaw in th
 </video>
 
 Crispy fried chicken pieces arranged in a basket with a side of coleslaw.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000396){ .md-button .md-button--primary }
 
 ---
 
@@ -167,6 +191,8 @@ Crispy fried chicken pieces arranged in a basket with a side of coleslaw.
 
 Cripsy fried chicken bites served in a metal basket with a side dipping sauce and a garnish of green onions.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000397){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 06
@@ -178,6 +204,8 @@ Cripsy fried chicken bites served in a metal basket with a side dipping sauce an
 </video>
 
 Plate of seasoned french fries topped with microgreens, paired with a plate of crispy fried chicken bites and a creamy dipping sauce.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000398){ .md-button .md-button--primary }
 
 ---
 
@@ -191,6 +219,8 @@ Plate of seasoned french fries topped with microgreens, paired with a plate of c
 
 Crispy gourmet fried chicken bites on a white plate with a dipping sauce and fresh greens garnish.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000399){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 01
@@ -202,6 +232,8 @@ Crispy gourmet fried chicken bites on a white plate with a dipping sauce and fre
 </video>
 
 Crispy fried chicken served with fries and dipping sauces on a rustic wooden table.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000400){ .md-button .md-button--primary }
 
 ---
 
@@ -215,6 +247,8 @@ Crispy fried chicken served with fries and dipping sauces on a rustic wooden tab
 
 High-quality image of crispy fried chicken served in a basket.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000401){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 03
@@ -226,6 +260,8 @@ High-quality image of crispy fried chicken served in a basket.
 </video>
 
 Delicious plate of crispy fried chicken bites with fries, dipping sauces, and a drink at a restaurant.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000402){ .md-button .md-button--primary }
 
 ---
 
@@ -239,6 +275,8 @@ Delicious plate of crispy fried chicken bites with fries, dipping sauces, and a 
 
 Crispy fried chicken pieces on a dark plate with a small dipping sauce, garnished with crunchy bits and a side of fries.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000403){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 05
@@ -250,6 +288,8 @@ Crispy fried chicken pieces on a dark plate with a small dipping sauce, garnishe
 </video>
 
 Golden fried chicken with French fries served in a paper cup, crispy, indulgent and ready to eat.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000404){ .md-button .md-button--primary }
 
 ---
 
@@ -263,6 +303,8 @@ Golden fried chicken with French fries served in a paper cup, crispy, indulgent 
 
 Crispy fried chicken pieces in a wire basket with parchment, ready to eat.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000405){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 07
@@ -274,6 +316,8 @@ Crispy fried chicken pieces in a wire basket with parchment, ready to eat.
 </video>
 
 Crispy fried chicken strips stacked on a dark plate with a creamy dipping sauce and a touch of microgreens. A glass of water and a menu are visible nearby.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000406){ .md-button .md-button--primary }
 
 ---
 
@@ -287,6 +331,8 @@ Crispy fried chicken strips stacked on a dark plate with a creamy dipping sauce 
 
 High-quality image of crispy fried chicken with fries and greens on a dark plate, paired with a side sauce, set beside a menu.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000407){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Shops Chiken Fry 09
@@ -298,6 +344,8 @@ High-quality image of crispy fried chicken with fries and greens on a dark plate
 </video>
 
 Delicious fried chicken bites served with a basket of crispy fries, two dipping sauces, and a sprinkle of herbs for a savory, shareable meal.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000408){ .md-button .md-button--primary }
 
 ---
 
@@ -311,176 +359,216 @@ Delicious fried chicken bites served with a basket of crispy fries, two dipping 
 
 High-quality image of crispy fried chicken served in a metal bucket with fries on the side.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260215_000409){ .md-button .md-button--primary }
+
 ---
 
 ## 14  Chiken Fry 01 
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![14  Chiken Fry 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00343_14_Shops_Chiken_Fry_S_01_Previews.webp)
+[![14  Chiken Fry 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00343_14_Shops_Chiken_Fry_S_01_Previews.webp)](https://stockflow.media/?v=20260309_00343)
 
 Crispy fried chicken pieces in a basket with a side of coleslaw.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00343){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 02 
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![14  Chiken Fry 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00344_14_Shops_Chiken_Fry_S_02_Previews.webp)
+[![14  Chiken Fry 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00344_14_Shops_Chiken_Fry_S_02_Previews.webp)](https://stockflow.media/?v=20260309_00344)
 
 Crispy fried chicken pieces with a side of coleslaw in a rustic basket.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00344){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 03 
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![14  Chiken Fry 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00345_14_Shops_Chiken_Fry_S_03_Previews.webp)
+[![14  Chiken Fry 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00345_14_Shops_Chiken_Fry_S_03_Previews.webp)](https://stockflow.media/?v=20260309_00345)
 
 Golden fried chicken pieces in a basket with parchment, accompanied by shredded coleslaw.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00345){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 04 
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![14  Chiken Fry 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00346_14_Shops_Chiken_Fry_S_04_Previews.webp)
+[![14  Chiken Fry 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00346_14_Shops_Chiken_Fry_S_04_Previews.webp)](https://stockflow.media/?v=20260309_00346)
 
 Crispy fried chicken pieces with a crunchy coating, served in a basket with shredded cabbage.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00346){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 05 
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![14  Chiken Fry 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00347_14_Shops_Chiken_Fry_S_05_Previews.webp)
+[![14  Chiken Fry 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00347_14_Shops_Chiken_Fry_S_05_Previews.webp)](https://stockflow.media/?v=20260309_00347)
 
 Crispy fried chicken bites with thick-cut fries and a dipping sauce on a black plate.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00347){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 06 
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![14  Chiken Fry 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00348_14_Shops_Chiken_Fry_S_06_Previews.webp)
+[![14  Chiken Fry 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00348_14_Shops_Chiken_Fry_S_06_Previews.webp)](https://stockflow.media/?v=20260309_00348)
 
 Fried chicken pieces with a basket of fries, a side salad, and creamy dipping sauce on a grey plate.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00348){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 07 
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![14  Chiken Fry 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00349_14_Shops_Chiken_Fry_S_07_Previews.webp)
+[![14  Chiken Fry 07 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00349_14_Shops_Chiken_Fry_S_07_Previews.webp)](https://stockflow.media/?v=20260309_00349)
 
 Stack of crispy fried chicken bites topped with microgreens, served with a dipping sauce on a dark plate at a wooden table.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00349){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 08 
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![14  Chiken Fry 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00350_14_Shops_Chiken_Fry_S_08_Previews.webp)
+[![14  Chiken Fry 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00350_14_Shops_Chiken_Fry_S_08_Previews.webp)](https://stockflow.media/?v=20260309_00350)
 
 Stack of crispy fried chicken tenders piled high in a bowl with dipping sauce on a restaurant table.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00350){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 01 
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![14  Chiken Fry 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00351_14_Shops_Chiken_Fry_V_01_Previews.webp)
+[![14  Chiken Fry 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00351_14_Shops_Chiken_Fry_V_01_Previews.webp)](https://stockflow.media/?v=20260309_00351)
 
 Golden fried chicken pieces in a basket with crunchy coating, served with a side of coleslaw.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00351){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 02 
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![14  Chiken Fry 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00352_14_Shops_Chiken_Fry_V_02_Previews.webp)
+[![14  Chiken Fry 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00352_14_Shops_Chiken_Fry_V_02_Previews.webp)](https://stockflow.media/?v=20260309_00352)
 
 Crispy golden fried chicken pieces served with colorful coleslaw in a basket.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00352){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 03 
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![14  Chiken Fry 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00353_14_Shops_Chiken_Fry_V_03_Previews.webp)
+[![14  Chiken Fry 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00353_14_Shops_Chiken_Fry_V_03_Previews.webp)](https://stockflow.media/?v=20260309_00353)
 
 Crispy fried chicken pieces piled in a basket with a side of shredded cabbage slaw.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00353){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 04 
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![14  Chiken Fry 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00354_14_Shops_Chiken_Fry_V_04_Previews.webp)
+[![14  Chiken Fry 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00354_14_Shops_Chiken_Fry_V_04_Previews.webp)](https://stockflow.media/?v=20260309_00354)
 
 Crispy fried chicken pieces served with a side of coleslaw.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00354){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 05 
 **Resolution:** 4254x7799 | **Format:** 9:16
 
-![14  Chiken Fry 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00355_14_Shops_Chiken_Fry_V_05_Previews.webp)
+[![14  Chiken Fry 05 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00355_14_Shops_Chiken_Fry_V_05_Previews.webp)](https://stockflow.media/?v=20260309_00355)
 
 Crispy fried chicken pieces stacked in a metal basket with a side dip and a garnish of green onions.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00355){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 06 
 **Resolution:** 4254x7799 | **Format:** 9:16
 
-![14  Chiken Fry 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00356_14_Shops_Chiken_Fry_V_06_Previews.webp)
+[![14  Chiken Fry 06 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00356_14_Shops_Chiken_Fry_V_06_Previews.webp)](https://stockflow.media/?v=20260309_00356)
 
 Crispy fried chicken bites on a plate with a side of French fries, garnished with greens and served with a small cup of creamy dipping sauce.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00356){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 08 
 **Resolution:** 4254x7799 | **Format:** 9:16
 
-![14  Chiken Fry 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00357_14_Shops_Chiken_Fry_V_08_Previews.webp)
+[![14  Chiken Fry 08 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00357_14_Shops_Chiken_Fry_V_08_Previews.webp)](https://stockflow.media/?v=20260309_00357)
 
 Plate of crispy fried chicken pieces topped with greens and a dipping sauce on a white plate at a restaurant.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00357){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 01 
 **Resolution:** 7799x4254 | **Format:** 16:9
 
-![14  Chiken Fry 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00358_14_Shops_Chiken_Fry_W_01_Previews.webp)
+[![14  Chiken Fry 01 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00358_14_Shops_Chiken_Fry_W_01_Previews.webp)](https://stockflow.media/?v=20260309_00358)
 
 Stack of crispy fried chicken tenders with microgreens on a dark plate, served with mayo and mustard sauces, beside a menu on a wooden table.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00358){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 02 
 **Resolution:** 7799x4254 | **Format:** 16:9
 
-![14  Chiken Fry 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00359_14_Shops_Chiken_Fry_W_02_Previews.webp)
+[![14  Chiken Fry 02 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00359_14_Shops_Chiken_Fry_W_02_Previews.webp)](https://stockflow.media/?v=20260309_00359)
 
 Golden fried chicken with fries and microgreens on a dark plate, beside a metal basket of fries and a menu on a wooden table.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00359){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 03 
 **Resolution:** 7799x4254 | **Format:** 16:9
 
-![14  Chiken Fry 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00360_14_Shops_Chiken_Fry_W_03_Previews.webp)
+[![14  Chiken Fry 03 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00360_14_Shops_Chiken_Fry_W_03_Previews.webp)](https://stockflow.media/?v=20260309_00360)
 
 Crispy fried chicken tenders with chopped herbs, a side of dipping sauce, a basket of fries, and a drink on a wooden table beside a menu.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00360){ .md-button .md-button--primary }
 
 ---
 
 ## 14  Chiken Fry 04 
 **Resolution:** 7799x4254 | **Format:** 16:9
 
-![14  Chiken Fry 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00361_14_Shops_Chiken_Fry_W_04_Previews.webp)
+[![14  Chiken Fry 04 ](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/01_Food_Menu/Jpeg/20260309_00361_14_Shops_Chiken_Fry_W_04_Previews.webp)](https://stockflow.media/?v=20260309_00361)
 
 Plate of fried chicken with fries in a metal basket, dipping sauce, a glass of red wine, and a menu on a wooden table.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260309_00361){ .md-button .md-button--primary }
 
 ---
 

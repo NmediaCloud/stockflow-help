@@ -23,6 +23,8 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 
 Microscopic view of neural tissue displaying demyelinated areas and inflammatory infiltrates characteristic of multiple sclerosis, with scattered oligodendrocyte loss and microglial activation in a neuropathology specimen.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1086){ .md-button .md-button--primary }
+
 ---
 
 ## 08 Neuropathology
@@ -35,6 +37,8 @@ Microscopic view of neural tissue displaying demyelinated areas and inflammatory
 
 Histopathology slide showing neural tissue with inflammatory infiltrates and demyelinated fibers characteristic of neuropathology in multiple sclerosis. Bright staining highlights perivascular cuffs and disrupted myelin, reflecting characteristic MS pathology.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1087){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Neuropathology
@@ -46,6 +50,8 @@ Histopathology slide showing neural tissue with inflammatory infiltrates and dem
 </video>
 
 High magnification histology image showing densely packed glandular epithelial cells with prominent nuclei, surrounded by fibrous stroma and scattered inflammatory cells, stained purple and pink with visible capillaries.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1088){ .md-button .md-button--primary }
 
 ---
 

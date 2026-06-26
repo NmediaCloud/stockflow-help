@@ -23,6 +23,8 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 
 Micrograph of spinal cord tissue showing neuropathologic changes with inflammatory or degenerative features, including blue-stained cells and pink connective tissue, illustrating cellular architecture and vascular components.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1089){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Neuropathology
@@ -35,6 +37,8 @@ Micrograph of spinal cord tissue showing neuropathologic changes with inflammato
 
 Micrograph of spinal cord tissue highlighting neuropathologic changes: dense blue nuclei in glial and inflammatory cells amid pink connective tissue with folded neuropil and vascular features visible.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1090){ .md-button .md-button--primary }
+
 ---
 
 ## 12 Neuropathology
@@ -46,6 +50,8 @@ Micrograph of spinal cord tissue highlighting neuropathologic changes: dense blu
 </video>
 
 High-magnification micrograph of spinal cord tissue showing neural and vascular structures with pink collagen fibers and blue nuclei; features suggestive of neuropathologic changes, includes varying cellularity and perivascular inflammation.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1091){ .md-button .md-button--primary }
 
 ---
 

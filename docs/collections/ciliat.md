@@ -23,5 +23,7 @@ This collection contains **1 assets** available in multiple resolutions and aspe
 
 Close-up view of a ciliated epithelial surface, displaying numerous hair-like cilia atop a columnar cell layer, with mucus-secreting cells and pink-stained cytoplasm throughout in a tissue section.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1030){ .md-button .md-button--primary }
+
 ---
 

@@ -23,6 +23,8 @@ This collection contains **9 assets** available in multiple resolutions and aspe
 
 Fluorescent image of a cell showing extensive actin filament networks radiating from the central region, with green microstructures and blue nuclei, illustrating cytoskeletal organization during cellular interactions and adhesion sites.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0099){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Actin Filaments
@@ -34,6 +36,8 @@ Fluorescent image of a cell showing extensive actin filament networks radiating 
 </video>
 
 High fidelity micrograph of actin filaments (red) intertwined with cellular structures, highlighted in green with blue nuclei, illustrating cytoskeletal organization and intracellular connections at the microscale.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0100){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ High fidelity micrograph of actin filaments (red) intertwined with cellular stru
 
 A fluorescent microscopic image reveals a dense green network radiating from a central hub, with red cell-edge outlines and scattered green specks throughout the cytoplasm, illustrating intricate internal architecture.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0101){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Actin Filaments
@@ -58,6 +64,8 @@ A fluorescent microscopic image reveals a dense green network radiating from a c
 </video>
 
 A high-contrast fluorescence image of a cell highlighting actin filaments in red radiating from green cytoplasm around blue nuclei, showcasing cytoskeletal organization and network connectivity.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0102){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ A high-contrast fluorescence image of a cell highlighting actin filaments in red
 
 Fluorescent image shows interconnected actin filaments (red) spanning between blue nuclei, with green cell boundary markers, illustrating cytoskeletal networks and intracellular organization in a dynamic cellular landscape.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0103){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Actin Filaments
@@ -82,6 +92,8 @@ Fluorescent image shows interconnected actin filaments (red) spanning between bl
 </video>
 
 Fluorescent visualization of a single cell showing green actin filaments radiating from the center, red cytoskeletal outline defining the cell shape, and scattered green puncta throughout the cytoplasm.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0104){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +107,8 @@ Fluorescent visualization of a single cell showing green actin filaments radiati
 
 Fluorescent image of a single cell revealing a dynamic cytoskeleton: red actin filaments emanating from a blue-stained nucleus, interwoven with green cellular structures and dotted green markers.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0105){ .md-button .md-button--primary }
+
 ---
 
 ## 08 Actin Filaments
@@ -107,6 +121,8 @@ Fluorescent image of a single cell revealing a dynamic cytoskeleton: red actin f
 
 Fluorescent micrograph of actin filaments (orange) spanning across blue-nucleated cells, with green intracellular structures, revealing a network of cytoskeletal fibers and cellular interactions in a microenvironment.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0106){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Actin Filaments
@@ -118,6 +134,8 @@ Fluorescent micrograph of actin filaments (orange) spanning across blue-nucleate
 </video>
 
 Fluorescent microscopy image showing a single cell with a dense green actin filament network radiating from the center, surrounded by red cell borders and green vesicle-like structures.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0107){ .md-button .md-button--primary }
 
 ---
 

@@ -16,90 +16,110 @@ This collection contains **13 assets** available in multiple resolutions and asp
 ## 1 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0654_01_Micro_07_Bacteria_03_Spirochete_01_W_01__Previews.webp)
+[![1 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0654_01_Micro_07_Bacteria_03_Spirochete_01_W_01__Previews.webp)](https://stockflow.media/?v=20260310_0654)
 
 Spirochete bacterium photographed under magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0654){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0655_01_Micro_07_Bacteria_03_Spirochete_01_W_01_Previews.webp)
+[![2 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0655_01_Micro_07_Bacteria_03_Spirochete_01_W_01_Previews.webp)](https://stockflow.media/?v=20260310_0655)
 
 A curved, corkscrew-shaped spirochete bacterium with hairlike surface appendages.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0655){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![3 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0656_01_Micro_07_Bacteria_03_Spirochete_01_W_02_Previews.webp)
+[![3 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0656_01_Micro_07_Bacteria_03_Spirochete_01_W_02_Previews.webp)](https://stockflow.media/?v=20260310_0656)
 
 Micro image of a spirochete bacterium with slender, threadlike appendages.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0656){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![4 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0657_01_Micro_07_Bacteria_03_Spirochete_01_W_03__Previews.webp)
+[![4 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0657_01_Micro_07_Bacteria_03_Spirochete_01_W_03__Previews.webp)](https://stockflow.media/?v=20260310_0657)
 
 Electron micrograph of a spirochete bacterium with a helical body and many slender flagella-like extensions.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0657){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![5 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0658_01_Micro_07_Bacteria_03_Spirochete_01_W_04__Previews.webp)
+[![5 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0658_01_Micro_07_Bacteria_03_Spirochete_01_W_04__Previews.webp)](https://stockflow.media/?v=20260310_0658)
 
 Electron microscope image of a spirochete bacterium with numerous long flagella radiating from one end.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0658){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![6 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0659_01_Micro_07_Bacteria_03_Spirochete_01_W_05__Previews.webp)
+[![6 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0659_01_Micro_07_Bacteria_03_Spirochete_01_W_05__Previews.webp)](https://stockflow.media/?v=20260310_0659)
 
 Close-up of a helical spirochete bacterium with long, threadlike projections.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0659){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![7 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0660_01_Micro_07_Bacteria_03_Spirochete_01_W_06__Previews.webp)
+[![7 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0660_01_Micro_07_Bacteria_03_Spirochete_01_W_06__Previews.webp)](https://stockflow.media/?v=20260310_0660)
 
 Close-up of a helical spirochete bacterium with long, threadlike projections.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0660){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![8 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0661_01_Micro_07_Bacteria_03_Spirochete_01_W_06_Previews.webp)
+[![8 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0661_01_Micro_07_Bacteria_03_Spirochete_01_W_06_Previews.webp)](https://stockflow.media/?v=20260310_0661)
 
 Micrograph of a spirochete bacterium, a long, curved, flexible cell with surface particles.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0661){ .md-button .md-button--primary }
 
 ---
 
 ## 9 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![9 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0662_01_Micro_07_Bacteria_03_Spirochete_01_W_07__Previews.webp)
+[![9 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0662_01_Micro_07_Bacteria_03_Spirochete_01_W_07__Previews.webp)](https://stockflow.media/?v=20260310_0662)
 
 A spiral-shaped bacterium with multiple tail-like flagella in a grayscale electron micrograph.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0662){ .md-button .md-button--primary }
 
 ---
 
 ## 10 Micro 07 Bacteria 03 Spirochete
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![10 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0663_01_Micro_07_Bacteria_03_Spirochete_01_W_08__Previews.webp)
+[![10 Micro 07 Bacteria 03 Spirochete](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0663_01_Micro_07_Bacteria_03_Spirochete_01_W_08__Previews.webp)](https://stockflow.media/?v=20260310_0663)
 
 A curved spirochete bacterium with a segmented, helix-shaped body and multiple tail-like flagella at both ends.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0663){ .md-button .md-button--primary }
 
 ---
 
@@ -113,6 +133,8 @@ A curved spirochete bacterium with a segmented, helix-shaped body and multiple t
 
 A microscopic view of a spirochete-like organism displaying a slender, helical body and numerous threadlike appendages radiating from both ends, captured with high-resolution imaging to reveal surface texture.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0772){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Spirochete
@@ -125,6 +147,8 @@ A microscopic view of a spirochete-like organism displaying a slender, helical b
 
 A micrograph of a slender, spiral bacterium with multiple appendages resembling flagella, showcasing the distinctive coiled body of a spirochete navigating a rough surface under electron microscopy.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0773){ .md-button .md-button--primary }
+
 ---
 
 ## 03 Spirochete
@@ -136,6 +160,8 @@ A micrograph of a slender, spiral bacterium with multiple appendages resembling 
 </video>
 
 Micro-scale image of a slender, segmented worm-like organism adorned with numerous tiny surface particles and long feathery tentacles, resembling a spirochete-style microorganism observed under high magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0774){ .md-button .md-button--primary }
 
 ---
 

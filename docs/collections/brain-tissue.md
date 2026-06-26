@@ -23,6 +23,8 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 
 Fluorescent image of brain tissue showing intricate neural networks, with glowing orange axons weaving through a dark matrix and scattered blue-green cells, illustrating complex neuronal connectivity.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1027){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Cellular
@@ -35,6 +37,8 @@ Fluorescent image of brain tissue showing intricate neural networks, with glowin
 
 Colorful neural network visualization reveals intricate brain tissue patterns, highlighting vibrant neurons and fiber pathways, showcasing complex cellular connectivity and microenvironment in the brain at cellular resolution.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1028){ .md-button .md-button--primary }
+
 ---
 
 ## 10 Cellular
@@ -46,6 +50,8 @@ Colorful neural network visualization reveals intricate brain tissue patterns, h
 </video>
 
 Colorized microscopic view of brain tissue highlighting dense neural networks and cellular structure, with glowing orange neurons interwoven across a dark background, blue nuclei scattered throughout, illustrating intricate cellular connectivity.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1029){ .md-button .md-button--primary }
 
 ---
 

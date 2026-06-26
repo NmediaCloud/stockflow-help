@@ -23,6 +23,8 @@ This collection contains **24 assets** available in multiple resolutions and asp
 
 Color-enhanced micrograph of fungal hyphae weaving through food tissue, blue and green filaments set against an orange, textured matrix, highlighting intricate fungal networks and surrounding cellular debris.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0624){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Fungi Hyphae
@@ -34,6 +36,8 @@ Color-enhanced micrograph of fungal hyphae weaving through food tissue, blue and
 </video>
 
 Colorized micrograph of fungal hyphae intertwining within decaying plant tissue, highlighting green and blue hyphae among orange cell walls and scattered spores, revealing microscopic interactions during decomposition.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0625){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ Colorized micrograph of fungal hyphae intertwining within decaying plant tissue,
 
 A high magnification view shows fungal hyphae weaving through decaying tissue, with blue-green filaments and clustered spores embedded in a reddish matrix, illustrating fungal invasion at the microscopic level.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0626){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Fungi Hyphae
@@ -58,6 +64,8 @@ A high magnification view shows fungal hyphae weaving through decaying tissue, w
 </video>
 
 Color-enhanced micrograph revealing intertwined fungal hyphae (green and blue) penetrating a fibrous tissue matrix, coated with spores and debris, illustrating fungal invasion and tissue microstructure at high magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0627){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ Color-enhanced micrograph revealing intertwined fungal hyphae (green and blue) p
 
 Color-enhanced micrograph revealing fungal hyphae interwoven through a tissue matrix, with blue-green filaments and round spores scattered, illustrating fungal invasion and network formation within a decaying surface.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0628){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Fungi Hyphae
@@ -82,6 +92,8 @@ Color-enhanced micrograph revealing fungal hyphae interwoven through a tissue ma
 </video>
 
 Colored microscopic view of fungal hyphae interwoven with plant tissue, showing spherical spores and branching filaments within a textured organic matrix, highlighted by vivid color contrast.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0629){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +107,8 @@ Colored microscopic view of fungal hyphae interwoven with plant tissue, showing 
 
 Micrograph reveals fungal hyphae interwoven with cellular debris in a food-related tissue sample, showcasing green hyphal networks and blue strands amid textured red-brown surfaces and spores.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0630){ .md-button .md-button--primary }
+
 ---
 
 ## 08 Fungi Hyphae
@@ -106,6 +120,8 @@ Micrograph reveals fungal hyphae interwoven with cellular debris in a food-relat
 </video>
 
 Close-up of colorful fungal hyphae weaving through decaying tissue, revealing tiny spores and textured layers, illustrating micro-scale biology within a rotting food specimen.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0631){ .md-button .md-button--primary }
 
 ---
 
@@ -119,6 +135,8 @@ Close-up of colorful fungal hyphae weaving through decaying tissue, revealing ti
 
 A micro-scale view of fungi colonizing a food surface, showing teal hyphae and spheres spreading across a golden-yellow substrate, revealing dense networks, interconnections, and active growth at the microscopic level.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0632){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Fungi Colonizing
@@ -130,6 +148,8 @@ A micro-scale view of fungi colonizing a food surface, showing teal hyphae and s
 </video>
 
 Close up of microscopic green mold spores colonizing a food surface, revealing slender stalks and round spores spreading across a textured, yellow-brown substrate in a damp environment.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0633){ .md-button .md-button--primary }
 
 ---
 
@@ -143,6 +163,8 @@ Close up of microscopic green mold spores colonizing a food surface, revealing s
 
 Close up view of colorful fungal hyphae colonizing a food surface, showing branching filaments and round spores, revealing microbial networks and growth dynamics on a nutrient-rich substrate.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0634){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Fungi Colonizing
@@ -154,6 +176,8 @@ Close up view of colorful fungal hyphae colonizing a food surface, showing branc
 </video>
 
 Close-up view of blue-green mold fungi colonizing a yellow food surface, showcasing filamentous hyphae and spherical spores spreading across the porous substrate in a microscopic, high-detail illustration.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0635){ .md-button .md-button--primary }
 
 ---
 
@@ -167,6 +191,8 @@ Close-up view of blue-green mold fungi colonizing a yellow food surface, showcas
 
 Macro view of tiny turquoise fungi resembling spores sprouting from a golden-brown surface, colonizing a porous food-like substrate with delicate stalks and round heads under bright illumination.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0636){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Fungi Colonizing
@@ -178,6 +204,8 @@ Macro view of tiny turquoise fungi resembling spores sprouting from a golden-bro
 </video>
 
 Close up view of a vibrant fungal network spreading across a surface, turquoise hyphae branching and colonizing, dotted with round spores, revealing the intricate, thread-like architecture of early mycelial growth.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0637){ .md-button .md-button--primary }
 
 ---
 
@@ -191,6 +219,8 @@ Close up view of a vibrant fungal network spreading across a surface, turquoise 
 
 Micrograph shows fungi colonizing a golden surface, with turquoise hyphae and spherical spores spreading across a nutrient film, creating a delicate network of tiny, glowing structures.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0638){ .md-button .md-button--primary }
+
 ---
 
 ## 08 Fungi Colonizing
@@ -202,6 +232,8 @@ Micrograph shows fungi colonizing a golden surface, with turquoise hyphae and sp
 </video>
 
 A close-up of turquoise fungal spores standing on slender stalks, forming a delicate colony across a textured brown surface, as if colonizing the area with tiny, glowing filaments.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0639){ .md-button .md-button--primary }
 
 ---
 
@@ -215,6 +247,8 @@ A close-up of turquoise fungal spores standing on slender stalks, forming a deli
 
 Close-up microscopic view of fungal spores colonizing a textured surface, with teal spheres connected by faint filaments, suggesting active growth along a skin-like substrate here.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0640){ .md-button .md-button--primary }
+
 ---
 
 ## 10 Fungi Colonizing
@@ -226,6 +260,8 @@ Close-up microscopic view of fungal spores colonizing a textured surface, with t
 </video>
 
 Bright teal fungal spores and slender hyphae spread across a moist surface, revealing a microscopic network of mold growth forming tiny spheres and thread-like filaments.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0641){ .md-button .md-button--primary }
 
 ---
 
@@ -239,6 +275,8 @@ Bright teal fungal spores and slender hyphae spread across a moist surface, reve
 
 Close-up micrograph reveals blue-green fungal hyphae colonizing a brown surface, with circular spores; intricate network of filaments weaving through the substrate, captured in vivid contrast and detail for science video.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0642){ .md-button .md-button--primary }
+
 ---
 
 ## 12 Fungi Colonizing
@@ -250,6 +288,8 @@ Close-up micrograph reveals blue-green fungal hyphae colonizing a brown surface,
 </video>
 
 Close-up of vibrant fungal hyphae weaving a delicate, glowing network with spherical spores dotting the threads, revealing micro-scale colonization patterns and the intricate architecture of a living mold.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0643){ .md-button .md-button--primary }
 
 ---
 
@@ -263,6 +303,8 @@ Close-up of vibrant fungal hyphae weaving a delicate, glowing network with spher
 
 Macro view of fungal spores dispersing on a textured surface, with slender hyphae and airborne particles hinting at windborne transmission in natural environments and studies of fungal spread.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0852){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Fungal spores
@@ -274,6 +316,8 @@ Macro view of fungal spores dispersing on a textured surface, with slender hypha
 </video>
 
 Close up of fungal spores releasing from tiny fruiting bodies on a decaying surface, illustrating how spores disperse through the air, guided by wind to colonize new surfaces.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0853){ .md-button .md-button--primary }
 
 ---
 
@@ -287,6 +331,8 @@ Close up of fungal spores releasing from tiny fruiting bodies on a decaying surf
 
 A vivid cross-section of wood reveals vibrant fungal networks, spores, and cellular patterns, blending biology and art to showcase microscopic life and decay in bright, surreal colors.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0854){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Fungal spores
@@ -298,6 +344,8 @@ A vivid cross-section of wood reveals vibrant fungal networks, spores, and cellu
 </video>
 
 Cross-section of decaying wood reveals a vibrant network of fungal hyphae and spores, with rainbow-colored strands weaving through the bark, illustrating microscopic decay processes and symbiotic relationships.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0855){ .md-button .md-button--primary }
 
 ---
 

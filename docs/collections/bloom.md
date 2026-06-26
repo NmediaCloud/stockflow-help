@@ -23,6 +23,8 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 
 A vivid underwater scene shows a lush algal bloom carpeting stacked rocks, green mossy clumps thriving amid clear water, with small bubbles drifting through the tranquil, sunlit sea.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0755){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Algae Bloom
@@ -34,6 +36,8 @@ A vivid underwater scene shows a lush algal bloom carpeting stacked rocks, green
 </video>
 
 A vivid underwater scene of dense green algae blooms carpeting rocky formations, with tiny bubbles rising through the clear water and delicate coral-like growths creating a mossy, textured seascape.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0756){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ A vivid underwater scene of dense green algae blooms carpeting rocky formations,
 
 Macro view of a dense algal bloom, showing vibrant green filamentous strands interwoven with spherical cells and bubbles, revealing intricate microalgal structures and layered cellular networks.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0757){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Algae Bloom
@@ -58,6 +64,8 @@ Macro view of a dense algal bloom, showing vibrant green filamentous strands int
 </video>
 
 Underwater scene of vibrant green algae covering rock formations, forming rounded mossy columns and bubbles drifting in clear water among lush aquatic scenery teeming with life.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0758){ .md-button .md-button--primary }
 
 ---
 

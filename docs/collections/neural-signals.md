@@ -23,6 +23,8 @@ This collection contains **8 assets** available in multiple resolutions and aspe
 
 Vivid microscopic illustration of a neuron with glowing orange electrical impulses traveling along the axon, highlighting synapses and myelin segments in a dynamic, neural communication scene.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0367){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Neural Signals
@@ -34,6 +36,8 @@ Vivid microscopic illustration of a neuron with glowing orange electrical impuls
 </video>
 
 A vivid, close-up depiction of neural signals traveling along nerve-like fibers, with glowing synapses and electric sparks illustrating microscopic brain communication and intercellular signaling.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0368){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ A vivid, close-up depiction of neural signals traveling along nerve-like fibers,
 
 A vivid depiction of a nerve cell transmitting electrical impulses along a myelinated fiber, highlighting synaptic activity and neural connectivity in a dynamic, glowing color landscape.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0369){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Neural Signals
@@ -58,6 +64,8 @@ A vivid depiction of a nerve cell transmitting electrical impulses along a myeli
 </video>
 
 A vivid, neon-blue illustration of a neuron with branching dendrites and a connected axon, highlighting active synapses and neural signaling in a dynamic, high-tech medical visualization.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0370){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ A vivid, neon-blue illustration of a neuron with branching dendrites and a conne
 
 A 3D depiction of a neuron transmitting neural signals along myelinated axons, highlighting rapid electrical impulses, synapses, and radiant activity at the cell body in a vivid, futuristic neural network.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0371){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Neural Signals
@@ -82,6 +92,8 @@ A 3D depiction of a neuron transmitting neural signals along myelinated axons, h
 </video>
 
 A high-resolution depiction of neural signals transmitting along a neuron, glowing synapses and electric currents highlighting the complex network of brain communication in vivid blue and gold tones.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0372){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +107,8 @@ A high-resolution depiction of neural signals transmitting along a neuron, glowi
 
 A vivid illustration of neural transmission: a neuron fires, electrical impulses travel along axons, bright synaptic activity across a glowing chain of cells in the brain.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0373){ .md-button .md-button--primary }
+
 ---
 
 ## 08 Neural Signals
@@ -106,6 +120,8 @@ A vivid illustration of neural transmission: a neuron fires, electrical impulses
 </video>
 
 Close-up visualization of a neuron transmitting signals along a neural network, with glowing axons and synapses, illustrating the intricate electric communication within the brain’s neural circuitry.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0374){ .md-button .md-button--primary }
 
 ---
 

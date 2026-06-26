@@ -23,6 +23,8 @@ This collection contains **5 assets** available in multiple resolutions and aspe
 
 Macro view of an orchid's reproductive parts, highlighting the smooth, shiny pollinium and vibrant orange pollen masses nestled within the vivid petals in ultra-close focus for intricate detail.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0992){ .md-button .md-button--primary }
+
 ---
 
 ## 19 Pollen
@@ -34,6 +36,8 @@ Macro view of an orchid's reproductive parts, highlighting the smooth, shiny pol
 </video>
 
 Macro shot of a vibrant orchid interior, highlighting a bright orange pollinium cluster with textured, grainy surface, surrounded by bold purple, yellow petals and intricate striped patterns.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0993){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ Macro shot of a vibrant orchid interior, highlighting a bright orange pollinium 
 
 A macro shot of a vibrant orchid flower, highlighting its yellow-edged petals, purple hues, and the ornate orange pollen-filled column at the center, with striking detail.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0994){ .md-button .md-button--primary }
+
 ---
 
 ## 21 Pollen
@@ -59,6 +65,8 @@ A macro shot of a vibrant orchid flower, highlighting its yellow-edged petals, p
 
 A macro view inside a purple orchid reveals bright orange pollen masses (pollinia) clustered around a pale, sculpted reproductive structure, highlighting the intricate texture and smooth, shiny surfaces.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0995){ .md-button .md-button--primary }
+
 ---
 
 ## 22 Pollen
@@ -70,6 +78,8 @@ A macro view inside a purple orchid reveals bright orange pollen masses (pollini
 </video>
 
 Macro shot of an orchid's vivid bloom, highlighting the golden pollen-laden pollinia. Delicate textures sparkle with a smooth, glossy shine, capturing intricate details of the flower's reproductive structures.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0996){ .md-button .md-button--primary }
 
 ---
 

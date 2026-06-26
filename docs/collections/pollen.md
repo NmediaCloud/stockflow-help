@@ -23,6 +23,8 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 
 Macro shot of vivid purple-blue coral polyps with ribbed, donut-like discs and hollow centers, creating a striking, geometric underwater texture. Close-up patterning and symmetrical rings and tactile ridges.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0975){ .md-button .md-button--primary }
+
 ---
 
 ## 34 Pollen
@@ -34,6 +36,8 @@ Macro shot of vivid purple-blue coral polyps with ribbed, donut-like discs and h
 </video>
 
 A vivid macro close-up of ribbed, spherical structures in blue and magenta hues, clustered together with dark centers, creating an abstract, sci‑fi microscopic scene.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1008){ .md-button .md-button--primary }
 
 ---
 

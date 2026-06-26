@@ -23,6 +23,8 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 
 Microscopic view of cancerous cells clustering into a tumor, showing darkly stained nuclei amid lighter cytoplasm and surrounding tissue, highlighting cellular diversity and malignant features seen in cancer.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0908){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Cancer Cell
@@ -35,6 +37,8 @@ Microscopic view of cancerous cells clustering into a tumor, showing darkly stai
 
 A split-view scientific illustration contrasts pink circular units along a tissue surface with dark purple spherical structures and tangled vessels, highlighting pathological growth versus normal tissue.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0909){ .md-button .md-button--primary }
+
 ---
 
 ## 62 Cancer Cell
@@ -46,6 +50,8 @@ A split-view scientific illustration contrasts pink circular units along a tissu
 </video>
 
 Color-enhanced microscopic image of a cancer cell cluster, highlighting a central group of dark, irregular nuclei surrounded by purple-stained cells, illustrating malignant growth within tissue.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0968){ .md-button .md-button--primary }
 
 ---
 

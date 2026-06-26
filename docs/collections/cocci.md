@@ -16,117 +16,143 @@ This collection contains **16 assets** available in multiple resolutions and asp
 ## 1 Micro 07 Bacteria 02 Cocci
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![1 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0641_01_Micro_07_Bacteria_02_Cocci_01_W_01__Previews.webp)
+[![1 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0641_01_Micro_07_Bacteria_02_Cocci_01_W_01__Previews.webp)](https://stockflow.media/?v=20260310_0641)
 
 Color-enhanced microscopic image of cocci bacteria forming clusters.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0641){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 07 Bacteria 02 Cocci
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![2 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0642_01_Micro_07_Bacteria_02_Cocci_01_W_02__Previews.webp)
+[![2 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0642_01_Micro_07_Bacteria_02_Cocci_01_W_02__Previews.webp)](https://stockflow.media/?v=20260310_0642)
 
 Golden microscopic view of cocci bacteria arranged in chain-like structures.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0642){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 07 Bacteria 02 Cocci
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0643_01_Micro_07_Bacteria_02_Cocci_01_W_03__Previews.webp)
+[![3 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0643_01_Micro_07_Bacteria_02_Cocci_01_W_03__Previews.webp)](https://stockflow.media/?v=20260310_0643)
 
 Microscopic image of chain-forming cocci bacteria.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0643){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 07 Bacteria 02 Cocci
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0644_01_Micro_07_Bacteria_02_Cocci_01_W_03_Previews.webp)
+[![4 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0644_01_Micro_07_Bacteria_02_Cocci_01_W_03_Previews.webp)](https://stockflow.media/?v=20260310_0644)
 
 Cocci-shaped bacteria forming chains, magnified view.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0644){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 07 Bacteria 02 Cocci
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![5 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0645_01_Micro_07_Bacteria_02_Cocci_01_W_04__Previews.webp)
+[![5 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0645_01_Micro_07_Bacteria_02_Cocci_01_W_04__Previews.webp)](https://stockflow.media/?v=20260310_0645)
 
 Microscopic view of cocci bacteria arranged in chains (streptococcal-like clusters).
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0645){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 07 Bacteria 02 Cocci
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![6 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0646_01_Micro_07_Bacteria_02_Cocci_01_W_04_Previews.webp)
+[![6 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0646_01_Micro_07_Bacteria_02_Cocci_01_W_04_Previews.webp)](https://stockflow.media/?v=20260310_0646)
 
 Cocci-shaped bacteria in a red, microscopic scene.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0646){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 07 Bacteria 02 Cocci
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![7 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0647_01_Micro_07_Bacteria_02_Cocci_01_W_05__Previews.webp)
+[![7 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0647_01_Micro_07_Bacteria_02_Cocci_01_W_05__Previews.webp)](https://stockflow.media/?v=20260310_0647)
 
 Chain of yellow cocci bacteria.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0647){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 07 Bacteria 02 Cocci
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![8 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0648_01_Micro_07_Bacteria_02_Cocci_01_W_05_Previews.webp)
+[![8 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0648_01_Micro_07_Bacteria_02_Cocci_01_W_05_Previews.webp)](https://stockflow.media/?v=20260310_0648)
 
 Chain of spherical bacteria (cocci) in orange hues.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0648){ .md-button .md-button--primary }
 
 ---
 
 ## 9 Micro 07 Bacteria 02 Cocci
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![9 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0649_01_Micro_07_Bacteria_02_Cocci_01_W_06__Previews.webp)
+[![9 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0649_01_Micro_07_Bacteria_02_Cocci_01_W_06__Previews.webp)](https://stockflow.media/?v=20260310_0649)
 
 Microscopic view of orange cocci forming chains among blue bacteria.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0649){ .md-button .md-button--primary }
 
 ---
 
 ## 10 Micro 07 Bacteria 02 Cocci
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![10 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0650_01_Micro_07_Bacteria_02_Cocci_01_W_06_Previews.webp)
+[![10 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0650_01_Micro_07_Bacteria_02_Cocci_01_W_06_Previews.webp)](https://stockflow.media/?v=20260310_0650)
 
 Microscopic view of cocci-shaped bacteria arranged in chains against a colorful background.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0650){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Micro 07 Bacteria 02 Cocci
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![11 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0651_01_Micro_07_Bacteria_02_Cocci_01_W_07__Previews.webp)
+[![11 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0651_01_Micro_07_Bacteria_02_Cocci_01_W_07__Previews.webp)](https://stockflow.media/?v=20260310_0651)
 
 Orange-tinted image of cocci bacteria arranged in chains.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0651){ .md-button .md-button--primary }
 
 ---
 
 ## 12 Micro 07 Bacteria 02 Cocci
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![12 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0652_01_Micro_07_Bacteria_02_Cocci_01_W_07_Previews.webp)
+[![12 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0652_01_Micro_07_Bacteria_02_Cocci_01_W_07_Previews.webp)](https://stockflow.media/?v=20260310_0652)
 
 Chain of yellow-orange cocci bacteria.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0652){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Micro 07 Bacteria 02 Cocci
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![13 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0653_01_Micro_07_Bacteria_02_Cocci_01_W_08__Previews.webp)
+[![13 Micro 07 Bacteria 02 Cocci](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0653_01_Micro_07_Bacteria_02_Cocci_01_W_08__Previews.webp)](https://stockflow.media/?v=20260310_0653)
 
 Golden-orange magnified view of bacteria, showing round cocci clusters and rod-shaped bacilli.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0653){ .md-button .md-button--primary }
 
 ---
 
@@ -140,6 +166,8 @@ Golden-orange magnified view of bacteria, showing round cocci clusters and rod-s
 
 Close-up view of chain-forming cocci bacteria, showing round, golden-colored cells linked in long chains amid a microbe-rich background, highlighting their arrangement and interactions under magnification.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0769){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Cocci
@@ -152,6 +180,8 @@ Close-up view of chain-forming cocci bacteria, showing round, golden-colored cel
 
 Microscopic view of orange-brown cocci bacteria forming long chains, with numerous individual spheres scattered in a dark green background, illustrating bacterial cell division and communal clustering.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0770){ .md-button .md-button--primary }
+
 ---
 
 ## 03 Cocci
@@ -163,6 +193,8 @@ Microscopic view of orange-brown cocci bacteria forming long chains, with numero
 </video>
 
 Color enhanced micrograph shows chain-forming cocci bacteria linking into long filaments, surrounded by numerous tiny spheres in a crowded microbial milieu, resembling a bead-like chain at high magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0771){ .md-button .md-button--primary }
 
 ---
 

@@ -23,5 +23,7 @@ This collection contains **1 assets** available in multiple resolutions and aspe
 
 Blood smear illustrating iron-deficiency features with small, pale red blood cells and increased central pallor, alongside neutrophils and occasional hypersegmented granulocytes, indicating hematology pathology in microcytic anemia.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1012){ .md-button .md-button--primary }
+
 ---
 

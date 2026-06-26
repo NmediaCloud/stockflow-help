@@ -16,72 +16,88 @@ This collection contains **12 assets** available in multiple resolutions and asp
 ## 1 Micro 12 Pathology 23 Infectious Schistosoma
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1338_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_01__Previews.webp)
+[![1 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1338_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_01__Previews.webp)](https://stockflow.media/?v=20260310_1338)
 
 Micrograph showing schistosomiasis in tissue with multiple eggs and surrounding granulomatous inflammation.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1338){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 12 Pathology 23 Infectious Schistosoma
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1339_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_01_Previews.webp)
+[![2 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1339_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_01_Previews.webp)](https://stockflow.media/?v=20260310_1339)
 
 Histologic image showing Schistosoma eggs in tissue with surrounding granulomatous inflammatory reaction.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1339){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 12 Pathology 23 Infectious Schistosoma
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1340_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_02__Previews.webp)
+[![3 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1340_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_02__Previews.webp)](https://stockflow.media/?v=20260310_1340)
 
 Histology of schistosomiasis in colon with eggs surrounded by granulomatous inflammation and eosinophilic infiltration (H&E stain).
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1340){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 12 Pathology 23 Infectious Schistosoma
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1341_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_02_Previews.webp)
+[![4 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1341_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_02_Previews.webp)](https://stockflow.media/?v=20260310_1341)
 
 Histopathology showing schistosomiasis with parasitic eggs in tissue and granulomatous inflammation.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1341){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 12 Pathology 23 Infectious Schistosoma
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![5 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1342_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_03__Previews.webp)
+[![5 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1342_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_03__Previews.webp)](https://stockflow.media/?v=20260310_1342)
 
 Histology slide showing infectious Schistosoma in tissue with a cross-section of the parasite and surrounding inflammatory cells.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1342){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 12 Pathology 23 Infectious Schistosoma
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![6 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1343_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_03_Previews.webp)
+[![6 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1343_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_03_Previews.webp)](https://stockflow.media/?v=20260310_1343)
 
 Histology of a Schistosoma egg in intestinal mucosa with surrounding inflammatory cells.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1343){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 12 Pathology 23 Infectious Schistosoma
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![7 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1344_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_04__Previews.webp)
+[![7 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1344_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_04__Previews.webp)](https://stockflow.media/?v=20260310_1344)
 
 Histological section of intestinal mucosa showing a Schistosoma egg within a granulomatous inflammatory response.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1344){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 12 Pathology 23 Infectious Schistosoma
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![8 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1345_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_04_Previews.webp)
+[![8 Micro 12 Pathology 23 Infectious Schistosoma](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1345_01_Micro_12_Pathology_23_Infectious_Schistosoma_W_04_Previews.webp)](https://stockflow.media/?v=20260310_1345)
 
 Histology of intestinal mucosa showing Schistosoma infection with an egg-containing granuloma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1345){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +111,8 @@ Histology of intestinal mucosa showing Schistosoma infection with an egg-contain
 
 A microscopic view of schistosoma-related tissue infection, showing intestinal epithelial cells and a schistosome egg with surrounding inflammatory response in host tissue during infectious process.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1074){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Infectious
@@ -106,6 +124,8 @@ A microscopic view of schistosoma-related tissue infection, showing intestinal e
 </video>
 
 Histological section of intestinal tissue with a schistosome egg surrounded by a granulomatous inflammatory response, illustrating helminth infection and tissue damage characteristic of schistosomiasis in affected tissues.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1075){ .md-button .md-button--primary }
 
 ---
 
@@ -119,6 +139,8 @@ Histological section of intestinal tissue with a schistosome egg surrounded by a
 
 Microscopic image of schistosoma infection in intestinal tissue, showing parasitic eggs within the mucosa and surrounding inflammatory granulomas, highlighting micro-level pathology of this infectious helminth.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1076){ .md-button .md-button--primary }
+
 ---
 
 ## 13 Infectious
@@ -130,6 +152,8 @@ Microscopic image of schistosoma infection in intestinal tissue, showing parasit
 </video>
 
 Histology image of infected tissue showing schistosoma infection with granulomatous reaction surrounding parasitic eggs in intestinal mucosa, highlighting host immune response and tissue damage in endemic areas.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1076){ .md-button .md-button--primary }
 
 ---
 

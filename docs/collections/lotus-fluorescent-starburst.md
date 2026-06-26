@@ -23,6 +23,8 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 
 Macro view of lotus pollen grains glowing in fluorescent pink and blue, revealing radial ridges and tiny starburst patterns around each pore, for scientific imaging and stunning display.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0998){ .md-button .md-button--primary }
+
 ---
 
 ## 25 Pollen
@@ -35,6 +37,8 @@ Macro view of lotus pollen grains glowing in fluorescent pink and blue, revealin
 
 Macro close-up of vibrant purple pollen grains with ribbed, circular surfaces and central pores, glowing in blue and magenta hues to create a fluorescent, starburst-like micro landscape.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0999){ .md-button .md-button--primary }
+
 ---
 
 ## 26 Pollen
@@ -46,6 +50,8 @@ Macro close-up of vibrant purple pollen grains with ribbed, circular surfaces an
 </video>
 
 A vivid macro view of a lotus-like pollen bloom, with fluorescent yellow-orange filaments radiating from a blue core, creating a striking starburst pattern under dramatic lighting.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1000){ .md-button .md-button--primary }
 
 ---
 

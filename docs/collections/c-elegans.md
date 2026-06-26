@@ -23,6 +23,8 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 
 Fluorescent microscopy image of a curved Caenorhabditis elegans larva, displaying vibrant blue, green, and orange cellular structures that reveal tissue organization and nuclei within the segmented body.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0697){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Caenorhabditis Elegans
@@ -34,6 +36,8 @@ Fluorescent microscopy image of a curved Caenorhabditis elegans larva, displayin
 </video>
 
 Fluorescent Caenorhabditis elegans worms show detailed cellular anatomy, with blue nuclei, green cytoplasm, and orange outer boundaries, highlighted along a curved, segmented body in a high-contrast fluorescence image.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0698){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ Fluorescent Caenorhabditis elegans worms show detailed cellular anatomy, with bl
 
 A brightly colored, fluorescently stained organism forms a curved, segmented tube. Green and blue internal structures glow vividly, highlighting cellular organization and the intricate anatomy against a black background.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0699){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Caenorhabditis Elegans
@@ -58,6 +64,8 @@ A brightly colored, fluorescently stained organism forms a curved, segmented tub
 </video>
 
 Colorful high-resolution micrograph of a Caenorhabditis elegans nematode, showing vivid green, blue, and red cellular structures and organelles, revealing internal anatomy in glowing fluorescence throughout its body.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0700){ .md-button .md-button--primary }
 
 ---
 

@@ -23,5 +23,7 @@ This collection contains **1 assets** available in multiple resolutions and aspe
 
 A high-magnification microscopic view of a single cell with intracellular parasite, showing distinct organelles, membranes and surrounding blood cells, illustrating host–parasite interaction at the cellular level.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0894){ .md-button .md-button--primary }
+
 ---
 

@@ -16,72 +16,88 @@ This collection contains **12 assets** available in multiple resolutions and asp
 ## 1 Micro 12 Pathology 06 Dermatopathology Basal
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1206_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_01__Previews.webp)
+[![1 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1206_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_01__Previews.webp)](https://stockflow.media/?v=20260310_1206)
 
 Dermatopathology skin biopsy showing sebaceous gland units with basal keratinocytes in a fibrous dermal stroma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1206){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 12 Pathology 06 Dermatopathology Basal
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1207_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_01_Previews.webp)
+[![2 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1207_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_01_Previews.webp)](https://stockflow.media/?v=20260310_1207)
 
 Dermatopathology skin histology showing eccrine sweat glands in the dermis with ductal structures and surrounding connective tissue.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1207){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 12 Pathology 06 Dermatopathology Basal
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1208_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_02__Previews.webp)
+[![3 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1208_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_02__Previews.webp)](https://stockflow.media/?v=20260310_1208)
 
 Dermatopathology image of human skin showing features consistent with basal cell carcinoma in the dermis.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1208){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 12 Pathology 06 Dermatopathology Basal
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1209_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_02_Previews.webp)
+[![4 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1209_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_02_Previews.webp)](https://stockflow.media/?v=20260310_1209)
 
 Histology image of skin showing epidermal and dermal inflammatory cells with basal layer changes (dermatopathology).
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1209){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 12 Pathology 06 Dermatopathology Basal
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![5 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1210_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_03__Previews.webp)
+[![5 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1210_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_03__Previews.webp)](https://stockflow.media/?v=20260310_1210)
 
 Skin tissue micrograph showing dermal collagen with scattered nuclei and a basal epidermal layer, with inflammatory cells in the dermis.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1210){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 12 Pathology 06 Dermatopathology Basal
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![6 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1211_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_03_Previews.webp)
+[![6 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1211_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_03_Previews.webp)](https://stockflow.media/?v=20260310_1211)
 
 Histology image of a skin biopsy (basal layer) showing epidermal keratinocytes with a dense pink dermal matrix and scattered nuclei in the dermis.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1211){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 12 Pathology 06 Dermatopathology Basal
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![7 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1212_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_04__Previews.webp)
+[![7 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1212_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_04__Previews.webp)](https://stockflow.media/?v=20260310_1212)
 
 Dermatopathology: basal layer with nests of basaloid cells in pink-stained stroma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1212){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 12 Pathology 06 Dermatopathology Basal
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![8 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1213_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_04_Previews.webp)
+[![8 Micro 12 Pathology 06 Dermatopathology Basal](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1213_01_Micro_12_Pathology_06_Dermatopathology_Basal_W_04_Previews.webp)](https://stockflow.media/?v=20260310_1213)
 
 Basal cell carcinoma of the skin (dermatopathology).
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1213){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +111,8 @@ Basal cell carcinoma of the skin (dermatopathology).
 
 Histology slide of skin showing basal layer abnormalities with nests of round cells in a fibrous dermis, surrounded by connective tissue and inflammatory infiltrate.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0766){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Dermatopathology Basal
@@ -106,6 +124,8 @@ Histology slide of skin showing basal layer abnormalities with nests of round ce
 </video>
 
 Microscopic view of skin tissue showing basal cell proliferation with nests within pink stroma, scattered inflammatory cells, and prominent nuclei—a dermatopathology slide highlighting basal layer abnormalities.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0767){ .md-button .md-button--primary }
 
 ---
 
@@ -119,6 +139,8 @@ Microscopic view of skin tissue showing basal cell proliferation with nests with
 
 Micrograph from dermatopathology highlighting basal layer structures in skin, showing round cellular nests with prominent nuclei within the basal epithelium and surrounding connective tissue.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0768){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Dermatopathology Basal
@@ -130,6 +152,8 @@ Micrograph from dermatopathology highlighting basal layer structures in skin, sh
 </video>
 
 Dermatopathology basal lesion showing basaloid cell nests around duct-like structures within fibrous stroma, with prominent nuclei and mitotic activity, illustrating characteristic basal cell proliferation in this tissue section.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0768){ .md-button .md-button--primary }
 
 ---
 

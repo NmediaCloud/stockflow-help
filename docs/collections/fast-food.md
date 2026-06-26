@@ -23,6 +23,8 @@ This collection contains **8 assets** available in multiple resolutions and aspe
 
 busy fast food restaurant interior with customers and staff serving food
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260511_00128){ .md-button .md-button--primary }
+
 ---
 
 ## 07 Fast food 02
@@ -34,6 +36,8 @@ busy fast food restaurant interior with customers and staff serving food
 </video>
 
 busy fast food restaurant interior with customers and staff serving food
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260511_00129){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ busy fast food restaurant interior with customers and staff serving food
 
 busy fast food restaurant interior with customers enjoying meals
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260511_00130){ .md-button .md-button--primary }
+
 ---
 
 ## 07 Fast food 04
@@ -58,6 +64,8 @@ busy fast food restaurant interior with customers enjoying meals
 </video>
 
 families enjoying fast food in a casual restaurant setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260511_00131){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ families enjoying fast food in a casual restaurant setting
 
 busy fast food restaurant interior with customers enjoying meals
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260511_00132){ .md-button .md-button--primary }
+
 ---
 
 ## 07 Fast food 02
@@ -82,6 +92,8 @@ busy fast food restaurant interior with customers enjoying meals
 </video>
 
 customers ordering food at a fast food restaurant counter
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260511_00133){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +107,8 @@ customers ordering food at a fast food restaurant counter
 
 busy fast food restaurant interior with customers enjoying meals
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260511_00134){ .md-button .md-button--primary }
+
 ---
 
 ## 07 Fast food 04
@@ -106,6 +120,8 @@ busy fast food restaurant interior with customers enjoying meals
 </video>
 
 a hand reaching for a burger and fries on a wooden table in a casual restaurant
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260511_00135){ .md-button .md-button--primary }
 
 ---
 

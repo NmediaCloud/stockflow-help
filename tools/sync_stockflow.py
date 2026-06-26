@@ -321,19 +321,26 @@ def main():
             res = item.get("Resolution", "")
             fmt = item.get("Format", "")
             preview_url = (item.get("Preview_URL") or "").strip()
-            
+            file_id = (item.get("File_ID") or "").strip()
+            # Per-asset purchase / click-to-buy deep link on Stockflow.media.
+            purchase_url = f"{STOCKFLOW_BASE}?v={file_id}" if file_id else website_url
+
             collection_md += f"## {title}\n"
             collection_md += f"**Resolution:** {res} | **Format:** {fmt}\n\n"
             if preview_url:
                 if preview_url.lower().endswith(".mp4"):
+                    # Video can't be wrapped in a markdown link (it would block playback);
+                    # the Download/Buy button below carries the purchase link.
                     collection_md += f'<video controls controlsList="nodownload" oncontextmenu="return false;" width="100%" style="max-width:720px;">\n'
                     collection_md += f'  <source src="{preview_url}" type="video/mp4">\n'
                     collection_md += f'  <a href="{preview_url}">Preview video</a>\n'
                     collection_md += f'</video>\n\n'
                 else:
-                    collection_md += f"![{title}]({preview_url})\n\n"
+                    # Clickable image → purchase page.
+                    collection_md += f"[![{title}]({preview_url})]({purchase_url})\n\n"
             if desc:
                 collection_md += f"{desc}\n\n"
+            collection_md += f"[⬇ Download / Buy on Stockflow.media]({purchase_url}){{ .md-button .md-button--primary }}\n\n"
             collection_md += "---\n\n"
             
         with open(DOCS_PATH / "collections" / f"{slug}.md", "w", encoding="utf-8") as f:

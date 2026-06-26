@@ -23,5 +23,7 @@ This collection contains **1 assets** available in multiple resolutions and aspe
 
 A high-magnification image of parasitic flatworm larvae within host tissue, showing elongated, pink worm-like bodies among cells and surrounding cellular structures, likely captured by electron or confocal microscopy.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0877){ .md-button .md-button--primary }
+
 ---
 

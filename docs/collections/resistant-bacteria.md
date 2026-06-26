@@ -16,90 +16,110 @@ This collection contains **10 assets** available in multiple resolutions and asp
 ## 1 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0699_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_01__Previews.webp)
+[![1 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0699_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_01__Previews.webp)](https://stockflow.media/?v=20260310_0699)
 
 Colorized micrograph of rod-shaped bacteria with a surrounding biofilm and clustered structures suggesting antibiotic resistance.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0699){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0700_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_01_Previews.webp)
+[![2 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0700_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_01_Previews.webp)](https://stockflow.media/?v=20260310_0700)
 
 Close-up of rod-shaped bacteria forming a colorful biofilm on a textured surface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0700){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0701_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_02__Previews.webp)
+[![3 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0701_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_02__Previews.webp)](https://stockflow.media/?v=20260310_0701)
 
 Close-up of rod-shaped resistant bacteria on a surface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0701){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0702_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_02_Previews.webp)
+[![4 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0702_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_02_Previews.webp)](https://stockflow.media/?v=20260310_0702)
 
 Close-up of rod-shaped bacteria with tiny surface features, suggesting resistant bacteria.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0702){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![5 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0703_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_03__Previews.webp)
+[![5 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0703_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_03__Previews.webp)](https://stockflow.media/?v=20260310_0703)
 
 Colorized micrograph of resistant bacteria—dense, rod-shaped cells with some purple debris attached.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0703){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![6 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0704_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_04__Previews.webp)
+[![6 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0704_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_04__Previews.webp)](https://stockflow.media/?v=20260310_0704)
 
 Rod-shaped bacteria in chains, illustrating resistant bacteria.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0704){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![7 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0705_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_05__Previews.webp)
+[![7 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0705_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_05__Previews.webp)](https://stockflow.media/?v=20260310_0705)
 
 Colored micrograph of rod-shaped bacteria forming a tangled cluster, with hairlike pili and small surface particles. The filename suggests resistant bacteria.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0705){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![8 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0706_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_06__Previews.webp)
+[![8 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0706_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_06__Previews.webp)](https://stockflow.media/?v=20260310_0706)
 
 Electron micrograph of rod-shaped bacteria with surface particles, representing resistant bacteria.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0706){ .md-button .md-button--primary }
 
 ---
 
 ## 9 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![9 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0707_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_07__Previews.webp)
+[![9 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0707_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_07__Previews.webp)](https://stockflow.media/?v=20260310_0707)
 
 Close-up of rod-shaped bacteria on a textured surface, highlighting resistant bacterial cells.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0707){ .md-button .md-button--primary }
 
 ---
 
 ## 10 Micro 07 Bacteria 07 Resistant Bacteria
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![10 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0708_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_07_Previews.webp)
+[![10 Micro 07 Bacteria 07 Resistant Bacteria](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0708_01_Micro_07_Bacteria_07_Resistant_Bacteria_01_W_07_Previews.webp)](https://stockflow.media/?v=20260310_0708)
 
 Rod-shaped bacteria in pink-orange color on a surface, appearing clustered together.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0708){ .md-button .md-button--primary }
 
 ---
 

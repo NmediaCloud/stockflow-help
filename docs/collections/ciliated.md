@@ -23,6 +23,8 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 
 A highly magnified view of a ciliated epithelial surface, showing numerous hairlike projections and scattered secretory cells within a pink-stained cellular matrix with dark nuclei and mucus-producing granules.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1031){ .md-button .md-button--primary }
+
 ---
 
 ## 13 Cellular
@@ -34,6 +36,8 @@ A highly magnified view of a ciliated epithelial surface, showing numerous hairl
 </video>
 
 Close-up of a ciliated epithelial surface, revealing dense, hair-like cilia and layered cellular structure with numerous nuclei and secretory cells, illustrating microscopic cellular organization and mucus transport.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1032){ .md-button .md-button--primary }
 
 ---
 

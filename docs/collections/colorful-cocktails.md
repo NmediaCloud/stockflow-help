@@ -16,216 +16,264 @@ This collection contains **24 assets** available in multiple resolutions and asp
 ## 02 Colorful cocktails 01
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![02 Colorful cocktails 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00053_02_Colorful-cocktails_S_01_5760x5760_jpeg__preview.webp)
+[![02 Colorful cocktails 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00053_02_Colorful-cocktails_S_01_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00053)
 
 colorful cocktails garnished with flowers and gold flakes on a bar
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00053){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Colorful cocktails 02
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![02 Colorful cocktails 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00054_02_Colorful-cocktails_S_02_5760x5760_jpeg__preview.webp)
+[![02 Colorful cocktails 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00054_02_Colorful-cocktails_S_02_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00054)
 
 colorful cocktails with edible flowers and gold flakes on a table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00054){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 03
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![02 Colorful cocktails 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00055_02_Colorful-cocktails_S_03_5760x5760_jpeg__preview.webp)
+[![02 Colorful cocktails 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00055_02_Colorful-cocktails_S_03_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00055)
 
 colorful layered drinks with edible flowers and gold flakes on a festive table
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00055){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Colorful cocktails 04
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![02 Colorful cocktails 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00056_02_Colorful-cocktails_S_04_5760x5760_jpeg__preview.webp)
+[![02 Colorful cocktails 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00056_02_Colorful-cocktails_S_04_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00056)
 
 colorful cocktails with edible flowers and gold flakes on a bar counter
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00056){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 05
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![02 Colorful cocktails 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00057_02_Colorful-cocktails_S_05_5760x5760_jpeg__preview.webp)
+[![02 Colorful cocktails 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00057_02_Colorful-cocktails_S_05_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00057)
 
 a variety of colorful cocktails on a table with flowers and candles
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00057){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Colorful cocktails 06
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![02 Colorful cocktails 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00058_02_Colorful-cocktails_S_06_5760x5760_jpeg__preview.webp)
+[![02 Colorful cocktails 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00058_02_Colorful-cocktails_S_06_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00058)
 
 a beautifully arranged table with colorful cocktails and desserts at a garden party
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00058){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Colorful cocktails 07
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![02 Colorful cocktails 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00059_02_Colorful-cocktails_S_07_5760x5760_jpeg__preview.webp)
+[![02 Colorful cocktails 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00059_02_Colorful-cocktails_S_07_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00059)
 
 a beautifully arranged table with colorful cocktails and floral decorations at an outdoor event
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00059){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Colorful cocktails 08
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![02 Colorful cocktails 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00060_02_Colorful-cocktails_S_08_5760x5760_jpeg__preview.webp)
+[![02 Colorful cocktails 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00060_02_Colorful-cocktails_S_08_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00060)
 
 variety of colorful cocktails arranged on a table with decorative elements
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00060){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Colorful cocktails 01
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![02 Colorful cocktails 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00061_02_Colorful-cocktails_V_01_4320x7680_jpeg__preview.webp)
+[![02 Colorful cocktails 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00061_02_Colorful-cocktails_V_01_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00061)
 
 colorful cocktails with edible flowers on a table
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00061){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Colorful cocktails 02
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![02 Colorful cocktails 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00062_02_Colorful-cocktails_V_02_4320x7680_jpeg__preview.webp)
+[![02 Colorful cocktails 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00062_02_Colorful-cocktails_V_02_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00062)
 
 colorful cocktails garnished with flowers in a vibrant setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00062){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 03
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![02 Colorful cocktails 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00063_02_Colorful-cocktails_V_03_4320x7680_jpeg__preview.webp)
+[![02 Colorful cocktails 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00063_02_Colorful-cocktails_V_03_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00063)
 
 colorful cocktails with edible flowers and gold flakes on a table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00063){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 04
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![02 Colorful cocktails 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00064_02_Colorful-cocktails_V_04_4320x7680_jpeg__preview.webp)
+[![02 Colorful cocktails 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00064_02_Colorful-cocktails_V_04_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00064)
 
 colorful cocktails with flowers and gold accents on a bar counter
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00064){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 05
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![02 Colorful cocktails 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00065_02_Colorful-cocktails_V_05_4254x7799_jpeg__preview.webp)
+[![02 Colorful cocktails 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00065_02_Colorful-cocktails_V_05_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00065)
 
 a colorful array of cocktails garnished with fruits and flowers on a table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00065){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 06
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![02 Colorful cocktails 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00066_02_Colorful-cocktails_V_06_4254x7799_jpeg__preview.webp)
+[![02 Colorful cocktails 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00066_02_Colorful-cocktails_V_06_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00066)
 
 a variety of colorful cocktails arranged on a table with floral decorations
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00066){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 07
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![02 Colorful cocktails 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00067_02_Colorful-cocktails_V_07_4254x7799_jpeg__preview.webp)
+[![02 Colorful cocktails 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00067_02_Colorful-cocktails_V_07_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00067)
 
 colorful cocktails arranged on a table at a festive event
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00067){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 08
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![02 Colorful cocktails 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00068_02_Colorful-cocktails_V_08_4254x7799_jpeg__preview.webp)
+[![02 Colorful cocktails 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00068_02_Colorful-cocktails_V_08_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00068)
 
 a colorful array of cocktails garnished with fruits and flowers on a table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00068){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 01
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![02 Colorful cocktails 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00069_02_Colorful-cocktails_W_01_7680x4320_jpeg__preview.webp)
+[![02 Colorful cocktails 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00069_02_Colorful-cocktails_W_01_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00069)
 
 colorful cocktails with edible flowers and gold accents on a bar
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00069){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 02
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![02 Colorful cocktails 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00070_02_Colorful-cocktails_W_02_7680x4320_jpeg__preview.webp)
+[![02 Colorful cocktails 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00070_02_Colorful-cocktails_W_02_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00070)
 
 colorful cocktails with flowers in a festive setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00070){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 03
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![02 Colorful cocktails 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00071_02_Colorful-cocktails_W_03_7680x4320_jpeg__preview.webp)
+[![02 Colorful cocktails 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00071_02_Colorful-cocktails_W_03_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00071)
 
 colorful cocktails with edible flowers and gold flakes on a bar counter
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00071){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 04
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![02 Colorful cocktails 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00072_02_Colorful-cocktails_W_04_7680x4320_jpeg__preview.webp)
+[![02 Colorful cocktails 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00072_02_Colorful-cocktails_W_04_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00072)
 
 colorful cocktails with edible flowers and gold flakes on a table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00072){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 05
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![02 Colorful cocktails 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00073_02_Colorful-cocktails_W_05_7799x4254_jpeg__preview.webp)
+[![02 Colorful cocktails 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00073_02_Colorful-cocktails_W_05_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00073)
 
 variety of colorful cocktails arranged on a table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00073){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 06
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![02 Colorful cocktails 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00074_02_Colorful-cocktails_W_06_7799x4254_jpeg__preview.webp)
+[![02 Colorful cocktails 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00074_02_Colorful-cocktails_W_06_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00074)
 
 a variety of colorful cocktails arranged on a table with garnishes
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00074){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 07
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![02 Colorful cocktails 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00075_02_Colorful-cocktails_W_07_7799x4254_jpeg__preview.webp)
+[![02 Colorful cocktails 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00075_02_Colorful-cocktails_W_07_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00075)
 
 variety of colorful cocktails arranged on a table with candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00075){ .md-button .md-button--primary }
 
 ---
 
 ## 02 Colorful cocktails 08
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![02 Colorful cocktails 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00076_02_Colorful-cocktails_W_08_7799x4254_jpeg__preview.webp)
+[![02 Colorful cocktails 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00076_02_Colorful-cocktails_W_08_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00076)
 
 a variety of colorful cocktails arranged on a table with garnishes
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00076){ .md-button .md-button--primary }
 
 ---
 

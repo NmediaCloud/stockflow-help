@@ -4,6 +4,90 @@
 
 ---
 
+## Background — Abstract Creative
+
+**Post to:** r/biology | r/science | r/microscopy | r/educationalgifs
+
+**Reddit Title:**
+> Abstract Creative – Premium Stock Background Visuals | 497 assets in 4K/8K
+
+**Reddit Post:**
+> I just published a new **Abstract Creative** collection in the Background stock library at Stockflow.media.
+>
+> This pack includes 497 assets covering:
+>
+> • Bokeh City Lights
+> • Bokeh Colorful Gradient
+> • Bokeh Festive Lights
+> • Bokeh Gold Dots
+> • Bokeh Silver White
+> • ...and 15 more
+>
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
+>
+> 🌐 Browse: https://stockflow.media/?cat=Background&sub=Abstract+Creative
+> 📖 Details & previews: https://help.stockflow.media/subcategories/abstract-creative/
+>
+> All assets are royalty-free. No attribution required.
+
+---
+
+## Background — Abstract Industrial
+
+**Post to:** r/biology | r/science | r/microscopy | r/educationalgifs
+
+**Reddit Title:**
+> Abstract Industrial – Premium Stock Background Visuals | 423 assets in 4K/8K
+
+**Reddit Post:**
+> I just published a new **Abstract Industrial** collection in the Background stock library at Stockflow.media.
+>
+> This pack includes 423 assets covering:
+>
+> • Machinery Conveyor Shapes
+> • Machinery Gear Patterns
+> • Machinery Gears Outline
+> • Machinery Parts Shadows
+> • Machinery Pipes Shadow
+> • ...and 15 more
+>
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
+>
+> 🌐 Browse: https://stockflow.media/?cat=Background&sub=Abstract+Industrial
+> 📖 Details & previews: https://help.stockflow.media/subcategories/abstract-industrial/
+>
+> All assets are royalty-free. No attribution required.
+
+---
+
+## Background — Abstract Nature
+
+**Post to:** r/biology | r/science | r/microscopy | r/educationalgifs
+
+**Reddit Title:**
+> Abstract Nature – Premium Stock Background Visuals | 550 assets in 4K/8K
+
+**Reddit Post:**
+> I just published a new **Abstract Nature** collection in the Background stock library at Stockflow.media.
+>
+> This pack includes 550 assets covering:
+>
+> • Cloud Cirrus Streaks
+> • Cloud Fog Mist
+> • Cloud Sky Formations
+> • Cloud Storm Gradient
+> • Cloud Sunset Layers
+> • ...and 16 more
+>
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
+>
+> 🌐 Browse: https://stockflow.media/?cat=Background&sub=Abstract+Nature
+> 📖 Details & previews: https://help.stockflow.media/subcategories/abstract-nature/
+>
+> All assets are royalty-free. No attribution required.
+
+---
+
 ## Catering Events — Catering Menu
 
 **Post to:** r/biology | r/science | r/microscopy | r/educationalgifs

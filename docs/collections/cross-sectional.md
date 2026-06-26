@@ -23,6 +23,8 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 
 A stylized cross-sectional micrograph of skin tissue, showing layered epidermis and dermis with orange vascular networks and purple cellular structures, illustrating complex interactions between blood vessels, nerves, and surrounding cells.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1108){ .md-button .md-button--primary }
+
 ---
 
 ## 4 Food Fungi
@@ -34,6 +36,8 @@ A stylized cross-sectional micrograph of skin tissue, showing layered epidermis 
 </video>
 
 A stylized, cross-sectional microscopic illustration showing fungal networks weaving through food tissue, with vibrant orange hyphae and purple spores highlighting microbial colonization at the surface and beneath layers.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1109){ .md-button .md-button--primary }
 
 ---
 

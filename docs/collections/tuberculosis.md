@@ -16,72 +16,88 @@ This collection contains **11 assets** available in multiple resolutions and asp
 ## 1 Micro 12 Pathology 20 Infectious Tuberculosis
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1314_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_01__Previews.webp)
+[![1 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1314_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_01__Previews.webp)](https://stockflow.media/?v=20260310_1314)
 
 Histology of infectious tuberculosis showing a lung granuloma with epithelioid histiocytes and central caseation.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1314){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 12 Pathology 20 Infectious Tuberculosis
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1315_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_01_Previews.webp)
+[![2 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1315_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_01_Previews.webp)](https://stockflow.media/?v=20260310_1315)
 
 Tuberculosis granuloma with caseating necrosis in tissue.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1315){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 12 Pathology 20 Infectious Tuberculosis
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1316_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_02__Previews.webp)
+[![3 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1316_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_02__Previews.webp)](https://stockflow.media/?v=20260310_1316)
 
 Histopathology of tuberculosis showing granulomatous inflammation with epithelioid histiocytes, Langhans-type giant cells, and caseating necrosis.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1316){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 12 Pathology 20 Infectious Tuberculosis
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1317_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_02_Previews.webp)
+[![4 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1317_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_02_Previews.webp)](https://stockflow.media/?v=20260310_1317)
 
 Histology of lung tissue showing granulomatous inflammation with macrophages and multinucleated giant cells, consistent with infectious tuberculosis.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1317){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 12 Pathology 20 Infectious Tuberculosis
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![5 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1318_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_03__Previews.webp)
+[![5 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1318_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_03__Previews.webp)](https://stockflow.media/?v=20260310_1318)
 
 Histologic tuberculous granuloma with central necrosis and macrophage/giant cell core within inflamed tissue.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1318){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 12 Pathology 20 Infectious Tuberculosis
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![6 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1319_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_03_Previews.webp)
+[![6 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1319_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_03_Previews.webp)](https://stockflow.media/?v=20260310_1319)
 
 Granulomatous inflammation with a caseating necrotic center and multinucleated giant cells, consistent with infectious tuberculosis in tissue.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1319){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 12 Pathology 20 Infectious Tuberculosis
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![7 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1320_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_04__Previews.webp)
+[![7 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1320_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_04__Previews.webp)](https://stockflow.media/?v=20260310_1320)
 
 Histology of granulomatous inflammation in lung tissue with caseating necrosis and Langhans-type giant cells.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1320){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 12 Pathology 20 Infectious Tuberculosis
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![8 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1321_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_04_Previews.webp)
+[![8 Micro 12 Pathology 20 Infectious Tuberculosis](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1321_01_Micro_12_Pathology_20_Infectious_Tuberculosis_W_04_Previews.webp)](https://stockflow.media/?v=20260310_1321)
 
 Histology of infectious tuberculosis with granulomatous inflammation, caseating necrosis, and multinucleated giant cells in lung tissue.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1321){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +111,8 @@ Histology of infectious tuberculosis with granulomatous inflammation, caseating 
 
 Tuberculosis-related granulomatous tissue section showing scattered macrophages, epithelioid cells, and multinucleated giant cells surrounding a necrotic core, highlighting classic caseous appearance and inflammatory infiltrate within surrounding tissue matrix.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1065){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Infectious
@@ -107,6 +125,8 @@ Tuberculosis-related granulomatous tissue section showing scattered macrophages,
 
 Histological view of a granulomatous lesion with central necrosis, surrounded by epithelioid cells and lymphocytes, featuring multinucleated giant cells, consistent with a tuberculous granuloma in tissue.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1066){ .md-button .md-button--primary }
+
 ---
 
 ## 03 Infectious
@@ -118,6 +138,8 @@ Histological view of a granulomatous lesion with central necrosis, surrounded by
 </video>
 
 Microscopic image showing a tuberculosis granuloma with lipid-rich macrophages, central caseation, and lymphocytic rim, illustrating granulomatous inflammation typical of infectious TB in lung tissue, characterized by sequestration of necrotic tissue.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1067){ .md-button .md-button--primary }
 
 ---
 

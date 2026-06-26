@@ -23,6 +23,8 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 
 Micrograph depicts neural tissue with Parkinson-related pathology, showing aggregates and cellular structures at high magnification, illustrating neuropathological features such as abnormal protein clumps and tangled networks.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1083){ .md-button .md-button--primary }
+
 ---
 
 ## 05 Neuropathology
@@ -35,6 +37,8 @@ Micrograph depicts neural tissue with Parkinson-related pathology, showing aggre
 
 A high-magnification view of brain tissue showing neuron networks, fibrous extensions, and dense cellular clusters with protein deposits, illustrating neuropathology features relevant to Parkinson’s disease.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1084){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Neuropathology
@@ -46,6 +50,8 @@ A high-magnification view of brain tissue showing neuron networks, fibrous exten
 </video>
 
 High magnification micrograph of brain tissue revealing tangled neural processes, purple-stained cell nuclei and clustered plaques, illustrating neuropathological features associated with Parkinson’s disease and neurodegenerative decline.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1085){ .md-button .md-button--primary }
 
 ---
 

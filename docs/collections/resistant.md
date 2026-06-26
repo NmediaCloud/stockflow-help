@@ -23,6 +23,8 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 
 A close-up of rod-shaped bacteria forming a dense mix on a surface, with filamentous web-like structures and tiny dots indicating attached particles, highlighting microbial communities and antibiotic resistance.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0787){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Resistant Bacteria
@@ -34,6 +36,8 @@ A close-up of rod-shaped bacteria forming a dense mix on a surface, with filamen
 </video>
 
 Close-up of rod-shaped bacteria forming a dense community, featuring surface-bound micro-colonies and tiny protrusions, illustrating microbial resistance and biofilm formation in a nutrient-rich environment today.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0788){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ Close-up of rod-shaped bacteria forming a dense community, featuring surface-bou
 
 Close-up view of rod-shaped bacteria forming a dense community on a surface, showcasing intricate microstructures and tiny attached particles, highlighting microbial life and potential antibiotic resistance dynamics.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0789){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Resistant Bacteria
@@ -58,6 +64,8 @@ Close-up view of rod-shaped bacteria forming a dense community on a surface, sho
 </video>
 
 Micrograph of rod-shaped bacteria, showing resistant bacteria clusters with surface particles; a high-fidelity view of microbial cells and tiny debris scattered across a dark background.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0790){ .md-button .md-button--primary }
 
 ---
 

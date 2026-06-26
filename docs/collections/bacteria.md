@@ -23,6 +23,8 @@ This collection contains **16 assets** available in multiple resolutions and asp
 
 High fidelity micrograph of a two-cell biological creature, showcasing a segmented, bead-like structure with numerous surface particles and long filamentous appendages extending from opposite ends.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0130){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Bacterial Cell
@@ -34,6 +36,8 @@ High fidelity micrograph of a two-cell biological creature, showcasing a segment
 </video>
 
 A high-fidelity micrograph shows a three-segment chain-like cell cluster with textured surfaces and threadlike filaments extending from both ends, illustrating a delicate, baroque arrangement of tiny biological units.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0131){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ A high-fidelity micrograph shows a three-segment chain-like cell cluster with te
 
 A high-fidelity scanning electron image of a three-segment microorganism with delicate filamentous extensions, resembling a chain of cells amid a starburst of slender tails extending outward in black.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0132){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Bacterial Cell
@@ -58,6 +64,8 @@ A high-fidelity scanning electron image of a three-segment microorganism with de
 </video>
 
 A three-segment, bead-like cellular chain with slender, filamentous extensions at both ends, viewed under high magnification against black background; resembles a microscopic organism or colonial algae.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0133){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ A three-segment, bead-like cellular chain with slender, filamentous extensions a
 
 A high-magnification view of a segmented, spindle-shaped organism with bead-like surface structures and wispy filamentous extensions emanating from both ends, set against a dark background.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0134){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Bacterial Cell
@@ -82,6 +92,8 @@ A high-magnification view of a segmented, spindle-shaped organism with bead-like
 </video>
 
 Scanning electron micrograph of connected bacterial cells in a chain, showing textured surfaces, rough cell walls, and scattered extracellular particles, highlighting microbial cell division and surface details at high magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0135){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +107,8 @@ Scanning electron micrograph of connected bacterial cells in a chain, showing te
 
 A rod-shaped bacterium with numerous long flagella extending from both ends, depicted in high-contrast grayscale against a black background, highlighting its textured surface and hair-like appendages in micrograph.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0136){ .md-button .md-button--primary }
+
 ---
 
 ## 08 Bacterial Cell
@@ -106,6 +120,8 @@ A rod-shaped bacterium with numerous long flagella extending from both ends, dep
 </video>
 
 A high-fidelity scanning electron image reveals a single-celled organism with a segmented body and numerous radiating extensions, illustrating its intricate surface textures and adhesive filaments.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0137){ .md-button .md-button--primary }
 
 ---
 
@@ -119,6 +135,8 @@ A high-fidelity scanning electron image reveals a single-celled organism with a 
 
 A high-magnification image of a bacterium, featuring a rounded, textured body covered with tiny surface structures and long, whip-like flagella dramatically extending from both ends.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0224){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Bacterial Cell
@@ -130,6 +148,8 @@ A high-magnification image of a bacterium, featuring a rounded, textured body co
 </video>
 
 A high-resolution electron micrograph of a segmented single cell with fine extracellular filaments, showing textured surfaces and slender extensions against a dark background, capturing intricate microbial structure.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0225){ .md-button .md-button--primary }
 
 ---
 
@@ -143,6 +163,8 @@ A high-resolution electron micrograph of a segmented single cell with fine extra
 
 A single, rod-shaped bacterium shows a textured surface and numerous long flagella extending from both ends, depicted in high-contrast grayscale to reveal fine surface detail and hair-like appendages.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0226){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Bacterial Cell
@@ -154,6 +176,8 @@ A single, rod-shaped bacterium shows a textured surface and numerous long flagel
 </video>
 
 A high-fidelity electron microscope image reveals a tiny, segmented crustacean-like organism with long antennae and delicate appendages, captured against a dark backdrop, highlighting intricate surface textures and cellular details.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0227){ .md-button .md-button--primary }
 
 ---
 
@@ -167,6 +191,8 @@ A high-fidelity electron microscope image reveals a tiny, segmented crustacean-l
 
 Color-enhanced microscopic view of a single cell containing a blue nucleus surrounded by blue rod-shaped bacteria, set against a brown extracellular matrix, illustrating intracellular organelles and microbial interactions.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0800){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Bacteria
@@ -178,6 +204,8 @@ Color-enhanced microscopic view of a single cell containing a blue nucleus surro
 </video>
 
 A color-enhanced microscopic image showing a membrane-bound cell with blue rod-shaped bacteria inside, surrounded by orange tissue. The vivid contrast highlights cellular structure and microbial visitors at high magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0801){ .md-button .md-button--primary }
 
 ---
 
@@ -191,6 +219,8 @@ A color-enhanced microscopic image showing a membrane-bound cell with blue rod-s
 
 A vibrant, macro microscopic view of circular, layered cellular structures, inspired by artistic micro bacteria time lapse, blending radiant colors into an abstract, expressive depiction suitable for mp4-inspired visuals.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0802){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Bacteria
@@ -202,6 +232,8 @@ A vibrant, macro microscopic view of circular, layered cellular structures, insp
 </video>
 
 A vibrant macro-inspired circular pattern resembling a microscopic cross-section, with glowing rings and scattered spheres arranged in concentric layers, illuminated by a radiant rainbow spectrum for a striking abstract composition.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0803){ .md-button .md-button--primary }
 
 ---
 

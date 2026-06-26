@@ -16,432 +16,528 @@ This collection contains **48 assets** available in multiple resolutions and asp
 ## 09 Buffet service style 01
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00405_09_Buffet-service-style_S_01_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00405_09_Buffet-service-style_S_01_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00405)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00405){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 02
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00406_09_Buffet-service-style_S_02_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00406_09_Buffet-service-style_S_02_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00406)
 
 a beautifully arranged buffet table with grilled meats and fresh salads
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00406){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Buffet service style 03
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00407_09_Buffet-service-style_S_03_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00407_09_Buffet-service-style_S_03_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00407)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00407){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 04
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00408_09_Buffet-service-style_S_04_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00408_09_Buffet-service-style_S_04_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00408)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00408){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 05
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00409_09_Buffet-service-style_S_05_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00409_09_Buffet-service-style_S_05_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00409)
 
 elegantly arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00409){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 06
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00410_09_Buffet-service-style_S_06_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00410_09_Buffet-service-style_S_06_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00410)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00410){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 07
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00411_09_Buffet-service-style_S_07_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00411_09_Buffet-service-style_S_07_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00411)
 
 a beautifully arranged buffet table featuring grilled meats and fresh salads
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00411){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Buffet service style 08
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00412_09_Buffet-service-style_S_08_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00412_09_Buffet-service-style_S_08_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00412)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00412){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 09
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 09](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00413_09_Buffet-service-style_S_09_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 09](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00413_09_Buffet-service-style_S_09_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00413)
 
 elegantly arranged buffet table with various gourmet dishes and candlelight
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00413){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Buffet service style 10
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 10](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00414_09_Buffet-service-style_S_10_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 10](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00414_09_Buffet-service-style_S_10_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00414)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00414){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 11
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 11](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00415_09_Buffet-service-style_S_11_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 11](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00415_09_Buffet-service-style_S_11_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00415)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00415){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 12
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 12](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00416_09_Buffet-service-style_S_12_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 12](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00416_09_Buffet-service-style_S_12_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00416)
 
 a beautifully arranged buffet table with various dishes and decorations
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00416){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Buffet service style 13
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 13](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00417_09_Buffet-service-style_S_13_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 13](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00417_09_Buffet-service-style_S_13_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00417)
 
 catered buffet with various dishes served at a formal event
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00417){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Buffet service style 14
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 14](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00418_09_Buffet-service-style_S_14_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 14](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00418_09_Buffet-service-style_S_14_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00418)
 
 catered buffet with servers arranging a variety of dishes in a banquet hall
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00418){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Buffet service style 15
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 15](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00419_09_Buffet-service-style_S_15_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 15](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00419_09_Buffet-service-style_S_15_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00419)
 
 waitstaff serving a buffet of various dishes at a formal event
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00419){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Buffet service style 16
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![09 Buffet service style 16](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00420_09_Buffet-service-style_S_16_5760x5760_jpeg__preview.webp)
+[![09 Buffet service style 16](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00420_09_Buffet-service-style_S_16_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00420)
 
 caterers serving a variety of dishes at a formal event
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00420){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Buffet service style 01
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00421_09_Buffet-service-style_V_01_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00421_09_Buffet-service-style_V_01_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00421)
 
 a beautifully arranged buffet with various dishes and candles in a warm setting
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00421){ .md-button .md-button--primary }
+
 ---
 
 ## 09 Buffet service style 02
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00422_09_Buffet-service-style_V_02_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00422_09_Buffet-service-style_V_02_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00422)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00422){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 03
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00423_09_Buffet-service-style_V_03_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00423_09_Buffet-service-style_V_03_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00423)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00423){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 04
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00424_09_Buffet-service-style_V_04_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00424_09_Buffet-service-style_V_04_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00424)
 
 a beautifully arranged buffet table with various dishes and elegant decor
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00424){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 05
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00425_09_Buffet-service-style_V_05_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00425_09_Buffet-service-style_V_05_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00425)
 
 a beautifully arranged buffet table with various dishes and candlelight
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00425){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 06
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00426_09_Buffet-service-style_V_06_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00426_09_Buffet-service-style_V_06_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00426)
 
 elegantly arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00426){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 07
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00427_09_Buffet-service-style_V_07_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00427_09_Buffet-service-style_V_07_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00427)
 
 a beautifully arranged buffet table with various dishes and salads
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00427){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 08
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00428_09_Buffet-service-style_V_08_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00428_09_Buffet-service-style_V_08_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00428)
 
 a beautifully arranged buffet table featuring various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00428){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 09
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 09](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00429_09_Buffet-service-style_V_09_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 09](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00429_09_Buffet-service-style_V_09_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00429)
 
 a beautifully arranged buffet table with various dishes and elegant decor
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00429){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 10
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 10](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00430_09_Buffet-service-style_V_10_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 10](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00430_09_Buffet-service-style_V_10_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00430)
 
 buffet table with various dishes and candles in a warm setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00430){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 11
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 11](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00431_09_Buffet-service-style_V_11_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 11](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00431_09_Buffet-service-style_V_11_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00431)
 
 a beautifully arranged buffet with roasted meat and fresh vegetables
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00431){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 12
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![09 Buffet service style 12](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00432_09_Buffet-service-style_V_12_4320x7680_jpeg__preview.webp)
+[![09 Buffet service style 12](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00432_09_Buffet-service-style_V_12_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00432)
 
 buffet table filled with various gourmet dishes and elegant serving trays
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00432){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 13
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![09 Buffet service style 13](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00433_09_Buffet-service-style_V_13_4254x7799_jpeg__preview.webp)
+[![09 Buffet service style 13](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00433_09_Buffet-service-style_V_13_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00433)
 
 people serving food at a buffet in a formal setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00433){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 14
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![09 Buffet service style 14](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00434_09_Buffet-service-style_V_14_4254x7799_jpeg__preview.webp)
+[![09 Buffet service style 14](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00434_09_Buffet-service-style_V_14_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00434)
 
 catered buffet with guests serving themselves at a formal event
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00434){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 15
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![09 Buffet service style 15](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00435_09_Buffet-service-style_V_15_4254x7799_jpeg__preview.webp)
+[![09 Buffet service style 15](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00435_09_Buffet-service-style_V_15_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00435)
 
 catered buffet with waitstaff serving food at a formal event
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00435){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 16
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![09 Buffet service style 16](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00436_09_Buffet-service-style_V_16_4254x7799_jpeg__preview.webp)
+[![09 Buffet service style 16](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00436_09_Buffet-service-style_V_16_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00436)
 
 catering staff serving food at a buffet during an event
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00436){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 01
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00437_09_Buffet-service-style_W_01_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00437_09_Buffet-service-style_W_01_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00437)
 
 a beautifully arranged buffet table with various fresh vegetables and meats
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00437){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 02
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00438_09_Buffet-service-style_W_02_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00438_09_Buffet-service-style_W_02_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00438)
 
 elegantly arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00438){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 03
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00439_09_Buffet-service-style_W_03_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00439_09_Buffet-service-style_W_03_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00439)
 
 buffet table with various dishes and candles in a dimly lit setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00439){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 04
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00440_09_Buffet-service-style_W_04_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00440_09_Buffet-service-style_W_04_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00440)
 
 a lavish buffet table filled with gourmet dishes and fresh greens
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00440){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 05
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00441_09_Buffet-service-style_W_05_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00441_09_Buffet-service-style_W_05_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00441)
 
 elegantly arranged buffet table with various gourmet dishes and floral decorations
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00441){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 06
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00442_09_Buffet-service-style_W_06_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00442_09_Buffet-service-style_W_06_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00442)
 
 a beautifully arranged buffet table with various gourmet dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00442){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 07
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00443_09_Buffet-service-style_W_07_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00443_09_Buffet-service-style_W_07_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00443)
 
 a beautifully arranged buffet with various meats and salads under soft lighting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00443){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 08
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00444_09_Buffet-service-style_W_08_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00444_09_Buffet-service-style_W_08_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00444)
 
 a beautifully arranged buffet table with various dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00444){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 09
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 09](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00445_09_Buffet-service-style_W_09_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 09](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00445_09_Buffet-service-style_W_09_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00445)
 
 a beautifully arranged buffet table with various dishes and salads
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00445){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 10
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 10](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00446_09_Buffet-service-style_W_10_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 10](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00446_09_Buffet-service-style_W_10_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00446)
 
 a beautifully arranged buffet table with various dishes and elegant decor
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00446){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 11
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 11](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00447_09_Buffet-service-style_W_11_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 11](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00447_09_Buffet-service-style_W_11_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00447)
 
 elegantly arranged buffet table with various gourmet dishes and candles
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00447){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 12
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![09 Buffet service style 12](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00448_09_Buffet-service-style_W_12_7680x4320_jpeg__preview.webp)
+[![09 Buffet service style 12](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00448_09_Buffet-service-style_W_12_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00448)
 
 a buffet table featuring various dishes including meat and vegetables
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00448){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 13
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![09 Buffet service style 13](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00449_09_Buffet-service-style_W_13_7799x4254_jpeg__preview.webp)
+[![09 Buffet service style 13](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00449_09_Buffet-service-style_W_13_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00449)
 
 elegantly arranged buffet table at a formal event with guests serving themselves
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00449){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 14
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![09 Buffet service style 14](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00450_09_Buffet-service-style_W_14_7799x4254_jpeg__preview.webp)
+[![09 Buffet service style 14](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00450_09_Buffet-service-style_W_14_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00450)
 
 catered buffet with servers and a variety of dishes at a formal event
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00450){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 15
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![09 Buffet service style 15](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00451_09_Buffet-service-style_W_15_7799x4254_jpeg__preview.webp)
+[![09 Buffet service style 15](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00451_09_Buffet-service-style_W_15_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00451)
 
 a buffet table with a variety of dishes being served by a waiter
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00451){ .md-button .md-button--primary }
 
 ---
 
 ## 09 Buffet service style 16
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![09 Buffet service style 16](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00452_09_Buffet-service-style_W_16_7799x4254_jpeg__preview.webp)
+[![09 Buffet service style 16](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/10_Wedding-regular/Jpeg/20260517_00452_09_Buffet-service-style_W_16_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00452)
 
 people serving food at a buffet table in a banquet hall
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00452){ .md-button .md-button--primary }
 
 ---
 

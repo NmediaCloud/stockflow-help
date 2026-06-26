@@ -16,117 +16,143 @@ This collection contains **25 assets** available in multiple resolutions and asp
 ## 1 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0850_01_Micro_09_Parasite_02_Giardia_Lamblia_v2_W_02__Previews.webp)
+[![1 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0850_01_Micro_09_Parasite_02_Giardia_Lamblia_v2_W_02__Previews.webp)](https://stockflow.media/?v=20260310_0850)
 
 Micrograph of Giardia lamblia, an intestinal parasite, showing a pear-shaped body with two nuclei and multiple long flagella.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0850){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0851_01_Micro_09_Parasite_02_Giardia_Lamblia_v2_W_02_Previews.webp)
+[![2 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0851_01_Micro_09_Parasite_02_Giardia_Lamblia_v2_W_02_Previews.webp)](https://stockflow.media/?v=20260310_0851)
 
 Giardia lamblia, a flagellated protozoan parasite with two nuclei.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0851){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 11092x6050 | **Format:** 16:9
 
-![3 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0852_01_Micro_09_Parasite_02_Giardia_Lamblia_v4_01__Previews.webp)
+[![3 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0852_01_Micro_09_Parasite_02_Giardia_Lamblia_v4_01__Previews.webp)](https://stockflow.media/?v=20260310_0852)
 
 Microscopic image of Giardia lamblia trophozoite with multiple flagella.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0852){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0853_01_Micro_09_Parasite_02_Giardia_Lamblia_v4_01_Previews.webp)
+[![4 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0853_01_Micro_09_Parasite_02_Giardia_Lamblia_v4_01_Previews.webp)](https://stockflow.media/?v=20260310_0853)
 
 Microscopic image of Giardia lamblia, a parasitic protozoan, showing a pear-shaped body with multiple flagella.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0853){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![5 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0854_01_Micro_09_Parasite_02_Giardia_Lamblia_W_01__Previews.webp)
+[![5 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0854_01_Micro_09_Parasite_02_Giardia_Lamblia_W_01__Previews.webp)](https://stockflow.media/?v=20260310_0854)
 
 Giardia lamblia trophozoite with multiple flagella.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0854){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![6 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0855_01_Micro_09_Parasite_02_Giardia_Lamblia_W_01_Previews.webp)
+[![6 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0855_01_Micro_09_Parasite_02_Giardia_Lamblia_W_01_Previews.webp)](https://stockflow.media/?v=20260310_0855)
 
 Giardia lamblia parasite with multiple flagella and internal vesicles.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0855){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![7 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0856_01_Micro_09_Parasite_02_Giardia_Lamblia_W_03__Previews.webp)
+[![7 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0856_01_Micro_09_Parasite_02_Giardia_Lamblia_W_03__Previews.webp)](https://stockflow.media/?v=20260310_0856)
 
 Giardia lamblia trophozoite with two nuclei and multiple flagella.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0856){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![8 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0857_01_Micro_09_Parasite_02_Giardia_Lamblia_W_03_Previews.webp)
+[![8 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0857_01_Micro_09_Parasite_02_Giardia_Lamblia_W_03_Previews.webp)](https://stockflow.media/?v=20260310_0857)
 
 Microscopic image of Giardia lamblia trophozoite with multiple flagella and a pear-shaped body.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0857){ .md-button .md-button--primary }
 
 ---
 
 ## 9 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![9 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0858_01_Micro_09_Parasite_02_Giardia_Lamblia_W_04__Previews.webp)
+[![9 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0858_01_Micro_09_Parasite_02_Giardia_Lamblia_W_04__Previews.webp)](https://stockflow.media/?v=20260310_0858)
 
 Microscopic illustration of Giardia lamblia, a flagellated protozoan parasite.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0858){ .md-button .md-button--primary }
 
 ---
 
 ## 10 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![10 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0859_01_Micro_09_Parasite_02_Giardia_Lamblia_W_04_Previews.webp)
+[![10 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0859_01_Micro_09_Parasite_02_Giardia_Lamblia_W_04_Previews.webp)](https://stockflow.media/?v=20260310_0859)
 
 Giardia lamblia parasite with multiple flagella, a flagellated microbe.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0859){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![11 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0860_01_Micro_09_Parasite_02_Giardia_Lamblia_W_05__Previews.webp)
+[![11 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0860_01_Micro_09_Parasite_02_Giardia_Lamblia_W_05__Previews.webp)](https://stockflow.media/?v=20260310_0860)
 
 Giardia lamblia trophozoite with multiple flagella.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0860){ .md-button .md-button--primary }
 
 ---
 
 ## 12 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![12 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0861_01_Micro_09_Parasite_02_Giardia_Lamblia_W_06__Previews.webp)
+[![12 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0861_01_Micro_09_Parasite_02_Giardia_Lamblia_W_06__Previews.webp)](https://stockflow.media/?v=20260310_0861)
 
 Illustration of Giardia lamblia, a pear-shaped, flagellated parasite with internal vesicles.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0861){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Micro 09 Parasite 02 Giardia Lamblia
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![13 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0862_01_Micro_09_Parasite_02_Giardia_Lamblia_W_07__Previews.webp)
+[![13 Micro 09 Parasite 02 Giardia Lamblia](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0862_01_Micro_09_Parasite_02_Giardia_Lamblia_W_07__Previews.webp)](https://stockflow.media/?v=20260310_0862)
 
 Giardia lamblia parasite, a pear-shaped protozoan with multiple flagella and internal cysts.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0862){ .md-button .md-button--primary }
 
 ---
 
@@ -140,6 +166,8 @@ Giardia lamblia parasite, a pear-shaped protozoan with multiple flagella and int
 
 A magnified view of a rotifer-like microorganism with a shielded body, segmented internal organs, and multiple ciliated tail appendages, surrounded by smaller particles in a nutrient-rich microenvironment.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0862){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Giardia Lamblia
@@ -151,6 +179,8 @@ A magnified view of a rotifer-like microorganism with a shielded body, segmented
 </video>
 
 A Giardia lamblia trophozoite under the microscope, displaying a pear-shaped body with multiple flagella, internal organelles and distinctive nuclei, illustrating its parasitic life stage in aquatic environments.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0863){ .md-button .md-button--primary }
 
 ---
 
@@ -164,6 +194,8 @@ A Giardia lamblia trophozoite under the microscope, displaying a pear-shaped bod
 
 A microscopic image of Giardia lamblia, a flagellated parasite, showing its oval body with multiple flagella and internal organelles, illuminated in a pale yellowish glow.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0864){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Giardia Lamblia
@@ -175,6 +207,8 @@ A microscopic image of Giardia lamblia, a flagellated parasite, showing its oval
 </video>
 
 Microscopic image of Giardia lamblia, a flagellated protozoan parasite. The organism shows a pear-shaped body with two nuclei and multiple flagella, illustrating its complex life cycle and pathogenic potential.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0865){ .md-button .md-button--primary }
 
 ---
 
@@ -188,6 +222,8 @@ Microscopic image of Giardia lamblia, a flagellated protozoan parasite. The orga
 
 A microscopic aquatic crustacean displaying an elongated body, segmented abdomen, and numerous feather-like tail filaments, gliding through a debris-filled freshwater environment in a laboratory slide.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0866){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Giardia Lamblia
@@ -199,6 +235,8 @@ A microscopic aquatic crustacean displaying an elongated body, segmented abdomen
 </video>
 
 A microscopic Giardia lamblia trophozoite, a flagellated parasite, displayed with multiple tail-like flagella, two main nuclei, and internal organelles, swimming in a clear fluid under high magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0867){ .md-button .md-button--primary }
 
 ---
 
@@ -212,6 +250,8 @@ A microscopic Giardia lamblia trophozoite, a flagellated parasite, displayed wit
 
 Microscopic view of Giardia lamblia, a parasitic protozoan, displaying its oval body filled with organelles and multiple whip-like flagella, illustrating its motility and complex internal structure.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0868){ .md-button .md-button--primary }
+
 ---
 
 ## 08 Giardia Lamblia
@@ -223,6 +263,8 @@ Microscopic view of Giardia lamblia, a parasitic protozoan, displaying its oval 
 </video>
 
 Micro video of Giardia lamblia, a parasite protozoan, displaying its pear-shaped body and eight trailing flagella as it moves and interacts with surrounding medium.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0869){ .md-button .md-button--primary }
 
 ---
 
@@ -236,6 +278,8 @@ Micro video of Giardia lamblia, a parasite protozoan, displaying its pear-shaped
 
 Microscopic view of Giardia lamblia, a flagellated parasite. The pear-shaped organism displays two nuclei and multiple long flagella, captured in vivid detail against a pale background.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0870){ .md-button .md-button--primary }
+
 ---
 
 ## 10 Giardia Lamblia
@@ -247,6 +291,8 @@ Microscopic view of Giardia lamblia, a flagellated parasite. The pear-shaped org
 </video>
 
 Microscopic image of Giardia lamblia, a flagellated parasite, showing its pear-shaped body with two nuclei and multiple long flagella, along with internal organelles and vacuoles.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0871){ .md-button .md-button--primary }
 
 ---
 
@@ -260,6 +306,8 @@ Microscopic image of Giardia lamblia, a flagellated parasite, showing its pear-s
 
 Under the microscope, a translucent, elongated aquatic protozoan with multiple tail-like appendages radiating from a central body, housing internal organelles and numerous round vesicles inside.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0872){ .md-button .md-button--primary }
+
 ---
 
 ## 12 Giardia Lamblia
@@ -271,6 +319,8 @@ Under the microscope, a translucent, elongated aquatic protozoan with multiple t
 </video>
 
 Micrograph of Giardia lamblia, a protozoan parasite, revealing its pear-shaped, double-layered body with multiple flagella, captured in a bright field micrograph, highlighting organelles and internal vacuoles.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0873){ .md-button .md-button--primary }
 
 ---
 

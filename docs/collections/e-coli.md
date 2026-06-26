@@ -16,99 +16,121 @@ This collection contains **14 assets** available in multiple resolutions and asp
 ## 1 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0664_01_Micro_07_Bacteria_04_E._Coli_01_W_01__Previews.webp)
+[![1 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0664_01_Micro_07_Bacteria_04_E._Coli_01_W_01__Previews.webp)](https://stockflow.media/?v=20260310_0664)
 
 Colorized SEM image showing E. coli bacteria attached to a cell surface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0664){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0665_01_Micro_07_Bacteria_04_E._Coli_01_W_01_Previews.webp)
+[![2 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0665_01_Micro_07_Bacteria_04_E._Coli_01_W_01_Previews.webp)](https://stockflow.media/?v=20260310_0665)
 
 Rod-shaped blue E. coli bacteria on a textured, multi-colored surface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0665){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0666_01_Micro_07_Bacteria_04_E._Coli_01_W_02__Previews.webp)
+[![3 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0666_01_Micro_07_Bacteria_04_E._Coli_01_W_02__Previews.webp)](https://stockflow.media/?v=20260310_0666)
 
 Colorized illustration of Escherichia coli bacteria with multiple flagella, shown as rod-shaped orange cells in a tissue environment with blue spherical particles and surrounding structures.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0666){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0667_01_Micro_07_Bacteria_04_E._Coli_01_W_02_Previews.webp)
+[![4 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0667_01_Micro_07_Bacteria_04_E._Coli_01_W_02_Previews.webp)](https://stockflow.media/?v=20260310_0667)
 
 E. coli bacteria with long flagella on a magnified cell membrane.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0667){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![5 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0668_01_Micro_07_Bacteria_04_E._Coli_01_W_03__Previews.webp)
+[![5 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0668_01_Micro_07_Bacteria_04_E._Coli_01_W_03__Previews.webp)](https://stockflow.media/?v=20260310_0668)
 
 Escherichia coli bacteria, rod-shaped bacteria with flagella.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0668){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![6 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0669_01_Micro_07_Bacteria_04_E._Coli_01_W_04__Previews.webp)
+[![6 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0669_01_Micro_07_Bacteria_04_E._Coli_01_W_04__Previews.webp)](https://stockflow.media/?v=20260310_0669)
 
 Colorized micrograph of Escherichia coli bacteria.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0669){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![7 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0670_01_Micro_07_Bacteria_04_E._Coli_01_W_05__Previews.webp)
+[![7 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0670_01_Micro_07_Bacteria_04_E._Coli_01_W_05__Previews.webp)](https://stockflow.media/?v=20260310_0670)
 
 Colorized microscopic image of rod-shaped E. coli bacteria on a textured surface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0670){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![8 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0671_01_Micro_07_Bacteria_04_E._Coli_01_W_06__Previews.webp)
+[![8 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0671_01_Micro_07_Bacteria_04_E._Coli_01_W_06__Previews.webp)](https://stockflow.media/?v=20260310_0671)
 
 E. coli bacteria on a surface, rod-shaped and flagellated.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0671){ .md-button .md-button--primary }
 
 ---
 
 ## 9 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![9 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0672_01_Micro_07_Bacteria_04_E._Coli_01_W_07__Previews.webp)
+[![9 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0672_01_Micro_07_Bacteria_04_E._Coli_01_W_07__Previews.webp)](https://stockflow.media/?v=20260310_0672)
 
 Colorized micrograph of rod-shaped E. coli bacteria with flagella on a textured red surface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0672){ .md-button .md-button--primary }
 
 ---
 
 ## 10 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![10 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0673_01_Micro_07_Bacteria_04_E._Coli_01_W_08__Previews.webp)
+[![10 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0673_01_Micro_07_Bacteria_04_E._Coli_01_W_08__Previews.webp)](https://stockflow.media/?v=20260310_0673)
 
 Color-enhanced micrograph showing rod-shaped bacteria on a tissue surface, with surrounding round purple cells.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0673){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Micro 07 Bacteria 04 E. Coli
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![11 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0674_01_Micro_07_Bacteria_04_E._Coli_01_W_08_Previews.webp)
+[![11 Micro 07 Bacteria 04 E. Coli](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0674_01_Micro_07_Bacteria_04_E._Coli_01_W_08_Previews.webp)](https://stockflow.media/?v=20260310_0674)
 
 Rod-shaped E. coli bacteria with purple spherical cells on a pink textured surface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0674){ .md-button .md-button--primary }
 
 ---
 
@@ -122,6 +144,8 @@ Rod-shaped E. coli bacteria with purple spherical cells on a pink textured surfa
 
 Close-up of rod-shaped bacteria with long flagella on a textured surface, illustrating familiar Escherichia coli-like microbes in a detailed, magnified view.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0775){ .md-button .md-button--primary }
+
 ---
 
 ## 02 E. Coli
@@ -134,6 +158,8 @@ Close-up of rod-shaped bacteria with long flagella on a textured surface, illust
 
 A high-magnification view of rod-shaped bacteria with tail-like flagella, likely Escherichia coli, attached to a textured surface and surrounded by other small particles and cellular debris.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0776){ .md-button .md-button--primary }
+
 ---
 
 ## 03 E. Coli
@@ -145,6 +171,8 @@ A high-magnification view of rod-shaped bacteria with tail-like flagella, likely
 </video>
 
 A high-fidelity micrograph showing rod-shaped Escherichia coli bacteria with slender flagella, clustered and moving on a textured surface, highlighting their cylindrical form and surface details at high magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0777){ .md-button .md-button--primary }
 
 ---
 

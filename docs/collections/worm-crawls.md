@@ -23,6 +23,8 @@ This collection contains **6 assets** available in multiple resolutions and aspe
 
 Close-up of a parasitic worm within host tissue, showing a coiled nematode embedded in pink fibrous matrix, revealing segmented body and internal structures under microscopic magnification.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0721){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Worms
@@ -34,6 +36,8 @@ Close-up of a parasitic worm within host tissue, showing a coiled nematode embed
 </video>
 
 A tiny worm-like creature crawls across a wet, mossy surface, its translucent orange body lined with dark segments and delicate legs glistening in the damp light.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0722){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ A tiny worm-like creature crawls across a wet, mossy surface, its translucent or
 
 A microscopic view reveals translucent earthworms wriggling through rich, brown soil, showcasing their slender bodies, segmented rings, and subtle internal structures as they move through organic matter.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0723){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Worms
@@ -58,6 +64,8 @@ A microscopic view reveals translucent earthworms wriggling through rich, brown 
 </video>
 
 Macro shot of reddish earthworms writhing through damp soil, weaving among roots and miniature soil particles, revealing their slim segmented bodies and glossy, moist surfaces.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0724){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ Macro shot of reddish earthworms writhing through damp soil, weaving among roots
 
 High magnification microscopic view of a plant root, showing numerous pink nematodes wrapping around and infiltrating the root tissue, illustrating parasitic worms exploiting the underground plant vascular system.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0725){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Worms
@@ -82,6 +92,8 @@ High magnification microscopic view of a plant root, showing numerous pink nemat
 </video>
 
 A fluorescently labeled Caenorhabditis elegans worm, showcasing its internal organs and tissues with vivid green, blue, and red markers along the curved body in a high-resolution confocal image.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0726){ .md-button .md-button--primary }
 
 ---
 

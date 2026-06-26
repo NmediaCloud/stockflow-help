@@ -23,6 +23,8 @@ This collection contains **18 assets** available in multiple resolutions and asp
 
 A highly detailed, colored cross-section of a cell, showcasing a blue mitochondrion with layered folds amid a red cytoplasmic membrane and scattered orange and yellow organelles.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1064){ .md-button .md-button--primary }
+
 ---
 
 ## 01 Microscopic
@@ -34,6 +36,8 @@ A highly detailed, colored cross-section of a cell, showcasing a blue mitochondr
 </video>
 
 Macro view of vibrant aquatic micro-world: translucent, oval cells with internal structures float among green algae filaments, revealing tiny organisms and bubbles in a lush freshwater scene.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1095){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ Macro view of vibrant aquatic micro-world: translucent, oval cells with internal
 
 Micro video still of a cellular tissue showing two large purple nuclei within a dividing cell, surrounded by extracellular matrix and numerous small dark-stained cells.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1096){ .md-button .md-button--primary }
+
 ---
 
 ## 03 Microscopic
@@ -58,6 +64,8 @@ Micro video still of a cellular tissue showing two large purple nuclei within a 
 </video>
 
 Close-up illustration of virus particles binding to a cell surface, with spike proteins extending from the viral envelope as they interact with membrane receptors, depicting early stages of viral infection.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1097){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ Close-up illustration of virus particles binding to a cell surface, with spike p
 
 A high magnification view of a vivid purple cell, exposing internal organelles as light shows the cellular interior; surrounded by smaller cells, highlighting the intricate structure and life of biology.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1098){ .md-button .md-button--primary }
+
 ---
 
 ## 05 Microscopic
@@ -82,6 +92,8 @@ A high magnification view of a vivid purple cell, exposing internal organelles a
 </video>
 
 A vivid close-up inside a blood vessel showing circulating blood cells, with a glowing microscopic scene of purple cells against a red artery background and tiny specks of plasma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1100){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +107,8 @@ A vivid close-up inside a blood vessel showing circulating blood cells, with a g
 
 A highly detailed microscopic view of a rod-shaped bacterium with hair-like flagella extending from both ends, showcasing textured surface and motility structures in a stark black background.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1112){ .md-button .md-button--primary }
+
 ---
 
 ## 2 Microscopic
@@ -106,6 +120,8 @@ A highly detailed microscopic view of a rod-shaped bacterium with hair-like flag
 </video>
 
 A high-resolution microscopic view of a rod-shaped bacterium with multiple tail-like flagella extending from both ends, revealing a textured surface and tiny internal structures against a black background.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1113){ .md-button .md-button--primary }
 
 ---
 
@@ -119,6 +135,8 @@ A high-resolution microscopic view of a rod-shaped bacterium with multiple tail-
 
 A vivid close-up of an orange cellular environment featuring a bright, glowing nucleus encased by a translucent membrane, with surrounding fiery textures suggesting a high-tech microscopic biology visualization.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1114){ .md-button .md-button--primary }
+
 ---
 
 ## 4 Microscopic
@@ -130,6 +148,8 @@ A vivid close-up of an orange cellular environment featuring a bright, glowing n
 </video>
 
 A vivid micrographic style scene of a glowing cell with a bright nucleus, surrounded by flowing orange-red plasma and floating blood cells in a dynamic cinematic view.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1115){ .md-button .md-button--primary }
 
 ---
 
@@ -143,6 +163,8 @@ A vivid micrographic style scene of a glowing cell with a bright nucleus, surrou
 
 Microscopic blood smear showing multiple neutrophils with segmented nuclei among numerous pink erythrocytes, highlighting cellular morphology under high magnification.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1116){ .md-button .md-button--primary }
+
 ---
 
 ## 6 Microscopic
@@ -154,6 +176,8 @@ Microscopic blood smear showing multiple neutrophils with segmented nuclei among
 </video>
 
 Close-up of a animal cell showing vibrant mitochondria and surrounding cytoplasm, stained to highlight organelles, revealing intricate internal structure and cellular components within tissues under microscopic view for biology study.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1117){ .md-button .md-button--primary }
 
 ---
 
@@ -167,6 +191,8 @@ Close-up of a animal cell showing vibrant mitochondria and surrounding cytoplasm
 
 Micrograph of stained tissue revealing rounded purple cells with dark nuclei embedded in a brown extracellular matrix and fiber networks, illustrating cellular arrangement and tissue architecture at high magnification.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1118){ .md-button .md-button--primary }
+
 ---
 
 ## 8 Microscopic
@@ -178,6 +204,8 @@ Micrograph of stained tissue revealing rounded purple cells with dark nuclei emb
 </video>
 
 A close-up micrographic scene shows virus-like particles with spike projections approaching a cell layer, surrounded by diverse cellular structures and orange rod-shaped bacteria, illustrating microscopic interactions at the virus–cell interface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1119){ .md-button .md-button--primary }
 
 ---
 
@@ -191,6 +219,8 @@ A close-up micrographic scene shows virus-like particles with spike projections 
 
 Vibrant microscopic artwork depicts a circular central cell surrounded by irregular red blood cells in a dynamic, swirling purple and orange environment, creating a vivid, abstract view of cellular motion.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1120){ .md-button .md-button--primary }
+
 ---
 
 ## 10 Microscopic
@@ -202,6 +232,8 @@ Vibrant microscopic artwork depicts a circular central cell surrounded by irregu
 </video>
 
 Micrograph of green aquatic algae showing transparent cells with chloroplasts, surrounded by delicate filamentous algae and water droplets, revealing intricate cellular details and vibrant, life-filled aquatic scenery.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1121){ .md-button .md-button--primary }
 
 ---
 
@@ -215,6 +247,8 @@ Micrograph of green aquatic algae showing transparent cells with chloroplasts, s
 
 A high magnification scene of a cell membrane with a blue nucleus-like particle, surrounded by spiky viral structures and orange filaments, illustrating cellular entry and molecular interactions.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1122){ .md-button .md-button--primary }
+
 ---
 
 ## 12 Microscopic
@@ -226,6 +260,8 @@ A high magnification scene of a cell membrane with a blue nucleus-like particle,
 </video>
 
 A high-magnification histology image showing purple-stained glandular cells around central ducts, embedded in orange connective tissue with scattered nuclei and a rich extracellular matrix texture.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1126){ .md-button .md-button--primary }
 
 ---
 

@@ -16,108 +16,132 @@ This collection contains **17 assets** available in multiple resolutions and asp
 ## 1 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0675_01_Micro_07_Bacteria_05_Biofilm_01_W_01__Previews.webp)
+[![1 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0675_01_Micro_07_Bacteria_05_Biofilm_01_W_01__Previews.webp)](https://stockflow.media/?v=20260310_0675)
 
 Rod-shaped bacteria in a biofilm on a surface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0675){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0676_01_Micro_07_Bacteria_05_Biofilm_01_W_01_Previews.webp)
+[![2 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0676_01_Micro_07_Bacteria_05_Biofilm_01_W_01_Previews.webp)](https://stockflow.media/?v=20260310_0676)
 
 Close-up of a bacterial biofilm with rod-shaped orange bacteria embedded in a slimy extracellular matrix (blue-stained cells among the filmy layer).
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0676){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0677_01_Micro_07_Bacteria_05_Biofilm_01_W_02__Previews.webp)
+[![3 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0677_01_Micro_07_Bacteria_05_Biofilm_01_W_02__Previews.webp)](https://stockflow.media/?v=20260310_0677)
 
 Color-enhanced micrograph of a bacterial biofilm with yellow rod-shaped and blue spherical bacteria embedded in a textured extracellular matrix.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0677){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0678_01_Micro_07_Bacteria_05_Biofilm_01_W_02_Previews.webp)
+[![4 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0678_01_Micro_07_Bacteria_05_Biofilm_01_W_02_Previews.webp)](https://stockflow.media/?v=20260310_0678)
 
 Close-up of a bacterial biofilm featuring rod-shaped bacteria embedded in a filamentous extracellular matrix, with scattered blue spherical cells.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0678){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![5 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0679_01_Micro_07_Bacteria_05_Biofilm_01_W_03__Previews.webp)
+[![5 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0679_01_Micro_07_Bacteria_05_Biofilm_01_W_03__Previews.webp)](https://stockflow.media/?v=20260310_0679)
 
 Close-up of a bacterial biofilm with yellow rod-shaped bacteria and blue and pink spheres embedded in a fibrous matrix.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0679){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![6 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0680_01_Micro_07_Bacteria_05_Biofilm_01_W_03_Previews.webp)
+[![6 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0680_01_Micro_07_Bacteria_05_Biofilm_01_W_03_Previews.webp)](https://stockflow.media/?v=20260310_0680)
 
 Colorful close-up of bacteria forming a biofilm, with rod-shaped microbes embedded in a porous matrix and small spherical cells.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0680){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![7 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0681_01_Micro_07_Bacteria_05_Biofilm_01_W_04__Previews.webp)
+[![7 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0681_01_Micro_07_Bacteria_05_Biofilm_01_W_04__Previews.webp)](https://stockflow.media/?v=20260310_0681)
 
 Bacteria in a dense biofilm with a tangled extracellular matrix network.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0681){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![8 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0682_01_Micro_07_Bacteria_05_Biofilm_01_W_05__Previews.webp)
+[![8 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0682_01_Micro_07_Bacteria_05_Biofilm_01_W_05__Previews.webp)](https://stockflow.media/?v=20260310_0682)
 
 Colorized micrograph of bacteria embedded in a biofilm matrix.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0682){ .md-button .md-button--primary }
 
 ---
 
 ## 9 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![9 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0683_01_Micro_07_Bacteria_05_Biofilm_01_W_06__Previews.webp)
+[![9 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0683_01_Micro_07_Bacteria_05_Biofilm_01_W_06__Previews.webp)](https://stockflow.media/?v=20260310_0683)
 
 Micrograph of a bacterial biofilm with a filamentous extracellular matrix and numerous rounded bacterial cells.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0683){ .md-button .md-button--primary }
 
 ---
 
 ## 10 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![10 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0684_01_Micro_07_Bacteria_05_Biofilm_01_W_07__Previews.webp)
+[![10 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0684_01_Micro_07_Bacteria_05_Biofilm_01_W_07__Previews.webp)](https://stockflow.media/?v=20260310_0684)
 
 Colorized micrograph showing rod-shaped pink bacteria embedded in a dense biofilm.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0684){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![11 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0685_01_Micro_07_Bacteria_05_Biofilm_01_W_08__Previews.webp)
+[![11 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0685_01_Micro_07_Bacteria_05_Biofilm_01_W_08__Previews.webp)](https://stockflow.media/?v=20260310_0685)
 
 Microscopic view of bacteria forming a biofilm on a porous, sponge-like network.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0685){ .md-button .md-button--primary }
 
 ---
 
 ## 12 Micro 07 Bacteria 05 Biofilm
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![12 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0686_01_Micro_07_Bacteria_05_Biofilm_01_W_08_Previews.webp)
+[![12 Micro 07 Bacteria 05 Biofilm](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0686_01_Micro_07_Bacteria_05_Biofilm_01_W_08_Previews.webp)](https://stockflow.media/?v=20260310_0686)
 
 Colorful high-magnification image of bacteria forming a biofilm on a porous surface.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0686){ .md-button .md-button--primary }
 
 ---
 
@@ -131,6 +155,8 @@ Colorful high-magnification image of bacteria forming a biofilm on a porous surf
 
 Colorful bacteria forming a dense biofilm on a surface, blue and orange rod-shaped microbes intertwine within a slime matrix, illustrating microbial communities and protective cooperation in a microscopic ecosystem.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0778){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Biofilm
@@ -142,6 +168,8 @@ Colorful bacteria forming a dense biofilm on a surface, blue and orange rod-shap
 </video>
 
 Colorized electron micrograph showing bacteria embedded in a biofilm, orange and blue rod-shaped cells intertwine within a sugary matrix, illustrating microbial communities thriving on a surface and exchanging signals.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0779){ .md-button .md-button--primary }
 
 ---
 
@@ -155,6 +183,8 @@ Colorized electron micrograph showing bacteria embedded in a biofilm, orange and
 
 Color-enhanced micrograph shows rod-shaped bacteria organized in a dense biofilm on a textured surface, blue and orange cells interwoven within a slimy matrix and tiny particles.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0780){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Biofilm
@@ -167,6 +197,8 @@ Color-enhanced micrograph shows rod-shaped bacteria organized in a dense biofilm
 
 A dense pink biofilm of rod-shaped bacteria forms a complex microbial community on a surface, revealing intertwined cells, microenvironments, and extracellular matrix in a high-magnification view.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0781){ .md-button .md-button--primary }
+
 ---
 
 ## 05 Biofilm
@@ -178,6 +210,8 @@ A dense pink biofilm of rod-shaped bacteria forms a complex microbial community 
 </video>
 
 A high-fidelity microscopic view of a bacterial biofilm, showing intertwined filaments and clustered cells embedded in a slimy extracellular matrix, highlighting complex microbe communities and protective biofilm structure.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0782){ .md-button .md-button--primary }
 
 ---
 

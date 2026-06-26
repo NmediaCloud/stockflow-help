@@ -23,6 +23,8 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 
 Inside a blood vessel, red blood cells swirl past, while white blood cells and platelets cluster, illustrating microscopic circulation, immune response, and clotting processes in a dynamic vascular environment.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0211){ .md-button .md-button--primary }
+
 ---
 
 ## 2 Blood Cells
@@ -34,6 +36,8 @@ Inside a blood vessel, red blood cells swirl past, while white blood cells and p
 </video>
 
 Inside a blood vessel, numerous red blood cells flow alongside white blood cells and platelets, illustrating circulation, oxygen transport, and immune defense within the vascular system.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0212){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ Inside a blood vessel, numerous red blood cells flow alongside white blood cells
 
 A detailed cross-section of a blood vessel shows red and white blood cells in motion, highlighting their interactions within the bloodstream as swirling plasma creates a vibrant microcosm of circulation.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0213){ .md-button .md-button--primary }
+
 ---
 
 ## 4 Blood Cells
@@ -58,6 +64,8 @@ A detailed cross-section of a blood vessel shows red and white blood cells in mo
 </video>
 
 A detailed microscopic view inside a blood vessel shows circulating red blood cells, white blood cells, and platelets, illustrating vibrant, dynamic circulation and immune activity within the bloodstream.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0214){ .md-button .md-button--primary }
 
 ---
 

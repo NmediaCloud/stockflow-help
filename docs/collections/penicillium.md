@@ -23,6 +23,8 @@ This collection contains **15 assets** available in multiple resolutions and asp
 
 Close up of mold on a food surface showing gray hyphae with spherical conidia and fuzzy textures, likely Penicillium, highlighting branching filaments and clustered spores within a brown substrate.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0574){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Penicillium Mold
@@ -34,6 +36,8 @@ Close up of mold on a food surface showing gray hyphae with spherical conidia an
 </video>
 
 Close-up of a mold colony showing branching hyphae and round spores, likely Penicillium, exposing microscopic fungal structures on a food substrate in vivid detail under SEM.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0575){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ Close-up of a mold colony showing branching hyphae and round spores, likely Peni
 
 Close-up view of translucent fungal hyphae with green, round spores interwoven into a network, highlighting Penicillium-like mold growth in an amber-stained microscopic environment sample culture.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0576){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Penicillium Mold
@@ -58,6 +64,8 @@ Close-up view of translucent fungal hyphae with green, round spores interwoven i
 </video>
 
 Close-up micrograph of blue mold and penicillium-like filaments weaving through a brown surface, revealing intricate fungal colonies and spore clusters characteristic of food mold growth.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0577){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ Close-up micrograph of blue mold and penicillium-like filaments weaving through 
 
 Close-up view of mold on food reveals Penicillium-like blue spores on green hyphae, weaving through a textured surface and illustrating micro-scale fungal growth and spoilage.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0578){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Penicillium Mold
@@ -82,6 +92,8 @@ Close-up view of mold on food reveals Penicillium-like blue spores on green hyph
 </video>
 
 Micrograph reveals Penicillium mold on a food substrate, with branching hyphae and round conidia, highlighting a dense network of filaments and budding fruiting bodies under magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0579){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +107,8 @@ Micrograph reveals Penicillium mold on a food substrate, with branching hyphae a
 
 Close-up view of fungal mold filaments with green spherical spores, likely Penicillium, revealing a tangled hyphal network and scattered spores under magnified, microscopic observation in a warm-toned background.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0580){ .md-button .md-button--primary }
+
 ---
 
 ## 08 Penicillium Mold
@@ -106,6 +120,8 @@ Close-up view of fungal mold filaments with green spherical spores, likely Penic
 </video>
 
 Close-up of blue fungal spores and greenish hyphae forming a delicate mold colony on a textured surface, highlighting Penicillium-like structures and intricate filament networks under magnified, detailed visualization.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0581){ .md-button .md-button--primary }
 
 ---
 
@@ -119,6 +135,8 @@ Close-up of blue fungal spores and greenish hyphae forming a delicate mold colon
 
 A micro-scale view of mold growing on food, featuring green hyphae adorned with blue spores spreading across a textured substrate. Penicillium-like structures observed under magnification reveal intricate spore chains.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0582){ .md-button .md-button--primary }
+
 ---
 
 ## 10 Penicillium Mold
@@ -130,6 +148,8 @@ A micro-scale view of mold growing on food, featuring green hyphae adorned with 
 </video>
 
 Close-up view of green fungal spores forming on translucent hyphae, revealing a branching network and rounded bead-like structures typical of mold growth such as Penicillium in a damp environment.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0583){ .md-button .md-button--primary }
 
 ---
 
@@ -143,6 +163,8 @@ Close-up view of green fungal spores forming on translucent hyphae, revealing a 
 
 Close-up of mold filaments and green spherical spores spreading through a food matrix, revealing Penicillium-like fungal growth with networked hyphae and pin-like fruiting bodies visible under microscopic view.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0584){ .md-button .md-button--primary }
+
 ---
 
 ## 12 Penicillium Mold
@@ -154,6 +176,8 @@ Close-up of mold filaments and green spherical spores spreading through a food m
 </video>
 
 Close-up of Penicillium mold hyphae spreading across a surface, with round conidia attached along the filaments, showcasing the microscopic network of fungal growth visible in extreme detail.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0585){ .md-button .md-button--primary }
 
 ---
 
@@ -167,6 +191,8 @@ Close-up of Penicillium mold hyphae spreading across a surface, with round conid
 
 Close-up of delicate blue fungal structures attached to a branching green network, with yellow-brown background, revealing microscopic fruiting bodies and intricate textures of a moldy growth.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0586){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Penicillium Mold
@@ -179,6 +205,8 @@ Close-up of delicate blue fungal structures attached to a branching green networ
 
 Close-up microscopy reveals blue spherical spores on green fungal hyphae entwined with a brown porous surface, illustrating mold-like Penicillium-type structures in a microenvironment rich in nutrients.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0587){ .md-button .md-button--primary }
+
 ---
 
 ## 15 Penicillium Mold
@@ -190,6 +218,8 @@ Close-up microscopy reveals blue spherical spores on green fungal hyphae entwine
 </video>
 
 Macro image of blue-tinted fungal spores along green hyphae, illustrating mold growth at a micro scale, likely Penicillium-style fungi involved in food spoilage and microbial interactions.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0588){ .md-button .md-button--primary }
 
 ---
 

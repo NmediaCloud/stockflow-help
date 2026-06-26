@@ -16,297 +16,363 @@ This collection contains **33 assets** available in multiple resolutions and asp
 ## 13 Long island 01
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00355_13_Long-island_S_01_5760x5760_jpeg__preview.webp)
+[![13 Long island 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00355_13_Long-island_S_01_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00355)
 
 a refreshing glass of iced cola with a lemon slice on a wooden table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00355){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 02
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00356_13_Long-island_S_02_5760x5760_jpeg__preview.webp)
+[![13 Long island 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00356_13_Long-island_S_02_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00356)
 
 a refreshing iced tea with lemon slice in a bar setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00356){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 03
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00357_13_Long-island_S_03_5760x5760_jpeg__preview.webp)
+[![13 Long island 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00357_13_Long-island_S_03_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00357)
 
 a refreshing glass of iced tea with lemon slice on a bar table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00357){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 04
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 04](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00358_13_Long-island_S_04_5760x5760_jpeg__preview.webp)
+[![13 Long island 04](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00358_13_Long-island_S_04_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00358)
 
 a refreshing iced drink with lemon slice in a dimly lit bar setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00358){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 05
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00359_13_Long-island_S_05_5760x5760_jpeg__preview.webp)
+[![13 Long island 05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00359_13_Long-island_S_05_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00359)
 
 a refreshing iced tea cocktail with a lemon slice on a bar counter
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00359){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 06
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00360_13_Long-island_S_06_5760x5760_jpeg__preview.webp)
+[![13 Long island 06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00360_13_Long-island_S_06_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00360)
 
 a refreshing iced tea with lemon slice on a wooden table in a cozy bar
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00360){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 07
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 07](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00361_13_Long-island_S_07_5760x5760_jpeg__preview.webp)
+[![13 Long island 07](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00361_13_Long-island_S_07_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00361)
 
 a refreshing iced tea with lemon slice on a wooden table in a cozy cafe
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00361){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 08
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 08](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00362_13_Long-island_S_08_5760x5760_jpeg__preview.webp)
+[![13 Long island 08](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00362_13_Long-island_S_08_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00362)
 
 a refreshing iced tea with lemon slice in a bar setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00362){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 09
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 09](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00363_13_Long-island_S_09_5760x5760_jpeg__preview.webp)
+[![13 Long island 09](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00363_13_Long-island_S_09_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00363)
 
 a refreshing iced tea with lemon slice in a glass on a wooden table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00363){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 10
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 10](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00364_13_Long-island_S_10_5760x5760_jpeg__preview.webp)
+[![13 Long island 10](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00364_13_Long-island_S_10_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00364)
 
 a refreshing long island iced tea served in a tall glass with ice and a lemon slice
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00364){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 11
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 11](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00365_13_Long-island_S_11_5760x5760_jpeg__preview.webp)
+[![13 Long island 11](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00365_13_Long-island_S_11_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00365)
 
 a refreshing iced tea with lemon slice on a restaurant table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00365){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 12
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 12](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00366_13_Long-island_S_12_5760x5760_jpeg__preview.webp)
+[![13 Long island 12](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00366_13_Long-island_S_12_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00366)
 
 refreshing iced tea with lemon and ice cubes on a table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00366){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 13
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![13 Long island 13](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00367_13_Long-island_S_13_5760x5760_jpeg__preview.webp)
+[![13 Long island 13](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00367_13_Long-island_S_13_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00367)
 
 a refreshing long island iced tea served in a tall glass with lemon slices
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00367){ .md-button .md-button--primary }
+
 ---
 
 ## 13 Long island 01
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![13 Long island 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00368_13_Long-island_V_01_4320x7680_jpeg__preview.webp)
+[![13 Long island 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00368_13_Long-island_V_01_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00368)
 
 a refreshing iced tea with lemon slice on a bar counter
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00368){ .md-button .md-button--primary }
+
 ---
 
 ## 13 Long island 02
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![13 Long island 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00369_13_Long-island_V_02_4320x7680_jpeg__preview.webp)
+[![13 Long island 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00369_13_Long-island_V_02_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00369)
 
 a refreshing glass of iced tea with lemon on a wooden table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00369){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 03
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![13 Long island 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00370_13_Long-island_V_03_4320x7680_jpeg__preview.webp)
+[![13 Long island 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00370_13_Long-island_V_03_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00370)
 
 a refreshing iced tea with lemon slice in a tall glass
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00370){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 04
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![13 Long island 04](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00371_13_Long-island_V_04_4320x7680_jpeg__preview.webp)
+[![13 Long island 04](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00371_13_Long-island_V_04_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00371)
 
 a refreshing iced tea with lemon slice in a restaurant setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00371){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 05
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![13 Long island 05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00372_13_Long-island_V_05_4254x7799_jpeg__preview.webp)
+[![13 Long island 05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00372_13_Long-island_V_05_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00372)
 
 a tall glass of iced tea with lemon on a restaurant table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00372){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 06
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![13 Long island 06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00373_13_Long-island_V_06_4254x7799_jpeg__preview.webp)
+[![13 Long island 06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00373_13_Long-island_V_06_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00373)
 
 a refreshing iced tea with lemon slice in a tall glass on a wooden table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00373){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 07
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![13 Long island 07](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00374_13_Long-island_V_07_4254x7799_jpeg__preview.webp)
+[![13 Long island 07](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00374_13_Long-island_V_07_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00374)
 
 a refreshing iced tea cocktail with lemon slice in a tall glass
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00374){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 08
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![13 Long island 08](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00375_13_Long-island_V_08_4254x7799_jpeg__preview.webp)
+[![13 Long island 08](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00375_13_Long-island_V_08_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00375)
 
 a refreshing long island iced tea with lemon slice on a bar table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00375){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 01
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![13 Long island 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00376_13_Long-island_W_01_7680x4320_jpeg__preview.webp)
+[![13 Long island 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00376_13_Long-island_W_01_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00376)
 
 a refreshing iced tea with lemon slice on a wooden bar counter
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00376){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 02
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![13 Long island 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00377_13_Long-island_W_02_7680x4320_jpeg__preview.webp)
+[![13 Long island 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00377_13_Long-island_W_02_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00377)
 
 a refreshing iced drink with lemon slice on a wooden bar during rain
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00377){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 03
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![13 Long island 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00378_13_Long-island_W_03_7680x4320_jpeg__preview.webp)
+[![13 Long island 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00378_13_Long-island_W_03_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00378)
 
 close-up of a refreshing iced beverage with lemon slice and ice cubes
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00378){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 04
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![13 Long island 04](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00379_13_Long-island_W_04_7680x4320_jpeg__preview.webp)
+[![13 Long island 04](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00379_13_Long-island_W_04_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00379)
 
 refreshing iced tea with lemon slice on wooden table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00379){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 05
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![13 Long island 05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00380_13_Long-island_W_05_7680x4320_jpeg__preview.webp)
+[![13 Long island 05](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00380_13_Long-island_W_05_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00380)
 
 a refreshing iced drink with lemon slice on a wooden bar table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00380){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 06
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![13 Long island 06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00381_13_Long-island_W_06_7680x4320_jpeg__preview.webp)
+[![13 Long island 06](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00381_13_Long-island_W_06_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00381)
 
 a refreshing iced tea cocktail with lemon slice on a bar counter
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00381){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 07
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![13 Long island 07](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00382_13_Long-island_W_07_7680x4320_jpeg__preview.webp)
+[![13 Long island 07](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00382_13_Long-island_W_07_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00382)
 
 a refreshing iced tea with lemon slice in a tall glass
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00382){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 08
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![13 Long island 08](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00383_13_Long-island_W_08_7680x4320_jpeg__preview.webp)
+[![13 Long island 08](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00383_13_Long-island_W_08_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00383)
 
 a refreshing iced tea with lemon slice on a wooden table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00383){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 09
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![13 Long island 09](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00384_13_Long-island_W_09_7799x4254_jpeg__preview.webp)
+[![13 Long island 09](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00384_13_Long-island_W_09_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00384)
 
 a refreshing iced tea with lemon served in a tall glass
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00384){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 10
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![13 Long island 10](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00385_13_Long-island_W_10_7799x4254_jpeg__preview.webp)
+[![13 Long island 10](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00385_13_Long-island_W_10_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00385)
 
 a refreshing iced tea cocktail with lemon slice on a restaurant table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00385){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 11
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![13 Long island 11](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00386_13_Long-island_W_11_7799x4254_jpeg__preview.webp)
+[![13 Long island 11](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00386_13_Long-island_W_11_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00386)
 
 a refreshing iced drink with lemon served in a glass on a restaurant table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00386){ .md-button .md-button--primary }
 
 ---
 
 ## 13 Long island 12
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![13 Long island 12](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00387_13_Long-island_W_12_7799x4254_jpeg__preview.webp)
+[![13 Long island 12](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/03_Beverages_Alc_Cocktails/Jpeg/20260512_00387_13_Long-island_W_12_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260512_00387)
 
 a refreshing long island iced tea served on a wooden table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260512_00387){ .md-button .md-button--primary }
 
 ---
 

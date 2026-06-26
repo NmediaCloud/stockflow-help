@@ -16,63 +16,77 @@ This collection contains **10 assets** available in multiple resolutions and asp
 ## 1 Micro 07 Bacteria 09 Tetani
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0709_01_Micro_07_Bacteria_09_Tetani_01_W_01__Previews.webp)
+[![1 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0709_01_Micro_07_Bacteria_09_Tetani_01_W_01__Previews.webp)](https://stockflow.media/?v=20260310_0709)
 
 Blue microscopic image of Tetani bacteria arranged in a chain.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0709){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 07 Bacteria 09 Tetani
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0710_01_Micro_07_Bacteria_09_Tetani_01_W_01_Previews.webp)
+[![2 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0710_01_Micro_07_Bacteria_09_Tetani_01_W_01_Previews.webp)](https://stockflow.media/?v=20260310_0710)
 
 Blue-tinted microscopic view of rod-shaped bacteria connected in a chain.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0710){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 07 Bacteria 09 Tetani
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0711_01_Micro_07_Bacteria_09_Tetani_01_W_02__Previews.webp)
+[![3 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0711_01_Micro_07_Bacteria_09_Tetani_01_W_02__Previews.webp)](https://stockflow.media/?v=20260310_0711)
 
 Fluorescent blue rod-shaped bacteria (bacilli) with small green spheres against a dark background.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0711){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 07 Bacteria 09 Tetani
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0712_01_Micro_07_Bacteria_09_Tetani_01_W_02_Previews.webp)
+[![4 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0712_01_Micro_07_Bacteria_09_Tetani_01_W_02_Previews.webp)](https://stockflow.media/?v=20260310_0712)
 
 Clostridium tetani bacteria (rod-shaped) imaged under fluorescence with small circular structures attached.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0712){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 07 Bacteria 09 Tetani
 **Resolution:** 6050x11092 | **Format:** 9:16
 
-![5 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0713_01_Micro_07_Bacteria_09_Tetani_01_W_03__Previews.webp)
+[![5 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0713_01_Micro_07_Bacteria_09_Tetani_01_W_03__Previews.webp)](https://stockflow.media/?v=20260310_0713)
 
 Fluorescent blue rod-shaped bacteria (bacilli) in a dark background.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0713){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 07 Bacteria 09 Tetani
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![6 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0714_01_Micro_07_Bacteria_09_Tetani_01_W_04__Previews.webp)
+[![6 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0714_01_Micro_07_Bacteria_09_Tetani_01_W_04__Previews.webp)](https://stockflow.media/?v=20260310_0714)
 
 Fluorescent blue micrograph of Tetani bacteria, rod-shaped cells often in pairs, against a dark background.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0714){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 07 Bacteria 09 Tetani
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![7 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0715_01_Micro_07_Bacteria_09_Tetani_01_W_04_Previews.webp)
+[![7 Micro 07 Bacteria 09 Tetani](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_0715_01_Micro_07_Bacteria_09_Tetani_01_W_04_Previews.webp)](https://stockflow.media/?v=20260310_0715)
 
 Blue-stained rod-shaped bacteria arranged in short chains.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_0715){ .md-button .md-button--primary }
 
 ---
 
@@ -86,6 +100,8 @@ Blue-stained rod-shaped bacteria arranged in short chains.
 
 Blue-tinted microscopic scene shows a chain of rod-shaped bacteria with small round spheres along a long filament, set against a dark background, highlighting microbial life and cellular division.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0791){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Tetani
@@ -98,6 +114,8 @@ Blue-tinted microscopic scene shows a chain of rod-shaped bacteria with small ro
 
 A magnified view of blue-toned bacterial cells arranged in a linked chain, highlighting rod-shaped bacteria and budding cells, illustrating microbial life and colony formation at the microscopic scale.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0792){ .md-button .md-button--primary }
+
 ---
 
 ## 03 Tetani
@@ -109,6 +127,8 @@ A magnified view of blue-toned bacterial cells arranged in a linked chain, highl
 </video>
 
 Blue fluorescent micrograph showing rod-shaped bacterial cells arranged in a chain, with small spheres attached at junctions, highlighting cell grouping and surface interactions in a magnified microbial scene.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0793){ .md-button .md-button--primary }
 
 ---
 

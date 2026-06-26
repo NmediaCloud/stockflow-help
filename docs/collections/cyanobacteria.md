@@ -23,6 +23,8 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 
 A microscopic view of blue-green algae forming clustered, shimmering spheres, creating a textured sea of tiny bubbles in rich turquoise tones. This macro shot highlights delicate structures and iridescent highlights.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0734){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Blue-Green Algae
@@ -34,6 +36,8 @@ A microscopic view of blue-green algae forming clustered, shimmering spheres, cr
 </video>
 
 A close-up of blue-green algae bubbles creates a shimmering carpet of tiny spheres, each glossy and translucent, forming a surreal, ocean-like field of micro-scale bubbles and organic texture.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0735){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ A close-up of blue-green algae bubbles creates a shimmering carpet of tiny spher
 
 A close-up view of dense blue-green algae colonies, tiny bubbles and filaments creating a textured microscopic landscape shimmering with teal and turquoise hues, in vivid slow-motion detail.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0736){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Blue-Green Algae
@@ -58,6 +64,8 @@ A close-up view of dense blue-green algae colonies, tiny bubbles and filaments c
 </video>
 
 Close-up of a dense colony of blue-green algae, featuring round and rod-shaped cells clustered together in a vibrant, luminous cyan atmosphere, reminiscent of microcosmic aquatic life.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0737){ .md-button .md-button--primary }
 
 ---
 

@@ -23,6 +23,8 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 
 A peripheral blood smear displaying numerous pink, discoid red blood cells and scattered segmented neutrophils, illustrating normal hematology morphology with no overt cellular abnormalities in this field sample.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1015){ .md-button .md-button--primary }
+
 ---
 
 ## 05 Pathology
@@ -34,6 +36,8 @@ A peripheral blood smear displaying numerous pink, discoid red blood cells and s
 </video>
 
 A microscopic blood smear showing numerous pinkish red blood cells with scattered purple-stained white cells, including multinucleated granulocytes, highlighting cellular diversity and potential hematologic abnormalities.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1016){ .md-button .md-button--primary }
 
 ---
 

@@ -23,6 +23,8 @@ This collection contains **4 assets** available in multiple resolutions and aspe
 
 Microscopic view of a parasitic micro-worm, showing a coiled, segmented circular cross-section encircled by host tissue and cellular debris, with intricate inner rings and membranes.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0690){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Parasitic Micro Worm
@@ -34,6 +36,8 @@ Microscopic view of a parasitic micro-worm, showing a coiled, segmented circular
 </video>
 
 A high-fidelity micrograph of a parasitic worm cross-section embedded in host tissue, revealing concentric circular structures, cuticle layers, and surrounding cellular debris under pink-stained histological preparation.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0691){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ A high-fidelity micrograph of a parasitic worm cross-section embedded in host ti
 
 Histological image of a coiled parasitic worm in host tissue, showing segmented internal structures, surrounding connective tissue, blood cells, and inflammatory debris, illustrating parasitic invasion at the cellular level.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0692){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Parasitic Micro Worm
@@ -58,6 +64,8 @@ Histological image of a coiled parasitic worm in host tissue, showing segmented 
 </video>
 
 A microscopic view of a parasitic worm embedded in tissue, showing a coiled, segmented body with surrounding cells, illustrating parasitic infection at the micro level in this sample.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0693){ .md-button .md-button--primary }
 
 ---
 

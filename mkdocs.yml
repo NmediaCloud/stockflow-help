@@ -15,6 +15,75 @@ nav:
   - Home: index.md
   - Mission: mission.md
   - Categories:
+      - Background:
+          - Background Overview: categories/background.md
+          - Abstract Creative:
+              - Abstract Creative Overview: subcategories/abstract-creative.md
+              - Bokeh City Lights: collections/bokeh-city-lights.md
+              - Bokeh Colorful Gradient: collections/bokeh-colorful-gradient.md
+              - Bokeh Festive Lights: collections/bokeh-festive-lights.md
+              - Bokeh Gold Dots: collections/bokeh-gold-dots.md
+              - Bokeh Silver White: collections/bokeh-silver-white.md
+              - Color Blue Transition: collections/color-blue-transition.md
+              - Color Pastel Gradient: collections/color-pastel-gradient.md
+              - Color Purple Pink: collections/color-purple-pink.md
+              - Color Sunset Gradient: collections/color-sunset-gradient.md
+              - Color Vibrant Blend: collections/color-vibrant-blend.md
+              - Light Broken Patterns: collections/light-broken-patterns.md
+              - Light Glass Refractions: collections/light-glass-refractions.md
+              - Light Prism Reflections: collections/light-prism-reflections.md
+              - Light Refraction Blur: collections/light-refraction-blur.md
+              - Light Sunlight Glass: collections/light-sunlight-glass.md
+              - Paper Abstract Shapes: collections/paper-abstract-shapes.md
+              - Paper Cutout Design: collections/paper-cutout-design.md
+              - Paper Fold Texture: collections/paper-fold-texture.md
+              - Paper Strips Overlap: collections/paper-strips-overlap.md
+              - Paper Texture Collage: collections/paper-texture-collage.md
+          - Abstract Industrial:
+              - Abstract Industrial Overview: subcategories/abstract-industrial.md
+              - Machinery Conveyor Shapes: collections/machinery-conveyor-shapes.md
+              - Machinery Gear Patterns: collections/machinery-gear-patterns.md
+              - Machinery Gears Outline: collections/machinery-gears-outline.md
+              - Machinery Parts Shadows: collections/machinery-parts-shadows.md
+              - Machinery Pipes Shadow: collections/machinery-pipes-shadow.md
+              - Metal Brushed Surface: collections/metal-brushed-surface.md
+              - Metal Corrugated Surface: collections/metal-corrugated-surface.md
+              - Metal Polished Aluminum: collections/metal-polished-aluminum.md
+              - Metal Rusted Texture: collections/metal-rusted-texture.md
+              - Metal Steel Plate: collections/metal-steel-plate.md
+              - Smoke Blurred Steam: collections/smoke-blurred-steam.md
+              - Smoke Industrial Smoke: collections/smoke-industrial-smoke.md
+              - Smoke Minimal Patterns: collections/smoke-minimal-patterns.md
+              - Smoke Soft Fog: collections/smoke-soft-fog.md
+              - Smoke Steam Clouds: collections/smoke-steam-clouds.md
+              - Walls Cement Surface: collections/walls-cement-surface.md
+              - Walls Concrete Gradient: collections/walls-concrete-gradient.md
+              - Walls Concrete Surface: collections/walls-concrete-surface.md
+              - Walls Minimal Concrete: collections/walls-minimal-concrete.md
+              - Walls Painted Concrete: collections/walls-painted-concrete.md
+          - Abstract Nature:
+              - Abstract Nature Overview: subcategories/abstract-nature.md
+              - Cloud Cirrus Streaks: collections/cloud-cirrus-streaks.md
+              - Cloud Fog Mist: collections/cloud-fog-mist.md
+              - Cloud Sky Formations: collections/cloud-sky-formations.md
+              - Cloud Storm Gradient: collections/cloud-storm-gradient.md
+              - Cloud Sunset Layers: collections/cloud-sunset-layers.md
+              - Leaf Abstract Pattern: collections/leaf-abstract-pattern.md
+              - Leaf BW Structure: collections/leaf-bw-structure.md
+              - Leaf Dried Lines: collections/leaf-dried-lines.md
+              - Leaf Green Veins: collections/leaf-green-veins.md
+              - Leaf Translucent Pattern: collections/leaf-translucent-pattern.md
+              - Sand Desert Shadows: collections/sand-desert-shadows.md
+              - Sand Monochrome: collections/sand-monochrome.md
+              - Sand Sand Textures: collections/sand-sand-textures.md
+              - Sand Wavy Patterns: collections/sand-wavy-patterns.md
+              - Sand Wind Lines: collections/sand-wind-lines.md
+              - Water Blue Gradient: collections/water-blue-gradient.md
+              - Water Lake Rings: collections/water-lake-rings.md
+              - Water Ocean Ripples: collections/water-ocean-ripples.md
+              - Water Rain Drops: collections/water-rain-drops.md
+              - Water Ripple Reflections: collections/water-ripple-reflections.md
+              - Water Tropical Shore: collections/water-tropical-shore.md
       - Catering Events:
           - Catering Events Overview: categories/catering-events.md
           - Catering Menu:
@@ -744,6 +813,11 @@ nav:
       - Bloom Guide: blog/bloom-showcase.md
       - Blue Green Algae Guide: blog/blue-green-algae-showcase.md
       - Blue Lagoon Guide: blog/blue-lagoon-showcase.md
+      - Bokeh City Lights Guide: blog/bokeh-city-lights-showcase.md
+      - Bokeh Colorful Gradient Guide: blog/bokeh-colorful-gradient-showcase.md
+      - Bokeh Festive Lights Guide: blog/bokeh-festive-lights-showcase.md
+      - Bokeh Gold Dots Guide: blog/bokeh-gold-dots-showcase.md
+      - Bokeh Silver White Guide: blog/bokeh-silver-white-showcase.md
       - Brain Tissue Guide: blog/brain-tissue-showcase.md
       - Breast Guide: blog/breast-showcase.md
       - Breast Cancer Guide: blog/breast-cancer-showcase.md
@@ -791,6 +865,11 @@ nav:
       - Cinnamon Rolls Guide: blog/cinnamon-rolls-showcase.md
       - Classic Margarita Guide: blog/classic-margarita-showcase.md
       - Close Up Guide: blog/close-up-showcase.md
+      - Cloud Cirrus Streaks Guide: blog/cloud-cirrus-streaks-showcase.md
+      - Cloud Fog Mist Guide: blog/cloud-fog-mist-showcase.md
+      - Cloud Sky Formations Guide: blog/cloud-sky-formations-showcase.md
+      - Cloud Storm Gradient Guide: blog/cloud-storm-gradient-showcase.md
+      - Cloud Sunset Layers Guide: blog/cloud-sunset-layers-showcase.md
       - Cocci Guide: blog/cocci-showcase.md
       - Coffee Americano Guide: blog/coffee-americano-showcase.md
       - Coffee Cappuccino Guide: blog/coffee-cappuccino-showcase.md
@@ -811,7 +890,12 @@ nav:
       - Colonial Guide: blog/colonial-showcase.md
       - Colonial Algae Guide: blog/colonial-algae-showcase.md
       - Colonizing Guide: blog/colonizing-showcase.md
+      - Color Blue Transition Guide: blog/color-blue-transition-showcase.md
       - Color Coded Starters Guide: blog/color-coded-starters-showcase.md
+      - Color Pastel Gradient Guide: blog/color-pastel-gradient-showcase.md
+      - Color Purple Pink Guide: blog/color-purple-pink-showcase.md
+      - Color Sunset Gradient Guide: blog/color-sunset-gradient-showcase.md
+      - Color Vibrant Blend Guide: blog/color-vibrant-blend-showcase.md
       - Colorful Cocktails Guide: blog/colorful-cocktails-showcase.md
       - Compost Guide: blog/compost-showcase.md
       - Conference Guide: blog/conference-showcase.md
@@ -963,9 +1047,19 @@ nav:
       - Lavender Guide: blog/lavender-showcase.md
       - Lavender Dreamy Coating Guide: blog/lavender-dreamy-coating-showcase.md
       - Layer Cakes Guide: blog/layer-cakes-showcase.md
+      - Leaf Abstract Pattern Guide: blog/leaf-abstract-pattern-showcase.md
+      - Leaf BW Structure Guide: blog/leaf-bw-structure-showcase.md
+      - Leaf Dried Lines Guide: blog/leaf-dried-lines-showcase.md
+      - Leaf Green Veins Guide: blog/leaf-green-veins-showcase.md
+      - Leaf Translucent Pattern Guide: blog/leaf-translucent-pattern-showcase.md
       - Leishmania Guide: blog/leishmania-showcase.md
       - Leukemia Guide: blog/leukemia-showcase.md
       - Lichen Guide: blog/lichen-showcase.md
+      - Light Broken Patterns Guide: blog/light-broken-patterns-showcase.md
+      - Light Glass Refractions Guide: blog/light-glass-refractions-showcase.md
+      - Light Prism Reflections Guide: blog/light-prism-reflections-showcase.md
+      - Light Refraction Blur Guide: blog/light-refraction-blur-showcase.md
+      - Light Sunlight Glass Guide: blog/light-sunlight-glass-showcase.md
       - Live Cooking Guide: blog/live-cooking-showcase.md
       - Liver Cirrhosis Guide: blog/liver-cirrhosis-showcase.md
       - Long Island Guide: blog/long-island-showcase.md
@@ -976,6 +1070,11 @@ nav:
       - Lysosom Guide: blog/lysosom-showcase.md
       - Lysosomes Guide: blog/lysosomes-showcase.md
       - Macarons Guide: blog/macarons-showcase.md
+      - Machinery Conveyor Shapes Guide: blog/machinery-conveyor-shapes-showcase.md
+      - Machinery Gear Patterns Guide: blog/machinery-gear-patterns-showcase.md
+      - Machinery Gears Outline Guide: blog/machinery-gears-outline-showcase.md
+      - Machinery Parts Shadows Guide: blog/machinery-parts-shadows-showcase.md
+      - Machinery Pipes Shadow Guide: blog/machinery-pipes-shadow-showcase.md
       - Mai Tai Guide: blog/mai-tai-showcase.md
       - Mains Duck Seafood Guide: blog/mains-duck-seafood-showcase.md
       - Mains Mexican Biryani Guide: blog/mains-mexican-biryani-showcase.md
@@ -991,6 +1090,11 @@ nav:
       - Melanoma Guide: blog/melanoma-showcase.md
       - Membrane Guide: blog/membrane-showcase.md
       - Meringues Guide: blog/meringues-showcase.md
+      - Metal Brushed Surface Guide: blog/metal-brushed-surface-showcase.md
+      - Metal Corrugated Surface Guide: blog/metal-corrugated-surface-showcase.md
+      - Metal Polished Aluminum Guide: blog/metal-polished-aluminum-showcase.md
+      - Metal Rusted Texture Guide: blog/metal-rusted-texture-showcase.md
+      - Metal Steel Plate Guide: blog/metal-steel-plate-showcase.md
       - Metastatic Guide: blog/metastatic-showcase.md
       - Mexican Guide: blog/mexican-showcase.md
       - Mexican Starters Guide: blog/mexican-starters-showcase.md
@@ -1034,6 +1138,11 @@ nav:
       - Organisms Guide: blog/organisms-showcase.md
       - Pain Au Chocolat Guide: blog/pain-au-chocolat-showcase.md
       - Paloma Guide: blog/paloma-showcase.md
+      - Paper Abstract Shapes Guide: blog/paper-abstract-shapes-showcase.md
+      - Paper Cutout Design Guide: blog/paper-cutout-design-showcase.md
+      - Paper Fold Texture Guide: blog/paper-fold-texture-showcase.md
+      - Paper Strips Overlap Guide: blog/paper-strips-overlap-showcase.md
+      - Paper Texture Collage Guide: blog/paper-texture-collage-showcase.md
       - Paramecium Guide: blog/paramecium-showcase.md
       - Parasite Guide: blog/parasite-showcase.md
       - Parasitetimeline Guide: blog/parasitetimeline-showcase.md
@@ -1092,6 +1201,11 @@ nav:
       - Salad Starters Guide: blog/salad-starters-showcase.md
       - Salmon Blinis Challah Guide: blog/salmon-blinis-challah-showcase.md
       - Samosas Pattis Guide: blog/samosas-pattis-showcase.md
+      - Sand Desert Shadows Guide: blog/sand-desert-shadows-showcase.md
+      - Sand Monochrome Guide: blog/sand-monochrome-showcase.md
+      - Sand Sand Textures Guide: blog/sand-sand-textures-showcase.md
+      - Sand Wavy Patterns Guide: blog/sand-wavy-patterns-showcase.md
+      - Sand Wind Lines Guide: blog/sand-wind-lines-showcase.md
       - Sandwich Guide: blog/sandwich-showcase.md
       - Schistosoma Guide: blog/schistosoma-showcase.md
       - Screwdriver Guide: blog/screwdriver-showcase.md
@@ -1117,6 +1231,11 @@ nav:
       - Slushy Blue Raspberry Guide: blog/slushy-blue-raspberry-showcase.md
       - Slushy Cherry Guide: blog/slushy-cherry-showcase.md
       - Slushy Lime Guide: blog/slushy-lime-showcase.md
+      - Smoke Blurred Steam Guide: blog/smoke-blurred-steam-showcase.md
+      - Smoke Industrial Smoke Guide: blog/smoke-industrial-smoke-showcase.md
+      - Smoke Minimal Patterns Guide: blog/smoke-minimal-patterns-showcase.md
+      - Smoke Soft Fog Guide: blog/smoke-soft-fog-showcase.md
+      - Smoke Steam Clouds Guide: blog/smoke-steam-clouds-showcase.md
       - Smoothies Berry Blend Guide: blog/smoothies-berry-blend-showcase.md
       - Smoothies Mango Guide: blog/smoothies-mango-showcase.md
       - Smoothies Protein Guide: blog/smoothies-protein-showcase.md
@@ -1207,6 +1326,17 @@ nav:
       - Viruses Guide: blog/viruses-showcase.md
       - Vitiligo Guide: blog/vitiligo-showcase.md
       - Vs Healthy Cells Guide: blog/vs-healthy-cells-showcase.md
+      - Walls Cement Surface Guide: blog/walls-cement-surface-showcase.md
+      - Walls Concrete Gradient Guide: blog/walls-concrete-gradient-showcase.md
+      - Walls Concrete Surface Guide: blog/walls-concrete-surface-showcase.md
+      - Walls Minimal Concrete Guide: blog/walls-minimal-concrete-showcase.md
+      - Walls Painted Concrete Guide: blog/walls-painted-concrete-showcase.md
+      - Water Blue Gradient Guide: blog/water-blue-gradient-showcase.md
+      - Water Lake Rings Guide: blog/water-lake-rings-showcase.md
+      - Water Ocean Ripples Guide: blog/water-ocean-ripples-showcase.md
+      - Water Rain Drops Guide: blog/water-rain-drops-showcase.md
+      - Water Ripple Reflections Guide: blog/water-ripple-reflections-showcase.md
+      - Water Tropical Shore Guide: blog/water-tropical-shore-showcase.md
       - Waterborne Guide: blog/waterborne-showcase.md
       - Wedding Cake Guide: blog/wedding-cake-showcase.md
       - Wedding Cakes Guide: blog/wedding-cakes-showcase.md

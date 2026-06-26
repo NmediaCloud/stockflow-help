@@ -23,6 +23,8 @@ This collection contains **16 assets** available in multiple resolutions and asp
 
 Close-up view of blue-green fungal filaments spreading across a brown surface, showing conidiophores and spores typical of Aspergillus-like fungi, revealing intricate hyphal networks and microbe-rich environment.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0589){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Aspergillus Fungi
@@ -34,6 +36,8 @@ Close-up view of blue-green fungal filaments spreading across a brown surface, s
 </video>
 
 A vivid close-up reveals teal, elongated fungal hyphae and spores intertwining on a decaying surface, highlighting Aspergillus-like structures amid crumbly organic debris in a micro-scale food fungus ecosystem.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0590){ .md-button .md-button--primary }
 
 ---
 
@@ -47,6 +51,8 @@ A vivid close-up reveals teal, elongated fungal hyphae and spores intertwining o
 
 Close-up of greenish fungal filaments and spherical spores growing on a brown surface, revealing branching hyphae typical of microscopic fungi such as Aspergillus in a microenvironment.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0591){ .md-button .md-button--primary }
+
 ---
 
 ## 04 Aspergillus Fungi
@@ -58,6 +64,8 @@ Close-up of greenish fungal filaments and spherical spores growing on a brown su
 </video>
 
 Micrograph of Aspergillus fungi growing in decaying food, showing slender hyphae and blue-green conidia scattered among the substrate, a vivid high-contrast view revealing fungal networks and reproductive structures.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0592){ .md-button .md-button--primary }
 
 ---
 
@@ -71,6 +79,8 @@ Micrograph of Aspergillus fungi growing in decaying food, showing slender hyphae
 
 Close-up of Aspergillus mold on a food surface, showing yellow-green spore-bearing stalks and tangled hyphae spreading across the substrate, revealing microscopic fungal structures and growth patterns.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0593){ .md-button .md-button--primary }
+
 ---
 
 ## 06 Aspergillus Fungi
@@ -82,6 +92,8 @@ Close-up of Aspergillus mold on a food surface, showing yellow-green spore-beari
 </video>
 
 A close-up, high-magnification view of Aspergillus fungi on organic matter, showing hyphae and spores intertwined within a food-like substrate, illustrating fungal growth and microstructural networks in moldy environments.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0594){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +107,8 @@ A close-up, high-magnification view of Aspergillus fungi on organic matter, show
 
 A vivid micrograph showing densely packed fungal hyphae interwoven with spores inside a decaying organic matrix, revealing intricate, threadlike structures and surface textures at high magnification colorized.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0595){ .md-button .md-button--primary }
+
 ---
 
 ## 08 Aspergillus Fungi
@@ -106,6 +120,8 @@ A vivid micrograph showing densely packed fungal hyphae interwoven with spores i
 </video>
 
 Micrograph shows a filamentous fungal network with blue-green spores and branching hyphae, likely Aspergillus, thriving among decomposing food material in a microhabitat illuminated for detailed imaging.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0596){ .md-button .md-button--primary }
 
 ---
 
@@ -119,6 +135,8 @@ Micrograph shows a filamentous fungal network with blue-green spores and branchi
 
 Close-up view of Aspergillus mold hyphae colonizing a surface, with slender, branching filaments and spore-bearing conidiophores, illustrating fungal growth and biofilm formation at microscopic scale.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0597){ .md-button .md-button--primary }
+
 ---
 
 ## 10 Aspergillus Fungi
@@ -130,6 +148,8 @@ Close-up view of Aspergillus mold hyphae colonizing a surface, with slender, bra
 </video>
 
 Close-up of fungal hyphae with chain-like conidia, showing branching filaments and spherical spores typical of Aspergillus species in a magnified microscopic view.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0598){ .md-button .md-button--primary }
 
 ---
 
@@ -143,6 +163,8 @@ Close-up of fungal hyphae with chain-like conidia, showing branching filaments a
 
 Close-up view of filamentous fungi (Aspergillus) growing within a microenvironment, showing slender green hyphae interwoven with brown organic material and tiny yeast-like spheres under magnification imaging technique.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0599){ .md-button .md-button--primary }
+
 ---
 
 ## 12 Aspergillus Fungi
@@ -154,6 +176,8 @@ Close-up view of filamentous fungi (Aspergillus) growing within a microenvironme
 </video>
 
 Close-up view shows blue-green fungal filaments colonizing a crusty surface, with rounded spores and intricate hyphal networks typical of Aspergillus growth in a damp, organic substrate.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0600){ .md-button .md-button--primary }
 
 ---
 
@@ -167,6 +191,8 @@ Close-up view shows blue-green fungal filaments colonizing a crusty surface, wit
 
 Close-up of mold mycelium and blue spores infiltrating decaying food, revealing branching hyphae and round conidia typical of Aspergillus species colonizing organic matter in damp, stored foods and molds everywhere.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0601){ .md-button .md-button--primary }
+
 ---
 
 ## 14 Aspergillus Fungi
@@ -178,6 +204,8 @@ Close-up of mold mycelium and blue spores infiltrating decaying food, revealing 
 </video>
 
 Close up of fungal hyphae and spherical conidia growing on a decaying substrate, revealing branching filamentous structures and bluish spores typical of Aspergillus-like fungi in a microenvironment.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0602){ .md-button .md-button--primary }
 
 ---
 
@@ -191,6 +219,8 @@ Close up of fungal hyphae and spherical conidia growing on a decaying substrate,
 
 Close-up of Aspergillus-like mold on a food surface, with yellow-green spore-bearing filaments and intricate hyphae, showing micro-scale fungal growth and texture.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0603){ .md-button .md-button--primary }
+
 ---
 
 ## 16 Aspergillus Fungi
@@ -202,6 +232,8 @@ Close-up of Aspergillus-like mold on a food surface, with yellow-green spore-bea
 </video>
 
 Close-up micrograph of Aspergillus fungus showing branching hyphae with elongated conidiophores and rounded tips, forming a textured, coral-like colony on a substrate under high magnification.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0604){ .md-button .md-button--primary }
 
 ---
 

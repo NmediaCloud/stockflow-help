@@ -16,72 +16,88 @@ This collection contains **11 assets** available in multiple resolutions and asp
 ## 1 Micro 12 Pathology 07 Dermatopathology Squamous
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1214_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_01__Previews.webp)
+[![1 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1214_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_01__Previews.webp)](https://stockflow.media/?v=20260310_1214)
 
 Skin biopsy showing squamous cell pathology with nests and keratinization of polygonal keratinocytes.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1214){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 12 Pathology 07 Dermatopathology Squamous
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1215_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_01_Previews.webp)
+[![2 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1215_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_01_Previews.webp)](https://stockflow.media/?v=20260310_1215)
 
 Dermatopathology: squamous cell pathology of skin.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1215){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 12 Pathology 07 Dermatopathology Squamous
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1216_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_02__Previews.webp)
+[![3 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1216_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_02__Previews.webp)](https://stockflow.media/?v=20260310_1216)
 
 Dermatopathology: squamous epithelium with keratinization and inflammatory dermal infiltrate.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1216){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 12 Pathology 07 Dermatopathology Squamous
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1217_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_02_Previews.webp)
+[![4 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1217_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_02_Previews.webp)](https://stockflow.media/?v=20260310_1217)
 
 Dermatopathology: squamous cell features with keratin pearls in the dermis.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1217){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 12 Pathology 07 Dermatopathology Squamous
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![5 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1218_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_03__Previews.webp)
+[![5 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1218_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_03__Previews.webp)](https://stockflow.media/?v=20260310_1218)
 
 Dermatopathology – squamous cell carcinoma with keratin pearls invading the dermis.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1218){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 12 Pathology 07 Dermatopathology Squamous
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![6 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1219_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_03_Previews.webp)
+[![6 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1219_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_03_Previews.webp)](https://stockflow.media/?v=20260310_1219)
 
 Dermatopathology: squamous epithelium with dysplastic cells and dense dermal inflammatory infiltrate.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1219){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 12 Pathology 07 Dermatopathology Squamous
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![7 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1220_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_04__Previews.webp)
+[![7 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1220_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_04__Previews.webp)](https://stockflow.media/?v=20260310_1220)
 
 Dermatopathology: squamous epithelium with keratinization and surrounding inflammatory/granulomatous infiltrate.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1220){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 12 Pathology 07 Dermatopathology Squamous
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![8 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1221_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_04_Previews.webp)
+[![8 Micro 12 Pathology 07 Dermatopathology Squamous](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1221_01_Micro_12_Pathology_07_Dermatopathology_Squamous_W_04_Previews.webp)](https://stockflow.media/?v=20260310_1221)
 
 Skin squamous lesion with keratin pearls and inflammatory infiltrate.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1221){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +111,8 @@ Skin squamous lesion with keratin pearls and inflammatory infiltrate.
 
 Dermatopathology micrograph illustrating squamous tissue changes with inflammatory infiltrates and vascular structures, highlighting characteristic cellular arrangements and nuclear staining in a skin biopsy sample slide.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0804){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Dermatopathology
@@ -107,6 +125,8 @@ Dermatopathology micrograph illustrating squamous tissue changes with inflammato
 
 Dermatopathology micrograph showing squamous features with keratinocyte nests and inflammatory stroma, highlighting epithelial–stromal interface changes and detailed nuclei within pink-toned tissue for diagnostic assessment in skin pathology.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0805){ .md-button .md-button--primary }
+
 ---
 
 ## 03 Dermatopathology
@@ -118,6 +138,8 @@ Dermatopathology micrograph showing squamous features with keratinocyte nests an
 </video>
 
 Dermatopathology micrograph highlighting squamous architecture in skin tissue, with inflammatory cells and vascular structures, illustrating cellular detail and tissue organization typical of a cutaneous lesion.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0806){ .md-button .md-button--primary }
 
 ---
 

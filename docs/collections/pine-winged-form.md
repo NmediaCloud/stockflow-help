@@ -23,6 +23,8 @@ This collection contains **3 assets** available in multiple resolutions and aspe
 
 Microscopic view of winged pine pollen, revealing a hexagonal lattice of sculptured cells divided into four lobes, forming a distinctive winged form with intricate honeycomb-like surface textures.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0983){ .md-button .md-button--primary }
+
 ---
 
 ## 10 Pollen
@@ -35,6 +37,8 @@ Microscopic view of winged pine pollen, revealing a hexagonal lattice of sculptu
 
 A high-magnification view of a bifurcated diatom, exposing honeycomb-like silica plates and a central seam, with delicate lattice patterns and tiny surface appendages.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0984){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Pollen
@@ -46,6 +50,8 @@ A high-magnification view of a bifurcated diatom, exposing honeycomb-like silica
 </video>
 
 Close-up of a pine pollen grain with a segmented, honeycomb-like shell, showing a winged, sculptured form in high-detail microstructure, captured under extreme magnification revealing delicate walls and pores.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0985){ .md-button .md-button--primary }
 
 ---
 

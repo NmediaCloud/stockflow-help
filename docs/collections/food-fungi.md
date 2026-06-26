@@ -23,6 +23,8 @@ This collection contains **2 assets** available in multiple resolutions and aspe
 
 A close-up view of microscopic fungal activity, showing delicate hyphal networks and numerous round spores dispersed across a textured substrate, highlighting the intricate web of microbe life.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1106){ .md-button .md-button--primary }
+
 ---
 
 ## 2 Food Fungi
@@ -34,6 +36,8 @@ A close-up view of microscopic fungal activity, showing delicate hyphal networks
 </video>
 
 A microscopic view shows filamentous fungal hyphae with round cyan spores weaving through a viscous substrate, illustrating a tiny mold culture thriving in a moist, food-related environment.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_1107){ .md-button .md-button--primary }
 
 ---
 

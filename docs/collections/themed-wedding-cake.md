@@ -16,216 +16,264 @@ This collection contains **24 assets** available in multiple resolutions and asp
 ## 11 Themed wedding cake 01
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![11 Themed wedding cake 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00289_11_Themed-wedding-cake_S_01_5760x5760_jpeg__preview.webp)
+[![11 Themed wedding cake 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00289_11_Themed-wedding-cake_S_01_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00289)
 
 elegantly decorated wedding cake in a luxurious banquet hall setting
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00289){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Themed wedding cake 02
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![11 Themed wedding cake 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00290_11_Themed-wedding-cake_S_02_5760x5760_jpeg__preview.webp)
+[![11 Themed wedding cake 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00290_11_Themed-wedding-cake_S_02_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00290)
 
 elegantly decorated wedding cake surrounded by floral arrangements in a luxurious ballroom
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00290){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Themed wedding cake 03
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![11 Themed wedding cake 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00291_11_Themed-wedding-cake_S_03_5760x5760_jpeg__preview.webp)
+[![11 Themed wedding cake 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00291_11_Themed-wedding-cake_S_03_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00291)
 
 a large ornate wedding cake decorated with flowers in an elegant venue
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00291){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Themed wedding cake 04
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![11 Themed wedding cake 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00292_11_Themed-wedding-cake_S_04_5760x5760_jpeg__preview.webp)
+[![11 Themed wedding cake 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00292_11_Themed-wedding-cake_S_04_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00292)
 
 elegantly decorated wedding cake with floral accents in a luxurious venue
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00292){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 05
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![11 Themed wedding cake 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00293_11_Themed-wedding-cake_S_05_5760x5760_jpeg__preview.webp)
+[![11 Themed wedding cake 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00293_11_Themed-wedding-cake_S_05_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00293)
 
 elegantly decorated multi-tier wedding cake on a beautifully set dining table
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00293){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Themed wedding cake 06
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![11 Themed wedding cake 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00294_11_Themed-wedding-cake_S_06_5760x5760_jpeg__preview.webp)
+[![11 Themed wedding cake 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00294_11_Themed-wedding-cake_S_06_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00294)
 
 elegantly decorated wedding cake on a beautifully set dining table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00294){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 07
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![11 Themed wedding cake 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00295_11_Themed-wedding-cake_S_07_5760x5760_jpeg__preview.webp)
+[![11 Themed wedding cake 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00295_11_Themed-wedding-cake_S_07_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00295)
 
 elegantly decorated three-tier wedding cake on a beautifully set table
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00295){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Themed wedding cake 08
 **Resolution:** 5760x5760 | **Format:** 1:1
 
-![11 Themed wedding cake 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00296_11_Themed-wedding-cake_S_08_5760x5760_jpeg__preview.webp)
+[![11 Themed wedding cake 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00296_11_Themed-wedding-cake_S_08_5760x5760_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00296)
 
 a beautifully decorated multi-tiered wedding cake on an elegant table setting
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00296){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Themed wedding cake 01
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![11 Themed wedding cake 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00297_11_Themed-wedding-cake_V_01_4320x7680_jpeg__preview.webp)
+[![11 Themed wedding cake 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00297_11_Themed-wedding-cake_V_01_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00297)
 
 elegantly decorated wedding cake with floral accents in a luxurious venue
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00297){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 02
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![11 Themed wedding cake 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00298_11_Themed-wedding-cake_V_02_4320x7680_jpeg__preview.webp)
+[![11 Themed wedding cake 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00298_11_Themed-wedding-cake_V_02_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00298)
 
 elegantly decorated wedding cake with floral accents in a luxurious banquet hall
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00298){ .md-button .md-button--primary }
+
 ---
 
 ## 11 Themed wedding cake 03
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![11 Themed wedding cake 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00299_11_Themed-wedding-cake_V_03_4320x7680_jpeg__preview.webp)
+[![11 Themed wedding cake 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00299_11_Themed-wedding-cake_V_03_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00299)
 
 elegantly decorated five-tier wedding cake with floral accents in a luxurious ballroom
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00299){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 04
 **Resolution:** 4320x7680 | **Format:** 9:16
 
-![11 Themed wedding cake 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00300_11_Themed-wedding-cake_V_04_4320x7680_jpeg__preview.webp)
+[![11 Themed wedding cake 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00300_11_Themed-wedding-cake_V_04_4320x7680_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00300)
 
 elegantly decorated wedding cake with floral accents in a luxurious venue
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00300){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 05
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![11 Themed wedding cake 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00301_11_Themed-wedding-cake_V_05_4254x7799_jpeg__preview.webp)
+[![11 Themed wedding cake 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00301_11_Themed-wedding-cake_V_05_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00301)
 
 a beautifully decorated multi-tiered wedding cake with floral accents
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00301){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 06
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![11 Themed wedding cake 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00302_11_Themed-wedding-cake_V_06_4254x7799_jpeg__preview.webp)
+[![11 Themed wedding cake 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00302_11_Themed-wedding-cake_V_06_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00302)
 
 elegantly decorated wedding cake on a table with floral accents
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00302){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 07
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![11 Themed wedding cake 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00303_11_Themed-wedding-cake_V_07_4254x7799_jpeg__preview.webp)
+[![11 Themed wedding cake 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00303_11_Themed-wedding-cake_V_07_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00303)
 
 elegantly decorated three-tier wedding cake on a beautifully set dining table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00303){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 08
-**Resolution:** 4254x7799 | **Format:** 1:1.83
+**Resolution:** 4254x7799 | **Format:** 9:16
 
-![11 Themed wedding cake 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00304_11_Themed-wedding-cake_V_08_4254x7799_jpeg__preview.webp)
+[![11 Themed wedding cake 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00304_11_Themed-wedding-cake_V_08_4254x7799_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00304)
 
 elegantly decorated wedding cake with floral accents on a dining table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00304){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 01
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![11 Themed wedding cake 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00305_11_Themed-wedding-cake_W_01_7680x4320_jpeg__preview.webp)
+[![11 Themed wedding cake 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00305_11_Themed-wedding-cake_W_01_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00305)
 
 elaborate wedding cake adorned with flowers in an elegant ballroom setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00305){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 02
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![11 Themed wedding cake 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00306_11_Themed-wedding-cake_W_02_7680x4320_jpeg__preview.webp)
+[![11 Themed wedding cake 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00306_11_Themed-wedding-cake_W_02_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00306)
 
 elegantly decorated wedding cake in a luxurious banquet hall
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00306){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 03
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![11 Themed wedding cake 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00307_11_Themed-wedding-cake_W_03_7680x4320_jpeg__preview.webp)
+[![11 Themed wedding cake 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00307_11_Themed-wedding-cake_W_03_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00307)
 
 elegantly decorated wedding cake in a luxurious banquet hall
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00307){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 04
 **Resolution:** 7680x4320 | **Format:** 16:9
 
-![11 Themed wedding cake 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00308_11_Themed-wedding-cake_W_04_7680x4320_jpeg__preview.webp)
+[![11 Themed wedding cake 04](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00308_11_Themed-wedding-cake_W_04_7680x4320_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00308)
 
 elegantly decorated wedding cake in a luxurious banquet hall
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00308){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 05
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![11 Themed wedding cake 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00309_11_Themed-wedding-cake_W_05_7799x4254_jpeg__preview.webp)
+[![11 Themed wedding cake 05](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00309_11_Themed-wedding-cake_W_05_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00309)
 
 elegantly decorated wedding cake on a beautifully set dining table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00309){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 06
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![11 Themed wedding cake 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00310_11_Themed-wedding-cake_W_06_7799x4254_jpeg__preview.webp)
+[![11 Themed wedding cake 06](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00310_11_Themed-wedding-cake_W_06_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00310)
 
 elegantly decorated wedding cake on a table with floral arrangements
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00310){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 07
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![11 Themed wedding cake 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00311_11_Themed-wedding-cake_W_07_7799x4254_jpeg__preview.webp)
+[![11 Themed wedding cake 07](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00311_11_Themed-wedding-cake_W_07_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00311)
 
 a beautifully decorated three-tier wedding cake on an elegant table setting
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00311){ .md-button .md-button--primary }
 
 ---
 
 ## 11 Themed wedding cake 08
-**Resolution:** 7799x4254 | **Format:** 1.83:1
+**Resolution:** 7799x4254 | **Format:** 16:9
 
-![11 Themed wedding cake 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00312_11_Themed-wedding-cake_W_08_7799x4254_jpeg__preview.webp)
+[![11 Themed wedding cake 08](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/11_Wedding-themed/Jpeg/20260517_00312_11_Themed-wedding-cake_W_08_7799x4254_jpeg__preview.webp)](https://stockflow.media/?v=20260517_00312)
 
 elegantly decorated wedding cakes on a beautifully set table
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260517_00312){ .md-button .md-button--primary }
 
 ---
 

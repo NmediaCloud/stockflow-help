@@ -16,72 +16,88 @@ This collection contains **11 assets** available in multiple resolutions and asp
 ## 1 Micro 12 Pathology 11 Histopathology Breast Cancer
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![1 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1244_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_01__Previews.webp)
+[![1 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1244_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_01__Previews.webp)](https://stockflow.media/?v=20260310_1244)
 
 Histopathology slide of breast cancer showing malignant ductal cells forming gland-like structures within fibrous stroma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1244){ .md-button .md-button--primary }
 
 ---
 
 ## 2 Micro 12 Pathology 11 Histopathology Breast Cancer
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![2 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1245_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_01_Previews.webp)
+[![2 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1245_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_01_Previews.webp)](https://stockflow.media/?v=20260310_1245)
 
 Histopathology of breast cancer with malignant glandular structures and pleomorphic nuclei in desmoplastic stroma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1245){ .md-button .md-button--primary }
 
 ---
 
 ## 3 Micro 12 Pathology 11 Histopathology Breast Cancer
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![3 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1246_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_02__Previews.webp)
+[![3 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1246_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_02__Previews.webp)](https://stockflow.media/?v=20260310_1246)
 
 Histopathology image of breast cancer showing malignant epithelial cells with nuclear atypia forming duct-like structures in a desmoplastic stroma (H&E stained).
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1246){ .md-button .md-button--primary }
 
 ---
 
 ## 4 Micro 12 Pathology 11 Histopathology Breast Cancer
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![4 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1247_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_02_Previews.webp)
+[![4 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1247_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_02_Previews.webp)](https://stockflow.media/?v=20260310_1247)
 
 Histopathology micrograph of breast cancer tissue showing glandular structures and malignant epithelial cells.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1247){ .md-button .md-button--primary }
 
 ---
 
 ## 5 Micro 12 Pathology 11 Histopathology Breast Cancer
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![5 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1248_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_03__Previews.webp)
+[![5 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1248_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_03__Previews.webp)](https://stockflow.media/?v=20260310_1248)
 
 Histopathology of breast cancer showing duct-like glands with malignant epithelial cells, high nucleus-to-cytoplasm ratio and prominent nuclei in a pink stroma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1248){ .md-button .md-button--primary }
 
 ---
 
 ## 6 Micro 12 Pathology 11 Histopathology Breast Cancer
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![6 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1249_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_03_Previews.webp)
+[![6 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1249_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_03_Previews.webp)](https://stockflow.media/?v=20260310_1249)
 
 Breast cancer histology showing malignant ductal cells forming glandular structures within fibrous stroma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1249){ .md-button .md-button--primary }
 
 ---
 
 ## 7 Micro 12 Pathology 11 Histopathology Breast Cancer
 **Resolution:** 11095x6048 | **Format:** 16:9
 
-![7 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1250_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_04__Previews.webp)
+[![7 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1250_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_04__Previews.webp)](https://stockflow.media/?v=20260310_1250)
 
 Histology of breast tissue showing malignant ductal cells forming gland-like structures within fibrous stroma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1250){ .md-button .md-button--primary }
 
 ---
 
 ## 8 Micro 12 Pathology 11 Histopathology Breast Cancer
 **Resolution:** 8192x8192 | **Format:** 1:1
 
-![8 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1251_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_04_Previews.webp)
+[![8 Micro 12 Pathology 11 Histopathology Breast Cancer](https://storage.googleapis.com/stockflow-previews/01_Micro/Jpeg/20260310_1251_01_Micro_12_Pathology_11_Histopathology_Breast_Cancer_W_04_Previews.webp)](https://stockflow.media/?v=20260310_1251)
 
 Histopathology slide of breast cancer showing malignant epithelial cells forming ducts with pleomorphic nuclei in a fibrous stroma.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260310_1251){ .md-button .md-button--primary }
 
 ---
 
@@ -95,6 +111,8 @@ Histopathology slide of breast cancer showing malignant epithelial cells forming
 
 Histopathology image of breast cancer showing ductal structures with malignant epithelial cells, high nuclear-to-cytoplasmic ratio, prominent nucleoli, and desmoplastic stroma, captured at microscopic magnification and pink stains reveal cellular anomalies.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0972){ .md-button .md-button--primary }
+
 ---
 
 ## 02 Histopathology
@@ -107,6 +125,8 @@ Histopathology image of breast cancer showing ductal structures with malignant e
 
 Histopathology slide showing breast cancer tissue with malignant glandular structures, pleomorphic nuclei, prominent nucleoli, infiltrating ducts within fibrous stroma; H&E staining highlights cellular atypia and desmoplastic reaction.
 
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0973){ .md-button .md-button--primary }
+
 ---
 
 ## 03 Histopathology
@@ -118,6 +138,8 @@ Histopathology slide showing breast cancer tissue with malignant glandular struc
 </video>
 
 Histopathology slide showing breast cancer tissue with ductal architecture, malignant epithelial cells, high nuclear-cytoplasmic ratio, prominent nucleoli, and surrounding stroma; cellular pleomorphism and mitotic activity evident.
+
+[⬇ Download / Buy on Stockflow.media](https://stockflow.media/?v=20260314_0974){ .md-button .md-button--primary }
 
 ---
 
