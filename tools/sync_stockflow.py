@@ -53,6 +53,71 @@ def build_website_url(cat, cat_sub, collection=None):
         params['collection'] = collection
     return f"{STOCKFLOW_BASE}?{urllib.parse.urlencode(params)}"
 
+
+def _upload_date(file_id):
+    """Derive YYYY-MM-DD from a File_ID like 20260215_000001 (for VideoObject)."""
+    m = re.match(r"(\d{4})(\d{2})(\d{2})", file_id or "")
+    return f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else "2026-01-01"
+
+
+def build_jsonld(page_assets):
+    """Return a <script type=application/ld+json> block describing every asset on a
+    collection page as an ImageObject/VideoObject — drives Google image/video results."""
+    graph = []
+    for a in page_assets:
+        is_video = a["preview"].lower().endswith(".mp4")
+        node = {
+            "@type": "VideoObject" if is_video else "ImageObject",
+            "name": a["title"],
+            "description": a["desc"] or a["title"],
+            "contentUrl": a["preview"],
+            "thumbnailUrl": a["thumb"] or a["preview"],
+            "url": a["purchase_url"],
+            "acquireLicensePage": a["purchase_url"],
+            "creditText": "Stockflow.media",
+            "creator": {"@type": "Organization", "name": "Stockflow.media"},
+        }
+        if a["keywords"]:
+            node["keywords"] = a["keywords"]
+        if is_video:
+            node["uploadDate"] = _upload_date(a["file_id"])
+        graph.append(node)
+    if not graph:
+        return ""
+    data = {"@context": "https://schema.org", "@graph": graph}
+    return ('\n<script type="application/ld+json">\n'
+            + json.dumps(data, ensure_ascii=False) + '\n</script>\n')
+
+
+def _xml_escape(s):
+    return (str(s or "").replace("&", "&amp;").replace("<", "&lt;")
+            .replace(">", "&gt;").replace('"', "&quot;"))
+
+
+def write_image_sitemap(entries, path):
+    """entries = [(page_url, [(img_url, title, caption), ...]), ...] -> Google image sitemap."""
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
+             '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">']
+    n_imgs = 0
+    for page_url, imgs in entries:
+        if not imgs:
+            continue
+        lines.append(f"  <url>\n    <loc>{_xml_escape(page_url)}</loc>")
+        for img_url, title, caption in imgs:
+            lines.append("    <image:image>")
+            lines.append(f"      <image:loc>{_xml_escape(img_url)}</image:loc>")
+            if title:
+                lines.append(f"      <image:title>{_xml_escape(title)}</image:title>")
+            if caption:
+                lines.append(f"      <image:caption>{_xml_escape(caption)}</image:caption>")
+            lines.append("    </image:image>")
+            n_imgs += 1
+        lines.append("  </url>")
+    lines.append("</urlset>")
+    Path(path).write_text("\n".join(lines), encoding="utf-8")
+    return n_imgs
+
 def generate_reddit_feed(hierarchy, sub_groups):
     """Generates one Reddit post per Category_Sub with subreddit targeting."""
     print("\nGenerating Reddit feed...")
@@ -287,6 +352,7 @@ def main():
     sub_done = 0
     coll_start = _time.time()
     print(f"\nPhase 2/4: Generating {total_subs} collection pages...")
+    image_sitemap_entries = []   # [(page_url, [(img_url, title, caption), ...]), ...]
     for sub_name, items in sorted(sub_groups.items()):
         sub_done += 1
         progress(f"Collection: {sub_name}", sub_done, total_subs, coll_start)
@@ -315,6 +381,8 @@ def main():
         collection_md += f"[Browse on Stockflow.media]({website_url}){{ .md-button .md-button--primary }}\n\n"
         collection_md += f"This collection contains **{len(items)} assets** available in multiple resolutions and aspect ratios.\n\n---\n\n"
 
+        page_assets = []        # for JSON-LD + image sitemap
+        page_url = f"{HELP_BASE}collections/{slug}/"
         for item in items:
             title = item.get("Title", "Untitled")
             desc = item.get("Description", "")
@@ -324,6 +392,12 @@ def main():
             file_id = (item.get("File_ID") or "").strip()
             # Per-asset purchase / click-to-buy deep link on Stockflow.media.
             purchase_url = f"{STOCKFLOW_BASE}?v={file_id}" if file_id else website_url
+            page_assets.append({
+                "title": title, "desc": desc, "preview": preview_url,
+                "thumb": (item.get("Thumbnail_URL") or "").strip(),
+                "keywords": (item.get("Keywords") or item.get("Tags") or "").strip(),
+                "file_id": file_id, "purchase_url": purchase_url,
+            })
 
             collection_md += f"## {title}\n"
             collection_md += f"**Resolution:** {res} | **Format:** {fmt}\n\n"
@@ -342,7 +416,15 @@ def main():
                 collection_md += f"{desc}\n\n"
             collection_md += f"[⬇ Download / Buy on Stockflow.media]({purchase_url}){{ .md-button .md-button--primary }}\n\n"
             collection_md += "---\n\n"
-            
+
+        # SEO: per-asset JSON-LD (Image/Video rich results) at the end of the page.
+        collection_md += build_jsonld(page_assets)
+        # Record embedded preview IMAGES (webp/jpg) for the image sitemap.
+        page_imgs = [(a["preview"], a["title"], a["desc"]) for a in page_assets
+                     if a["preview"] and not a["preview"].lower().endswith(".mp4")]
+        if page_imgs:
+            image_sitemap_entries.append((page_url, page_imgs))
+
         with open(DOCS_PATH / "collections" / f"{slug}.md", "w", encoding="utf-8") as f:
             f.write(collection_md)
             
@@ -470,6 +552,11 @@ def main():
             f.write(blog_md)
             
         blog_nav.append(f"      - {sub_name} Guide: blog/{slug}-showcase.md")
+
+    # Write the Google image sitemap (copied verbatim into the built site/).
+    sitemap_path = DOCS_PATH / "sitemap-images.xml"
+    n_imgs = write_image_sitemap(image_sitemap_entries, sitemap_path)
+    print(f"\nImage sitemap: {n_imgs} images across {len(image_sitemap_entries)} pages -> {sitemap_path.name}")
 
     # Generate Reddit feed
     print("\nPhase 3/4: Generating Reddit feed...")

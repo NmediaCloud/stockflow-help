@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://help.stockflow.media/sitemap.xml
+Sitemap: https://help.stockflow.media/sitemap-images.xml
