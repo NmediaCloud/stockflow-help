@@ -27,3 +27,7 @@ A high-magnification microscopic view of a single cell with intracellular parasi
 
 ---
 
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "VideoObject", "name": "01 Parasitic Worm", "description": "A high-magnification microscopic view of a single cell with intracellular parasite, showing distinct organelles, membranes and surrounding blood cells, illustrating host–parasite interaction at the cellular level.", "contentUrl": "https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0894_01_Micro_09_Parasite_09_ParasiteTimeline1_W_Mp4_preview.mp4", "thumbnailUrl": "https://storage.googleapis.com/stockflow-thumbnails/01_Micro/Mp4/20260314_0894_01_Micro_09_Parasite_09_ParasiteTimeline1_W_Mp4_thumbnail.webp", "url": "https://stockflow.media/?v=20260314_0894", "acquireLicensePage": "https://stockflow.media/?v=20260314_0894", "creditText": "Stockflow.media", "creator": {"@type": "Organization", "name": "Stockflow.media"}, "keywords": "high-magnification, microscopic view, single cell, intracellular parasite, host-parasite interaction, cellular level, organelles, membranes, blood cells, immune cells, leukocytes, erythrocytes, hematology, pathology, microbiology, cell biology, parasite-host, protozoa, infection, infectious disease, microscopy, science, research, biology education", "uploadDate": "2026-03-14"}]}
+</script>

@@ -27,3 +27,7 @@ Close-up view of a ciliated epithelial surface, displaying numerous hair-like ci
 
 ---
 
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "VideoObject", "name": "11 Cellular", "description": "Close-up view of a ciliated epithelial surface, displaying numerous hair-like cilia atop a columnar cell layer, with mucus-secreting cells and pink-stained cytoplasm throughout in a tissue section.", "contentUrl": "https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_1030_01_Micro_14_Cellular_07_Ciliat_S_Mp4_preview.mp4", "thumbnailUrl": "https://storage.googleapis.com/stockflow-thumbnails/01_Micro/Mp4/20260314_1030_01_Micro_14_Cellular_07_Ciliat_S_Mp4_thumbnail.webp", "url": "https://stockflow.media/?v=20260314_1030", "acquireLicensePage": "https://stockflow.media/?v=20260314_1030", "creditText": "Stockflow.media", "creator": {"@type": "Organization", "name": "Stockflow.media"}, "keywords": "ciliated epithelium, cilia, epithelial surface, columnar epithelium, mucus-secreting cells, mucous cells, goblet cells, pink cytoplasm, tissue section, histology, histology slide, microscopy, microscopic footage, cellular biology, biology stock footage, medical imagery, respiratory epithelium, mucus-producing cells, epithelial tissue, cell layer, histological section, stained tissue, pink-stained cytoplasm, tissue microscopy, tissue sample", "uploadDate": "2026-03-14"}]}
+</script>

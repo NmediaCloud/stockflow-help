@@ -27,3 +27,7 @@ A close-up microscopic view of a green parasite twisting through a blood vessel,
 
 ---
 
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "VideoObject", "name": "09 Parasite", "description": "A close-up microscopic view of a green parasite twisting through a blood vessel, surrounded by red blood cells, showing blue nuclei and a coiled morphology.", "contentUrl": "https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0906_01_Micro_09_Parasite_Trypanosoma_Brucei_Parasite_V_Mp4_preview.mp4", "thumbnailUrl": "https://storage.googleapis.com/stockflow-thumbnails/01_Micro/Mp4/20260314_0906_01_Micro_09_Parasite_Trypanosoma_Brucei_Parasite_V_Mp4_thumbnail.webp", "url": "https://stockflow.media/?v=20260314_0906", "acquireLicensePage": "https://stockflow.media/?v=20260314_0906", "creditText": "Stockflow.media", "creator": {"@type": "Organization", "name": "Stockflow.media"}, "keywords": "close-up, microscopic, green parasite, parasite, blood vessel, red blood cells, blue nuclei, coiled morphology, micrograph, cellular, biology, hematology, histology, pathology, medical, science, pathogen, infection, microscopy video, high magnification, cell morphology, circulating blood, blood flow, fluorescent, visualization", "uploadDate": "2026-03-14"}]}
+</script>

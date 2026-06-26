@@ -27,3 +27,7 @@ A high-magnification image of parasitic flatworm larvae within host tissue, show
 
 ---
 
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "VideoObject", "name": "01 Flatworm Larae", "description": "A high-magnification image of parasitic flatworm larvae within host tissue, showing elongated, pink worm-like bodies among cells and surrounding cellular structures, likely captured by electron or confocal microscopy.", "contentUrl": "https://storage.googleapis.com/stockflow-previews/01_Micro/Mp4/20260314_0877_01_Micro_09_Parasite_04_Flatworm_Larae_V_Mp4_preview.mp4", "thumbnailUrl": "https://storage.googleapis.com/stockflow-thumbnails/01_Micro/Mp4/20260314_0877_01_Micro_09_Parasite_04_Flatworm_Larae_V_Mp4_thumbnail.webp", "url": "https://stockflow.media/?v=20260314_0877", "acquireLicensePage": "https://stockflow.media/?v=20260314_0877", "creditText": "Stockflow.media", "creator": {"@type": "Organization", "name": "Stockflow.media"}, "keywords": "parasitic larvae, flatworm, flatworm larvae, helminth, parasitology, high magnification, electron microscopy, confocal microscopy, microscopy, micrograph, histology, host tissue, cellular structures, tissue sample, biology, lab imaging, worm-like bodies, pink worms, parasite, tissue invasion, intracellular, parasitic infection, microbiology, biology stock footage, scientific imaging", "uploadDate": "2026-03-14"}]}
+</script>
