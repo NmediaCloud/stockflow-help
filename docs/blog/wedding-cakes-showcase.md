@@ -19,20 +19,20 @@ This guide explores how to use the **Wedding Cakes** collection — 35 premium a
 
 ## Visual Highlights
 
-### 09 Wedding cakes 01
-![09 Wedding cakes 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/02_Catering_Menu/Jpeg/20260515_00226_09_Wedding-cakes_S_01_5760x5760_jpeg__preview.webp)
+### 37 Wedding cakes 01
+![37 Wedding cakes 01](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/08_Baking/Jpeg/20260515_00912_37_Wedding-cakes_S_01_5760x5760_jpeg__preview.webp)
 
-a variety of elegant wedding cakes displayed on a table with soft lighting
+a variety of beautifully decorated wedding cakes displayed in a bakery
 
-### 09 Wedding cakes S 01 a 00
-![09 Wedding cakes S 01 a 00](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/02_Catering_Menu/Jpeg/20260515_00227_09_Wedding-cakes_S_01_a_5760x5760_jpeg__preview.webp)
+### 37 Wedding cakes 02
+![37 Wedding cakes 02](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/08_Baking/Jpeg/20260515_00913_37_Wedding-cakes_S_02_5760x5760_jpeg__preview.webp)
 
-a variety of elegantly decorated wedding cakes on display with soft lighting
+two bakers decorating elegant wedding cakes in a bright bakery
 
-### 09 Wedding cakes S 01 b 00
-![09 Wedding cakes S 01 b 00](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/02_Catering_Menu/Jpeg/20260515_00228_09_Wedding-cakes_S_01_b_5760x5760_jpeg__preview.webp)
+### 37 Wedding cakes 03
+![37 Wedding cakes 03](https://storage.googleapis.com/stockflow-previews/03_FnB_Catering_Events/08_Baking/Jpeg/20260515_00914_37_Wedding-cakes_S_03_5760x5760_jpeg__preview.webp)
 
-a variety of elegantly decorated cakes displayed on a table at a celebration
+elegantly decorated wedding cakes with floral accents in a bakery setting
 
 ## Why Wedding Cakes Visuals Are in Demand
 

@@ -24,13 +24,13 @@ This guide explores how to use the **Buffet Service** collection — 87 premium 
 
 buffet table filled with various dishes and elegant floral arrangements
 
-### 01 Buffet service 01
-![01 Buffet service 01](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/03_Wedding-budget/Jpeg/20260515_00001_01_Buffet-service_S_01_5760x5760_jpeg__preview.webp)
-
-elegantly arranged buffet table with floral centerpieces and various dishes
-
 ### 01 Buffet service 02
 ![01 Buffet service 02](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/01_Catering_Style/Jpeg/20260515_00002_01_Buffet-service_S_02_5760x5760_jpeg__preview.webp)
+
+a beautifully arranged buffet table with various dishes and floral decorations
+
+### 01 Buffet service 03
+![01 Buffet service 03](https://storage.googleapis.com/stockflow-previews/04_Catering-Events/01_Catering_Style/Jpeg/20260515_00003_01_Buffet-service_S_03_5760x5760_jpeg__preview.webp)
 
 a beautifully arranged buffet table with various dishes and floral decorations
 
