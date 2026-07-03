@@ -88,6 +88,62 @@
 
 ---
 
+## Background — Abstract Shapes
+
+**Post to:** r/biology | r/science | r/microscopy | r/educationalgifs
+
+**Reddit Title:**
+> Abstract Shapes – Premium Stock Background Visuals | 577 assets in 4K/8K
+
+**Reddit Post:**
+> I just published a new **Abstract Shapes** collection in the Background stock library at Stockflow.media.
+>
+> This pack includes 577 assets covering:
+>
+> • Circular Concentric Rings
+> • Circular Digital Sonic
+> • Circular Light Circles
+> • Circular Mandala Pattern
+> • Circular Water Ripple
+> • ...and 15 more
+>
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
+>
+> 🌐 Browse: https://stockflow.media/?cat=Background&sub=Abstract+Shapes
+> 📖 Details & previews: https://help.stockflow.media/subcategories/abstract-shapes/
+>
+> All assets are royalty-free. No attribution required.
+
+---
+
+## Background — Abstract Tech
+
+**Post to:** r/biology | r/science | r/microscopy | r/educationalgifs
+
+**Reddit Title:**
+> Abstract Tech – Premium Stock Background Visuals | 495 assets in 4K/8K
+
+**Reddit Post:**
+> I just published a new **Abstract Tech** collection in the Background stock library at Stockflow.media.
+>
+> This pack includes 495 assets covering:
+>
+> • Binary Blurred Numbers
+> • Binary Cloud Data
+> • Binary Data Flow
+> • Binary Matrix Backdrop
+> • Binary Stream Code
+> • ...and 15 more
+>
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
+>
+> 🌐 Browse: https://stockflow.media/?cat=Background&sub=Abstract+Tech
+> 📖 Details & previews: https://help.stockflow.media/subcategories/abstract-tech/
+>
+> All assets are royalty-free. No attribution required.
+
+---
+
 ## Catering Events — Catering Menu
 
 **Post to:** r/biology | r/science | r/microscopy | r/educationalgifs
@@ -1321,6 +1377,34 @@
 >
 > 🌐 Browse: https://stockflow.media/?cat=Microscopic&sub=Worms
 > 📖 Details & previews: https://help.stockflow.media/subcategories/worms/
+>
+> All assets are royalty-free. No attribution required.
+
+---
+
+## Retail Items — Apparel Fashion 1
+
+**Post to:** r/biology | r/science | r/microscopy | r/educationalgifs
+
+**Reddit Title:**
+> Apparel Fashion 1 – Premium Stock Retail Items Visuals | 1457 assets in 4K/8K
+
+**Reddit Post:**
+> I just published a new **Apparel Fashion 1** collection in the Retail Items stock library at Stockflow.media.
+>
+> This pack includes 1457 assets covering:
+>
+> • Activewear Sportswear
+> • Belts
+> • Boots
+> • Caps Hats
+> • Casual Dresses
+> • ...and 14 more
+>
+> Available as 4K/8K video (MP4) and high-res images (JPEG), in 16:9, 9:16, and 1:1 formats.
+>
+> 🌐 Browse: https://stockflow.media/?cat=Retail+Items&sub=Apparel+Fashion+1
+> 📖 Details & previews: https://help.stockflow.media/subcategories/apparel-fashion-1/
 >
 > All assets are royalty-free. No attribution required.
 

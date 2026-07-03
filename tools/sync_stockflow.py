@@ -33,6 +33,11 @@ def progress(label, current, total, start_time=None):
 SHEET_URL = "https://docs.google.com/spreadsheets/d/12eyXAI9-hT0TFSx2HhVDUWHXo4X9QVT-vSPmGQBx6c8/export?format=csv&gid=65282458"
 STOCKFLOW_BASE = "https://stockflow.media/"
 HELP_BASE = "https://help.stockflow.media/"
+# Google image-license structured data: license = page describing the terms,
+# copyrightNotice = who holds the rights (kept identical to the IPTC embedded
+# by metadata_runner.py so page markup and file metadata agree).
+LICENSE_URL = HELP_BASE + "license/"
+COPYRIGHT_NOTICE = "© NMedia Services & Stockflow.media — All rights reserved."
 
 SCRIPT_DIR = Path(__file__).parent.resolve()
 DOCS_PATH = (SCRIPT_DIR / "../docs").resolve()
@@ -74,6 +79,8 @@ def build_jsonld(page_assets):
             "thumbnailUrl": a["thumb"] or a["preview"],
             "url": a["purchase_url"],
             "acquireLicensePage": a["purchase_url"],
+            "license": LICENSE_URL,
+            "copyrightNotice": COPYRIGHT_NOTICE,
             "creditText": "Stockflow.media",
             "creator": {"@type": "Organization", "name": "Stockflow.media"},
         }

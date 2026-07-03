@@ -14,6 +14,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Mission: mission.md
+  - License: license.md
   - Categories:
       - Background:
           - Background Overview: categories/background.md
@@ -84,6 +85,50 @@ nav:
               - Water Rain Drops: collections/water-rain-drops.md
               - Water Ripple Reflections: collections/water-ripple-reflections.md
               - Water Tropical Shore: collections/water-tropical-shore.md
+          - Abstract Shapes:
+              - Abstract Shapes Overview: subcategories/abstract-shapes.md
+              - Circular Concentric Rings: collections/circular-concentric-rings.md
+              - Circular Digital Sonic: collections/circular-digital-sonic.md
+              - Circular Light Circles: collections/circular-light-circles.md
+              - Circular Mandala Pattern: collections/circular-mandala-pattern.md
+              - Circular Water Ripple: collections/circular-water-ripple.md
+              - Fractal Crystal Patterns: collections/fractal-crystal-patterns.md
+              - Fractal Fire Ice: collections/fractal-fire-ice.md
+              - Fractal Futuristic Mesh: collections/fractal-futuristic-mesh.md
+              - Fractal Organic Design: collections/fractal-organic-design.md
+              - Fractal Swirling Fractals: collections/fractal-swirling-fractals.md
+              - Geometric Blue Grid: collections/geometric-blue-grid.md
+              - Geometric Honeycomb Pattern: collections/geometric-honeycomb-pattern.md
+              - Geometric Line Mesh: collections/geometric-line-mesh.md
+              - Geometric Square Tiles: collections/geometric-square-tiles.md
+              - Geometric Triangle Grid: collections/geometric-triangle-grid.md
+              - Minimal Diagonal Strokes: collections/minimal-diagonal-strokes.md
+              - Minimal Dotted Pattern: collections/minimal-dotted-pattern.md
+              - Minimal Parallel Lines: collections/minimal-parallel-lines.md
+              - Minimal Wavy Lines: collections/minimal-wavy-lines.md
+              - Minimal Zigzag Lines: collections/minimal-zigzag-lines.md
+          - Abstract Tech:
+              - Abstract Tech Overview: subcategories/abstract-tech.md
+              - Binary Blurred Numbers: collections/binary-blurred-numbers.md
+              - Binary Cloud Data: collections/binary-cloud-data.md
+              - Binary Data Flow: collections/binary-data-flow.md
+              - Binary Matrix Backdrop: collections/binary-matrix-backdrop.md
+              - Binary Stream Code: collections/binary-stream-code.md
+              - Circuit Abstract Diagram: collections/circuit-abstract-diagram.md
+              - Circuit Digital Lines: collections/circuit-digital-lines.md
+              - Circuit Futuristic Mesh: collections/circuit-futuristic-mesh.md
+              - Circuit Microchip Patterns: collections/circuit-microchip-patterns.md
+              - Circuit Motherboard Traces: collections/circuit-motherboard-traces.md
+              - Fiber Glowing Lines: collections/fiber-glowing-lines.md
+              - Fiber Light Trails: collections/fiber-light-trails.md
+              - Fiber Optical Bundle: collections/fiber-optical-bundle.md
+              - Fiber Telecom Network: collections/fiber-telecom-network.md
+              - Fiber Thin Lines: collections/fiber-thin-lines.md
+              - Holographic 3D Grid: collections/holographic-3d-grid.md
+              - Holographic Light Ripples: collections/holographic-light-ripples.md
+              - Holographic Lines Shapes: collections/holographic-lines-shapes.md
+              - Holographic Pastel Mesh: collections/holographic-pastel-mesh.md
+              - Holographic Prism Waves: collections/holographic-prism-waves.md
       - Catering Events:
           - Catering Events Overview: categories/catering-events.md
           - Catering Menu:
@@ -749,6 +794,29 @@ nav:
               - Protozoa: collections/protozoa.md
               - Turbellarians: collections/turbellarians.md
               - Worm Crawls: collections/worm-crawls.md
+      - Retail Items:
+          - Retail Items Overview: categories/retail-items.md
+          - Apparel Fashion 1:
+              - Apparel Fashion 1 Overview: subcategories/apparel-fashion-1.md
+              - Activewear Sportswear: collections/activewear-sportswear.md
+              - Belts: collections/belts.md
+              - Boots: collections/boots.md
+              - Caps Hats: collections/caps-hats.md
+              - Casual Dresses: collections/casual-dresses.md
+              - Casual Shoes: collections/casual-shoes.md
+              - Ethnic Wear: collections/ethnic-wear.md
+              - Evening Gowns: collections/evening-gowns.md
+              - Formal Shoes: collections/formal-shoes.md
+              - Gloves Mittens: collections/gloves-mittens.md
+              - Party Wear: collections/party-wear.md
+              - Sandals Slippers: collections/sandals-slippers.md
+              - Scarves Shawls: collections/scarves-shawls.md
+              - Shorts: collections/shorts.md
+              - Skirts: collections/skirts.md
+              - Socks Hosiery: collections/socks-hosiery.md
+              - Sports Footwear: collections/sports-footwear.md
+              - Trousers Pants: collections/trousers-pants.md
+              - Wedding Dresses: collections/wedding-dresses.md
   - Guides:
       - Video:
           - Using MP4 Video Footage: guides/video-mp4.md
@@ -770,6 +838,7 @@ nav:
       - Social Media Science Content: blog/social-media-science-content.md
       - Video Podcast Backgrounds: blog/podcast-science-backgrounds.md
       - Research & Conference Visuals: blog/research-presentation-visuals.md
+      - Activewear Sportswear Guide: blog/activewear-sportswear-showcase.md
       - Agar Plate Guide: blog/agar-plate-showcase.md
       - Aggressive Guide: blog/aggressive-showcase.md
       - Algae Guide: blog/algae-showcase.md
@@ -799,10 +868,16 @@ nav:
       - Bbq Picnic Guide: blog/bbq-picnic-showcase.md
       - Beer In Glass Guide: blog/beer-in-glass-showcase.md
       - Beer On Tap Guide: blog/beer-on-tap-showcase.md
+      - Belts Guide: blog/belts-showcase.md
       - Beverages Fusion Cocktails Guide: blog/beverages-fusion-cocktails-showcase.md
       - Beverages Margaritas Twists Guide: blog/beverages-margaritas-twists-showcase.md
       - Beverages Teas Guide: blog/beverages-teas-showcase.md
       - Beverages Wine Sake Guide: blog/beverages-wine-sake-showcase.md
+      - Binary Blurred Numbers Guide: blog/binary-blurred-numbers-showcase.md
+      - Binary Cloud Data Guide: blog/binary-cloud-data-showcase.md
+      - Binary Data Flow Guide: blog/binary-data-flow-showcase.md
+      - Binary Matrix Backdrop Guide: blog/binary-matrix-backdrop-showcase.md
+      - Binary Stream Code Guide: blog/binary-stream-code-showcase.md
       - Biofilm Guide: blog/biofilm-showcase.md
       - Bioluminescent Guide: blog/bioluminescent-showcase.md
       - Biriyani Guide: blog/biriyani-showcase.md
@@ -818,6 +893,7 @@ nav:
       - Bokeh Festive Lights Guide: blog/bokeh-festive-lights-showcase.md
       - Bokeh Gold Dots Guide: blog/bokeh-gold-dots-showcase.md
       - Bokeh Silver White Guide: blog/bokeh-silver-white-showcase.md
+      - Boots Guide: blog/boots-showcase.md
       - Brain Tissue Guide: blog/brain-tissue-showcase.md
       - Breast Guide: blog/breast-showcase.md
       - Breast Cancer Guide: blog/breast-cancer-showcase.md
@@ -847,7 +923,10 @@ nav:
       - Canapes Bruschetta Guide: blog/canapes-bruschetta-showcase.md
       - Canapes Bruschetta Starters Guide: blog/canapes-bruschetta-starters-showcase.md
       - Cancer Cell Guide: blog/cancer-cell-showcase.md
+      - Caps Hats Guide: blog/caps-hats-showcase.md
       - Casual Dining Guide: blog/casual-dining-showcase.md
+      - Casual Dresses Guide: blog/casual-dresses-showcase.md
+      - Casual Shoes Guide: blog/casual-shoes-showcase.md
       - Celebration Cakes Guide: blog/celebration-cakes-showcase.md
       - Cellular Guide: blog/cellular-showcase.md
       - Cervical Cells Guide: blog/cervical-cells-showcase.md
@@ -863,6 +942,16 @@ nav:
       - Ciliat Guide: blog/ciliat-showcase.md
       - Ciliated Guide: blog/ciliated-showcase.md
       - Cinnamon Rolls Guide: blog/cinnamon-rolls-showcase.md
+      - Circuit Abstract Diagram Guide: blog/circuit-abstract-diagram-showcase.md
+      - Circuit Digital Lines Guide: blog/circuit-digital-lines-showcase.md
+      - Circuit Futuristic Mesh Guide: blog/circuit-futuristic-mesh-showcase.md
+      - Circuit Microchip Patterns Guide: blog/circuit-microchip-patterns-showcase.md
+      - Circuit Motherboard Traces Guide: blog/circuit-motherboard-traces-showcase.md
+      - Circular Concentric Rings Guide: blog/circular-concentric-rings-showcase.md
+      - Circular Digital Sonic Guide: blog/circular-digital-sonic-showcase.md
+      - Circular Light Circles Guide: blog/circular-light-circles-showcase.md
+      - Circular Mandala Pattern Guide: blog/circular-mandala-pattern-showcase.md
+      - Circular Water Ripple Guide: blog/circular-water-ripple-showcase.md
       - Classic Margarita Guide: blog/classic-margarita-showcase.md
       - Close Up Guide: blog/close-up-showcase.md
       - Cloud Cirrus Streaks Guide: blog/cloud-cirrus-streaks-showcase.md
@@ -938,11 +1027,13 @@ nav:
       - E. Coli Guide: blog/e-coli-showcase.md
       - Eclairs Guide: blog/eclairs-showcase.md
       - Eczema Guide: blog/eczema-showcase.md
+      - Ethnic Wear Guide: blog/ethnic-wear-showcase.md
       - Euglena Guide: blog/euglena-showcase.md
       - Euglena And Green Algae Guide: blog/euglena-and-green-algae-showcase.md
       - Euglena Cell Guide: blog/euglena-cell-showcase.md
       - Eukaryotic Cell Guide: blog/eukaryotic-cell-showcase.md
       - Eukaryotic Cell Under Guide: blog/eukaryotic-cell-under-showcase.md
+      - Evening Gowns Guide: blog/evening-gowns-showcase.md
       - Event Setup Style Guide: blog/event-setup-style-showcase.md
       - Events Wedding Fusion Guide: blog/events-wedding-fusion-showcase.md
       - Extreme Close Guide: blog/extreme-close-showcase.md
@@ -955,6 +1046,11 @@ nav:
       - Fast Casual Guide: blog/fast-casual-showcase.md
       - Fast Food Guide: blog/fast-food-showcase.md
       - Festival Guide: blog/festival-showcase.md
+      - Fiber Glowing Lines Guide: blog/fiber-glowing-lines-showcase.md
+      - Fiber Light Trails Guide: blog/fiber-light-trails-showcase.md
+      - Fiber Optical Bundle Guide: blog/fiber-optical-bundle-showcase.md
+      - Fiber Telecom Network Guide: blog/fiber-telecom-network-showcase.md
+      - Fiber Thin Lines Guide: blog/fiber-thin-lines-showcase.md
       - Filaments Guide: blog/filaments-showcase.md
       - Fine Dining Guide: blog/fine-dining-showcase.md
       - Fish Dinner Guide: blog/fish-dinner-showcase.md
@@ -965,6 +1061,12 @@ nav:
       - Food Fungi Guide: blog/food-fungi-showcase.md
       - Food Trucks Guide: blog/food-trucks-showcase.md
       - Formal Plated Service Guide: blog/formal-plated-service-showcase.md
+      - Formal Shoes Guide: blog/formal-shoes-showcase.md
+      - Fractal Crystal Patterns Guide: blog/fractal-crystal-patterns-showcase.md
+      - Fractal Fire Ice Guide: blog/fractal-fire-ice-showcase.md
+      - Fractal Futuristic Mesh Guide: blog/fractal-futuristic-mesh-showcase.md
+      - Fractal Organic Design Guide: blog/fractal-organic-design-showcase.md
+      - Fractal Swirling Fractals Guide: blog/fractal-swirling-fractals-showcase.md
       - French Guide: blog/french-showcase.md
       - French Pastries Guide: blog/french-pastries-showcase.md
       - Frozen Margarita Guide: blog/frozen-margarita-showcase.md
@@ -979,9 +1081,15 @@ nav:
       - Fusion Cuisine Guide: blog/fusion-cuisine-showcase.md
       - Fusion Themed Mains Guide: blog/fusion-themed-mains-showcase.md
       - Garden Guide: blog/garden-showcase.md
+      - Geometric Blue Grid Guide: blog/geometric-blue-grid-showcase.md
+      - Geometric Honeycomb Pattern Guide: blog/geometric-honeycomb-pattern-showcase.md
+      - Geometric Line Mesh Guide: blog/geometric-line-mesh-showcase.md
+      - Geometric Square Tiles Guide: blog/geometric-square-tiles-showcase.md
+      - Geometric Triangle Grid Guide: blog/geometric-triangle-grid-showcase.md
       - Giardia Lamblia Guide: blog/giardia-lamblia-showcase.md
       - Gin N Tonic Guide: blog/gin-n-tonic-showcase.md
       - Glioblastoma Guide: blog/glioblastoma-showcase.md
+      - Gloves Mittens Guide: blog/gloves-mittens-showcase.md
       - Gluten Free Desserts Guide: blog/gluten-free-desserts-showcase.md
       - Grass Mesh Structure Guide: blog/grass-mesh-structure-showcase.md
       - Green Guide: blog/green-showcase.md
@@ -992,6 +1100,11 @@ nav:
       - Helix Guide: blog/helix-showcase.md
       - Hematology Guide: blog/hematology-showcase.md
       - Hepatitis Guide: blog/hepatitis-showcase.md
+      - Holographic 3D Grid Guide: blog/holographic-3d-grid-showcase.md
+      - Holographic Light Ripples Guide: blog/holographic-light-ripples-showcase.md
+      - Holographic Lines Shapes Guide: blog/holographic-lines-shapes-showcase.md
+      - Holographic Pastel Mesh Guide: blog/holographic-pastel-mesh-showcase.md
+      - Holographic Prism Waves Guide: blog/holographic-prism-waves-showcase.md
       - Hurricane Guide: blog/hurricane-showcase.md
       - Hyphae Guide: blog/hyphae-showcase.md
       - Ice Cream Guide: blog/ice-cream-showcase.md
@@ -1106,6 +1219,11 @@ nav:
       - Milk Shake Strawberry Guide: blog/milk-shake-strawberry-showcase.md
       - Milk Shake Vanilla Guide: blog/milk-shake-vanilla-showcase.md
       - Mini Sandwiches Guide: blog/mini-sandwiches-showcase.md
+      - Minimal Diagonal Strokes Guide: blog/minimal-diagonal-strokes-showcase.md
+      - Minimal Dotted Pattern Guide: blog/minimal-dotted-pattern-showcase.md
+      - Minimal Parallel Lines Guide: blog/minimal-parallel-lines-showcase.md
+      - Minimal Wavy Lines Guide: blog/minimal-wavy-lines-showcase.md
+      - Minimal Zigzag Lines Guide: blog/minimal-zigzag-lines-showcase.md
       - Mint Julep Guide: blog/mint-julep-showcase.md
       - Mitochondria Guide: blog/mitochondria-showcase.md
       - Mocktail Non Alcoholic Guide: blog/mocktail-non-alcoholic-showcase.md
@@ -1150,6 +1268,7 @@ nav:
       - Parasitic Worm Guide: blog/parasitic-worm-showcase.md
       - Parasitic Worms Guide: blog/parasitic-worms-showcase.md
       - Parkinson Guide: blog/parkinson-showcase.md
+      - Party Wear Guide: blog/party-wear-showcase.md
       - Pasta Noodle Dish Guide: blog/pasta-noodle-dish-showcase.md
       - Pasta Selection Guide: blog/pasta-selection-showcase.md
       - Pasta Station Buffet Guide: blog/pasta-station-buffet-showcase.md
@@ -1206,7 +1325,9 @@ nav:
       - Sand Sand Textures Guide: blog/sand-sand-textures-showcase.md
       - Sand Wavy Patterns Guide: blog/sand-wavy-patterns-showcase.md
       - Sand Wind Lines Guide: blog/sand-wind-lines-showcase.md
+      - Sandals Slippers Guide: blog/sandals-slippers-showcase.md
       - Sandwich Guide: blog/sandwich-showcase.md
+      - Scarves Shawls Guide: blog/scarves-shawls-showcase.md
       - Schistosoma Guide: blog/schistosoma-showcase.md
       - Screwdriver Guide: blog/screwdriver-showcase.md
       - Seafood Guide: blog/seafood-showcase.md
@@ -1222,11 +1343,13 @@ nav:
       - Service Sharing Style Guide: blog/service-sharing-style-showcase.md
       - Sex On The Beach Guide: blog/sex-on-the-beach-showcase.md
       - Shake Protein Guide: blog/shake-protein-showcase.md
+      - Shorts Guide: blog/shorts-showcase.md
       - Sickle Cell Guide: blog/sickle-cell-showcase.md
       - Signature Cocktails Guide: blog/signature-cocktails-showcase.md
       - Single Celled Guide: blog/single-celled-showcase.md
       - Single Celled Organisms Guide: blog/single-celled-organisms-showcase.md
       - Single-celled Guide: blog/single-celled-showcase.md
+      - Skirts Guide: blog/skirts-showcase.md
       - Slushies Guide: blog/slushies-showcase.md
       - Slushy Blue Raspberry Guide: blog/slushy-blue-raspberry-showcase.md
       - Slushy Cherry Guide: blog/slushy-cherry-showcase.md
@@ -1241,6 +1364,7 @@ nav:
       - Smoothies Protein Guide: blog/smoothies-protein-showcase.md
       - Smoothies Specialty Guide: blog/smoothies-specialty-showcase.md
       - Smoothies Tropical Guide: blog/smoothies-tropical-showcase.md
+      - Socks Hosiery Guide: blog/socks-hosiery-showcase.md
       - Soda Floats Coke Guide: blog/soda-floats-coke-showcase.md
       - Soda Floats Cream Guide: blog/soda-floats-cream-showcase.md
       - Soda Floats Root Beer Guide: blog/soda-floats-root-beer-showcase.md
@@ -1262,6 +1386,7 @@ nav:
       - Sponge Cakes Guide: blog/sponge-cakes-showcase.md
       - Sporangia Guide: blog/sporangia-showcase.md
       - Sports Event Guide: blog/sports-event-showcase.md
+      - Sports Footwear Guide: blog/sports-footwear-showcase.md
       - Spring Rolls Guide: blog/spring-rolls-showcase.md
       - Squamous Guide: blog/squamous-showcase.md
       - Stake Guide: blog/stake-showcase.md
@@ -1312,6 +1437,7 @@ nav:
       - Toxoplasma Gondii Guide: blog/toxoplasma-gondii-showcase.md
       - Traditional Buffet Guide: blog/traditional-buffet-showcase.md
       - Traditional Sweets Guide: blog/traditional-sweets-showcase.md
+      - Trousers Pants Guide: blog/trousers-pants-showcase.md
       - Trypanosoma Guide: blog/trypanosoma-showcase.md
       - Trypanosoma Brucei Guide: blog/trypanosoma-brucei-showcase.md
       - Tuberculosis Guide: blog/tuberculosis-showcase.md
@@ -1340,6 +1466,7 @@ nav:
       - Waterborne Guide: blog/waterborne-showcase.md
       - Wedding Cake Guide: blog/wedding-cake-showcase.md
       - Wedding Cakes Guide: blog/wedding-cakes-showcase.md
+      - Wedding Dresses Guide: blog/wedding-dresses-showcase.md
       - Wedding Italian Overview Guide: blog/wedding-italian-overview-showcase.md
       - Wedding Kosher Overview Guide: blog/wedding-kosher-overview-showcase.md
       - Wedding Party Guide: blog/wedding-party-showcase.md
