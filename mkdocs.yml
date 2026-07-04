@@ -14,6 +14,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Mission: mission.md
+  - Features: features.md
+  - Browsing & Buying: browsing-and-buying.md
   - License: license.md
   - Categories:
       - Background:
